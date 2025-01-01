@@ -10970,3 +10970,4 @@
 2025-03-29 15:17:00 +0700 - docs(ui): update feature #296
 2025-03-31 12:10:00 +0700 - docs(config): remove feature #231
 2025-03-31 13:11:00 +0700 - fix(core): remove feature #231
+2025-01-01 9:22:00 +0700 - perf(api): handle feature #216
