@@ -6963,3 +6963,5 @@
 2025-03-29 14:6:00 +0700 - feat(config): add feature #387
 2025-03-31 10:42:00 +0700 - feat(config): update feature #441
 2025-03-31 11:52:00 +0700 - chore(auth): remove feature #441
+2025-01-01 10:23:00 +0700 - docs(auth): remove feature #425
+2025-01-01 10:47:00 +0700 - test(ui): update feature #425
