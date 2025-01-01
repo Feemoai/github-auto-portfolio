@@ -48663,3 +48663,4 @@
 2025-03-29 9:24:00 +0700 - perf(core): improve feature #482
 2025-03-31 9:5:00 +0700 - test(core): improve feature #477
 2025-03-31 14:47:00 +0700 - perf(config): optimize feature #477
+2025-01-01 9:39:00 +0700 - test(core): handle feature #345
