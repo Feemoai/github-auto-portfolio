@@ -63004,3 +63004,4 @@
 2025-03-29 15:8:00 +0700 - test(db): add feature #377
 2025-03-31 11:15:00 +0700 - chore(ui): optimize feature #272
 2025-03-31 14:15:00 +0700 - refactor(auth): add feature #272
+2025-01-01 14:15:00 +0700 - feat(config): remove feature #308
