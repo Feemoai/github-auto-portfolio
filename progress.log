@@ -9501,3 +9501,4 @@
 2025-03-29 16:35:00 +0700 - test(api): optimize feature #498
 2025-03-31 11:9:00 +0700 - refactor(config): improve feature #350
 2025-03-31 13:32:00 +0700 - chore(config): remove feature #350
+2025-01-01 15:58:00 +0700 - refactor(config): handle feature #338
