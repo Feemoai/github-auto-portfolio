@@ -28509,3 +28509,4 @@
 2025-03-29 15:19:00 +0700 - chore(ui): add feature #100
 2025-03-29 14:10:00 +0700 - perf(config): handle feature #100
 2025-03-31 11:58:00 +0700 - perf(auth): handle feature #144
+2025-01-01 14:57:00 +0700 - feat(auth): optimize feature #274
