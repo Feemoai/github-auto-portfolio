@@ -23836,3 +23836,4 @@
 2025-03-29 9:39:00 +0700 - test(ui): improve feature #490
 2025-03-31 10:51:00 +0700 - fix(ui): improve feature #475
 2025-03-31 14:6:00 +0700 - docs(db): handle feature #475
+2025-01-01 15:45:00 +0700 - fix(auth): remove feature #294
