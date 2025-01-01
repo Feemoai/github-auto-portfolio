@@ -35262,3 +35262,4 @@
 2025-03-29 11:7:00 +0700 - perf(config): remove feature #137
 2025-03-31 14:29:00 +0700 - fix(db): add feature #254
 2025-03-31 11:7:00 +0700 - test(ui): improve feature #254
+2025-01-01 12:0:00 +0700 - chore(config): handle feature #407
