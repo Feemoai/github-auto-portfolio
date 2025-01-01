@@ -57780,3 +57780,5 @@
 2025-03-29 13:4:00 +0700 - chore(config): update feature #466
 2025-03-31 11:45:00 +0700 - feat(auth): add feature #396
 2025-03-31 10:43:00 +0700 - feat(auth): add feature #396
+2025-01-01 10:17:00 +0700 - fix(auth): improve feature #462
+2025-01-01 10:38:00 +0700 - test(core): handle feature #462
