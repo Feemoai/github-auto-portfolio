@@ -19538,3 +19538,5 @@
 2025-03-29 11:25:00 +0700 - feat(ui): add feature #485
 2025-03-31 10:12:00 +0700 - feat(config): handle feature #275
 2025-03-31 13:49:00 +0700 - chore(ui): add feature #275
+2025-01-01 9:3:00 +0700 - refactor(config): handle feature #127
+2025-01-01 16:45:00 +0700 - perf(ui): improve feature #127
