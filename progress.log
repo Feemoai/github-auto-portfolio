@@ -40429,3 +40429,4 @@
 2025-03-29 13:34:00 +0700 - perf(core): add feature #303
 2025-03-31 9:6:00 +0700 - perf(ui): handle feature #416
 2025-03-31 13:43:00 +0700 - perf(auth): add feature #416
+2025-01-01 15:4:00 +0700 - fix(config): add feature #122
