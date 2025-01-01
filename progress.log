@@ -13484,3 +13484,5 @@
 2025-03-29 15:40:00 +0700 - docs(db): add feature #103
 2025-03-31 13:33:00 +0700 - docs(config): add feature #406
 2025-03-31 11:4:00 +0700 - test(ui): update feature #406
+2025-01-01 12:42:00 +0700 - refactor(ui): improve feature #383
+2025-01-01 10:33:00 +0700 - perf(ui): optimize feature #383
