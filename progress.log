@@ -18709,3 +18709,4 @@
 2025-03-29 15:57:00 +0700 - feat(db): update feature #142
 2025-03-31 10:47:00 +0700 - test(core): update feature #364
 2025-03-31 10:49:00 +0700 - refactor(auth): handle feature #364
+2025-01-01 15:39:00 +0700 - fix(core): remove feature #222
