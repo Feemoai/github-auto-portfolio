@@ -41729,3 +41729,4 @@
 2025-03-31 14:5:00 +0700 - chore(core): add feature #269
 2025-03-31 13:28:00 +0700 - test(api): handle feature #269
 2025-01-01 9:40:00 +0700 - fix(auth): improve feature #241
+2025-01-01 10:17:00 +0700 - docs(config): optimize feature #241
