@@ -615,3 +615,4 @@
 2025-03-29 9:48:00 +0700 - feat(auth): improve feature #165
 2025-03-31 12:14:00 +0700 - fix(core): handle feature #284
 2025-03-31 10:19:00 +0700 - perf(auth): update feature #284
+2025-01-01 15:43:00 +0700 - chore(core): optimize feature #228
