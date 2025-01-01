@@ -6032,3 +6032,4 @@
 2025-03-29 13:56:00 +0700 - fix(config): remove feature #449
 2025-03-31 13:3:00 +0700 - test(core): optimize feature #373
 2025-03-31 16:33:00 +0700 - fix(ui): optimize feature #373
+2025-01-01 12:54:00 +0700 - test(auth): handle feature #139
