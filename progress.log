@@ -2132,3 +2132,4 @@
 2025-03-31 12:46:00 +0700 - fix(core): remove feature #463
 2025-03-31 11:27:00 +0700 - chore(db): handle feature #463
 2025-01-01 14:11:00 +0700 - feat(core): optimize feature #308
+2025-01-01 10:12:00 +0700 - feat(auth): remove feature #308
