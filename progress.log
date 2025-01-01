@@ -53672,3 +53672,5 @@
 2025-03-29 10:54:00 +0700 - test(config): improve feature #177
 2025-03-31 15:8:00 +0700 - perf(db): remove feature #140
 2025-03-31 16:14:00 +0700 - refactor(ui): add feature #140
+2025-01-01 13:1:00 +0700 - refactor(api): optimize feature #130
+2025-01-01 15:44:00 +0700 - refactor(config): remove feature #130
