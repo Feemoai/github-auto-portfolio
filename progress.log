@@ -66124,3 +66124,4 @@
 2025-03-28 11:11:00 +0700 - test(api): add feature #263
 2025-03-29 11:12:00 +0700 - perf(config): add feature #293
 2025-03-31 9:6:00 +0700 - chore(config): remove feature #289
+2025-01-01 16:24:00 +0700 - fix(core): remove feature #236
