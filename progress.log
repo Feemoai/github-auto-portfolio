@@ -15446,3 +15446,4 @@
 2025-03-29 13:54:00 +0700 - test(auth): remove feature #274
 2025-03-31 9:12:00 +0700 - fix(core): remove feature #348
 2025-01-01 16:1:00 +0700 - perf(core): handle feature #436
+2025-01-01 15:8:00 +0700 - fix(core): improve feature #436
