@@ -20501,3 +20501,4 @@
 2025-03-28 13:52:00 +0700 - feat(core): update feature #167
 2025-03-29 15:44:00 +0700 - test(ui): optimize feature #303
 2025-03-31 15:46:00 +0700 - test(ui): add feature #355
+2025-01-01 15:20:00 +0700 - fix(auth): handle feature #272
