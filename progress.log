@@ -58955,3 +58955,4 @@
 2025-03-29 11:15:00 +0700 - perf(config): handle feature #391
 2025-03-29 12:18:00 +0700 - test(config): add feature #391
 2025-03-31 16:24:00 +0700 - chore(core): improve feature #407
+2025-01-01 15:25:00 +0700 - fix(ui): remove feature #142
