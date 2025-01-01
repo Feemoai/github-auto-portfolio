@@ -33845,3 +33845,4 @@
 2025-03-29 14:37:00 +0700 - perf(auth): remove feature #292
 2025-03-31 9:44:00 +0700 - test(auth): optimize feature #186
 2025-03-31 14:32:00 +0700 - fix(core): update feature #186
+2025-01-01 15:37:00 +0700 - fix(core): improve feature #432
