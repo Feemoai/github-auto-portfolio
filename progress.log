@@ -53905,3 +53905,4 @@
 2025-03-28 15:33:00 +0700 - feat(config): add feature #331
 2025-03-29 16:49:00 +0700 - chore(config): remove feature #489
 2025-03-31 11:21:00 +0700 - feat(db): remove feature #184
+2025-01-01 9:21:00 +0700 - docs(core): handle feature #427
