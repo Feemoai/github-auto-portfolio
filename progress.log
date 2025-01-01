@@ -9614,3 +9614,4 @@
 2025-03-29 16:23:00 +0700 - perf(db): handle feature #121
 2025-03-29 14:27:00 +0700 - test(ui): remove feature #121
 2025-03-31 9:36:00 +0700 - docs(api): remove feature #241
+2025-01-01 11:24:00 +0700 - refactor(db): optimize feature #272
