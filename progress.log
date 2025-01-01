@@ -50722,3 +50722,5 @@
 2025-03-28 11:25:00 +0700 - refactor(api): handle feature #422
 2025-03-29 12:15:00 +0700 - feat(db): update feature #306
 2025-03-31 15:58:00 +0700 - chore(api): remove feature #225
+2025-01-01 11:28:00 +0700 - fix(core): handle feature #375
+2025-01-01 14:36:00 +0700 - refactor(config): update feature #375
