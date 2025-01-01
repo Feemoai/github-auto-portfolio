@@ -11778,3 +11778,4 @@
 2025-03-29 14:0:00 +0700 - fix(core): remove feature #176
 2025-03-31 9:23:00 +0700 - test(config): update feature #217
 2025-01-01 10:2:00 +0700 - test(api): update feature #286
+2025-01-01 10:46:00 +0700 - fix(config): improve feature #286
