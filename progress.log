@@ -34315,3 +34315,5 @@
 2025-03-31 16:30:00 +0700 - feat(ui): optimize feature #275
 2025-01-01 9:2:00 +0700 - docs(config): handle feature #353
 2025-01-01 15:48:00 +0700 - feat(core): update feature #353
+2025-01-02 13:0:00 +0700 - fix(api): update feature #307
+2025-01-02 11:16:00 +0700 - test(ui): add feature #307
