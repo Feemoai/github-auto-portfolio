@@ -52309,3 +52309,4 @@
 2025-03-31 10:40:00 +0700 - feat(ui): handle feature #475
 2025-03-31 15:23:00 +0700 - fix(auth): optimize feature #475
 2025-01-01 14:54:00 +0700 - test(config): add feature #209
+2025-01-02 15:34:00 +0700 - fix(api): handle feature #295
