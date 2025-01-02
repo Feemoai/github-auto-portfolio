@@ -59299,3 +59299,4 @@
 2025-03-31 10:43:00 +0700 - test(config): improve feature #135
 2025-03-31 14:46:00 +0700 - perf(auth): remove feature #135
 2025-01-01 16:33:00 +0700 - perf(core): add feature #301
+2025-01-02 16:4:00 +0700 - docs(config): remove feature #187
