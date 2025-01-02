@@ -33150,3 +33150,4 @@
 2025-03-31 12:36:00 +0700 - docs(ui): remove feature #457
 2025-01-01 9:46:00 +0700 - docs(db): improve feature #193
 2025-01-01 16:52:00 +0700 - fix(core): add feature #193
+2025-01-02 14:35:00 +0700 - fix(auth): remove feature #194
