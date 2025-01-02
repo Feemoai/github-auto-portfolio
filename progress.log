@@ -20142,3 +20142,4 @@
 2025-01-01 11:12:00 +0700 - chore(config): update feature #361
 2025-01-01 13:34:00 +0700 - docs(ui): update feature #361
 2025-01-02 13:42:00 +0700 - docs(db): optimize feature #401
+2025-01-02 15:27:00 +0700 - fix(core): remove feature #401
