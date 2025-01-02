@@ -26184,3 +26184,4 @@
 2025-03-31 13:45:00 +0700 - docs(db): improve feature #466
 2025-01-01 12:18:00 +0700 - chore(core): add feature #404
 2025-01-01 16:5:00 +0700 - feat(auth): handle feature #404
+2025-01-02 13:28:00 +0700 - fix(ui): handle feature #459
