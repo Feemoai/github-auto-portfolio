@@ -49483,3 +49483,4 @@
 2025-03-31 14:18:00 +0700 - docs(config): improve feature #435
 2025-01-01 12:0:00 +0700 - fix(db): optimize feature #254
 2025-01-01 11:5:00 +0700 - fix(db): improve feature #254
+2025-01-02 16:26:00 +0700 - chore(core): handle feature #491
