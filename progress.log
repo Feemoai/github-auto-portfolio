@@ -5353,3 +5353,5 @@
 2025-03-29 9:39:00 +0700 - fix(core): add feature #244
 2025-03-31 11:32:00 +0700 - docs(ui): handle feature #483
 2025-01-01 14:36:00 +0700 - feat(auth): optimize feature #394
+2025-01-02 13:12:00 +0700 - refactor(ui): handle feature #401
+2025-01-02 12:14:00 +0700 - fix(db): add feature #401
