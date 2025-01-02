@@ -6390,3 +6390,4 @@
 2025-01-01 11:5:00 +0700 - docs(core): improve feature #210
 2025-01-01 16:16:00 +0700 - feat(core): remove feature #210
 2025-01-02 11:31:00 +0700 - chore(db): remove feature #495
+2025-01-02 13:33:00 +0700 - fix(config): add feature #495
