@@ -7769,3 +7769,4 @@
 2025-03-31 15:14:00 +0700 - test(core): remove feature #372
 2025-01-01 15:10:00 +0700 - feat(db): improve feature #472
 2025-01-01 9:25:00 +0700 - fix(db): update feature #472
+2025-01-02 13:52:00 +0700 - fix(ui): handle feature #126
