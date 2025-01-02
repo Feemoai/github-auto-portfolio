@@ -22236,3 +22236,4 @@
 2025-03-31 13:0:00 +0700 - fix(db): update feature #486
 2025-01-01 9:3:00 +0700 - test(ui): optimize feature #265
 2025-01-01 14:18:00 +0700 - perf(config): handle feature #265
+2025-01-02 14:3:00 +0700 - fix(api): update feature #260
