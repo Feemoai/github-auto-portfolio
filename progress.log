@@ -61948,3 +61948,5 @@
 2025-03-31 13:16:00 +0700 - test(ui): update feature #276
 2025-01-01 15:31:00 +0700 - perf(ui): optimize feature #390
 2025-01-01 15:37:00 +0700 - docs(db): remove feature #390
+2025-01-02 13:3:00 +0700 - chore(config): handle feature #375
+2025-01-02 16:51:00 +0700 - docs(ui): add feature #375
