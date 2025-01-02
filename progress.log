@@ -60340,3 +60340,4 @@
 2025-03-29 15:45:00 +0700 - perf(auth): remove feature #332
 2025-03-31 16:1:00 +0700 - docs(core): update feature #466
 2025-01-01 13:34:00 +0700 - perf(ui): optimize feature #320
+2025-01-02 16:46:00 +0700 - fix(config): update feature #334
