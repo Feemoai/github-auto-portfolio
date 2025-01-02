@@ -8698,3 +8698,4 @@
 2025-03-31 14:58:00 +0700 - feat(db): remove feature #452
 2025-01-01 9:48:00 +0700 - test(api): remove feature #418
 2025-01-01 15:39:00 +0700 - perf(ui): remove feature #418
+2025-01-02 15:16:00 +0700 - test(ui): add feature #159
