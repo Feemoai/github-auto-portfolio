@@ -736,3 +736,4 @@
 2025-03-31 13:51:00 +0700 - feat(db): remove feature #382
 2025-01-01 9:3:00 +0700 - chore(api): handle feature #289
 2025-01-02 16:33:00 +0700 - feat(core): optimize feature #154
+2025-01-02 14:50:00 +0700 - test(config): remove feature #154
