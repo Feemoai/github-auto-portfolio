@@ -22237,3 +22237,4 @@
 2025-01-01 9:3:00 +0700 - test(ui): optimize feature #265
 2025-01-01 14:18:00 +0700 - perf(config): handle feature #265
 2025-01-02 14:3:00 +0700 - fix(api): update feature #260
+2025-01-02 15:12:00 +0700 - feat(api): remove feature #260
