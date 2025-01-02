@@ -19775,3 +19775,5 @@
 2025-03-31 14:55:00 +0700 - fix(api): add feature #381
 2025-01-01 13:27:00 +0700 - feat(auth): optimize feature #256
 2025-01-01 10:46:00 +0700 - docs(ui): update feature #256
+2025-01-02 10:34:00 +0700 - feat(ui): add feature #148
+2025-01-02 13:33:00 +0700 - chore(auth): handle feature #148
