@@ -37228,3 +37228,4 @@
 2025-03-31 11:17:00 +0700 - fix(db): remove feature #414
 2025-01-01 9:53:00 +0700 - chore(core): add feature #444
 2025-01-01 9:58:00 +0700 - test(ui): optimize feature #444
+2025-01-02 14:22:00 +0700 - test(api): optimize feature #366
