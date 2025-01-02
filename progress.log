@@ -38712,3 +38712,4 @@
 2025-03-31 12:34:00 +0700 - fix(core): remove feature #112
 2025-01-01 9:2:00 +0700 - perf(api): remove feature #320
 2025-01-02 16:23:00 +0700 - test(config): optimize feature #132
+2025-01-02 14:44:00 +0700 - feat(core): remove feature #132
