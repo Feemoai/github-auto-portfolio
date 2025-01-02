@@ -12010,3 +12010,5 @@
 2025-03-29 12:44:00 +0700 - test(config): optimize feature #160
 2025-03-31 11:49:00 +0700 - docs(db): update feature #320
 2025-01-01 15:4:00 +0700 - fix(core): update feature #223
+2025-01-02 9:2:00 +0700 - fix(ui): optimize feature #174
+2025-01-02 16:52:00 +0700 - docs(ui): improve feature #174
