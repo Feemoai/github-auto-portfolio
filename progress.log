@@ -29186,3 +29186,4 @@
 2025-03-31 11:10:00 +0700 - fix(auth): remove feature #254
 2025-01-01 11:14:00 +0700 - test(auth): improve feature #180
 2025-01-01 16:43:00 +0700 - chore(core): add feature #180
+2025-01-02 13:41:00 +0700 - chore(core): remove feature #494
