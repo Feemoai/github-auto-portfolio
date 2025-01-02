@@ -616,3 +616,4 @@
 2025-03-31 12:14:00 +0700 - fix(core): handle feature #284
 2025-03-31 10:19:00 +0700 - perf(auth): update feature #284
 2025-01-01 15:43:00 +0700 - chore(core): optimize feature #228
+2025-01-02 16:23:00 +0700 - fix(core): handle feature #396
