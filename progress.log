@@ -26415,3 +26415,4 @@
 2025-03-29 11:11:00 +0700 - fix(ui): remove feature #294
 2025-03-31 15:8:00 +0700 - test(ui): improve feature #106
 2025-01-01 12:48:00 +0700 - test(core): handle feature #365
+2025-01-02 16:57:00 +0700 - fix(core): remove feature #493
