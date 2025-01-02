@@ -9149,3 +9149,4 @@
 2025-03-31 15:13:00 +0700 - fix(db): improve feature #285
 2025-01-01 12:4:00 +0700 - chore(ui): remove feature #249
 2025-01-01 13:43:00 +0700 - perf(ui): update feature #249
+2025-01-02 13:30:00 +0700 - refactor(ui): update feature #341
