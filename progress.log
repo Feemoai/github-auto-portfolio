@@ -27245,3 +27245,4 @@
 2025-01-01 11:1:00 +0700 - docs(ui): update feature #347
 2025-01-01 14:7:00 +0700 - docs(db): add feature #347
 2025-01-02 15:22:00 +0700 - fix(ui): add feature #323
+2025-01-02 12:30:00 +0700 - perf(ui): handle feature #323
