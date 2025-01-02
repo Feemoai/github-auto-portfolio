@@ -58837,3 +58837,4 @@
 2025-03-31 15:22:00 +0700 - fix(api): update feature #145
 2025-01-01 15:15:00 +0700 - chore(db): handle feature #455
 2025-01-01 12:8:00 +0700 - fix(ui): remove feature #455
+2025-01-02 11:35:00 +0700 - fix(db): handle feature #445
