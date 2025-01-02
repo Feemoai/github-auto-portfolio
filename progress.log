@@ -14517,3 +14517,4 @@
 2025-01-01 10:2:00 +0700 - docs(db): improve feature #198
 2025-01-01 16:33:00 +0700 - feat(core): update feature #198
 2025-01-02 11:42:00 +0700 - feat(api): remove feature #498
+2025-01-02 9:42:00 +0700 - feat(auth): handle feature #498
