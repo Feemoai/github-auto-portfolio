@@ -42193,3 +42193,5 @@
 2025-03-29 16:47:00 +0700 - refactor(config): remove feature #216
 2025-03-31 11:17:00 +0700 - test(auth): improve feature #342
 2025-01-01 9:54:00 +0700 - docs(ui): handle feature #351
+2025-01-02 10:58:00 +0700 - docs(config): improve feature #431
+2025-01-02 13:31:00 +0700 - fix(auth): optimize feature #431
