@@ -25716,3 +25716,4 @@
 2025-03-31 14:15:00 +0700 - docs(core): optimize feature #206
 2025-01-01 16:48:00 +0700 - test(config): optimize feature #245
 2025-01-01 16:17:00 +0700 - test(db): add feature #245
+2025-01-02 14:16:00 +0700 - test(api): optimize feature #226
