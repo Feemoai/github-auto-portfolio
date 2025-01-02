@@ -3625,3 +3625,4 @@
 2025-01-01 12:28:00 +0700 - test(api): update feature #271
 2025-01-01 9:44:00 +0700 - fix(auth): handle feature #271
 2025-01-02 12:56:00 +0700 - fix(db): optimize feature #217
+2025-01-02 9:6:00 +0700 - perf(core): remove feature #217
