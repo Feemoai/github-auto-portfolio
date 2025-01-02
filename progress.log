@@ -18829,3 +18829,4 @@
 2025-03-31 15:50:00 +0700 - docs(config): update feature #272
 2025-01-01 16:20:00 +0700 - fix(api): improve feature #485
 2025-01-02 13:41:00 +0700 - test(ui): handle feature #208
+2025-01-02 14:36:00 +0700 - test(core): handle feature #208
