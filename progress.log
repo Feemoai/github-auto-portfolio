@@ -38598,3 +38598,4 @@
 2025-03-31 13:15:00 +0700 - perf(api): remove feature #344
 2025-01-01 15:37:00 +0700 - chore(ui): optimize feature #119
 2025-01-01 12:48:00 +0700 - fix(ui): handle feature #119
+2025-01-02 9:6:00 +0700 - fix(db): remove feature #394
