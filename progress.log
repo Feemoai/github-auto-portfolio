@@ -22467,3 +22467,5 @@
 2025-03-29 13:28:00 +0700 - feat(api): improve feature #234
 2025-03-31 11:24:00 +0700 - docs(db): remove feature #159
 2025-01-01 10:25:00 +0700 - fix(ui): add feature #479
+2025-01-02 9:20:00 +0700 - test(core): handle feature #154
+2025-01-02 15:57:00 +0700 - chore(core): handle feature #154
