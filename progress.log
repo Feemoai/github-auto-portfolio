@@ -13140,3 +13140,4 @@
 2025-03-31 10:42:00 +0700 - fix(ui): optimize feature #254
 2025-01-01 9:39:00 +0700 - perf(db): improve feature #402
 2025-01-01 12:32:00 +0700 - docs(core): remove feature #402
+2025-01-02 16:13:00 +0700 - fix(api): handle feature #380
