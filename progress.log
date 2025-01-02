@@ -6269,3 +6269,4 @@
 2025-03-31 16:17:00 +0700 - fix(ui): add feature #131
 2025-03-31 13:9:00 +0700 - chore(ui): improve feature #131
 2025-01-01 12:11:00 +0700 - docs(db): add feature #252
+2025-01-02 11:56:00 +0700 - fix(auth): handle feature #369
