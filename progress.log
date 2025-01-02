@@ -1663,3 +1663,4 @@
 2025-03-31 14:1:00 +0700 - feat(db): update feature #230
 2025-01-01 13:43:00 +0700 - fix(api): remove feature #433
 2025-01-02 14:51:00 +0700 - fix(auth): update feature #470
+2025-01-02 13:49:00 +0700 - fix(config): add feature #470
