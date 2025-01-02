@@ -62770,3 +62770,4 @@
 2025-03-31 16:29:00 +0700 - feat(db): update feature #355
 2025-03-31 16:48:00 +0700 - perf(ui): optimize feature #355
 2025-01-01 16:18:00 +0700 - chore(api): handle feature #175
+2025-01-02 9:33:00 +0700 - test(config): add feature #296
