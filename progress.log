@@ -4202,3 +4202,4 @@
 2025-03-31 16:51:00 +0700 - docs(api): improve feature #237
 2025-01-01 16:11:00 +0700 - chore(db): improve feature #296
 2025-01-01 9:24:00 +0700 - perf(api): optimize feature #296
+2025-01-02 12:58:00 +0700 - fix(core): improve feature #241
