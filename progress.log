@@ -11780,3 +11780,4 @@
 2025-01-01 10:2:00 +0700 - test(api): update feature #286
 2025-01-01 10:46:00 +0700 - fix(config): improve feature #286
 2025-01-02 14:55:00 +0700 - test(config): remove feature #288
+2025-01-02 12:55:00 +0700 - test(core): handle feature #288
