@@ -15798,3 +15798,5 @@
 2025-03-29 10:53:00 +0700 - fix(auth): improve feature #141
 2025-03-31 13:35:00 +0700 - docs(db): add feature #474
 2025-01-01 10:55:00 +0700 - test(config): improve feature #453
+2025-01-02 15:7:00 +0700 - chore(core): add feature #494
+2025-01-02 14:24:00 +0700 - chore(api): update feature #494
