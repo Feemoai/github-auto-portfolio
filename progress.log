@@ -38937,3 +38937,4 @@
 2025-03-31 16:39:00 +0700 - docs(core): update feature #196
 2025-03-31 10:30:00 +0700 - fix(api): remove feature #196
 2025-01-01 12:38:00 +0700 - feat(db): add feature #283
+2025-01-02 15:48:00 +0700 - chore(auth): remove feature #211
