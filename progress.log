@@ -52420,3 +52420,4 @@
 2025-01-01 13:50:00 +0700 - refactor(api): handle feature #308
 2025-01-01 12:41:00 +0700 - feat(auth): handle feature #308
 2025-01-02 11:41:00 +0700 - docs(api): improve feature #462
+2025-01-02 13:15:00 +0700 - fix(ui): handle feature #462
