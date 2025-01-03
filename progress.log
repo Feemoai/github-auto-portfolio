@@ -41029,3 +41029,4 @@
 2025-01-01 11:11:00 +0700 - feat(db): remove feature #284
 2025-01-02 12:3:00 +0700 - perf(ui): improve feature #308
 2025-01-02 11:9:00 +0700 - fix(db): remove feature #308
+2025-01-03 14:50:00 +0700 - fix(auth): remove feature #336
