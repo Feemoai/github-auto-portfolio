@@ -63590,3 +63590,4 @@
 2025-01-01 16:29:00 +0700 - chore(api): handle feature #253
 2025-01-01 11:9:00 +0700 - fix(auth): handle feature #253
 2025-01-02 9:26:00 +0700 - docs(core): optimize feature #209
+2025-01-03 12:48:00 +0700 - feat(ui): optimize feature #479
