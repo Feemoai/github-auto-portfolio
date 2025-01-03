@@ -37691,3 +37691,5 @@
 2025-01-01 16:19:00 +0700 - chore(core): improve feature #277
 2025-01-01 14:14:00 +0700 - chore(ui): update feature #277
 2025-01-02 12:1:00 +0700 - chore(db): optimize feature #225
+2025-01-03 11:14:00 +0700 - test(db): add feature #181
+2025-01-03 13:42:00 +0700 - fix(ui): optimize feature #181
