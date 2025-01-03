@@ -26529,3 +26529,4 @@
 2025-01-01 16:59:00 +0700 - chore(auth): optimize feature #225
 2025-01-02 10:50:00 +0700 - chore(ui): handle feature #377
 2025-01-03 15:38:00 +0700 - perf(core): remove feature #488
+2025-01-03 9:4:00 +0700 - refactor(config): improve feature #488
