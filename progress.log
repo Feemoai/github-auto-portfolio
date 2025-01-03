@@ -50047,3 +50047,4 @@
 2025-03-31 9:38:00 +0700 - docs(ui): add feature #372
 2025-01-01 11:6:00 +0700 - test(api): remove feature #220
 2025-01-02 10:24:00 +0700 - fix(core): optimize feature #249
+2025-01-03 9:8:00 +0700 - fix(core): handle feature #191
