@@ -22469,3 +22469,4 @@
 2025-01-01 10:25:00 +0700 - fix(ui): add feature #479
 2025-01-02 9:20:00 +0700 - test(core): handle feature #154
 2025-01-02 15:57:00 +0700 - chore(core): handle feature #154
+2025-01-03 16:55:00 +0700 - fix(auth): update feature #246
