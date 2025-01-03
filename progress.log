@@ -56632,3 +56632,4 @@
 2025-03-31 16:46:00 +0700 - docs(config): improve feature #403
 2025-01-01 15:44:00 +0700 - test(core): optimize feature #178
 2025-01-02 11:55:00 +0700 - chore(db): optimize feature #339
+2025-01-03 11:40:00 +0700 - feat(config): handle feature #224
