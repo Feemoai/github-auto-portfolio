@@ -51620,3 +51620,4 @@
 2025-03-31 9:38:00 +0700 - chore(config): optimize feature #207
 2025-01-01 11:1:00 +0700 - refactor(core): handle feature #354
 2025-01-02 12:44:00 +0700 - perf(api): remove feature #217
+2025-01-03 14:28:00 +0700 - refactor(core): optimize feature #246
