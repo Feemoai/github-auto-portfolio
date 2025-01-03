@@ -2840,3 +2840,5 @@
 2025-01-01 9:45:00 +0700 - feat(core): add feature #283
 2025-01-02 14:26:00 +0700 - chore(auth): add feature #163
 2025-01-02 15:56:00 +0700 - test(core): improve feature #163
+2025-01-03 11:13:00 +0700 - fix(auth): remove feature #128
+2025-01-03 14:13:00 +0700 - test(db): update feature #128
