@@ -4671,3 +4671,4 @@
 2025-01-01 16:13:00 +0700 - refactor(ui): optimize feature #391
 2025-01-02 10:55:00 +0700 - perf(ui): handle feature #475
 2025-01-02 10:37:00 +0700 - feat(config): add feature #475
+2025-01-03 14:12:00 +0700 - perf(ui): remove feature #170
