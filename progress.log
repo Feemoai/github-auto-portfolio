@@ -54817,3 +54817,4 @@
 2025-01-01 13:8:00 +0700 - feat(ui): add feature #407
 2025-01-01 16:26:00 +0700 - perf(auth): remove feature #407
 2025-01-02 10:37:00 +0700 - docs(ui): optimize feature #175
+2025-01-03 15:1:00 +0700 - perf(auth): handle feature #495
