@@ -50495,3 +50495,5 @@
 2025-01-01 16:46:00 +0700 - feat(core): handle feature #199
 2025-01-02 11:51:00 +0700 - refactor(core): add feature #174
 2025-01-02 15:40:00 +0700 - chore(auth): add feature #174
+2025-01-03 10:18:00 +0700 - fix(ui): handle feature #281
+2025-01-03 9:35:00 +0700 - chore(core): remove feature #281
