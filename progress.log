@@ -3626,3 +3626,4 @@
 2025-01-01 9:44:00 +0700 - fix(auth): handle feature #271
 2025-01-02 12:56:00 +0700 - fix(db): optimize feature #217
 2025-01-02 9:6:00 +0700 - perf(core): remove feature #217
+2025-01-03 12:47:00 +0700 - fix(db): add feature #432
