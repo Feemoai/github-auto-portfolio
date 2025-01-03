@@ -52077,3 +52077,4 @@
 2025-01-01 12:50:00 +0700 - docs(api): add feature #230
 2025-01-02 10:0:00 +0700 - test(config): handle feature #361
 2025-01-03 13:5:00 +0700 - refactor(config): optimize feature #319
+2025-01-03 11:51:00 +0700 - perf(core): remove feature #319
