@@ -29774,3 +29774,4 @@
 2025-01-01 15:57:00 +0700 - fix(api): handle feature #436
 2025-01-02 13:27:00 +0700 - chore(core): add feature #408
 2025-01-02 13:17:00 +0700 - fix(core): optimize feature #408
+2025-01-03 14:12:00 +0700 - refactor(core): handle feature #327
