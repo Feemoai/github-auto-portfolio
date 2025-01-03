@@ -8930,3 +8930,4 @@
 2025-01-01 12:25:00 +0700 - test(core): add feature #395
 2025-01-02 11:38:00 +0700 - feat(api): update feature #132
 2025-01-03 9:10:00 +0700 - chore(api): add feature #113
+2025-01-03 16:46:00 +0700 - perf(core): remove feature #113
