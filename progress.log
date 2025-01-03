@@ -17319,3 +17319,4 @@
 2025-01-02 10:10:00 +0700 - feat(ui): remove feature #426
 2025-01-02 13:1:00 +0700 - feat(auth): handle feature #426
 2025-01-03 15:13:00 +0700 - refactor(auth): optimize feature #454
+2025-01-03 16:5:00 +0700 - chore(api): improve feature #454
