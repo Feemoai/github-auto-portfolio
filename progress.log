@@ -15092,3 +15092,4 @@
 2025-01-01 16:7:00 +0700 - docs(core): add feature #154
 2025-01-02 12:18:00 +0700 - fix(auth): update feature #353
 2025-01-02 12:43:00 +0700 - docs(auth): remove feature #353
+2025-01-03 10:16:00 +0700 - test(config): handle feature #359
