@@ -67960,3 +67960,4 @@
 2025-01-01 16:0:00 +0700 - test(db): optimize feature #312
 2025-01-02 16:50:00 +0700 - feat(api): update feature #247
 2025-01-02 15:44:00 +0700 - test(auth): remove feature #247
+2025-01-03 10:48:00 +0700 - test(core): handle feature #359
