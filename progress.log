@@ -20383,3 +20383,4 @@
 2025-01-01 14:7:00 +0700 - feat(core): add feature #220
 2025-01-02 12:15:00 +0700 - refactor(api): add feature #190
 2025-01-02 9:58:00 +0700 - feat(ui): add feature #190
+2025-01-03 13:35:00 +0700 - test(auth): remove feature #194
