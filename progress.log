@@ -8586,3 +8586,5 @@
 2025-01-01 16:41:00 +0700 - test(ui): remove feature #198
 2025-01-01 16:6:00 +0700 - docs(ui): update feature #198
 2025-01-02 14:59:00 +0700 - docs(db): remove feature #103
+2025-01-03 16:0:00 +0700 - refactor(api): optimize feature #362
+2025-01-03 11:36:00 +0700 - feat(db): update feature #362
