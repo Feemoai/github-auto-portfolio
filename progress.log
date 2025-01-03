@@ -29424,3 +29424,4 @@
 2025-01-02 10:46:00 +0700 - refactor(auth): handle feature #389
 2025-01-02 13:17:00 +0700 - test(core): add feature #389
 2025-01-03 12:32:00 +0700 - feat(core): optimize feature #425
+2025-01-03 16:7:00 +0700 - feat(db): handle feature #425
