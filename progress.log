@@ -25718,3 +25718,4 @@
 2025-01-01 16:17:00 +0700 - test(db): add feature #245
 2025-01-02 14:16:00 +0700 - test(api): optimize feature #226
 2025-01-02 15:45:00 +0700 - docs(api): handle feature #226
+2025-01-03 12:39:00 +0700 - chore(core): handle feature #309
