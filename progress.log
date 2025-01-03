@@ -21780,3 +21780,4 @@
 2025-01-02 12:51:00 +0700 - refactor(core): add feature #269
 2025-01-02 11:6:00 +0700 - perf(auth): update feature #269
 2025-01-03 14:6:00 +0700 - feat(core): improve feature #291
+2025-01-03 9:13:00 +0700 - test(auth): optimize feature #291
