@@ -12463,3 +12463,5 @@
 2025-01-01 13:25:00 +0700 - chore(api): improve feature #464
 2025-01-01 11:18:00 +0700 - feat(auth): add feature #464
 2025-01-02 10:41:00 +0700 - docs(api): improve feature #141
+2025-01-03 10:1:00 +0700 - fix(ui): add feature #306
+2025-01-03 10:17:00 +0700 - docs(config): handle feature #306
