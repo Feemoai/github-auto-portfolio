@@ -39049,3 +39049,4 @@
 2025-01-01 15:41:00 +0700 - refactor(core): handle feature #300
 2025-01-02 9:58:00 +0700 - chore(config): update feature #356
 2025-01-02 16:15:00 +0700 - perf(db): optimize feature #356
+2025-01-03 13:43:00 +0700 - perf(db): optimize feature #372
