@@ -7077,3 +7077,5 @@
 2025-03-31 14:33:00 +0700 - fix(ui): remove feature #233
 2025-01-01 13:6:00 +0700 - feat(ui): handle feature #279
 2025-01-02 11:27:00 +0700 - test(auth): update feature #362
+2025-01-03 12:20:00 +0700 - refactor(ui): update feature #189
+2025-01-03 16:3:00 +0700 - chore(core): remove feature #189
