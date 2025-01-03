@@ -51963,3 +51963,4 @@
 2025-03-31 10:53:00 +0700 - feat(api): add feature #308
 2025-01-01 15:30:00 +0700 - test(db): add feature #178
 2025-01-02 12:9:00 +0700 - chore(db): improve feature #418
+2025-01-03 11:18:00 +0700 - chore(core): handle feature #435
