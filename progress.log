@@ -9965,3 +9965,4 @@
 2025-01-01 9:10:00 +0700 - chore(auth): add feature #331
 2025-01-02 10:58:00 +0700 - fix(core): update feature #237
 2025-01-02 15:24:00 +0700 - refactor(auth): optimize feature #237
+2025-01-03 16:48:00 +0700 - fix(core): handle feature #121
