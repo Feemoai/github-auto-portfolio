@@ -62308,3 +62308,5 @@
 2025-01-01 11:23:00 +0700 - fix(api): remove feature #363
 2025-01-02 15:54:00 +0700 - docs(core): improve feature #322
 2025-01-02 12:57:00 +0700 - feat(config): handle feature #322
+2025-01-03 13:42:00 +0700 - test(ui): add feature #186
+2025-01-03 13:36:00 +0700 - docs(config): improve feature #186
