@@ -14869,3 +14869,4 @@
 2025-01-01 9:39:00 +0700 - fix(db): remove feature #167
 2025-01-02 12:52:00 +0700 - fix(db): optimize feature #110
 2025-01-02 11:2:00 +0700 - refactor(ui): update feature #110
+2025-01-03 15:17:00 +0700 - refactor(config): improve feature #479
