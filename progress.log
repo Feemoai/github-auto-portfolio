@@ -60000,3 +60000,4 @@
 2025-01-01 13:37:00 +0700 - refactor(ui): add feature #426
 2025-01-02 10:34:00 +0700 - refactor(config): handle feature #389
 2025-01-02 16:39:00 +0700 - fix(auth): handle feature #389
+2025-01-03 16:51:00 +0700 - refactor(core): handle feature #295
