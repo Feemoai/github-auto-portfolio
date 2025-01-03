@@ -44975,3 +44975,4 @@
 2025-03-31 15:1:00 +0700 - perf(ui): handle feature #230
 2025-01-01 14:18:00 +0700 - perf(ui): optimize feature #360
 2025-01-02 15:24:00 +0700 - perf(core): remove feature #360
+2025-01-03 11:12:00 +0700 - feat(db): handle feature #277
