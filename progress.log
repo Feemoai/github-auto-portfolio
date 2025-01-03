@@ -2603,3 +2603,4 @@
 2025-01-01 10:28:00 +0700 - fix(ui): update feature #302
 2025-01-02 10:59:00 +0700 - feat(auth): remove feature #438
 2025-01-02 15:41:00 +0700 - docs(auth): add feature #438
+2025-01-03 11:40:00 +0700 - test(auth): optimize feature #163
