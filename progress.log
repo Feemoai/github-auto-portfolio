@@ -7883,3 +7883,4 @@
 2025-01-01 14:44:00 +0700 - feat(api): optimize feature #243
 2025-01-02 10:9:00 +0700 - fix(core): improve feature #334
 2025-01-02 16:29:00 +0700 - test(db): handle feature #334
+2025-01-03 14:17:00 +0700 - fix(auth): optimize feature #261
