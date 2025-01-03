@@ -8699,3 +8699,4 @@
 2025-01-01 9:48:00 +0700 - test(api): remove feature #418
 2025-01-01 15:39:00 +0700 - perf(ui): remove feature #418
 2025-01-02 15:16:00 +0700 - test(ui): add feature #159
+2025-01-03 16:51:00 +0700 - perf(api): handle feature #264
