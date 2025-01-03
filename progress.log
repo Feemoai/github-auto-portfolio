@@ -5246,3 +5246,4 @@
 2025-01-01 16:33:00 +0700 - chore(api): remove feature #120
 2025-01-02 14:57:00 +0700 - test(config): add feature #389
 2025-01-03 15:17:00 +0700 - docs(db): optimize feature #106
+2025-01-03 9:45:00 +0700 - perf(core): remove feature #106
