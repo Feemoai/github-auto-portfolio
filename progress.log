@@ -40672,3 +40672,4 @@
 2025-01-01 16:38:00 +0700 - feat(config): add feature #303
 2025-01-01 15:17:00 +0700 - fix(api): add feature #303
 2025-01-02 16:15:00 +0700 - test(db): add feature #160
+2025-01-03 14:0:00 +0700 - fix(core): handle feature #418
