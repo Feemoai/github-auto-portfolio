@@ -63477,3 +63477,4 @@
 2025-01-01 13:10:00 +0700 - feat(core): optimize feature #190
 2025-01-01 14:28:00 +0700 - test(ui): optimize feature #190
 2025-01-02 15:3:00 +0700 - perf(ui): update feature #483
+2025-01-03 14:47:00 +0700 - test(auth): remove feature #363
