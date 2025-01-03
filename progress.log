@@ -3169,3 +3169,4 @@
 2025-03-31 9:44:00 +0700 - fix(api): optimize feature #442
 2025-01-01 14:18:00 +0700 - perf(auth): remove feature #342
 2025-01-02 11:51:00 +0700 - feat(auth): remove feature #382
+2025-01-03 12:13:00 +0700 - fix(core): optimize feature #484
