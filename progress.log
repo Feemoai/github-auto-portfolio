@@ -21069,3 +21069,4 @@
 2025-01-02 10:18:00 +0700 - test(auth): improve feature #330
 2025-01-02 13:22:00 +0700 - docs(core): improve feature #330
 2025-01-03 12:50:00 +0700 - chore(core): remove feature #324
+2025-01-03 16:26:00 +0700 - perf(ui): handle feature #324
