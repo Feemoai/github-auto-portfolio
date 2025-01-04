@@ -12013,3 +12013,4 @@
 2025-01-02 9:2:00 +0700 - fix(ui): optimize feature #174
 2025-01-02 16:52:00 +0700 - docs(ui): improve feature #174
 2025-01-03 12:38:00 +0700 - chore(api): optimize feature #445
+2025-01-04 13:12:00 +0700 - perf(auth): update feature #292
