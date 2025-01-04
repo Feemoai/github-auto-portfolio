@@ -15331,3 +15331,4 @@
 2025-01-02 16:43:00 +0700 - test(api): remove feature #197
 2025-01-03 13:38:00 +0700 - feat(db): handle feature #199
 2025-01-04 10:5:00 +0700 - chore(core): update feature #260
+2025-01-04 16:41:00 +0700 - docs(auth): add feature #260
