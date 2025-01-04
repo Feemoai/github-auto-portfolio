@@ -15094,3 +15094,4 @@
 2025-01-02 12:43:00 +0700 - docs(auth): remove feature #353
 2025-01-03 10:16:00 +0700 - test(config): handle feature #359
 2025-01-04 14:25:00 +0700 - docs(core): optimize feature #324
+2025-01-04 15:48:00 +0700 - perf(auth): optimize feature #324
