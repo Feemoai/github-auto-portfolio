@@ -29540,3 +29540,4 @@
 2025-01-02 15:9:00 +0700 - feat(config): improve feature #438
 2025-01-03 14:2:00 +0700 - chore(db): handle feature #471
 2025-01-03 10:46:00 +0700 - docs(api): improve feature #471
+2025-01-04 13:27:00 +0700 - fix(api): add feature #478
