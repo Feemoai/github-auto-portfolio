@@ -37230,3 +37230,4 @@
 2025-01-01 9:58:00 +0700 - test(ui): optimize feature #444
 2025-01-02 14:22:00 +0700 - test(api): optimize feature #366
 2025-01-03 16:38:00 +0700 - test(api): add feature #464
+2025-01-04 12:15:00 +0700 - fix(ui): remove feature #388
