@@ -9968,3 +9968,4 @@
 2025-01-03 16:48:00 +0700 - fix(core): handle feature #121
 2025-01-03 13:46:00 +0700 - chore(ui): improve feature #121
 2025-01-04 15:57:00 +0700 - perf(api): handle feature #353
+2025-01-04 16:3:00 +0700 - test(auth): improve feature #353
