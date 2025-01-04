@@ -11205,3 +11205,4 @@
 2025-01-02 14:4:00 +0700 - test(core): remove feature #109
 2025-01-02 15:7:00 +0700 - perf(ui): handle feature #109
 2025-01-03 10:52:00 +0700 - feat(db): remove feature #396
+2025-01-04 16:46:00 +0700 - feat(api): update feature #347
