@@ -37579,3 +37579,4 @@
 2025-01-02 13:55:00 +0700 - perf(api): handle feature #173
 2025-01-02 14:6:00 +0700 - perf(auth): improve feature #173
 2025-01-03 14:13:00 +0700 - chore(auth): improve feature #102
+2025-01-04 9:30:00 +0700 - feat(ui): handle feature #234
