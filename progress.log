@@ -5581,3 +5581,4 @@
 2025-01-03 11:54:00 +0700 - fix(core): optimize feature #302
 2025-01-03 12:40:00 +0700 - feat(core): handle feature #302
 2025-01-04 15:34:00 +0700 - chore(db): add feature #369
+2025-01-04 11:8:00 +0700 - feat(auth): optimize feature #369
