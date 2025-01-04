@@ -21664,3 +21664,4 @@
 2025-01-02 14:59:00 +0700 - feat(db): improve feature #290
 2025-01-03 12:12:00 +0700 - fix(ui): handle feature #261
 2025-01-04 15:55:00 +0700 - refactor(config): improve feature #220
+2025-01-04 12:15:00 +0700 - perf(api): improve feature #220
