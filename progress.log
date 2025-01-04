@@ -5580,3 +5580,4 @@
 2025-01-02 15:41:00 +0700 - fix(api): add feature #351
 2025-01-03 11:54:00 +0700 - fix(core): optimize feature #302
 2025-01-03 12:40:00 +0700 - feat(core): handle feature #302
+2025-01-04 15:34:00 +0700 - chore(db): add feature #369
