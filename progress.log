@@ -5248,3 +5248,4 @@
 2025-01-03 15:17:00 +0700 - docs(db): optimize feature #106
 2025-01-03 9:45:00 +0700 - perf(core): remove feature #106
 2025-01-04 12:18:00 +0700 - chore(core): improve feature #491
+2025-01-04 9:29:00 +0700 - feat(core): handle feature #491
