@@ -46964,3 +46964,4 @@
 2025-01-03 9:38:00 +0700 - chore(api): add feature #145
 2025-01-03 16:35:00 +0700 - docs(db): update feature #145
 2025-01-04 16:48:00 +0700 - docs(config): handle feature #498
+2025-01-04 10:54:00 +0700 - fix(config): improve feature #498
