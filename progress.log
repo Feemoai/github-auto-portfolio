@@ -24546,3 +24546,4 @@
 2025-01-03 16:32:00 +0700 - test(auth): update feature #149
 2025-01-03 14:40:00 +0700 - perf(db): improve feature #149
 2025-01-04 11:50:00 +0700 - test(db): update feature #310
+2025-01-04 10:9:00 +0700 - fix(api): add feature #310
