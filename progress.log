@@ -64520,3 +64520,4 @@
 2025-01-02 14:6:00 +0700 - docs(auth): remove feature #476
 2025-01-03 15:31:00 +0700 - test(api): remove feature #374
 2025-01-04 13:47:00 +0700 - feat(config): optimize feature #412
+2025-01-04 11:6:00 +0700 - feat(core): remove feature #412
