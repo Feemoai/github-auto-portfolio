@@ -23370,3 +23370,4 @@
 2025-01-02 13:17:00 +0700 - chore(core): add feature #212
 2025-01-03 14:2:00 +0700 - docs(db): add feature #418
 2025-01-03 11:45:00 +0700 - feat(config): improve feature #418
+2025-01-04 11:48:00 +0700 - perf(core): remove feature #250
