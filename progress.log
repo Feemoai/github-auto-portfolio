@@ -52766,3 +52766,5 @@
 2025-01-02 16:21:00 +0700 - feat(api): add feature #139
 2025-01-03 9:20:00 +0700 - feat(db): handle feature #481
 2025-01-03 11:18:00 +0700 - fix(db): optimize feature #481
+2025-01-04 10:42:00 +0700 - perf(db): handle feature #144
+2025-01-04 12:31:00 +0700 - perf(api): add feature #144
