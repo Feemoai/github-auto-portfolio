@@ -42778,3 +42778,4 @@
 2025-01-02 9:59:00 +0700 - docs(api): remove feature #151
 2025-01-03 11:37:00 +0700 - perf(auth): remove feature #448
 2025-01-03 9:23:00 +0700 - docs(ui): add feature #448
+2025-01-04 9:50:00 +0700 - chore(config): handle feature #241
