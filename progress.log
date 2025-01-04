@@ -44749,3 +44749,4 @@
 2025-01-02 13:49:00 +0700 - feat(api): improve feature #100
 2025-01-03 12:3:00 +0700 - feat(ui): add feature #103
 2025-01-03 10:36:00 +0700 - feat(db): optimize feature #103
+2025-01-04 9:55:00 +0700 - chore(auth): remove feature #113
