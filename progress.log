@@ -2953,3 +2953,5 @@
 2025-01-02 9:43:00 +0700 - perf(core): add feature #120
 2025-01-03 11:11:00 +0700 - feat(api): optimize feature #225
 2025-01-03 12:57:00 +0700 - chore(ui): add feature #225
+2025-01-04 9:23:00 +0700 - refactor(config): handle feature #210
+2025-01-04 10:28:00 +0700 - chore(core): remove feature #210
