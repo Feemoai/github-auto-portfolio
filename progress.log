@@ -66246,3 +66246,5 @@
 2025-01-02 10:40:00 +0700 - fix(db): add feature #432
 2025-01-03 14:48:00 +0700 - feat(db): remove feature #496
 2025-01-03 10:15:00 +0700 - fix(ui): optimize feature #496
+2025-01-04 16:50:00 +0700 - chore(core): handle feature #479
+2025-01-04 9:35:00 +0700 - test(api): optimize feature #479
