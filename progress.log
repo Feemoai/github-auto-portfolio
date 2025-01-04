@@ -59189,3 +59189,4 @@
 2025-01-02 13:13:00 +0700 - perf(db): remove feature #403
 2025-01-03 10:46:00 +0700 - chore(config): handle feature #116
 2025-01-03 11:36:00 +0700 - perf(db): update feature #116
+2025-01-04 11:58:00 +0700 - fix(db): handle feature #187
