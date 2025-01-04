@@ -67058,3 +67058,4 @@
 2025-01-02 14:9:00 +0700 - docs(db): optimize feature #399
 2025-01-03 13:52:00 +0700 - fix(core): update feature #484
 2025-01-03 11:25:00 +0700 - fix(core): update feature #484
+2025-01-04 12:47:00 +0700 - perf(ui): handle feature #498
