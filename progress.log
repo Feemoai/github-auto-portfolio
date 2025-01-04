@@ -40315,3 +40315,4 @@
 2025-01-02 9:7:00 +0700 - feat(core): add feature #103
 2025-01-03 12:57:00 +0700 - perf(core): add feature #160
 2025-01-04 9:30:00 +0700 - feat(db): optimize feature #443
+2025-01-04 14:56:00 +0700 - chore(auth): handle feature #443
