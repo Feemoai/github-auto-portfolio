@@ -53910,3 +53910,5 @@
 2025-01-02 11:13:00 +0700 - docs(db): handle feature #369
 2025-01-03 12:18:00 +0700 - docs(ui): optimize feature #440
 2025-01-03 15:31:00 +0700 - fix(auth): handle feature #440
+2025-01-04 9:8:00 +0700 - fix(auth): optimize feature #149
+2025-01-04 13:58:00 +0700 - feat(config): update feature #149
