@@ -34435,3 +34435,4 @@
 2025-01-02 14:58:00 +0700 - perf(core): update feature #100
 2025-01-03 13:0:00 +0700 - docs(auth): handle feature #473
 2025-01-03 15:3:00 +0700 - perf(ui): add feature #473
+2025-01-04 11:48:00 +0700 - fix(ui): improve feature #462
