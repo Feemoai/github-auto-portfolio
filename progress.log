@@ -8811,3 +8811,5 @@
 2025-01-02 13:59:00 +0700 - docs(db): improve feature #369
 2025-01-03 11:49:00 +0700 - perf(core): improve feature #411
 2025-01-03 16:34:00 +0700 - test(core): update feature #411
+2025-01-04 11:48:00 +0700 - feat(ui): add feature #223
+2025-01-04 16:28:00 +0700 - test(config): remove feature #223
