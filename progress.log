@@ -44977,3 +44977,4 @@
 2025-01-02 15:24:00 +0700 - perf(core): remove feature #360
 2025-01-03 11:12:00 +0700 - feat(db): handle feature #277
 2025-01-04 14:55:00 +0700 - refactor(auth): remove feature #485
+2025-01-04 13:12:00 +0700 - fix(auth): remove feature #485
