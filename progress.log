@@ -30015,3 +30015,4 @@
 2025-01-02 15:3:00 +0700 - fix(ui): optimize feature #317
 2025-01-03 10:35:00 +0700 - chore(db): handle feature #481
 2025-01-03 15:46:00 +0700 - test(api): improve feature #481
+2025-01-04 11:13:00 +0700 - feat(auth): remove feature #231
