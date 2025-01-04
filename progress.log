@@ -13725,3 +13725,5 @@
 2025-01-02 15:55:00 +0700 - fix(core): handle feature #182
 2025-01-03 11:14:00 +0700 - test(ui): optimize feature #275
 2025-01-03 13:13:00 +0700 - test(ui): handle feature #275
+2025-01-04 12:55:00 +0700 - docs(config): improve feature #278
+2025-01-04 9:13:00 +0700 - fix(ui): handle feature #278
