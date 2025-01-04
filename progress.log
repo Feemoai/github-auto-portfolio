@@ -65332,3 +65332,5 @@
 2025-01-02 9:52:00 +0700 - docs(api): remove feature #189
 2025-01-02 16:41:00 +0700 - docs(db): update feature #189
 2025-01-03 16:50:00 +0700 - refactor(auth): update feature #242
+2025-01-04 15:28:00 +0700 - test(auth): update feature #450
+2025-01-04 15:52:00 +0700 - docs(api): handle feature #450
