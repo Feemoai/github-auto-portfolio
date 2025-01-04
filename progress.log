@@ -43238,3 +43238,4 @@
 2025-01-02 11:2:00 +0700 - perf(api): handle feature #435
 2025-01-03 15:7:00 +0700 - refactor(api): remove feature #207
 2025-01-03 10:13:00 +0700 - chore(core): improve feature #207
+2025-01-04 16:7:00 +0700 - docs(auth): handle feature #235
