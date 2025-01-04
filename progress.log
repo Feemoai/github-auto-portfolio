@@ -6622,3 +6622,4 @@
 2025-01-02 12:38:00 +0700 - perf(ui): add feature #115
 2025-01-03 10:45:00 +0700 - perf(api): remove feature #370
 2025-01-03 10:48:00 +0700 - docs(db): improve feature #370
+2025-01-04 12:8:00 +0700 - test(db): handle feature #301
