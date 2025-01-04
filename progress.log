@@ -2479,3 +2479,4 @@
 2025-01-02 16:17:00 +0700 - chore(config): handle feature #444
 2025-01-03 15:4:00 +0700 - fix(core): optimize feature #426
 2025-01-04 12:43:00 +0700 - fix(db): update feature #487
+2025-01-04 13:37:00 +0700 - feat(api): update feature #487
