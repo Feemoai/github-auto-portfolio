@@ -32203,3 +32203,4 @@
 2025-01-03 12:26:00 +0700 - docs(auth): optimize feature #407
 2025-01-03 13:40:00 +0700 - docs(core): handle feature #407
 2025-01-04 12:58:00 +0700 - refactor(api): optimize feature #427
+2025-01-04 12:14:00 +0700 - fix(db): remove feature #427
