@@ -61952,3 +61952,4 @@
 2025-01-02 16:51:00 +0700 - docs(ui): add feature #375
 2025-01-03 11:10:00 +0700 - perf(ui): add feature #465
 2025-01-03 12:44:00 +0700 - perf(auth): improve feature #465
+2025-01-04 16:42:00 +0700 - fix(api): handle feature #419
