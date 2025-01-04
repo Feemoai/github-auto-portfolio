@@ -34674,3 +34674,5 @@
 2025-01-02 15:43:00 +0700 - docs(auth): handle feature #348
 2025-01-03 15:11:00 +0700 - refactor(core): update feature #395
 2025-01-03 10:9:00 +0700 - chore(db): optimize feature #395
+2025-01-04 11:25:00 +0700 - chore(config): handle feature #334
+2025-01-04 15:31:00 +0700 - chore(core): handle feature #334
