@@ -54133,3 +54133,4 @@
 2025-01-02 15:43:00 +0700 - perf(auth): optimize feature #185
 2025-01-03 12:8:00 +0700 - chore(api): update feature #399
 2025-01-03 13:49:00 +0700 - docs(core): optimize feature #399
+2025-01-04 11:41:00 +0700 - fix(core): add feature #382
