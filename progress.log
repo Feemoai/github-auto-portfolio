@@ -23841,3 +23841,4 @@
 2025-01-02 11:17:00 +0700 - fix(config): handle feature #156
 2025-01-03 11:35:00 +0700 - feat(core): handle feature #152
 2025-01-03 14:44:00 +0700 - perf(db): update feature #152
+2025-01-04 11:28:00 +0700 - perf(core): add feature #358
