@@ -50613,3 +50613,4 @@
 2025-01-02 10:24:00 +0700 - chore(api): remove feature #105
 2025-01-03 15:26:00 +0700 - docs(config): update feature #404
 2025-01-03 13:3:00 +0700 - test(auth): improve feature #404
+2025-01-04 11:55:00 +0700 - feat(api): handle feature #120
