@@ -52531,3 +52531,4 @@
 2025-01-02 10:3:00 +0700 - docs(core): optimize feature #354
 2025-01-02 9:42:00 +0700 - feat(core): update feature #354
 2025-01-03 15:8:00 +0700 - perf(auth): update feature #266
+2025-01-04 15:46:00 +0700 - test(auth): add feature #267
