@@ -37911,3 +37911,5 @@
 2025-01-02 13:41:00 +0700 - docs(auth): improve feature #327
 2025-01-03 15:0:00 +0700 - fix(api): optimize feature #372
 2025-01-04 16:38:00 +0700 - refactor(db): optimize feature #355
+2025-01-06 9:26:00 +0700 - docs(config): update feature #119
+2025-01-06 9:50:00 +0700 - docs(ui): add feature #119
