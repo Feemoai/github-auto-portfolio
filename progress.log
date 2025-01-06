@@ -47419,3 +47419,4 @@
 2025-01-03 11:32:00 +0700 - chore(ui): handle feature #425
 2025-01-04 15:17:00 +0700 - chore(auth): remove feature #245
 2025-01-04 9:19:00 +0700 - refactor(config): add feature #245
+2025-01-06 11:7:00 +0700 - fix(core): handle feature #449
