@@ -45425,3 +45425,4 @@
 2025-01-03 16:51:00 +0700 - feat(core): optimize feature #496
 2025-01-03 16:42:00 +0700 - fix(ui): remove feature #496
 2025-01-04 9:17:00 +0700 - refactor(ui): update feature #263
+2025-01-06 9:4:00 +0700 - docs(core): handle feature #241
