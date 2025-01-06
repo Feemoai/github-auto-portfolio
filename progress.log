@@ -27003,3 +27003,4 @@
 2025-01-02 15:8:00 +0700 - docs(core): handle feature #221
 2025-01-03 11:40:00 +0700 - fix(api): update feature #358
 2025-01-04 12:22:00 +0700 - feat(auth): optimize feature #415
+2025-01-06 15:5:00 +0700 - refactor(core): improve feature #469
