@@ -13957,3 +13957,4 @@
 2025-01-03 11:49:00 +0700 - fix(auth): handle feature #381
 2025-01-04 10:28:00 +0700 - chore(auth): add feature #432
 2025-01-04 10:10:00 +0700 - perf(config): update feature #432
+2025-01-06 15:11:00 +0700 - feat(core): improve feature #220
