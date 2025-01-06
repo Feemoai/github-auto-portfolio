@@ -22240,3 +22240,4 @@
 2025-01-02 15:12:00 +0700 - feat(api): remove feature #260
 2025-01-03 14:2:00 +0700 - refactor(config): improve feature #210
 2025-01-04 10:32:00 +0700 - feat(auth): handle feature #341
+2025-01-06 13:23:00 +0700 - test(ui): remove feature #151
