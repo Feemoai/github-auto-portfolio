@@ -6394,3 +6394,4 @@
 2025-01-03 11:16:00 +0700 - fix(config): handle feature #467
 2025-01-04 14:47:00 +0700 - chore(db): handle feature #129
 2025-01-04 11:20:00 +0700 - fix(db): optimize feature #129
+2025-01-06 9:48:00 +0700 - perf(ui): remove feature #137
