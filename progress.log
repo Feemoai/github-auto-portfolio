@@ -20953,3 +20953,4 @@
 2025-01-03 15:46:00 +0700 - feat(db): update feature #120
 2025-01-04 12:42:00 +0700 - perf(config): handle feature #467
 2025-01-06 10:30:00 +0700 - refactor(db): add feature #136
+2025-01-06 12:12:00 +0700 - refactor(ui): remove feature #136
