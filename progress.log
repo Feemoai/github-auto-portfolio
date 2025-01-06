@@ -37002,3 +37002,5 @@
 2025-01-03 11:29:00 +0700 - docs(auth): add feature #465
 2025-01-03 11:18:00 +0700 - fix(auth): remove feature #465
 2025-01-04 15:6:00 +0700 - perf(db): optimize feature #180
+2025-01-06 10:46:00 +0700 - fix(db): improve feature #367
+2025-01-06 12:2:00 +0700 - perf(auth): improve feature #367
