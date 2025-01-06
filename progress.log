@@ -42538,3 +42538,5 @@
 2025-01-03 13:41:00 +0700 - docs(db): improve feature #311
 2025-01-04 13:16:00 +0700 - docs(config): update feature #442
 2025-01-04 14:40:00 +0700 - feat(api): add feature #442
+2025-01-06 11:22:00 +0700 - chore(auth): handle feature #142
+2025-01-06 15:1:00 +0700 - test(api): remove feature #142
