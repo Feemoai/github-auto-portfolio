@@ -49711,3 +49711,4 @@
 2025-01-03 11:29:00 +0700 - test(core): remove feature #480
 2025-01-03 14:44:00 +0700 - chore(core): add feature #480
 2025-01-04 14:33:00 +0700 - feat(db): optimize feature #488
+2025-01-06 15:42:00 +0700 - fix(api): improve feature #265
