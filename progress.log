@@ -39747,3 +39747,4 @@
 2025-01-03 13:41:00 +0700 - docs(ui): add feature #208
 2025-01-03 13:57:00 +0700 - refactor(api): remove feature #208
 2025-01-04 10:21:00 +0700 - test(api): add feature #491
+2025-01-06 12:40:00 +0700 - refactor(api): remove feature #243
