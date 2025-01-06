@@ -50382,3 +50382,4 @@
 2025-01-02 15:23:00 +0700 - test(config): add feature #231
 2025-01-03 14:14:00 +0700 - test(db): update feature #416
 2025-01-04 15:41:00 +0700 - perf(auth): optimize feature #144
+2025-01-06 11:47:00 +0700 - perf(core): handle feature #154
