@@ -24193,3 +24193,4 @@
 2025-01-03 14:59:00 +0700 - fix(db): remove feature #230
 2025-01-03 11:17:00 +0700 - feat(api): optimize feature #230
 2025-01-04 12:27:00 +0700 - perf(api): handle feature #307
+2025-01-06 12:12:00 +0700 - feat(core): add feature #496
