@@ -6625,3 +6625,4 @@
 2025-01-04 12:8:00 +0700 - test(db): handle feature #301
 2025-01-04 9:19:00 +0700 - feat(ui): remove feature #301
 2025-01-06 11:10:00 +0700 - fix(api): handle feature #245
+2025-01-06 16:0:00 +0700 - feat(core): add feature #245
