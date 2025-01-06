@@ -21072,3 +21072,5 @@
 2025-01-03 16:26:00 +0700 - perf(ui): handle feature #324
 2025-01-04 16:15:00 +0700 - chore(config): add feature #264
 2025-01-04 16:12:00 +0700 - docs(api): optimize feature #264
+2025-01-06 12:8:00 +0700 - chore(db): add feature #304
+2025-01-06 14:33:00 +0700 - feat(config): add feature #304
