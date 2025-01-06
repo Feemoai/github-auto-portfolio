@@ -60120,3 +60120,4 @@
 2025-01-03 14:32:00 +0700 - test(config): optimize feature #400
 2025-01-04 15:31:00 +0700 - fix(ui): optimize feature #369
 2025-01-04 9:55:00 +0700 - perf(auth): update feature #369
+2025-01-06 11:7:00 +0700 - chore(core): update feature #147
