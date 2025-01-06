@@ -23371,3 +23371,4 @@
 2025-01-03 14:2:00 +0700 - docs(db): add feature #418
 2025-01-03 11:45:00 +0700 - feat(config): improve feature #418
 2025-01-04 11:48:00 +0700 - perf(core): remove feature #250
+2025-01-06 11:21:00 +0700 - chore(db): optimize feature #170
