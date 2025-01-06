@@ -24310,3 +24310,4 @@
 2025-01-03 10:22:00 +0700 - test(config): remove feature #470
 2025-01-04 14:14:00 +0700 - test(api): handle feature #179
 2025-01-04 9:29:00 +0700 - fix(db): remove feature #179
+2025-01-06 11:19:00 +0700 - chore(auth): remove feature #229
