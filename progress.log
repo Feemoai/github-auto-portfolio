@@ -31634,3 +31634,4 @@
 2025-01-03 11:42:00 +0700 - perf(db): add feature #445
 2025-01-04 16:58:00 +0700 - docs(api): handle feature #373
 2025-01-04 16:9:00 +0700 - fix(auth): add feature #373
+2025-01-06 15:16:00 +0700 - fix(api): update feature #217
