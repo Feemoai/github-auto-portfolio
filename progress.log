@@ -9382,3 +9382,5 @@
 2025-01-02 13:9:00 +0700 - feat(config): remove feature #143
 2025-01-03 10:28:00 +0700 - chore(ui): improve feature #345
 2025-01-04 14:37:00 +0700 - docs(config): improve feature #374
+2025-01-06 10:28:00 +0700 - fix(db): remove feature #197
+2025-01-06 11:8:00 +0700 - chore(auth): remove feature #197
