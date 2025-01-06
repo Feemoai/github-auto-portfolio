@@ -9265,3 +9265,5 @@
 2025-01-02 15:6:00 +0700 - feat(config): remove feature #115
 2025-01-03 15:7:00 +0700 - test(config): add feature #389
 2025-01-04 13:32:00 +0700 - fix(ui): optimize feature #423
+2025-01-06 9:50:00 +0700 - feat(core): optimize feature #493
+2025-01-06 9:3:00 +0700 - perf(ui): remove feature #493
