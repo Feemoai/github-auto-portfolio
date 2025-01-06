@@ -37694,3 +37694,4 @@
 2025-01-03 11:14:00 +0700 - test(db): add feature #181
 2025-01-03 13:42:00 +0700 - fix(ui): optimize feature #181
 2025-01-04 10:0:00 +0700 - perf(db): improve feature #280
+2025-01-06 10:42:00 +0700 - fix(api): optimize feature #136
