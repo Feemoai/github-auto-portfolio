@@ -52532,3 +52532,5 @@
 2025-01-02 9:42:00 +0700 - feat(core): update feature #354
 2025-01-03 15:8:00 +0700 - perf(auth): update feature #266
 2025-01-04 15:46:00 +0700 - test(auth): add feature #267
+2025-01-06 9:49:00 +0700 - test(config): optimize feature #417
+2025-01-06 16:8:00 +0700 - perf(config): add feature #417
