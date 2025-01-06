@@ -67060,3 +67060,4 @@
 2025-01-03 11:25:00 +0700 - fix(core): update feature #484
 2025-01-04 12:47:00 +0700 - perf(ui): handle feature #498
 2025-01-06 10:47:00 +0700 - docs(core): remove feature #454
+2025-01-06 14:0:00 +0700 - perf(api): update feature #454
