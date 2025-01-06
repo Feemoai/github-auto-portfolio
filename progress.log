@@ -9851,3 +9851,5 @@
 2025-01-02 16:39:00 +0700 - feat(auth): update feature #185
 2025-01-03 11:20:00 +0700 - perf(core): update feature #403
 2025-01-04 11:10:00 +0700 - perf(db): optimize feature #467
+2025-01-06 16:36:00 +0700 - test(auth): improve feature #440
+2025-01-06 12:41:00 +0700 - test(auth): remove feature #440
