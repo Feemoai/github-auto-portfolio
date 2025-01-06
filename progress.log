@@ -619,3 +619,4 @@
 2025-01-02 16:23:00 +0700 - fix(core): handle feature #396
 2025-01-03 15:55:00 +0700 - refactor(db): remove feature #215
 2025-01-04 10:12:00 +0700 - feat(config): optimize feature #369
+2025-01-06 12:4:00 +0700 - feat(ui): remove feature #462
