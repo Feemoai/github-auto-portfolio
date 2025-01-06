@@ -39853,3 +39853,4 @@
 2025-01-03 16:49:00 +0700 - chore(config): add feature #263
 2025-01-04 9:52:00 +0700 - test(core): add feature #113
 2025-01-04 9:21:00 +0700 - docs(db): optimize feature #113
+2025-01-06 15:43:00 +0700 - fix(ui): handle feature #310
