@@ -26304,3 +26304,4 @@
 2025-01-03 15:43:00 +0700 - test(api): add feature #205
 2025-01-04 12:39:00 +0700 - test(ui): update feature #462
 2025-01-04 16:47:00 +0700 - feat(ui): optimize feature #462
+2025-01-06 10:46:00 +0700 - refactor(auth): handle feature #155
