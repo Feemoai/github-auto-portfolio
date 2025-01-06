@@ -26764,3 +26764,4 @@
 2025-01-03 12:18:00 +0700 - perf(core): optimize feature #140
 2025-01-04 9:31:00 +0700 - refactor(db): update feature #134
 2025-01-04 15:31:00 +0700 - refactor(config): improve feature #134
+2025-01-06 16:15:00 +0700 - perf(api): improve feature #362
