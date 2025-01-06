@@ -67513,3 +67513,4 @@
 2025-01-02 11:33:00 +0700 - fix(core): update feature #126
 2025-01-03 10:41:00 +0700 - refactor(core): optimize feature #242
 2025-01-04 11:6:00 +0700 - feat(core): add feature #180
+2025-01-06 13:24:00 +0700 - refactor(config): remove feature #132
