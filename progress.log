@@ -40205,3 +40205,4 @@
 2025-01-03 16:29:00 +0700 - fix(auth): optimize feature #456
 2025-01-04 11:10:00 +0700 - feat(core): handle feature #325
 2025-01-04 9:47:00 +0700 - feat(api): remove feature #325
+2025-01-06 12:51:00 +0700 - fix(ui): update feature #202
