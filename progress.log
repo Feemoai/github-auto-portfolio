@@ -5693,3 +5693,4 @@
 2025-01-03 11:6:00 +0700 - fix(ui): optimize feature #227
 2025-01-03 15:7:00 +0700 - test(auth): handle feature #227
 2025-01-04 11:17:00 +0700 - chore(core): handle feature #479
+2025-01-06 16:10:00 +0700 - chore(core): improve feature #412
