@@ -60230,3 +60230,4 @@
 2025-01-03 11:40:00 +0700 - chore(ui): optimize feature #355
 2025-01-03 9:31:00 +0700 - fix(auth): update feature #355
 2025-01-04 9:46:00 +0700 - fix(core): remove feature #239
+2025-01-06 9:19:00 +0700 - docs(auth): handle feature #175
