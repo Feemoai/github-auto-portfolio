@@ -63702,3 +63702,4 @@
 2025-01-03 13:28:00 +0700 - refactor(api): optimize feature #398
 2025-01-04 13:5:00 +0700 - test(core): update feature #304
 2025-01-04 12:56:00 +0700 - refactor(api): remove feature #304
+2025-01-06 15:15:00 +0700 - refactor(db): remove feature #354
