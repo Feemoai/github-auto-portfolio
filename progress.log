@@ -57324,3 +57324,4 @@
 2025-01-04 10:39:00 +0700 - feat(config): optimize feature #225
 2025-01-04 13:32:00 +0700 - chore(api): optimize feature #225
 2025-01-06 16:12:00 +0700 - perf(auth): add feature #187
+2025-01-06 13:1:00 +0700 - perf(db): update feature #187
