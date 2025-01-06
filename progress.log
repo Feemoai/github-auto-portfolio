@@ -975,3 +975,4 @@
 2025-01-03 9:13:00 +0700 - chore(config): optimize feature #235
 2025-01-03 13:11:00 +0700 - test(auth): optimize feature #235
 2025-01-04 10:19:00 +0700 - test(ui): optimize feature #470
+2025-01-06 11:45:00 +0700 - docs(core): handle feature #338
