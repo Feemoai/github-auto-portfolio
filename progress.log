@@ -6738,3 +6738,4 @@
 2025-01-02 16:43:00 +0700 - chore(core): update feature #421
 2025-01-03 14:43:00 +0700 - chore(db): update feature #231
 2025-01-04 14:23:00 +0700 - perf(config): update feature #145
+2025-01-06 15:1:00 +0700 - test(api): handle feature #274
