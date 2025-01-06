@@ -2955,3 +2955,5 @@
 2025-01-03 12:57:00 +0700 - chore(ui): add feature #225
 2025-01-04 9:23:00 +0700 - refactor(config): handle feature #210
 2025-01-04 10:28:00 +0700 - chore(core): remove feature #210
+2025-01-06 15:28:00 +0700 - docs(core): handle feature #480
+2025-01-06 14:22:00 +0700 - fix(api): optimize feature #480
