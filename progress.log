@@ -55968,3 +55968,5 @@
 2025-01-03 10:24:00 +0700 - docs(api): add feature #155
 2025-01-04 14:47:00 +0700 - refactor(auth): handle feature #372
 2025-01-04 12:5:00 +0700 - test(ui): handle feature #372
+2025-01-06 9:18:00 +0700 - perf(auth): handle feature #138
+2025-01-06 13:43:00 +0700 - fix(api): handle feature #138
