@@ -41263,3 +41263,4 @@
 2025-01-04 14:20:00 +0700 - fix(config): update feature #171
 2025-01-04 9:24:00 +0700 - chore(config): improve feature #171
 2025-01-06 10:3:00 +0700 - perf(db): add feature #363
+2025-01-06 16:25:00 +0700 - fix(auth): handle feature #363
