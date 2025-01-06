@@ -28282,3 +28282,4 @@
 2025-01-02 11:54:00 +0700 - docs(api): update feature #389
 2025-01-03 15:19:00 +0700 - feat(auth): remove feature #244
 2025-01-04 16:25:00 +0700 - chore(auth): handle feature #316
+2025-01-06 11:4:00 +0700 - test(ui): add feature #161
