@@ -6624,3 +6624,4 @@
 2025-01-03 10:48:00 +0700 - docs(db): improve feature #370
 2025-01-04 12:8:00 +0700 - test(db): handle feature #301
 2025-01-04 9:19:00 +0700 - feat(ui): remove feature #301
+2025-01-06 11:10:00 +0700 - fix(api): handle feature #245
