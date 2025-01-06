@@ -7539,3 +7539,4 @@
 2025-01-03 12:5:00 +0700 - test(db): remove feature #157
 2025-01-04 13:26:00 +0700 - refactor(core): update feature #418
 2025-01-04 11:40:00 +0700 - chore(db): add feature #418
+2025-01-06 11:29:00 +0700 - feat(auth): handle feature #444
