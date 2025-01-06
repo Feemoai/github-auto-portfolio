@@ -16163,3 +16163,4 @@
 2025-01-03 14:26:00 +0700 - fix(core): add feature #479
 2025-01-04 10:31:00 +0700 - perf(ui): add feature #127
 2025-01-04 10:45:00 +0700 - fix(config): handle feature #127
+2025-01-06 12:40:00 +0700 - fix(api): handle feature #371
