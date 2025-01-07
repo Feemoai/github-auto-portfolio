@@ -6039,3 +6039,4 @@
 2025-01-04 14:3:00 +0700 - feat(core): remove feature #415
 2025-01-06 14:34:00 +0700 - docs(ui): remove feature #388
 2025-01-07 11:27:00 +0700 - perf(db): remove feature #482
+2025-01-07 11:31:00 +0700 - test(auth): update feature #482
