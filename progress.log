@@ -4677,3 +4677,4 @@
 2025-01-06 15:43:00 +0700 - test(auth): remove feature #431
 2025-01-06 16:25:00 +0700 - docs(config): optimize feature #431
 2025-01-07 11:41:00 +0700 - chore(core): add feature #366
+2025-01-07 14:9:00 +0700 - refactor(ui): update feature #366
