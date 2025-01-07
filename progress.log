@@ -4904,3 +4904,5 @@
 2025-01-04 14:32:00 +0700 - docs(api): optimize feature #312
 2025-01-04 15:47:00 +0700 - perf(config): remove feature #312
 2025-01-06 11:3:00 +0700 - refactor(ui): improve feature #205
+2025-01-07 16:24:00 +0700 - perf(auth): handle feature #253
+2025-01-07 12:40:00 +0700 - refactor(api): handle feature #253
