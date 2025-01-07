@@ -37234,3 +37234,4 @@
 2025-01-06 12:1:00 +0700 - fix(ui): handle feature #124
 2025-01-06 10:11:00 +0700 - feat(auth): handle feature #124
 2025-01-07 9:12:00 +0700 - refactor(api): optimize feature #453
+2025-01-07 16:7:00 +0700 - test(core): optimize feature #453
