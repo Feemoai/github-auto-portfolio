@@ -12469,3 +12469,4 @@
 2025-01-04 12:26:00 +0700 - fix(api): optimize feature #143
 2025-01-06 14:11:00 +0700 - perf(db): update feature #283
 2025-01-06 10:54:00 +0700 - chore(config): remove feature #283
+2025-01-07 9:0:00 +0700 - perf(config): improve feature #150
