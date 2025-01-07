@@ -8591,3 +8591,4 @@
 2025-01-04 13:47:00 +0700 - test(db): improve feature #327
 2025-01-04 10:5:00 +0700 - chore(api): handle feature #327
 2025-01-06 16:36:00 +0700 - refactor(api): remove feature #320
+2025-01-07 14:21:00 +0700 - refactor(config): optimize feature #254
