@@ -24073,3 +24073,5 @@
 2025-01-03 13:25:00 +0700 - docs(config): improve feature #321
 2025-01-04 16:48:00 +0700 - test(config): remove feature #336
 2025-01-06 13:10:00 +0700 - fix(auth): handle feature #273
+2025-01-07 11:6:00 +0700 - refactor(core): remove feature #130
+2025-01-07 13:40:00 +0700 - test(core): handle feature #130
