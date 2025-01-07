@@ -32206,3 +32206,4 @@
 2025-01-04 12:14:00 +0700 - fix(db): remove feature #427
 2025-01-06 12:56:00 +0700 - chore(api): remove feature #326
 2025-01-06 10:50:00 +0700 - perf(config): remove feature #326
+2025-01-07 14:19:00 +0700 - test(auth): remove feature #492
