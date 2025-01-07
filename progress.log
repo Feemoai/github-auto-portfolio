@@ -29083,3 +29083,4 @@
 2025-01-03 15:26:00 +0700 - refactor(api): optimize feature #345
 2025-01-04 10:34:00 +0700 - chore(auth): handle feature #267
 2025-01-06 15:29:00 +0700 - test(api): handle feature #147
+2025-01-07 14:32:00 +0700 - fix(db): add feature #247
