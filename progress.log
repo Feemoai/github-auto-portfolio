@@ -18488,3 +18488,4 @@
 2025-01-06 14:36:00 +0700 - test(core): add feature #304
 2025-01-06 15:46:00 +0700 - chore(core): handle feature #304
 2025-01-07 9:55:00 +0700 - test(config): optimize feature #244
+2025-01-07 12:40:00 +0700 - fix(auth): optimize feature #244
