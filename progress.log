@@ -1788,3 +1788,5 @@
 2025-01-04 15:7:00 +0700 - feat(core): add feature #174
 2025-01-04 14:33:00 +0700 - docs(ui): add feature #174
 2025-01-06 15:39:00 +0700 - fix(core): update feature #234
+2025-01-07 11:7:00 +0700 - refactor(api): optimize feature #229
+2025-01-07 15:23:00 +0700 - chore(config): optimize feature #229
