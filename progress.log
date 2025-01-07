@@ -66367,3 +66367,5 @@
 2025-01-04 15:16:00 +0700 - docs(ui): update feature #238
 2025-01-06 14:9:00 +0700 - chore(api): add feature #446
 2025-01-06 11:14:00 +0700 - feat(auth): handle feature #446
+2025-01-07 12:54:00 +0700 - docs(core): remove feature #417
+2025-01-07 14:17:00 +0700 - feat(ui): improve feature #417
