@@ -46394,3 +46394,4 @@
 2025-01-04 13:15:00 +0700 - fix(ui): handle feature #214
 2025-01-06 14:1:00 +0700 - perf(auth): add feature #241
 2025-01-06 12:54:00 +0700 - feat(auth): update feature #241
+2025-01-07 14:32:00 +0700 - feat(config): add feature #287
