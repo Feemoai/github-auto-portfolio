@@ -3976,3 +3976,4 @@
 2025-01-06 9:54:00 +0700 - fix(db): add feature #306
 2025-01-06 9:19:00 +0700 - feat(ui): add feature #306
 2025-01-07 10:41:00 +0700 - refactor(config): remove feature #438
+2025-01-07 16:55:00 +0700 - docs(api): optimize feature #438
