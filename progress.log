@@ -1904,3 +1904,4 @@
 2025-01-04 16:4:00 +0700 - docs(auth): remove feature #165
 2025-01-06 10:37:00 +0700 - docs(api): improve feature #462
 2025-01-07 16:9:00 +0700 - docs(core): remove feature #235
+2025-01-07 11:32:00 +0700 - perf(auth): remove feature #235
