@@ -741,3 +741,5 @@
 2025-01-03 12:53:00 +0700 - fix(db): update feature #172
 2025-01-04 13:13:00 +0700 - fix(auth): handle feature #165
 2025-01-06 11:30:00 +0700 - docs(config): improve feature #186
+2025-01-07 10:14:00 +0700 - fix(ui): handle feature #340
+2025-01-07 16:1:00 +0700 - chore(api): add feature #340
