@@ -46267,3 +46267,5 @@
 2025-01-04 16:14:00 +0700 - chore(config): handle feature #247
 2025-01-04 11:48:00 +0700 - refactor(ui): optimize feature #247
 2025-01-06 9:43:00 +0700 - perf(ui): improve feature #439
+2025-01-07 13:52:00 +0700 - docs(db): remove feature #343
+2025-01-07 13:15:00 +0700 - feat(auth): optimize feature #343
