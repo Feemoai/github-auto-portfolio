@@ -36313,3 +36313,4 @@
 2025-01-04 16:27:00 +0700 - feat(ui): improve feature #410
 2025-01-04 10:47:00 +0700 - feat(db): handle feature #410
 2025-01-06 14:10:00 +0700 - docs(auth): handle feature #343
+2025-01-07 14:8:00 +0700 - perf(core): add feature #428
