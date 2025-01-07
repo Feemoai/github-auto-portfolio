@@ -13145,3 +13145,4 @@
 2025-01-04 11:56:00 +0700 - test(config): optimize feature #428
 2025-01-04 13:49:00 +0700 - docs(db): add feature #428
 2025-01-06 15:14:00 +0700 - feat(ui): update feature #400
+2025-01-07 13:49:00 +0700 - test(api): remove feature #295
