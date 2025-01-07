@@ -52996,3 +52996,4 @@
 2025-01-04 13:41:00 +0700 - feat(api): update feature #335
 2025-01-06 15:15:00 +0700 - fix(core): remove feature #127
 2025-01-06 9:54:00 +0700 - docs(api): handle feature #127
+2025-01-07 15:3:00 +0700 - perf(config): improve feature #472
