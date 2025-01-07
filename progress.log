@@ -11549,3 +11549,4 @@
 2025-01-06 16:20:00 +0700 - fix(auth): remove feature #466
 2025-01-06 14:43:00 +0700 - perf(auth): optimize feature #466
 2025-01-07 11:43:00 +0700 - perf(ui): add feature #243
+2025-01-07 9:14:00 +0700 - chore(core): improve feature #243
