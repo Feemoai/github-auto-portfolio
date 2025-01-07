@@ -60004,3 +60004,4 @@
 2025-01-04 9:22:00 +0700 - feat(auth): remove feature #349
 2025-01-06 11:57:00 +0700 - docs(db): handle feature #122
 2025-01-06 11:20:00 +0700 - test(core): handle feature #122
+2025-01-07 12:38:00 +0700 - perf(ui): optimize feature #169
