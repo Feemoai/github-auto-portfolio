@@ -40320,3 +40320,4 @@
 2025-01-06 9:28:00 +0700 - docs(ui): update feature #217
 2025-01-07 10:42:00 +0700 - docs(core): remove feature #386
 2025-01-07 10:46:00 +0700 - feat(auth): add feature #386
+2025-01-08 16:14:00 +0700 - feat(config): handle feature #206
