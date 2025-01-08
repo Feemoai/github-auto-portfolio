@@ -1327,3 +1327,4 @@
 2025-01-06 14:52:00 +0700 - test(db): optimize feature #463
 2025-01-07 10:39:00 +0700 - test(api): remove feature #450
 2025-01-08 12:7:00 +0700 - refactor(auth): add feature #101
+2025-01-08 9:41:00 +0700 - chore(auth): improve feature #101
