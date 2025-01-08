@@ -7423,3 +7423,4 @@
 2025-01-06 13:55:00 +0700 - feat(ui): optimize feature #201
 2025-01-06 11:3:00 +0700 - chore(db): improve feature #201
 2025-01-07 15:50:00 +0700 - test(db): improve feature #272
+2025-01-08 11:29:00 +0700 - perf(config): add feature #286
