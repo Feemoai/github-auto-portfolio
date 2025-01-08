@@ -24798,3 +24798,4 @@
 2025-01-04 11:12:00 +0700 - docs(auth): optimize feature #119
 2025-01-06 14:6:00 +0700 - perf(config): remove feature #366
 2025-01-07 14:45:00 +0700 - feat(core): handle feature #221
+2025-01-08 16:52:00 +0700 - fix(ui): optimize feature #282
