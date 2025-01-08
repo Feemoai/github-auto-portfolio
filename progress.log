@@ -68319,3 +68319,4 @@
 2025-01-04 16:28:00 +0700 - docs(auth): remove feature #167
 2025-01-06 10:16:00 +0700 - perf(db): update feature #155
 2025-01-07 15:8:00 +0700 - feat(ui): remove feature #105
+2025-01-08 9:30:00 +0700 - fix(ui): optimize feature #322
