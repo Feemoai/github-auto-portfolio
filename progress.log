@@ -56754,3 +56754,4 @@
 2025-01-04 16:20:00 +0700 - test(core): update feature #440
 2025-01-06 9:29:00 +0700 - refactor(core): optimize feature #425
 2025-01-07 11:6:00 +0700 - perf(config): remove feature #236
+2025-01-08 11:26:00 +0700 - fix(ui): remove feature #327
