@@ -33041,3 +33041,4 @@
 2025-01-07 9:27:00 +0700 - feat(ui): improve feature #253
 2025-01-07 9:31:00 +0700 - chore(auth): add feature #253
 2025-01-08 15:46:00 +0700 - perf(auth): handle feature #274
+2025-01-08 13:38:00 +0700 - fix(db): add feature #274
