@@ -2609,3 +2609,4 @@
 2025-01-07 9:4:00 +0700 - fix(db): handle feature #341
 2025-01-07 9:29:00 +0700 - test(config): remove feature #341
 2025-01-08 13:27:00 +0700 - fix(db): remove feature #181
+2025-01-08 16:43:00 +0700 - docs(ui): improve feature #181
