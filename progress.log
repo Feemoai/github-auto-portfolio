@@ -16404,3 +16404,5 @@
 2025-01-06 12:54:00 +0700 - docs(ui): optimize feature #309
 2025-01-07 11:40:00 +0700 - test(db): handle feature #368
 2025-01-07 12:0:00 +0700 - perf(ui): remove feature #368
+2025-01-08 12:51:00 +0700 - chore(config): remove feature #232
+2025-01-08 9:13:00 +0700 - fix(core): optimize feature #232
