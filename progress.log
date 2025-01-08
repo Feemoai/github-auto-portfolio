@@ -26654,3 +26654,4 @@
 2025-01-06 13:52:00 +0700 - chore(ui): update feature #257
 2025-01-07 11:52:00 +0700 - fix(db): improve feature #432
 2025-01-08 13:18:00 +0700 - test(ui): remove feature #291
+2025-01-08 15:20:00 +0700 - fix(api): optimize feature #291
