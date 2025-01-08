@@ -60688,3 +60688,4 @@
 2025-01-07 16:23:00 +0700 - test(ui): add feature #322
 2025-01-07 16:21:00 +0700 - test(api): update feature #322
 2025-01-08 12:45:00 +0700 - refactor(api): optimize feature #146
+2025-01-08 11:13:00 +0700 - feat(db): remove feature #146
