@@ -10078,3 +10078,4 @@
 2025-01-06 13:52:00 +0700 - fix(db): handle feature #390
 2025-01-07 9:28:00 +0700 - feat(auth): add feature #407
 2025-01-07 15:54:00 +0700 - fix(ui): optimize feature #407
+2025-01-08 13:1:00 +0700 - refactor(api): optimize feature #282
