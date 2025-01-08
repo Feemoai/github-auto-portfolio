@@ -61041,3 +61041,5 @@
 2025-01-06 11:1:00 +0700 - docs(auth): improve feature #364
 2025-01-06 15:15:00 +0700 - perf(core): update feature #364
 2025-01-07 14:5:00 +0700 - perf(api): add feature #317
+2025-01-08 9:21:00 +0700 - fix(core): optimize feature #402
+2025-01-08 12:39:00 +0700 - perf(core): improve feature #402
