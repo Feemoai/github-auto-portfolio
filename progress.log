@@ -59776,3 +59776,4 @@
 2025-01-07 15:9:00 +0700 - fix(db): improve feature #341
 2025-01-07 16:9:00 +0700 - feat(config): handle feature #341
 2025-01-08 16:54:00 +0700 - refactor(db): optimize feature #355
+2025-01-08 9:2:00 +0700 - chore(core): remove feature #355
