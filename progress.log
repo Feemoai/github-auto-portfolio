@@ -26767,3 +26767,4 @@
 2025-01-06 16:15:00 +0700 - perf(api): improve feature #362
 2025-01-07 10:19:00 +0700 - feat(config): add feature #233
 2025-01-08 11:38:00 +0700 - fix(core): improve feature #458
+2025-01-08 10:24:00 +0700 - perf(config): handle feature #458
