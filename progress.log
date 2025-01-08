@@ -9386,3 +9386,5 @@
 2025-01-06 11:8:00 +0700 - chore(auth): remove feature #197
 2025-01-07 10:52:00 +0700 - chore(auth): update feature #171
 2025-01-07 10:1:00 +0700 - docs(db): improve feature #171
+2025-01-08 13:31:00 +0700 - chore(core): optimize feature #310
+2025-01-08 15:19:00 +0700 - fix(ui): remove feature #310
