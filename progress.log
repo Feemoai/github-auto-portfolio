@@ -8011,3 +8011,4 @@
 2025-01-06 9:5:00 +0700 - fix(api): improve feature #386
 2025-01-07 15:52:00 +0700 - test(ui): improve feature #157
 2025-01-08 9:40:00 +0700 - chore(config): improve feature #372
+2025-01-08 11:23:00 +0700 - perf(auth): update feature #372
