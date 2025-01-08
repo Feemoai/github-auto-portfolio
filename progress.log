@@ -8358,3 +8358,4 @@
 2025-01-06 15:49:00 +0700 - refactor(config): optimize feature #277
 2025-01-06 10:40:00 +0700 - feat(api): improve feature #277
 2025-01-07 11:28:00 +0700 - refactor(core): update feature #444
+2025-01-08 14:50:00 +0700 - test(core): remove feature #383
