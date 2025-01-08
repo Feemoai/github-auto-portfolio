@@ -27605,3 +27605,4 @@
 2025-01-06 15:33:00 +0700 - test(api): update feature #325
 2025-01-06 15:12:00 +0700 - fix(api): handle feature #325
 2025-01-07 14:33:00 +0700 - perf(config): remove feature #173
+2025-01-08 11:2:00 +0700 - perf(auth): handle feature #291
