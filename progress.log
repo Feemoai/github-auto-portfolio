@@ -11321,3 +11321,5 @@
 2025-01-06 9:15:00 +0700 - chore(ui): optimize feature #271
 2025-01-06 16:7:00 +0700 - docs(ui): handle feature #271
 2025-01-07 13:20:00 +0700 - chore(config): handle feature #312
+2025-01-08 16:57:00 +0700 - refactor(ui): handle feature #278
+2025-01-08 16:43:00 +0700 - fix(ui): update feature #278
