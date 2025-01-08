@@ -46027,3 +46027,4 @@
 2025-01-07 10:24:00 +0700 - chore(api): add feature #341
 2025-01-07 11:11:00 +0700 - perf(core): remove feature #341
 2025-01-08 12:39:00 +0700 - docs(core): update feature #404
+2025-01-08 12:17:00 +0700 - feat(db): handle feature #404
