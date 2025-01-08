@@ -6859,3 +6859,4 @@
 2025-01-07 11:56:00 +0700 - perf(api): handle feature #129
 2025-01-07 9:31:00 +0700 - test(core): improve feature #129
 2025-01-08 12:0:00 +0700 - perf(db): add feature #171
+2025-01-08 15:19:00 +0700 - refactor(config): optimize feature #171
