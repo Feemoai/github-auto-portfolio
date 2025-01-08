@@ -5927,3 +5927,5 @@
 2025-01-06 14:47:00 +0700 - test(core): optimize feature #348
 2025-01-06 15:40:00 +0700 - perf(db): update feature #348
 2025-01-07 15:15:00 +0700 - test(db): handle feature #123
+2025-01-08 16:24:00 +0700 - fix(auth): update feature #467
+2025-01-08 16:32:00 +0700 - chore(auth): handle feature #467
