@@ -21896,3 +21896,4 @@
 2025-01-06 10:20:00 +0700 - docs(api): optimize feature #206
 2025-01-07 9:23:00 +0700 - refactor(auth): remove feature #379
 2025-01-08 13:54:00 +0700 - chore(config): optimize feature #146
+2025-01-08 13:56:00 +0700 - feat(api): remove feature #146
