@@ -36428,3 +36428,4 @@
 2025-01-06 11:53:00 +0700 - chore(core): handle feature #301
 2025-01-06 9:2:00 +0700 - refactor(auth): remove feature #301
 2025-01-07 14:9:00 +0700 - docs(api): handle feature #287
+2025-01-08 9:9:00 +0700 - feat(api): update feature #260
