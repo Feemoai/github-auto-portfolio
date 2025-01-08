@@ -17675,3 +17675,4 @@
 2025-01-07 11:12:00 +0700 - feat(ui): remove feature #374
 2025-01-07 13:4:00 +0700 - test(ui): improve feature #374
 2025-01-08 14:11:00 +0700 - test(auth): update feature #418
+2025-01-08 15:34:00 +0700 - fix(ui): remove feature #418
