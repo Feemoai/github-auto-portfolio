@@ -13845,3 +13845,4 @@
 2025-01-07 15:2:00 +0700 - feat(core): add feature #320
 2025-01-07 12:6:00 +0700 - test(config): add feature #320
 2025-01-08 13:59:00 +0700 - feat(ui): handle feature #257
+2025-01-08 10:46:00 +0700 - perf(ui): remove feature #257
