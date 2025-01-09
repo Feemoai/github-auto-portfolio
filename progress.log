@@ -44070,3 +44070,4 @@
 2025-01-08 13:44:00 +0700 - chore(api): handle feature #348
 2025-01-08 13:7:00 +0700 - docs(db): handle feature #348
 2025-01-09 11:46:00 +0700 - feat(api): remove feature #314
+2025-01-09 15:52:00 +0700 - test(core): update feature #314
