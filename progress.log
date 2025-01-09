@@ -16745,3 +16745,5 @@
 2025-01-07 10:20:00 +0700 - test(api): remove feature #222
 2025-01-08 12:44:00 +0700 - feat(auth): remove feature #352
 2025-01-08 16:19:00 +0700 - docs(ui): optimize feature #352
+2025-01-09 14:12:00 +0700 - refactor(core): update feature #244
+2025-01-09 15:31:00 +0700 - refactor(config): optimize feature #244
