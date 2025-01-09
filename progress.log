@@ -18022,3 +18022,4 @@
 2025-01-07 15:17:00 +0700 - test(auth): remove feature #446
 2025-01-08 16:57:00 +0700 - perf(db): optimize feature #268
 2025-01-08 10:45:00 +0700 - feat(db): optimize feature #268
+2025-01-09 13:7:00 +0700 - perf(auth): handle feature #190
