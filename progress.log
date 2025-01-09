@@ -40915,3 +40915,4 @@
 2025-01-07 11:18:00 +0700 - docs(auth): update feature #267
 2025-01-08 9:30:00 +0700 - docs(config): handle feature #105
 2025-01-08 14:14:00 +0700 - test(ui): improve feature #105
+2025-01-09 13:57:00 +0700 - feat(api): remove feature #338
