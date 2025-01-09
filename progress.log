@@ -38494,3 +38494,5 @@
 2025-01-07 11:48:00 +0700 - test(db): add feature #483
 2025-01-08 16:39:00 +0700 - docs(config): update feature #472
 2025-01-08 13:3:00 +0700 - refactor(db): remove feature #472
+2025-01-09 14:14:00 +0700 - perf(api): handle feature #310
+2025-01-09 9:41:00 +0700 - fix(db): update feature #310
