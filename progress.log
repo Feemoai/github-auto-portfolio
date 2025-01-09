@@ -13496,3 +13496,4 @@
 2025-01-07 9:8:00 +0700 - fix(api): optimize feature #390
 2025-01-07 9:41:00 +0700 - chore(core): update feature #390
 2025-01-08 14:26:00 +0700 - test(core): handle feature #454
+2025-01-09 12:41:00 +0700 - test(config): handle feature #172
