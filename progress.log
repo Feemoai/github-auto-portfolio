@@ -6278,3 +6278,4 @@
 2025-01-07 9:23:00 +0700 - test(config): remove feature #179
 2025-01-07 11:54:00 +0700 - refactor(core): update feature #179
 2025-01-08 13:3:00 +0700 - refactor(api): optimize feature #135
+2025-01-09 11:24:00 +0700 - chore(api): add feature #277
