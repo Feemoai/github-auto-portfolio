@@ -35038,3 +35038,4 @@
 2025-01-08 12:24:00 +0700 - feat(core): add feature #418
 2025-01-08 13:10:00 +0700 - feat(auth): optimize feature #418
 2025-01-09 14:28:00 +0700 - feat(config): optimize feature #334
+2025-01-09 9:41:00 +0700 - refactor(core): optimize feature #334
