@@ -2021,3 +2021,5 @@
 2025-01-06 16:58:00 +0700 - refactor(config): handle feature #348
 2025-01-07 12:25:00 +0700 - refactor(api): add feature #239
 2025-01-08 11:4:00 +0700 - feat(core): add feature #255
+2025-01-09 15:24:00 +0700 - refactor(ui): handle feature #330
+2025-01-09 10:27:00 +0700 - fix(api): improve feature #330
