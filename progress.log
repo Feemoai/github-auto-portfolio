@@ -41619,3 +41619,5 @@
 2025-01-07 9:1:00 +0700 - feat(core): add feature #421
 2025-01-07 10:11:00 +0700 - perf(core): remove feature #421
 2025-01-08 9:31:00 +0700 - refactor(core): improve feature #310
+2025-01-09 15:20:00 +0700 - chore(auth): update feature #470
+2025-01-09 10:33:00 +0700 - perf(auth): improve feature #470
