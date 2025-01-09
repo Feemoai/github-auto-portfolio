@@ -1792,3 +1792,5 @@
 2025-01-07 15:23:00 +0700 - chore(config): optimize feature #229
 2025-01-08 11:7:00 +0700 - fix(auth): remove feature #212
 2025-01-08 9:9:00 +0700 - feat(ui): update feature #212
+2025-01-09 9:56:00 +0700 - chore(api): handle feature #137
+2025-01-09 11:14:00 +0700 - fix(config): improve feature #137
