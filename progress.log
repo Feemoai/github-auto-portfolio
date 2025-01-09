@@ -7085,3 +7085,5 @@
 2025-01-07 16:12:00 +0700 - perf(auth): handle feature #457
 2025-01-07 11:50:00 +0700 - test(config): remove feature #457
 2025-01-08 12:1:00 +0700 - docs(api): remove feature #406
+2025-01-09 16:34:00 +0700 - perf(api): handle feature #341
+2025-01-09 9:12:00 +0700 - feat(config): handle feature #341
