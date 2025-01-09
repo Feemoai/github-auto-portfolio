@@ -22361,3 +22361,4 @@
 2025-01-08 14:53:00 +0700 - docs(auth): add feature #161
 2025-01-08 13:39:00 +0700 - refactor(db): update feature #161
 2025-01-09 10:56:00 +0700 - perf(ui): remove feature #467
+2025-01-09 11:55:00 +0700 - test(core): handle feature #467
