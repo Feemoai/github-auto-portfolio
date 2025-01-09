@@ -21312,3 +21312,4 @@
 2025-01-08 16:14:00 +0700 - feat(api): improve feature #270
 2025-01-08 9:44:00 +0700 - feat(ui): optimize feature #270
 2025-01-09 13:3:00 +0700 - fix(core): optimize feature #189
+2025-01-09 15:32:00 +0700 - fix(db): remove feature #189
