@@ -44868,3 +44868,4 @@
 2025-01-07 10:21:00 +0700 - test(config): remove feature #107
 2025-01-08 12:59:00 +0700 - docs(config): update feature #180
 2025-01-08 16:31:00 +0700 - test(db): optimize feature #180
+2025-01-09 12:27:00 +0700 - docs(auth): optimize feature #396
