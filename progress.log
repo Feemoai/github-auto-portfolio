@@ -61718,3 +61718,4 @@
 2025-01-08 12:30:00 +0700 - feat(db): handle feature #213
 2025-01-08 14:47:00 +0700 - fix(core): add feature #213
 2025-01-09 10:0:00 +0700 - perf(core): remove feature #153
+2025-01-09 12:4:00 +0700 - perf(ui): improve feature #153
