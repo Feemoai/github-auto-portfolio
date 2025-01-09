@@ -20847,3 +20847,4 @@
 2025-01-07 13:53:00 +0700 - docs(config): remove feature #369
 2025-01-08 11:42:00 +0700 - perf(api): remove feature #210
 2025-01-08 9:17:00 +0700 - perf(config): handle feature #210
+2025-01-09 16:14:00 +0700 - fix(config): improve feature #334
