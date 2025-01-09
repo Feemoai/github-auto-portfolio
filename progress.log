@@ -2725,3 +2725,4 @@
 2025-01-07 14:12:00 +0700 - perf(core): update feature #374
 2025-01-08 16:33:00 +0700 - perf(config): improve feature #433
 2025-01-09 14:8:00 +0700 - chore(auth): update feature #366
+2025-01-09 9:9:00 +0700 - feat(api): handle feature #366
