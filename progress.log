@@ -35970,3 +35970,4 @@
 2025-01-08 14:3:00 +0700 - refactor(config): improve feature #381
 2025-01-08 12:17:00 +0700 - perf(config): improve feature #381
 2025-01-09 14:14:00 +0700 - refactor(ui): optimize feature #367
+2025-01-09 13:6:00 +0700 - perf(api): improve feature #367
