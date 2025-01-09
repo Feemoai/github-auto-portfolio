@@ -9626,3 +9626,4 @@
 2025-01-07 14:39:00 +0700 - fix(ui): handle feature #384
 2025-01-08 12:6:00 +0700 - feat(core): remove feature #332
 2025-01-08 12:10:00 +0700 - docs(config): improve feature #332
+2025-01-09 15:5:00 +0700 - fix(config): add feature #234
