@@ -13614,3 +13614,4 @@
 2025-01-07 9:47:00 +0700 - perf(auth): optimize feature #268
 2025-01-08 9:38:00 +0700 - perf(config): add feature #221
 2025-01-08 14:41:00 +0700 - perf(db): optimize feature #221
+2025-01-09 9:26:00 +0700 - test(core): remove feature #428
