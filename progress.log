@@ -3519,3 +3519,5 @@
 2025-01-07 9:57:00 +0700 - test(core): handle feature #470
 2025-01-08 11:7:00 +0700 - test(core): remove feature #360
 2025-01-08 10:40:00 +0700 - feat(ui): improve feature #360
+2025-01-09 11:41:00 +0700 - perf(auth): handle feature #158
+2025-01-09 10:44:00 +0700 - test(auth): update feature #158
