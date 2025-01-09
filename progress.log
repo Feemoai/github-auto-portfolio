@@ -5362,3 +5362,4 @@
 2025-01-07 16:37:00 +0700 - perf(ui): remove feature #333
 2025-01-07 16:6:00 +0700 - perf(ui): handle feature #333
 2025-01-08 15:35:00 +0700 - fix(config): remove feature #189
+2025-01-09 11:10:00 +0700 - fix(auth): handle feature #395
