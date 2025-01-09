@@ -2849,3 +2849,4 @@
 2025-01-07 11:52:00 +0700 - perf(ui): improve feature #154
 2025-01-08 13:26:00 +0700 - refactor(config): remove feature #474
 2025-01-08 12:35:00 +0700 - feat(core): improve feature #474
+2025-01-09 9:57:00 +0700 - test(auth): remove feature #417
