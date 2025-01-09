@@ -3408,3 +3408,4 @@
 2025-01-08 14:0:00 +0700 - perf(core): optimize feature #307
 2025-01-08 11:36:00 +0700 - perf(auth): improve feature #307
 2025-01-09 16:28:00 +0700 - fix(core): update feature #143
+2025-01-09 13:16:00 +0700 - perf(db): remove feature #143
