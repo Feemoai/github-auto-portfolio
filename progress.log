@@ -56756,3 +56756,4 @@
 2025-01-07 11:6:00 +0700 - perf(config): remove feature #236
 2025-01-08 11:26:00 +0700 - fix(ui): remove feature #327
 2025-01-09 15:12:00 +0700 - refactor(config): update feature #260
+2025-01-09 11:5:00 +0700 - feat(auth): handle feature #260
