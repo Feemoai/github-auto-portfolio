@@ -47425,3 +47425,4 @@
 2025-01-08 9:5:00 +0700 - chore(core): improve feature #362
 2025-01-08 15:46:00 +0700 - test(db): update feature #362
 2025-01-09 15:4:00 +0700 - perf(ui): update feature #476
+2025-01-09 13:40:00 +0700 - fix(api): handle feature #476
