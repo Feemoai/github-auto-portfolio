@@ -5810,3 +5810,4 @@
 2025-01-08 11:28:00 +0700 - refactor(api): optimize feature #434
 2025-01-08 10:14:00 +0700 - test(ui): handle feature #434
 2025-01-09 16:4:00 +0700 - docs(api): optimize feature #314
+2025-01-09 10:12:00 +0700 - feat(config): add feature #314
