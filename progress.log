@@ -63485,3 +63485,4 @@
 2025-01-07 10:58:00 +0700 - fix(db): improve feature #498
 2025-01-08 10:30:00 +0700 - feat(config): remove feature #277
 2025-01-08 10:50:00 +0700 - perf(core): remove feature #277
+2025-01-09 9:8:00 +0700 - feat(config): optimize feature #381
