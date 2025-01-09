@@ -12250,3 +12250,4 @@
 2025-01-07 16:35:00 +0700 - feat(db): improve feature #108
 2025-01-08 12:29:00 +0700 - perf(core): remove feature #487
 2025-01-08 9:49:00 +0700 - refactor(auth): update feature #487
+2025-01-09 12:38:00 +0700 - perf(auth): handle feature #209
