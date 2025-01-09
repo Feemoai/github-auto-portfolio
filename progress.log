@@ -33623,3 +33623,4 @@
 2025-01-07 15:18:00 +0700 - perf(ui): optimize feature #293
 2025-01-08 11:6:00 +0700 - chore(core): remove feature #250
 2025-01-08 16:7:00 +0700 - perf(auth): improve feature #250
+2025-01-09 12:54:00 +0700 - fix(core): improve feature #235
