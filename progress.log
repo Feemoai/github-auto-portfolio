@@ -27376,3 +27376,4 @@
 2025-01-07 15:15:00 +0700 - feat(db): improve feature #247
 2025-01-07 13:26:00 +0700 - test(core): optimize feature #247
 2025-01-08 13:55:00 +0700 - perf(api): update feature #252
+2025-01-09 14:8:00 +0700 - chore(core): add feature #289
