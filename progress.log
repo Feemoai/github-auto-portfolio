@@ -60926,3 +60926,4 @@
 2025-01-08 15:54:00 +0700 - feat(auth): remove feature #427
 2025-01-08 15:54:00 +0700 - perf(api): improve feature #427
 2025-01-09 14:7:00 +0700 - refactor(db): improve feature #438
+2025-01-09 14:48:00 +0700 - fix(auth): update feature #438
