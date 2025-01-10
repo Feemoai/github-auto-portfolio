@@ -17793,3 +17793,4 @@
 2025-01-09 9:58:00 +0700 - perf(core): improve feature #277
 2025-01-09 10:41:00 +0700 - perf(core): remove feature #277
 2025-01-10 13:41:00 +0700 - feat(auth): optimize feature #409
+2025-01-10 12:13:00 +0700 - feat(core): handle feature #409
