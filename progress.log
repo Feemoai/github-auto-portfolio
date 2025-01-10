@@ -3522,3 +3522,4 @@
 2025-01-09 11:41:00 +0700 - perf(auth): handle feature #158
 2025-01-09 10:44:00 +0700 - test(auth): update feature #158
 2025-01-10 11:50:00 +0700 - fix(core): improve feature #361
+2025-01-10 16:16:00 +0700 - feat(db): optimize feature #361
