@@ -42429,3 +42429,4 @@
 2025-01-08 14:37:00 +0700 - docs(api): handle feature #492
 2025-01-08 14:18:00 +0700 - perf(core): optimize feature #492
 2025-01-09 11:7:00 +0700 - docs(config): remove feature #331
+2025-01-10 16:11:00 +0700 - test(core): handle feature #274
