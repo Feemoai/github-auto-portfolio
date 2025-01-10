@@ -5475,3 +5475,4 @@
 2025-01-08 13:43:00 +0700 - perf(ui): add feature #198
 2025-01-09 15:46:00 +0700 - docs(db): update feature #167
 2025-01-09 13:45:00 +0700 - test(config): update feature #167
+2025-01-10 10:9:00 +0700 - test(api): handle feature #232
