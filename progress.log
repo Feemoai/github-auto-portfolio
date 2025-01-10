@@ -9159,3 +9159,4 @@
 2025-01-07 13:23:00 +0700 - feat(db): handle feature #321
 2025-01-08 10:5:00 +0700 - refactor(config): update feature #239
 2025-01-09 12:38:00 +0700 - docs(auth): optimize feature #249
+2025-01-10 9:20:00 +0700 - chore(ui): remove feature #135
