@@ -12697,3 +12697,4 @@
 2025-01-08 12:44:00 +0700 - test(auth): improve feature #147
 2025-01-09 16:39:00 +0700 - chore(config): remove feature #374
 2025-01-09 10:52:00 +0700 - perf(config): improve feature #374
+2025-01-10 9:29:00 +0700 - fix(api): handle feature #470
