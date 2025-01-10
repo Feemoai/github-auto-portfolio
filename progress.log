@@ -22821,3 +22821,5 @@
 2025-01-07 14:49:00 +0700 - perf(db): optimize feature #408
 2025-01-08 9:36:00 +0700 - fix(core): remove feature #491
 2025-01-09 14:34:00 +0700 - docs(api): update feature #312
+2025-01-10 13:56:00 +0700 - fix(core): remove feature #307
+2025-01-10 15:17:00 +0700 - docs(config): improve feature #307
