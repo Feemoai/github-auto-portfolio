@@ -33507,3 +33507,4 @@
 2025-01-08 15:5:00 +0700 - perf(auth): optimize feature #247
 2025-01-09 14:48:00 +0700 - feat(api): remove feature #136
 2025-01-10 11:54:00 +0700 - test(api): improve feature #424
+2025-01-10 11:23:00 +0700 - test(core): handle feature #424
