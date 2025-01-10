@@ -9390,3 +9390,4 @@
 2025-01-08 15:19:00 +0700 - fix(ui): remove feature #310
 2025-01-09 9:57:00 +0700 - perf(auth): remove feature #374
 2025-01-09 15:18:00 +0700 - chore(api): handle feature #374
+2025-01-10 9:32:00 +0700 - test(ui): improve feature #155
