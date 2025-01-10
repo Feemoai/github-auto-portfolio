@@ -30252,3 +30252,5 @@
 2025-01-08 11:46:00 +0700 - docs(db): handle feature #112
 2025-01-09 9:52:00 +0700 - feat(api): remove feature #492
 2025-01-09 14:30:00 +0700 - test(db): update feature #492
+2025-01-10 13:25:00 +0700 - fix(db): remove feature #270
+2025-01-10 10:12:00 +0700 - test(config): optimize feature #270
