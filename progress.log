@@ -30479,3 +30479,4 @@
 2025-01-08 14:16:00 +0700 - docs(ui): remove feature #283
 2025-01-09 12:44:00 +0700 - perf(auth): improve feature #413
 2025-01-09 11:39:00 +0700 - test(auth): optimize feature #413
+2025-01-10 10:30:00 +0700 - feat(auth): handle feature #386
