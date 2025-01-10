@@ -63242,3 +63242,4 @@
 2025-01-08 12:48:00 +0700 - fix(core): remove feature #337
 2025-01-09 16:37:00 +0700 - perf(db): improve feature #288
 2025-01-09 10:11:00 +0700 - docs(config): handle feature #288
+2025-01-10 15:19:00 +0700 - feat(auth): remove feature #182
