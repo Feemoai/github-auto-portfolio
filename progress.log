@@ -63599,3 +63599,4 @@
 2025-01-09 13:58:00 +0700 - test(auth): remove feature #382
 2025-01-09 15:20:00 +0700 - perf(db): add feature #382
 2025-01-10 15:42:00 +0700 - fix(db): update feature #377
+2025-01-10 15:37:00 +0700 - chore(core): handle feature #377
