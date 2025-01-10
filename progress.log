@@ -41156,3 +41156,4 @@
 2025-01-08 12:32:00 +0700 - test(auth): add feature #398
 2025-01-09 14:11:00 +0700 - fix(config): add feature #120
 2025-01-09 16:45:00 +0700 - fix(api): add feature #120
+2025-01-10 10:4:00 +0700 - chore(api): remove feature #372
