@@ -11670,3 +11670,4 @@
 2025-01-08 15:45:00 +0700 - test(db): add feature #145
 2025-01-09 9:20:00 +0700 - chore(auth): handle feature #266
 2025-01-09 11:8:00 +0700 - fix(core): optimize feature #266
+2025-01-10 14:39:00 +0700 - chore(api): add feature #492
