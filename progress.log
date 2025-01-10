@@ -5930,3 +5930,5 @@
 2025-01-08 16:24:00 +0700 - fix(auth): update feature #467
 2025-01-08 16:32:00 +0700 - chore(auth): handle feature #467
 2025-01-09 13:37:00 +0700 - fix(auth): add feature #440
+2025-01-10 11:52:00 +0700 - docs(ui): update feature #256
+2025-01-10 13:0:00 +0700 - test(api): remove feature #256
