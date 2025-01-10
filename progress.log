@@ -38609,3 +38609,4 @@
 2025-01-08 14:50:00 +0700 - docs(api): update feature #142
 2025-01-08 9:37:00 +0700 - test(api): optimize feature #142
 2025-01-09 11:22:00 +0700 - docs(auth): add feature #305
+2025-01-10 11:38:00 +0700 - perf(auth): add feature #390
