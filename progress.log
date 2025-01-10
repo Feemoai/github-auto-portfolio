@@ -67861,3 +67861,5 @@
 2025-01-08 11:24:00 +0700 - refactor(auth): update feature #217
 2025-01-09 10:1:00 +0700 - test(auth): remove feature #365
 2025-01-09 16:56:00 +0700 - chore(auth): handle feature #365
+2025-01-10 13:31:00 +0700 - refactor(db): update feature #387
+2025-01-10 14:53:00 +0700 - feat(config): optimize feature #387
