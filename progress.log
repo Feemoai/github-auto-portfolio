@@ -40092,3 +40092,4 @@
 2025-01-08 14:25:00 +0700 - fix(db): add feature #360
 2025-01-09 12:53:00 +0700 - perf(api): improve feature #424
 2025-01-09 13:6:00 +0700 - refactor(auth): optimize feature #424
+2025-01-10 14:23:00 +0700 - test(config): handle feature #212
