@@ -5032,3 +5032,4 @@
 2025-01-08 10:43:00 +0700 - perf(ui): add feature #470
 2025-01-09 16:24:00 +0700 - docs(ui): add feature #161
 2025-01-10 14:45:00 +0700 - docs(db): add feature #285
+2025-01-10 13:26:00 +0700 - test(ui): remove feature #285
