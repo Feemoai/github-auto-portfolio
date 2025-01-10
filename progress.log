@@ -47191,3 +47191,5 @@
 2025-01-08 11:12:00 +0700 - test(config): remove feature #374
 2025-01-09 16:54:00 +0700 - perf(auth): remove feature #134
 2025-01-09 11:59:00 +0700 - perf(core): improve feature #134
+2025-01-10 11:5:00 +0700 - perf(config): add feature #382
+2025-01-10 15:6:00 +0700 - fix(core): improve feature #382
