@@ -1795,3 +1795,4 @@
 2025-01-09 9:56:00 +0700 - chore(api): handle feature #137
 2025-01-09 11:14:00 +0700 - fix(config): improve feature #137
 2025-01-10 16:39:00 +0700 - test(api): improve feature #278
+2025-01-10 12:33:00 +0700 - docs(core): remove feature #278
