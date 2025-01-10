@@ -15458,3 +15458,4 @@
 2025-01-09 9:3:00 +0700 - feat(core): optimize feature #479
 2025-01-09 11:47:00 +0700 - docs(db): remove feature #479
 2025-01-10 11:13:00 +0700 - refactor(api): optimize feature #288
+2025-01-10 9:10:00 +0700 - test(api): optimize feature #288
