@@ -44072,3 +44072,4 @@
 2025-01-09 11:46:00 +0700 - feat(api): remove feature #314
 2025-01-09 15:52:00 +0700 - test(core): update feature #314
 2025-01-10 16:50:00 +0700 - fix(db): add feature #269
+2025-01-10 14:57:00 +0700 - feat(api): handle feature #269
