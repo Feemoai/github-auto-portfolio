@@ -1330,3 +1330,5 @@
 2025-01-08 9:41:00 +0700 - chore(auth): improve feature #101
 2025-01-09 15:18:00 +0700 - perf(ui): improve feature #110
 2025-01-09 11:33:00 +0700 - docs(auth): improve feature #110
+2025-01-10 16:44:00 +0700 - test(config): improve feature #315
+2025-01-10 12:47:00 +0700 - feat(core): handle feature #315
