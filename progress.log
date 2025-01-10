@@ -4563,3 +4563,5 @@
 2025-01-08 10:49:00 +0700 - feat(config): handle feature #474
 2025-01-08 16:12:00 +0700 - refactor(api): handle feature #474
 2025-01-09 12:56:00 +0700 - test(db): add feature #127
+2025-01-10 15:6:00 +0700 - perf(db): remove feature #227
+2025-01-10 16:8:00 +0700 - chore(api): handle feature #227
