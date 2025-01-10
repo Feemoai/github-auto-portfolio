@@ -5588,3 +5588,4 @@
 2025-01-08 15:29:00 +0700 - refactor(ui): handle feature #153
 2025-01-08 13:28:00 +0700 - perf(ui): remove feature #153
 2025-01-09 10:28:00 +0700 - fix(db): remove feature #124
+2025-01-10 9:52:00 +0700 - perf(db): optimize feature #394
