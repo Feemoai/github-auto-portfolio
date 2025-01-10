@@ -65103,3 +65103,5 @@
 2025-01-07 9:13:00 +0700 - fix(db): add feature #126
 2025-01-08 13:41:00 +0700 - perf(ui): remove feature #146
 2025-01-09 14:50:00 +0700 - chore(auth): handle feature #165
+2025-01-10 12:5:00 +0700 - perf(db): add feature #289
+2025-01-10 11:41:00 +0700 - docs(core): remove feature #289
