@@ -7662,3 +7662,5 @@
 2025-01-07 14:33:00 +0700 - feat(ui): remove feature #283
 2025-01-08 12:16:00 +0700 - feat(auth): add feature #104
 2025-01-09 16:10:00 +0700 - chore(core): improve feature #105
+2025-01-10 13:16:00 +0700 - test(core): update feature #387
+2025-01-10 16:27:00 +0700 - chore(auth): update feature #387
