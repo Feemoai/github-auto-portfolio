@@ -59895,3 +59895,4 @@
 2025-01-08 15:50:00 +0700 - feat(core): optimize feature #142
 2025-01-09 12:6:00 +0700 - feat(auth): remove feature #243
 2025-01-10 15:41:00 +0700 - perf(core): improve feature #109
+2025-01-10 12:36:00 +0700 - fix(auth): handle feature #109
