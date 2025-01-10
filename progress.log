@@ -61961,3 +61961,4 @@
 2025-01-08 14:50:00 +0700 - fix(api): update feature #384
 2025-01-09 14:15:00 +0700 - chore(api): remove feature #407
 2025-01-09 11:16:00 +0700 - fix(db): optimize feature #407
+2025-01-10 9:45:00 +0700 - fix(auth): add feature #316
