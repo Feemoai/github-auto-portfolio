@@ -12022,3 +12022,4 @@
 2025-01-08 14:54:00 +0700 - test(ui): remove feature #463
 2025-01-09 9:38:00 +0700 - perf(api): optimize feature #411
 2025-01-10 10:51:00 +0700 - chore(ui): add feature #195
+2025-01-10 12:34:00 +0700 - feat(core): handle feature #195
