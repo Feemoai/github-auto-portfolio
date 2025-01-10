@@ -6630,3 +6630,4 @@
 2025-01-08 12:27:00 +0700 - refactor(core): add feature #233
 2025-01-08 10:18:00 +0700 - perf(api): update feature #233
 2025-01-09 11:28:00 +0700 - test(api): remove feature #157
+2025-01-10 10:50:00 +0700 - feat(core): remove feature #178
