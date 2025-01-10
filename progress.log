@@ -12252,3 +12252,4 @@
 2025-01-08 9:49:00 +0700 - refactor(auth): update feature #487
 2025-01-09 12:38:00 +0700 - perf(auth): handle feature #209
 2025-01-10 10:24:00 +0700 - fix(ui): remove feature #340
+2025-01-10 16:38:00 +0700 - test(api): update feature #340
