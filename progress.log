@@ -41861,3 +41861,4 @@
 2025-01-08 13:55:00 +0700 - test(core): add feature #298
 2025-01-08 15:49:00 +0700 - fix(api): update feature #298
 2025-01-09 9:15:00 +0700 - refactor(config): optimize feature #270
+2025-01-10 14:41:00 +0700 - refactor(config): improve feature #123
