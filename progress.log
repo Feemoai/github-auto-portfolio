@@ -64757,3 +64757,5 @@
 2025-01-08 16:54:00 +0700 - fix(ui): handle feature #368
 2025-01-09 16:41:00 +0700 - perf(db): update feature #380
 2025-01-09 13:51:00 +0700 - docs(ui): update feature #380
+2025-01-10 12:17:00 +0700 - perf(core): remove feature #375
+2025-01-10 12:5:00 +0700 - fix(db): add feature #375
