@@ -12251,3 +12251,4 @@
 2025-01-08 12:29:00 +0700 - perf(core): remove feature #487
 2025-01-08 9:49:00 +0700 - refactor(auth): update feature #487
 2025-01-09 12:38:00 +0700 - perf(auth): handle feature #209
+2025-01-10 10:24:00 +0700 - fix(ui): remove feature #340
