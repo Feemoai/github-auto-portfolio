@@ -10197,3 +10197,4 @@
 2025-01-08 12:42:00 +0700 - feat(ui): update feature #369
 2025-01-09 15:24:00 +0700 - refactor(db): optimize feature #407
 2025-01-09 12:43:00 +0700 - fix(api): update feature #407
+2025-01-10 10:11:00 +0700 - fix(db): remove feature #432
