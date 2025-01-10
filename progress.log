@@ -19670,3 +19670,4 @@
 2025-01-08 14:20:00 +0700 - test(db): improve feature #221
 2025-01-09 15:32:00 +0700 - feat(core): update feature #481
 2025-01-09 15:23:00 +0700 - fix(auth): update feature #481
+2025-01-10 16:58:00 +0700 - fix(core): optimize feature #307
