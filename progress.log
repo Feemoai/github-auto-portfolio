@@ -39969,3 +39969,4 @@
 2025-01-08 16:5:00 +0700 - feat(auth): optimize feature #415
 2025-01-08 9:17:00 +0700 - chore(core): optimize feature #415
 2025-01-09 15:15:00 +0700 - test(auth): remove feature #473
+2025-01-10 14:51:00 +0700 - perf(core): update feature #274
