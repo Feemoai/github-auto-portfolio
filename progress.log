@@ -40683,3 +40683,5 @@
 2025-01-08 15:48:00 +0700 - feat(auth): remove feature #295
 2025-01-09 16:8:00 +0700 - feat(api): update feature #152
 2025-01-09 10:40:00 +0700 - fix(ui): optimize feature #152
+2025-01-10 14:8:00 +0700 - chore(config): update feature #223
+2025-01-10 13:2:00 +0700 - fix(ui): add feature #223
