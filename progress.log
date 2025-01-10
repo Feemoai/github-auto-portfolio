@@ -2487,3 +2487,4 @@
 2025-01-09 14:51:00 +0700 - docs(ui): add feature #365
 2025-01-09 11:45:00 +0700 - chore(auth): handle feature #365
 2025-01-10 12:17:00 +0700 - fix(db): update feature #189
+2025-01-10 14:9:00 +0700 - fix(core): update feature #189
