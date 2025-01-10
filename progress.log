@@ -13149,3 +13149,4 @@
 2025-01-08 13:24:00 +0700 - test(config): improve feature #345
 2025-01-08 14:27:00 +0700 - test(ui): handle feature #345
 2025-01-09 11:28:00 +0700 - test(ui): add feature #248
+2025-01-10 11:46:00 +0700 - perf(core): remove feature #153
