@@ -46972,3 +46972,5 @@
 2025-01-08 9:1:00 +0700 - docs(auth): remove feature #212
 2025-01-09 10:56:00 +0700 - fix(config): handle feature #290
 2025-01-09 11:2:00 +0700 - feat(api): handle feature #290
+2025-01-10 14:15:00 +0700 - test(auth): handle feature #421
+2025-01-10 13:7:00 +0700 - chore(config): improve feature #421
