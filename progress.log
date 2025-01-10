@@ -48104,3 +48104,4 @@
 2025-01-08 14:55:00 +0700 - fix(api): optimize feature #245
 2025-01-09 15:19:00 +0700 - refactor(auth): remove feature #156
 2025-01-09 14:0:00 +0700 - fix(core): remove feature #156
+2025-01-10 15:48:00 +0700 - refactor(api): optimize feature #475
