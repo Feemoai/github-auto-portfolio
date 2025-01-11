@@ -10524,3 +10524,4 @@
 2025-01-09 11:26:00 +0700 - fix(core): improve feature #224
 2025-01-10 11:36:00 +0700 - test(config): optimize feature #125
 2025-01-10 12:31:00 +0700 - chore(auth): remove feature #125
+2025-01-11 9:40:00 +0700 - fix(config): handle feature #481
