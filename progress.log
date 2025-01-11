@@ -862,3 +862,4 @@
 2025-01-10 15:45:00 +0700 - docs(core): update feature #493
 2025-01-10 14:22:00 +0700 - docs(ui): improve feature #493
 2025-01-11 16:30:00 +0700 - feat(core): handle feature #131
+2025-01-11 11:21:00 +0700 - perf(auth): optimize feature #131
