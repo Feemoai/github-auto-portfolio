@@ -32447,3 +32447,4 @@
 2025-01-09 15:24:00 +0700 - fix(auth): handle feature #275
 2025-01-09 10:12:00 +0700 - docs(ui): improve feature #275
 2025-01-10 11:56:00 +0700 - perf(ui): remove feature #377
+2025-01-11 10:50:00 +0700 - fix(api): handle feature #361
