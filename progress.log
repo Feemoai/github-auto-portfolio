@@ -27258,3 +27258,4 @@
 2025-01-09 14:54:00 +0700 - feat(ui): remove feature #291
 2025-01-10 11:21:00 +0700 - docs(auth): update feature #232
 2025-01-10 13:54:00 +0700 - feat(db): update feature #232
+2025-01-11 16:45:00 +0700 - test(ui): handle feature #260
