@@ -16410,3 +16410,4 @@
 2025-01-09 16:37:00 +0700 - test(ui): improve feature #428
 2025-01-10 14:55:00 +0700 - test(core): improve feature #380
 2025-01-10 11:15:00 +0700 - chore(auth): improve feature #380
+2025-01-11 14:31:00 +0700 - feat(auth): handle feature #250
