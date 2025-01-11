@@ -39063,3 +39063,4 @@
 2025-01-10 13:45:00 +0700 - docs(auth): add feature #292
 2025-01-10 10:28:00 +0700 - feat(core): improve feature #292
 2025-01-11 13:34:00 +0700 - fix(ui): improve feature #334
+2025-01-11 16:16:00 +0700 - fix(core): remove feature #334
