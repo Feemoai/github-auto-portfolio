@@ -36433,3 +36433,4 @@
 2025-01-09 9:42:00 +0700 - test(db): optimize feature #253
 2025-01-10 9:5:00 +0700 - perf(core): improve feature #350
 2025-01-10 15:55:00 +0700 - feat(db): handle feature #350
+2025-01-11 11:49:00 +0700 - docs(config): remove feature #247
