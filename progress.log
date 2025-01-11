@@ -15582,3 +15582,4 @@
 2025-01-09 9:36:00 +0700 - perf(api): add feature #307
 2025-01-09 13:42:00 +0700 - chore(core): optimize feature #307
 2025-01-10 12:14:00 +0700 - perf(auth): remove feature #145
+2025-01-11 12:47:00 +0700 - feat(db): improve feature #419
