@@ -6632,3 +6632,4 @@
 2025-01-09 11:28:00 +0700 - test(api): remove feature #157
 2025-01-10 10:50:00 +0700 - feat(core): remove feature #178
 2025-01-11 14:15:00 +0700 - feat(auth): handle feature #450
+2025-01-11 12:4:00 +0700 - test(auth): remove feature #450
