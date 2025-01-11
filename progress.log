@@ -48912,3 +48912,4 @@
 2025-01-08 10:39:00 +0700 - fix(core): update feature #168
 2025-01-09 15:18:00 +0700 - docs(core): optimize feature #475
 2025-01-10 16:18:00 +0700 - docs(api): remove feature #375
+2025-01-11 15:35:00 +0700 - perf(auth): optimize feature #112
