@@ -44518,3 +44518,4 @@
 2025-01-08 14:56:00 +0700 - feat(config): remove feature #350
 2025-01-09 10:17:00 +0700 - refactor(db): add feature #325
 2025-01-10 16:24:00 +0700 - docs(config): remove feature #333
+2025-01-11 14:39:00 +0700 - chore(db): optimize feature #133
