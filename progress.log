@@ -38611,3 +38611,4 @@
 2025-01-09 11:22:00 +0700 - docs(auth): add feature #305
 2025-01-10 11:38:00 +0700 - perf(auth): add feature #390
 2025-01-10 13:14:00 +0700 - perf(api): handle feature #390
+2025-01-11 15:22:00 +0700 - refactor(api): optimize feature #356
