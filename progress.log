@@ -6171,3 +6171,4 @@
 2025-01-09 9:29:00 +0700 - fix(db): improve feature #256
 2025-01-10 16:7:00 +0700 - chore(config): optimize feature #408
 2025-01-10 11:12:00 +0700 - perf(api): add feature #408
+2025-01-11 13:59:00 +0700 - test(api): handle feature #344
