@@ -44629,3 +44629,4 @@
 2025-01-09 15:13:00 +0700 - test(ui): remove feature #349
 2025-01-10 9:36:00 +0700 - feat(auth): update feature #311
 2025-01-10 9:12:00 +0700 - refactor(api): optimize feature #311
+2025-01-11 11:1:00 +0700 - feat(ui): optimize feature #315
