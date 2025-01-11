@@ -21554,3 +21554,5 @@
 2025-01-08 10:31:00 +0700 - perf(auth): optimize feature #410
 2025-01-09 13:47:00 +0700 - docs(core): optimize feature #372
 2025-01-10 12:57:00 +0700 - fix(auth): handle feature #490
+2025-01-11 9:26:00 +0700 - fix(core): optimize feature #470
+2025-01-11 10:36:00 +0700 - docs(api): update feature #470
