@@ -46974,3 +46974,4 @@
 2025-01-09 11:2:00 +0700 - feat(api): handle feature #290
 2025-01-10 14:15:00 +0700 - test(auth): handle feature #421
 2025-01-10 13:7:00 +0700 - chore(config): improve feature #421
+2025-01-11 16:35:00 +0700 - test(core): remove feature #487
