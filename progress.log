@@ -43607,3 +43607,5 @@
 2025-01-08 15:5:00 +0700 - test(core): optimize feature #469
 2025-01-09 12:54:00 +0700 - chore(core): handle feature #147
 2025-01-10 16:41:00 +0700 - docs(core): optimize feature #253
+2025-01-11 9:10:00 +0700 - fix(db): improve feature #449
+2025-01-11 11:13:00 +0700 - chore(core): handle feature #449
