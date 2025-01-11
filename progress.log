@@ -45324,3 +45324,4 @@
 2025-01-09 15:26:00 +0700 - fix(api): add feature #177
 2025-01-09 11:9:00 +0700 - docs(db): update feature #177
 2025-01-10 11:51:00 +0700 - feat(auth): update feature #304
+2025-01-11 13:1:00 +0700 - test(auth): remove feature #377
