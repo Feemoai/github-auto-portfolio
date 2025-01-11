@@ -8475,3 +8475,4 @@
 2025-01-09 12:5:00 +0700 - fix(api): add feature #275
 2025-01-10 9:55:00 +0700 - feat(auth): handle feature #185
 2025-01-10 15:25:00 +0700 - docs(config): add feature #185
+2025-01-11 10:2:00 +0700 - fix(core): handle feature #464
