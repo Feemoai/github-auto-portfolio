@@ -7894,3 +7894,4 @@
 2025-01-10 15:32:00 +0700 - fix(api): improve feature #189
 2025-01-10 12:24:00 +0700 - fix(auth): add feature #189
 2025-01-11 13:39:00 +0700 - feat(core): handle feature #196
+2025-01-11 9:38:00 +0700 - refactor(db): remove feature #196
