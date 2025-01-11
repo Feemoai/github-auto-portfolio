@@ -19318,3 +19318,4 @@
 2025-01-09 9:31:00 +0700 - test(api): remove feature #108
 2025-01-09 13:17:00 +0700 - perf(auth): handle feature #108
 2025-01-10 12:31:00 +0700 - refactor(config): remove feature #200
+2025-01-11 16:46:00 +0700 - chore(api): improve feature #441
