@@ -13272,3 +13272,5 @@
 2025-01-09 9:23:00 +0700 - docs(core): handle feature #332
 2025-01-09 16:55:00 +0700 - fix(ui): improve feature #332
 2025-01-10 10:31:00 +0700 - fix(db): remove feature #288
+2025-01-11 10:45:00 +0700 - fix(db): handle feature #479
+2025-01-11 14:5:00 +0700 - test(auth): improve feature #479
