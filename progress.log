@@ -35275,3 +35275,5 @@
 2025-01-09 13:7:00 +0700 - perf(db): update feature #435
 2025-01-10 15:2:00 +0700 - fix(db): update feature #371
 2025-01-10 13:6:00 +0700 - docs(auth): optimize feature #371
+2025-01-11 16:12:00 +0700 - test(auth): update feature #452
+2025-01-11 9:56:00 +0700 - feat(auth): handle feature #452
