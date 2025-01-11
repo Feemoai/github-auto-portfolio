@@ -38948,3 +38948,4 @@
 2025-01-09 10:39:00 +0700 - feat(api): handle feature #319
 2025-01-09 14:13:00 +0700 - perf(ui): remove feature #319
 2025-01-10 16:15:00 +0700 - refactor(config): optimize feature #208
+2025-01-11 10:8:00 +0700 - feat(auth): remove feature #194
