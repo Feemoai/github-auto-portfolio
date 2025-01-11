@@ -64642,3 +64642,4 @@
 2025-01-09 9:18:00 +0700 - feat(api): remove feature #412
 2025-01-10 12:46:00 +0700 - chore(auth): optimize feature #369
 2025-01-11 11:19:00 +0700 - refactor(db): update feature #229
+2025-01-11 15:41:00 +0700 - fix(core): handle feature #229
