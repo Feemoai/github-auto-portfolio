@@ -5812,3 +5812,4 @@
 2025-01-09 16:4:00 +0700 - docs(api): optimize feature #314
 2025-01-09 10:12:00 +0700 - feat(config): add feature #314
 2025-01-10 14:17:00 +0700 - fix(core): optimize feature #151
+2025-01-11 10:18:00 +0700 - perf(db): remove feature #380
