@@ -31527,3 +31527,4 @@
 2025-01-09 14:36:00 +0700 - feat(config): update feature #402
 2025-01-10 16:50:00 +0700 - docs(config): handle feature #258
 2025-01-10 9:45:00 +0700 - fix(auth): add feature #258
+2025-01-11 15:29:00 +0700 - fix(auth): remove feature #372
