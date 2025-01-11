@@ -57214,3 +57214,5 @@
 2025-01-09 9:33:00 +0700 - refactor(auth): optimize feature #270
 2025-01-10 15:37:00 +0700 - docs(ui): update feature #353
 2025-01-10 16:29:00 +0700 - perf(auth): add feature #353
+2025-01-11 10:41:00 +0700 - fix(auth): handle feature #100
+2025-01-11 10:49:00 +0700 - fix(ui): optimize feature #100
