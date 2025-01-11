@@ -30711,3 +30711,4 @@
 2025-01-09 16:26:00 +0700 - test(ui): optimize feature #189
 2025-01-10 11:24:00 +0700 - test(auth): handle feature #106
 2025-01-11 12:10:00 +0700 - docs(api): add feature #169
+2025-01-11 11:54:00 +0700 - fix(ui): add feature #169
