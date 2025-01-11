@@ -27378,3 +27378,4 @@
 2025-01-08 13:55:00 +0700 - perf(api): update feature #252
 2025-01-09 14:8:00 +0700 - chore(core): add feature #289
 2025-01-10 14:28:00 +0700 - refactor(core): handle feature #305
+2025-01-11 15:9:00 +0700 - docs(auth): handle feature #197
