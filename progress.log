@@ -25148,3 +25148,4 @@
 2025-01-09 10:58:00 +0700 - refactor(config): optimize feature #221
 2025-01-09 11:22:00 +0700 - fix(auth): remove feature #221
 2025-01-10 9:16:00 +0700 - perf(auth): improve feature #173
+2025-01-11 15:54:00 +0700 - refactor(config): handle feature #302
