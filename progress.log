@@ -38381,3 +38381,4 @@
 2025-01-10 16:24:00 +0700 - fix(core): add feature #431
 2025-01-10 9:14:00 +0700 - test(core): add feature #431
 2025-01-11 16:15:00 +0700 - perf(ui): handle feature #370
+2025-01-11 16:46:00 +0700 - fix(core): remove feature #370
