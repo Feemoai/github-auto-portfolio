@@ -52429,3 +52429,5 @@
 2025-01-08 16:26:00 +0700 - perf(auth): remove feature #261
 2025-01-09 9:11:00 +0700 - fix(api): add feature #162
 2025-01-10 15:0:00 +0700 - fix(config): add feature #469
+2025-01-11 11:19:00 +0700 - docs(ui): add feature #320
+2025-01-11 10:47:00 +0700 - fix(core): improve feature #320
