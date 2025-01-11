@@ -20629,3 +20629,4 @@
 2025-01-08 14:58:00 +0700 - perf(db): update feature #379
 2025-01-09 15:21:00 +0700 - feat(db): update feature #489
 2025-01-10 9:34:00 +0700 - perf(api): optimize feature #137
+2025-01-11 15:48:00 +0700 - perf(core): handle feature #217
