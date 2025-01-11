@@ -34563,3 +34563,4 @@
 2025-01-09 11:40:00 +0700 - fix(api): optimize feature #435
 2025-01-10 16:35:00 +0700 - fix(config): optimize feature #263
 2025-01-10 9:25:00 +0700 - perf(ui): remove feature #263
+2025-01-11 9:36:00 +0700 - perf(ui): update feature #168
