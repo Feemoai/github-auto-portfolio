@@ -8476,3 +8476,4 @@
 2025-01-10 9:55:00 +0700 - feat(auth): handle feature #185
 2025-01-10 15:25:00 +0700 - docs(config): add feature #185
 2025-01-11 10:2:00 +0700 - fix(core): handle feature #464
+2025-01-11 12:43:00 +0700 - fix(ui): optimize feature #464
