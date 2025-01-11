@@ -52775,3 +52775,4 @@
 2025-01-09 9:46:00 +0700 - test(config): remove feature #233
 2025-01-10 14:29:00 +0700 - docs(auth): update feature #260
 2025-01-10 15:12:00 +0700 - test(core): optimize feature #260
+2025-01-11 13:3:00 +0700 - perf(db): optimize feature #290
