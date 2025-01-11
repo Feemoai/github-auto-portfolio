@@ -48791,3 +48791,4 @@
 2025-01-09 12:43:00 +0700 - test(config): handle feature #415
 2025-01-10 9:26:00 +0700 - perf(config): add feature #265
 2025-01-10 16:12:00 +0700 - refactor(ui): remove feature #265
+2025-01-11 13:1:00 +0700 - feat(api): handle feature #352
