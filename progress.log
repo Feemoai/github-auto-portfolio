@@ -66375,3 +66375,5 @@
 2025-01-09 12:18:00 +0700 - refactor(config): remove feature #317
 2025-01-10 9:40:00 +0700 - test(core): handle feature #147
 2025-01-10 9:12:00 +0700 - refactor(api): handle feature #147
+2025-01-11 14:36:00 +0700 - chore(auth): optimize feature #498
+2025-01-11 10:11:00 +0700 - chore(core): remove feature #498
