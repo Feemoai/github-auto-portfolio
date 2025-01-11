@@ -40918,3 +40918,4 @@
 2025-01-09 13:57:00 +0700 - feat(api): remove feature #338
 2025-01-09 11:49:00 +0700 - feat(auth): optimize feature #338
 2025-01-10 13:6:00 +0700 - docs(config): update feature #247
+2025-01-11 13:4:00 +0700 - fix(ui): optimize feature #482
