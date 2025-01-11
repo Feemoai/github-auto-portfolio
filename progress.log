@@ -18964,3 +18964,4 @@
 2025-01-09 11:18:00 +0700 - refactor(config): handle feature #482
 2025-01-10 14:30:00 +0700 - perf(core): add feature #270
 2025-01-10 16:16:00 +0700 - refactor(api): optimize feature #270
+2025-01-11 12:30:00 +0700 - feat(auth): handle feature #300
