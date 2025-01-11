@@ -46736,3 +46736,5 @@
 2025-01-09 15:49:00 +0700 - chore(auth): add feature #119
 2025-01-10 11:12:00 +0700 - perf(core): remove feature #485
 2025-01-10 12:21:00 +0700 - docs(core): update feature #485
+2025-01-11 14:44:00 +0700 - docs(db): remove feature #144
+2025-01-11 12:30:00 +0700 - test(db): remove feature #144
