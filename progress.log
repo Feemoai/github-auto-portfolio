@@ -40442,3 +40442,4 @@
 2025-01-09 12:22:00 +0700 - perf(ui): remove feature #217
 2025-01-10 14:2:00 +0700 - docs(config): improve feature #475
 2025-01-10 15:48:00 +0700 - test(db): optimize feature #475
+2025-01-11 13:33:00 +0700 - perf(core): optimize feature #303
