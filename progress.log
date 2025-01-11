@@ -6513,3 +6513,4 @@
 2025-01-09 12:10:00 +0700 - docs(core): update feature #440
 2025-01-10 9:33:00 +0700 - chore(api): add feature #263
 2025-01-11 16:41:00 +0700 - perf(db): add feature #328
+2025-01-11 12:36:00 +0700 - perf(core): optimize feature #328
