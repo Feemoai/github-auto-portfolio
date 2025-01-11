@@ -4565,3 +4565,4 @@
 2025-01-09 12:56:00 +0700 - test(db): add feature #127
 2025-01-10 15:6:00 +0700 - perf(db): remove feature #227
 2025-01-10 16:8:00 +0700 - chore(api): handle feature #227
+2025-01-11 14:12:00 +0700 - test(core): update feature #288
