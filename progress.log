@@ -23272,3 +23272,5 @@
 2025-01-08 10:27:00 +0700 - chore(core): handle feature #487
 2025-01-09 15:54:00 +0700 - chore(api): handle feature #360
 2025-01-10 14:30:00 +0700 - perf(db): improve feature #221
+2025-01-11 11:18:00 +0700 - docs(auth): update feature #357
+2025-01-11 16:56:00 +0700 - perf(config): remove feature #357
