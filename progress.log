@@ -61045,3 +61045,4 @@
 2025-01-08 12:39:00 +0700 - perf(core): improve feature #402
 2025-01-09 11:47:00 +0700 - fix(db): handle feature #483
 2025-01-10 13:4:00 +0700 - fix(ui): update feature #440
+2025-01-11 9:53:00 +0700 - fix(api): remove feature #402
