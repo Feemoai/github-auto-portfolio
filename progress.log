@@ -6633,3 +6633,5 @@
 2025-01-10 10:50:00 +0700 - feat(core): remove feature #178
 2025-01-11 14:15:00 +0700 - feat(auth): handle feature #450
 2025-01-11 12:4:00 +0700 - test(auth): remove feature #450
+2025-01-13 15:30:00 +0700 - chore(db): improve feature #109
+2025-01-13 14:2:00 +0700 - test(config): remove feature #109
