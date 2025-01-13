@@ -23275,3 +23275,4 @@
 2025-01-11 11:18:00 +0700 - docs(auth): update feature #357
 2025-01-11 16:56:00 +0700 - perf(config): remove feature #357
 2025-01-13 13:36:00 +0700 - perf(core): improve feature #461
+2025-01-13 9:36:00 +0700 - chore(config): optimize feature #461
