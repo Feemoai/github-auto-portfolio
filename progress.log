@@ -60351,3 +60351,4 @@
 2025-01-09 10:1:00 +0700 - fix(api): update feature #407
 2025-01-10 9:20:00 +0700 - feat(config): update feature #479
 2025-01-11 13:28:00 +0700 - docs(auth): optimize feature #152
+2025-01-13 14:19:00 +0700 - perf(auth): handle feature #111
