@@ -15932,3 +15932,4 @@
 2025-01-10 16:37:00 +0700 - perf(db): improve feature #141
 2025-01-11 9:54:00 +0700 - chore(auth): improve feature #167
 2025-01-11 11:23:00 +0700 - fix(core): improve feature #167
+2025-01-13 15:22:00 +0700 - fix(ui): handle feature #379
