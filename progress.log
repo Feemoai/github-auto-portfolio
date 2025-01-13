@@ -21317,3 +21317,4 @@
 2025-01-10 16:55:00 +0700 - chore(auth): handle feature #471
 2025-01-11 14:30:00 +0700 - docs(core): remove feature #318
 2025-01-11 15:41:00 +0700 - chore(auth): optimize feature #318
+2025-01-13 16:13:00 +0700 - fix(auth): improve feature #328
