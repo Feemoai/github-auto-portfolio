@@ -16639,3 +16639,4 @@
 2025-01-10 13:11:00 +0700 - chore(config): handle feature #115
 2025-01-11 14:46:00 +0700 - perf(auth): add feature #451
 2025-01-11 15:3:00 +0700 - feat(core): improve feature #451
+2025-01-13 9:17:00 +0700 - docs(ui): remove feature #377
