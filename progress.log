@@ -10757,3 +10757,4 @@
 2025-01-10 16:48:00 +0700 - fix(config): handle feature #120
 2025-01-11 16:53:00 +0700 - perf(auth): update feature #421
 2025-01-11 16:16:00 +0700 - chore(ui): handle feature #421
+2025-01-13 16:6:00 +0700 - fix(auth): remove feature #166
