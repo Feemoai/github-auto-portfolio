@@ -41976,3 +41976,4 @@
 2025-01-09 16:9:00 +0700 - perf(db): remove feature #377
 2025-01-10 15:19:00 +0700 - refactor(ui): improve feature #450
 2025-01-11 12:6:00 +0700 - fix(api): remove feature #410
+2025-01-13 13:7:00 +0700 - refactor(core): remove feature #489
