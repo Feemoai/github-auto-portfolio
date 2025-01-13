@@ -11556,3 +11556,5 @@
 2025-01-10 11:1:00 +0700 - docs(config): remove feature #141
 2025-01-10 16:10:00 +0700 - docs(core): improve feature #141
 2025-01-11 15:2:00 +0700 - perf(db): handle feature #320
+2025-01-13 14:40:00 +0700 - chore(core): remove feature #349
+2025-01-13 14:56:00 +0700 - feat(core): optimize feature #349
