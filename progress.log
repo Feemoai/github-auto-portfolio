@@ -5365,3 +5365,4 @@
 2025-01-09 11:10:00 +0700 - fix(auth): handle feature #395
 2025-01-10 12:16:00 +0700 - refactor(db): improve feature #448
 2025-01-11 13:39:00 +0700 - fix(core): remove feature #215
+2025-01-13 14:57:00 +0700 - refactor(ui): remove feature #238
