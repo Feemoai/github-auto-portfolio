@@ -47429,3 +47429,5 @@
 2025-01-10 10:14:00 +0700 - docs(db): improve feature #161
 2025-01-11 16:25:00 +0700 - fix(ui): improve feature #460
 2025-01-11 12:38:00 +0700 - chore(core): improve feature #460
+2025-01-13 16:18:00 +0700 - feat(ui): optimize feature #443
+2025-01-13 11:58:00 +0700 - fix(auth): optimize feature #443
