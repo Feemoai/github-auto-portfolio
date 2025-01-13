@@ -40214,3 +40214,4 @@
 2025-01-10 9:37:00 +0700 - perf(ui): handle feature #238
 2025-01-10 12:15:00 +0700 - refactor(config): add feature #238
 2025-01-11 13:5:00 +0700 - feat(ui): remove feature #444
+2025-01-13 14:15:00 +0700 - test(config): remove feature #174
