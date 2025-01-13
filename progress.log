@@ -65460,3 +65460,4 @@
 2025-01-10 15:15:00 +0700 - refactor(config): handle feature #139
 2025-01-11 13:7:00 +0700 - chore(api): add feature #182
 2025-01-11 11:16:00 +0700 - docs(ui): optimize feature #182
+2025-01-13 13:0:00 +0700 - feat(auth): handle feature #433
