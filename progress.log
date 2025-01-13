@@ -49607,3 +49607,4 @@
 2025-01-10 12:49:00 +0700 - test(auth): remove feature #262
 2025-01-11 13:47:00 +0700 - feat(auth): remove feature #443
 2025-01-13 16:34:00 +0700 - perf(api): remove feature #215
+2025-01-13 10:3:00 +0700 - fix(ui): add feature #215
