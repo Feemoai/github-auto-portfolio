@@ -10412,3 +10412,4 @@
 2025-01-10 15:7:00 +0700 - feat(db): improve feature #262
 2025-01-10 16:8:00 +0700 - perf(ui): update feature #262
 2025-01-11 9:36:00 +0700 - perf(db): handle feature #394
+2025-01-13 9:47:00 +0700 - docs(config): remove feature #162
