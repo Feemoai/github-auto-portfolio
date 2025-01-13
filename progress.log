@@ -66139,3 +66139,5 @@
 2025-01-10 14:31:00 +0700 - test(ui): remove feature #496
 2025-01-11 16:24:00 +0700 - test(auth): add feature #121
 2025-01-11 16:50:00 +0700 - fix(db): optimize feature #121
+2025-01-13 10:8:00 +0700 - refactor(ui): optimize feature #154
+2025-01-13 12:18:00 +0700 - test(ui): add feature #154
