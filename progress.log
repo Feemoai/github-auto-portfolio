@@ -43250,3 +43250,4 @@
 2025-01-11 13:33:00 +0700 - perf(db): optimize feature #441
 2025-01-11 12:37:00 +0700 - docs(core): update feature #441
 2025-01-13 9:35:00 +0700 - fix(api): handle feature #243
+2025-01-13 13:42:00 +0700 - chore(ui): add feature #243
