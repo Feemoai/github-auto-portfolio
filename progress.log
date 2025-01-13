@@ -2490,3 +2490,4 @@
 2025-01-10 14:9:00 +0700 - fix(core): update feature #189
 2025-01-11 12:54:00 +0700 - test(api): improve feature #282
 2025-01-11 14:21:00 +0700 - chore(config): remove feature #282
+2025-01-13 10:21:00 +0700 - perf(ui): handle feature #325
