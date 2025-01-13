@@ -28746,3 +28746,4 @@
 2025-01-09 10:54:00 +0700 - perf(ui): remove feature #427
 2025-01-10 16:44:00 +0700 - perf(db): add feature #165
 2025-01-11 11:7:00 +0700 - test(config): handle feature #130
+2025-01-13 10:39:00 +0700 - feat(config): remove feature #299
