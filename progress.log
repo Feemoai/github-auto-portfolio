@@ -37013,3 +37013,4 @@
 2025-01-11 13:29:00 +0700 - test(config): remove feature #374
 2025-01-11 13:57:00 +0700 - feat(api): remove feature #374
 2025-01-13 13:51:00 +0700 - fix(api): update feature #349
+2025-01-13 13:26:00 +0700 - chore(auth): improve feature #349
