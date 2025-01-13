@@ -12700,3 +12700,4 @@
 2025-01-10 9:29:00 +0700 - fix(api): handle feature #470
 2025-01-11 13:24:00 +0700 - fix(ui): remove feature #384
 2025-01-11 10:36:00 +0700 - test(api): remove feature #384
+2025-01-13 12:14:00 +0700 - test(auth): add feature #203
