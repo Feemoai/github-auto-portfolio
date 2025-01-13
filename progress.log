@@ -37589,3 +37589,5 @@
 2025-01-10 12:17:00 +0700 - refactor(ui): optimize feature #201
 2025-01-10 15:18:00 +0700 - docs(auth): remove feature #201
 2025-01-11 11:49:00 +0700 - chore(config): optimize feature #406
+2025-01-13 15:17:00 +0700 - test(ui): optimize feature #352
+2025-01-13 9:34:00 +0700 - docs(auth): remove feature #352
