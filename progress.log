@@ -40444,3 +40444,5 @@
 2025-01-10 15:48:00 +0700 - test(db): optimize feature #475
 2025-01-11 13:33:00 +0700 - perf(core): optimize feature #303
 2025-01-11 14:32:00 +0700 - chore(ui): handle feature #303
+2025-01-13 10:37:00 +0700 - docs(config): optimize feature #150
+2025-01-13 12:2:00 +0700 - chore(ui): optimize feature #150
