@@ -19080,3 +19080,5 @@
 2025-01-10 9:26:00 +0700 - refactor(auth): remove feature #305
 2025-01-11 15:32:00 +0700 - docs(db): optimize feature #355
 2025-01-11 11:55:00 +0700 - test(auth): remove feature #355
+2025-01-13 13:13:00 +0700 - refactor(db): remove feature #374
+2025-01-13 9:58:00 +0700 - fix(ui): remove feature #374
