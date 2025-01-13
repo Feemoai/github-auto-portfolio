@@ -55625,3 +55625,4 @@
 2025-01-10 14:17:00 +0700 - feat(api): optimize feature #399
 2025-01-10 12:50:00 +0700 - docs(db): remove feature #399
 2025-01-11 11:53:00 +0700 - perf(db): update feature #486
+2025-01-13 16:8:00 +0700 - test(db): optimize feature #307
