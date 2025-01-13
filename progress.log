@@ -2381,3 +2381,5 @@
 2025-01-10 12:34:00 +0700 - test(ui): optimize feature #364
 2025-01-11 13:45:00 +0700 - test(db): optimize feature #493
 2025-01-11 13:25:00 +0700 - docs(core): improve feature #493
+2025-01-13 12:48:00 +0700 - docs(ui): optimize feature #180
+2025-01-13 10:45:00 +0700 - chore(auth): remove feature #180
