@@ -30713,3 +30713,4 @@
 2025-01-11 12:10:00 +0700 - docs(api): add feature #169
 2025-01-11 11:54:00 +0700 - fix(ui): add feature #169
 2025-01-13 9:24:00 +0700 - refactor(auth): remove feature #141
+2025-01-13 13:56:00 +0700 - fix(db): update feature #141
