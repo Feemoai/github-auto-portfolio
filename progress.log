@@ -50622,3 +50622,5 @@
 2025-01-09 13:50:00 +0700 - feat(auth): update feature #361
 2025-01-10 16:6:00 +0700 - test(api): improve feature #305
 2025-01-11 15:0:00 +0700 - test(ui): handle feature #326
+2025-01-13 14:40:00 +0700 - chore(db): handle feature #215
+2025-01-13 13:59:00 +0700 - chore(api): add feature #215
