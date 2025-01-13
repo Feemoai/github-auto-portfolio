@@ -6749,3 +6749,5 @@
 2025-01-10 11:51:00 +0700 - refactor(auth): handle feature #171
 2025-01-11 16:22:00 +0700 - test(api): optimize feature #242
 2025-01-11 11:34:00 +0700 - test(auth): update feature #242
+2025-01-13 14:8:00 +0700 - perf(api): optimize feature #302
+2025-01-13 9:40:00 +0700 - docs(api): add feature #302
