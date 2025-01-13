@@ -42431,3 +42431,4 @@
 2025-01-09 11:7:00 +0700 - docs(config): remove feature #331
 2025-01-10 16:11:00 +0700 - test(core): handle feature #274
 2025-01-11 13:11:00 +0700 - refactor(core): optimize feature #259
+2025-01-13 12:36:00 +0700 - chore(config): update feature #345
