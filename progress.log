@@ -4569,3 +4569,4 @@
 2025-01-11 16:12:00 +0700 - chore(auth): improve feature #288
 2025-01-13 16:20:00 +0700 - fix(ui): improve feature #104
 2025-01-13 10:10:00 +0700 - chore(auth): update feature #104
+2025-01-14 10:23:00 +0700 - refactor(auth): remove feature #376
