@@ -43134,3 +43134,4 @@
 2025-01-10 13:51:00 +0700 - docs(core): add feature #321
 2025-01-11 16:20:00 +0700 - fix(ui): update feature #401
 2025-01-13 9:48:00 +0700 - test(config): add feature #299
+2025-01-14 14:6:00 +0700 - feat(auth): remove feature #313
