@@ -13853,3 +13853,4 @@
 2025-01-11 15:7:00 +0700 - docs(core): remove feature #328
 2025-01-13 9:35:00 +0700 - test(auth): optimize feature #337
 2025-01-13 9:39:00 +0700 - feat(config): add feature #337
+2025-01-14 16:22:00 +0700 - chore(core): remove feature #378
