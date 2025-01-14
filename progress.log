@@ -41865,3 +41865,4 @@
 2025-01-11 13:26:00 +0700 - test(core): remove feature #412
 2025-01-13 9:24:00 +0700 - test(ui): optimize feature #108
 2025-01-13 16:57:00 +0700 - chore(core): handle feature #108
+2025-01-14 13:44:00 +0700 - refactor(db): improve feature #398
