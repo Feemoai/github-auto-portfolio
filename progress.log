@@ -27382,3 +27382,4 @@
 2025-01-11 16:56:00 +0700 - fix(api): update feature #197
 2025-01-13 13:4:00 +0700 - docs(ui): update feature #206
 2025-01-13 12:33:00 +0700 - test(core): optimize feature #206
+2025-01-14 15:38:00 +0700 - feat(auth): optimize feature #222
