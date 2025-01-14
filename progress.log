@@ -46035,3 +46035,4 @@
 2025-01-11 11:33:00 +0700 - fix(auth): optimize feature #388
 2025-01-11 12:40:00 +0700 - perf(db): add feature #388
 2025-01-13 14:20:00 +0700 - docs(ui): remove feature #106
+2025-01-14 14:24:00 +0700 - fix(core): handle feature #120
