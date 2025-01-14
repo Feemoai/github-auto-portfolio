@@ -41275,3 +41275,4 @@
 2025-01-11 15:48:00 +0700 - feat(config): improve feature #303
 2025-01-13 12:39:00 +0700 - feat(api): add feature #306
 2025-01-13 13:26:00 +0700 - perf(config): optimize feature #306
+2025-01-14 13:32:00 +0700 - fix(ui): improve feature #458
