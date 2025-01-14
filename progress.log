@@ -27499,3 +27499,4 @@
 2025-01-11 13:39:00 +0700 - fix(db): improve feature #398
 2025-01-13 10:3:00 +0700 - perf(config): handle feature #468
 2025-01-13 14:20:00 +0700 - test(config): optimize feature #468
+2025-01-14 13:22:00 +0700 - perf(api): optimize feature #490
