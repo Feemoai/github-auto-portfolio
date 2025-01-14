@@ -59544,3 +59544,5 @@
 2025-01-11 16:16:00 +0700 - feat(core): handle feature #160
 2025-01-13 9:1:00 +0700 - feat(ui): improve feature #417
 2025-01-13 12:34:00 +0700 - perf(ui): remove feature #417
+2025-01-14 13:23:00 +0700 - fix(api): remove feature #207
+2025-01-14 14:59:00 +0700 - perf(ui): handle feature #207
