@@ -751,3 +751,5 @@
 2025-01-11 10:6:00 +0700 - chore(core): update feature #397
 2025-01-13 10:25:00 +0700 - docs(config): update feature #160
 2025-01-13 13:33:00 +0700 - test(ui): add feature #160
+2025-01-14 9:42:00 +0700 - perf(config): optimize feature #292
+2025-01-14 13:48:00 +0700 - test(core): remove feature #292
