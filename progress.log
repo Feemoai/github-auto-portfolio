@@ -61161,3 +61161,4 @@
 2025-01-11 16:28:00 +0700 - docs(core): optimize feature #353
 2025-01-13 10:37:00 +0700 - feat(api): add feature #119
 2025-01-13 13:44:00 +0700 - perf(config): remove feature #119
+2025-01-14 12:33:00 +0700 - feat(ui): add feature #286
