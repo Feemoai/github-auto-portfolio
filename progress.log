@@ -8712,3 +8712,4 @@
 2025-01-11 9:20:00 +0700 - fix(api): update feature #468
 2025-01-11 15:57:00 +0700 - chore(core): remove feature #468
 2025-01-13 11:49:00 +0700 - feat(config): improve feature #229
+2025-01-14 10:7:00 +0700 - refactor(core): optimize feature #424
