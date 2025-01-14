@@ -987,3 +987,4 @@
 2025-01-11 14:35:00 +0700 - docs(config): update feature #100
 2025-01-11 10:10:00 +0700 - test(auth): improve feature #100
 2025-01-13 9:16:00 +0700 - perf(core): handle feature #125
+2025-01-14 10:43:00 +0700 - chore(auth): handle feature #499
