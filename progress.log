@@ -34807,3 +34807,4 @@
 2025-01-11 11:37:00 +0700 - test(db): handle feature #417
 2025-01-13 10:37:00 +0700 - chore(config): remove feature #118
 2025-01-13 9:33:00 +0700 - perf(api): optimize feature #118
+2025-01-14 16:35:00 +0700 - fix(api): update feature #402
