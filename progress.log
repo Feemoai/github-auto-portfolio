@@ -36664,3 +36664,4 @@
 2025-01-11 16:9:00 +0700 - perf(config): improve feature #263
 2025-01-13 14:22:00 +0700 - fix(api): remove feature #214
 2025-01-13 13:18:00 +0700 - chore(config): remove feature #214
+2025-01-14 15:28:00 +0700 - docs(auth): optimize feature #163
