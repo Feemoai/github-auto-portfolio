@@ -30831,3 +30831,4 @@
 2025-01-11 9:49:00 +0700 - fix(db): update feature #106
 2025-01-13 13:47:00 +0700 - refactor(ui): add feature #436
 2025-01-14 12:55:00 +0700 - chore(api): remove feature #155
+2025-01-14 11:50:00 +0700 - test(db): handle feature #155
