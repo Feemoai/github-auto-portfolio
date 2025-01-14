@@ -1448,3 +1448,5 @@
 2025-01-10 9:47:00 +0700 - docs(config): improve feature #263
 2025-01-11 12:14:00 +0700 - feat(config): improve feature #191
 2025-01-13 10:16:00 +0700 - feat(api): remove feature #462
+2025-01-14 9:9:00 +0700 - fix(core): remove feature #185
+2025-01-14 9:28:00 +0700 - feat(config): improve feature #185
