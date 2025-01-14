@@ -24085,3 +24085,4 @@
 2025-01-11 12:25:00 +0700 - test(auth): remove feature #120
 2025-01-13 16:4:00 +0700 - refactor(core): improve feature #198
 2025-01-14 12:12:00 +0700 - test(ui): add feature #218
+2025-01-14 16:11:00 +0700 - test(api): handle feature #218
