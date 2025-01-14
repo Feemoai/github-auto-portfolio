@@ -54604,3 +54604,4 @@
 2025-01-11 16:33:00 +0700 - feat(ui): handle feature #497
 2025-01-13 16:15:00 +0700 - feat(auth): handle feature #257
 2025-01-13 12:25:00 +0700 - fix(ui): remove feature #257
+2025-01-14 14:35:00 +0700 - fix(core): optimize feature #184
