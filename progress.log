@@ -18377,3 +18377,5 @@
 2025-01-10 11:33:00 +0700 - docs(core): remove feature #408
 2025-01-11 15:48:00 +0700 - feat(api): update feature #259
 2025-01-13 13:34:00 +0700 - perf(config): add feature #160
+2025-01-14 10:29:00 +0700 - test(ui): handle feature #445
+2025-01-14 15:5:00 +0700 - feat(auth): update feature #445
