@@ -65346,3 +65346,4 @@
 2025-01-11 13:22:00 +0700 - docs(config): update feature #430
 2025-01-13 15:40:00 +0700 - fix(ui): remove feature #207
 2025-01-14 13:35:00 +0700 - test(core): handle feature #379
+2025-01-14 16:41:00 +0700 - feat(config): improve feature #379
