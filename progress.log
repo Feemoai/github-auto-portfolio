@@ -61499,3 +61499,5 @@
 2025-01-11 14:19:00 +0700 - refactor(ui): optimize feature #465
 2025-01-13 14:2:00 +0700 - fix(ui): optimize feature #150
 2025-01-13 15:9:00 +0700 - test(ui): handle feature #150
+2025-01-14 13:7:00 +0700 - fix(ui): improve feature #301
+2025-01-14 12:34:00 +0700 - fix(api): handle feature #301
