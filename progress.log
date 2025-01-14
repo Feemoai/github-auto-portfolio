@@ -44076,3 +44076,4 @@
 2025-01-11 16:26:00 +0700 - fix(auth): handle feature #463
 2025-01-11 14:38:00 +0700 - test(db): update feature #463
 2025-01-13 14:18:00 +0700 - fix(ui): update feature #391
+2025-01-14 9:42:00 +0700 - fix(db): remove feature #277
