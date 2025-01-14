@@ -31419,3 +31419,5 @@
 2025-01-10 15:44:00 +0700 - perf(api): update feature #188
 2025-01-11 14:36:00 +0700 - fix(api): handle feature #162
 2025-01-13 12:12:00 +0700 - docs(api): optimize feature #283
+2025-01-14 11:53:00 +0700 - feat(api): handle feature #483
+2025-01-14 12:18:00 +0700 - docs(core): add feature #483
