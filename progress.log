@@ -34686,3 +34686,4 @@
 2025-01-10 13:16:00 +0700 - fix(core): update feature #468
 2025-01-11 14:25:00 +0700 - chore(api): add feature #240
 2025-01-13 9:3:00 +0700 - feat(auth): update feature #230
+2025-01-14 15:43:00 +0700 - perf(auth): remove feature #335
