@@ -2265,3 +2265,4 @@
 2025-01-11 14:20:00 +0700 - docs(config): add feature #397
 2025-01-13 13:54:00 +0700 - fix(db): optimize feature #254
 2025-01-13 11:26:00 +0700 - feat(ui): add feature #254
+2025-01-14 16:34:00 +0700 - test(core): update feature #366
