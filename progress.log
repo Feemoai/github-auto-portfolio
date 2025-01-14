@@ -60461,3 +60461,4 @@
 2025-01-10 9:13:00 +0700 - chore(config): handle feature #344
 2025-01-11 11:36:00 +0700 - feat(core): handle feature #368
 2025-01-13 13:34:00 +0700 - refactor(db): update feature #474
+2025-01-14 14:58:00 +0700 - chore(auth): handle feature #123
