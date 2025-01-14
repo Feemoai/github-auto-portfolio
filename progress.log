@@ -5142,3 +5142,4 @@
 2025-01-10 10:36:00 +0700 - test(ui): remove feature #491
 2025-01-11 15:19:00 +0700 - chore(api): improve feature #148
 2025-01-13 9:38:00 +0700 - chore(core): improve feature #470
+2025-01-14 9:0:00 +0700 - perf(config): optimize feature #400
