@@ -9164,3 +9164,4 @@
 2025-01-11 15:44:00 +0700 - chore(config): update feature #143
 2025-01-13 14:42:00 +0700 - fix(core): optimize feature #204
 2025-01-13 13:32:00 +0700 - feat(ui): improve feature #204
+2025-01-14 12:8:00 +0700 - fix(db): optimize feature #166
