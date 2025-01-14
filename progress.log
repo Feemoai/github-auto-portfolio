@@ -36209,3 +36209,4 @@
 2025-01-11 9:23:00 +0700 - docs(auth): optimize feature #303
 2025-01-13 11:9:00 +0700 - test(core): add feature #264
 2025-01-14 9:52:00 +0700 - fix(ui): remove feature #371
+2025-01-14 9:18:00 +0700 - chore(auth): remove feature #371
