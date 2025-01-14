@@ -8365,3 +8365,4 @@
 2025-01-11 15:53:00 +0700 - chore(db): update feature #294
 2025-01-13 13:11:00 +0700 - fix(auth): handle feature #218
 2025-01-14 11:14:00 +0700 - chore(api): optimize feature #176
+2025-01-14 11:16:00 +0700 - fix(ui): handle feature #176
