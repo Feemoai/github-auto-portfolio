@@ -23854,3 +23854,4 @@
 2025-01-11 15:30:00 +0700 - fix(auth): handle feature #107
 2025-01-13 15:24:00 +0700 - fix(ui): add feature #319
 2025-01-14 13:30:00 +0700 - fix(auth): remove feature #473
+2025-01-14 14:8:00 +0700 - chore(db): optimize feature #473
