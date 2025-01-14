@@ -8823,3 +8823,4 @@
 2025-01-11 14:51:00 +0700 - fix(auth): remove feature #128
 2025-01-13 14:10:00 +0700 - docs(core): optimize feature #207
 2025-01-13 10:27:00 +0700 - refactor(ui): improve feature #207
+2025-01-14 16:46:00 +0700 - fix(auth): handle feature #341
