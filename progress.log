@@ -40806,3 +40806,5 @@
 2025-01-13 12:40:00 +0700 - docs(ui): add feature #106
 2025-01-14 16:29:00 +0700 - test(core): add feature #275
 2025-01-14 12:3:00 +0700 - feat(core): improve feature #275
+2025-01-15 9:1:00 +0700 - refactor(config): add feature #448
+2025-01-15 16:59:00 +0700 - fix(api): handle feature #448
