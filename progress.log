@@ -51528,3 +51528,4 @@
 2025-01-11 16:51:00 +0700 - perf(ui): add feature #430
 2025-01-13 15:0:00 +0700 - feat(config): improve feature #313
 2025-01-14 15:11:00 +0700 - chore(ui): improve feature #222
+2025-01-15 13:48:00 +0700 - fix(core): handle feature #490
