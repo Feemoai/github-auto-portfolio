@@ -1102,3 +1102,4 @@
 2025-01-13 16:21:00 +0700 - fix(core): remove feature #161
 2025-01-13 10:29:00 +0700 - feat(db): update feature #161
 2025-01-14 11:17:00 +0700 - chore(core): handle feature #377
+2025-01-15 14:54:00 +0700 - chore(ui): handle feature #364
