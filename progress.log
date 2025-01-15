@@ -52434,3 +52434,5 @@
 2025-01-13 11:49:00 +0700 - fix(db): handle feature #336
 2025-01-13 10:0:00 +0700 - refactor(core): update feature #336
 2025-01-14 12:17:00 +0700 - docs(db): optimize feature #147
+2025-01-15 10:1:00 +0700 - chore(core): handle feature #117
+2025-01-15 12:8:00 +0700 - refactor(ui): update feature #117
