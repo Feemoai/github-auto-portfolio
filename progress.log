@@ -65465,3 +65465,4 @@
 2025-01-14 16:59:00 +0700 - chore(config): optimize feature #454
 2025-01-14 10:23:00 +0700 - chore(ui): optimize feature #454
 2025-01-15 12:57:00 +0700 - test(db): add feature #356
+2025-01-15 9:6:00 +0700 - fix(db): handle feature #356
