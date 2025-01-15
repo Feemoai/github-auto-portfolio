@@ -36211,3 +36211,4 @@
 2025-01-14 9:52:00 +0700 - fix(ui): remove feature #371
 2025-01-14 9:18:00 +0700 - chore(auth): remove feature #371
 2025-01-15 11:21:00 +0700 - refactor(auth): add feature #333
+2025-01-15 9:26:00 +0700 - chore(db): handle feature #333
