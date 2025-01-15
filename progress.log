@@ -634,3 +634,5 @@
 2025-01-13 10:2:00 +0700 - test(auth): improve feature #160
 2025-01-14 15:14:00 +0700 - chore(config): improve feature #296
 2025-01-14 14:32:00 +0700 - docs(ui): remove feature #296
+2025-01-15 15:20:00 +0700 - fix(core): handle feature #405
+2025-01-15 9:5:00 +0700 - perf(db): remove feature #405
