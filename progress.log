@@ -13623,3 +13623,4 @@
 2025-01-14 12:27:00 +0700 - chore(config): update feature #410
 2025-01-14 10:12:00 +0700 - refactor(auth): improve feature #410
 2025-01-15 9:41:00 +0700 - refactor(db): remove feature #272
+2025-01-15 14:2:00 +0700 - fix(auth): remove feature #272
