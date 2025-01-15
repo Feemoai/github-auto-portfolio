@@ -49610,3 +49610,4 @@
 2025-01-13 10:3:00 +0700 - fix(ui): add feature #215
 2025-01-14 13:8:00 +0700 - test(core): optimize feature #304
 2025-01-14 9:53:00 +0700 - fix(config): improve feature #304
+2025-01-15 13:34:00 +0700 - test(auth): remove feature #389
