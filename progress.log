@@ -11220,3 +11220,4 @@
 2025-01-13 10:52:00 +0700 - perf(core): update feature #416
 2025-01-14 15:9:00 +0700 - docs(api): remove feature #366
 2025-01-14 14:23:00 +0700 - refactor(api): optimize feature #366
+2025-01-15 12:10:00 +0700 - perf(api): optimize feature #229
