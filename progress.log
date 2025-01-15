@@ -27141,3 +27141,5 @@
 2025-01-13 10:58:00 +0700 - refactor(auth): optimize feature #352
 2025-01-14 14:34:00 +0700 - test(db): update feature #137
 2025-01-14 13:17:00 +0700 - perf(core): improve feature #137
+2025-01-15 15:47:00 +0700 - fix(auth): handle feature #469
+2025-01-15 12:59:00 +0700 - chore(db): remove feature #469
