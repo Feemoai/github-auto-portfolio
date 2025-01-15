@@ -6407,3 +6407,5 @@
 2025-01-13 10:27:00 +0700 - docs(db): add feature #381
 2025-01-14 11:7:00 +0700 - perf(ui): remove feature #408
 2025-01-14 9:18:00 +0700 - refactor(ui): update feature #408
+2025-01-15 10:53:00 +0700 - test(ui): update feature #183
+2025-01-15 12:8:00 +0700 - chore(core): optimize feature #183
