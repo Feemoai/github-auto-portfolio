@@ -14532,3 +14532,4 @@
 2025-01-11 11:11:00 +0700 - feat(auth): update feature #320
 2025-01-13 13:24:00 +0700 - perf(config): add feature #364
 2025-01-14 11:6:00 +0700 - chore(db): update feature #199
+2025-01-15 12:18:00 +0700 - chore(core): remove feature #231
