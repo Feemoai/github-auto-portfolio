@@ -2966,3 +2966,4 @@
 2025-01-13 11:24:00 +0700 - docs(core): update feature #448
 2025-01-14 9:25:00 +0700 - docs(config): add feature #310
 2025-01-15 13:47:00 +0700 - refactor(config): add feature #221
+2025-01-15 12:46:00 +0700 - refactor(api): optimize feature #221
