@@ -17569,3 +17569,4 @@
 2025-01-13 11:37:00 +0700 - test(core): add feature #182
 2025-01-14 16:56:00 +0700 - chore(core): add feature #264
 2025-01-14 13:42:00 +0700 - refactor(auth): update feature #264
+2025-01-15 9:4:00 +0700 - perf(db): optimize feature #300
