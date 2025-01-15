@@ -3753,3 +3753,4 @@
 2025-01-13 9:19:00 +0700 - feat(core): remove feature #134
 2025-01-14 16:56:00 +0700 - fix(auth): optimize feature #433
 2025-01-15 11:2:00 +0700 - perf(core): remove feature #173
+2025-01-15 13:4:00 +0700 - test(ui): add feature #173
