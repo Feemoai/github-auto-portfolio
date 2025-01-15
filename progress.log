@@ -16865,3 +16865,4 @@
 2025-01-13 14:35:00 +0700 - refactor(api): optimize feature #140
 2025-01-14 9:3:00 +0700 - test(config): handle feature #429
 2025-01-15 11:11:00 +0700 - feat(config): optimize feature #463
+2025-01-15 10:6:00 +0700 - perf(core): remove feature #463
