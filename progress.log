@@ -22251,3 +22251,4 @@
 2025-01-13 14:17:00 +0700 - docs(core): remove feature #225
 2025-01-13 10:13:00 +0700 - refactor(api): update feature #225
 2025-01-14 14:59:00 +0700 - feat(core): handle feature #460
+2025-01-15 12:37:00 +0700 - refactor(auth): optimize feature #400
