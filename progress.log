@@ -403,3 +403,4 @@
 2025-01-13 11:1:00 +0700 - test(core): handle feature #122
 2025-01-14 15:56:00 +0700 - test(api): handle feature #205
 2025-01-14 10:3:00 +0700 - perf(auth): update feature #205
+2025-01-15 9:8:00 +0700 - test(ui): remove feature #377
