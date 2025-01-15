@@ -58030,3 +58030,4 @@
 2025-01-14 13:3:00 +0700 - test(config): optimize feature #303
 2025-01-14 9:52:00 +0700 - fix(db): optimize feature #303
 2025-01-15 9:5:00 +0700 - docs(ui): optimize feature #228
+2025-01-15 16:37:00 +0700 - feat(core): remove feature #228
