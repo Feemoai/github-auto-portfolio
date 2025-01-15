@@ -13855,3 +13855,4 @@
 2025-01-13 9:39:00 +0700 - feat(config): add feature #337
 2025-01-14 16:22:00 +0700 - chore(core): remove feature #378
 2025-01-15 14:41:00 +0700 - perf(db): add feature #218
+2025-01-15 16:32:00 +0700 - refactor(auth): handle feature #218
