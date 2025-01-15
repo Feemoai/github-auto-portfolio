@@ -60813,3 +60813,4 @@
 2025-01-13 12:52:00 +0700 - test(api): update feature #434
 2025-01-14 12:46:00 +0700 - perf(api): handle feature #102
 2025-01-14 9:28:00 +0700 - fix(core): optimize feature #102
+2025-01-15 16:24:00 +0700 - chore(auth): remove feature #159
