@@ -1681,3 +1681,5 @@
 2025-01-13 13:57:00 +0700 - feat(db): update feature #436
 2025-01-14 11:20:00 +0700 - feat(ui): optimize feature #484
 2025-01-14 10:16:00 +0700 - fix(core): optimize feature #484
+2025-01-15 11:45:00 +0700 - feat(ui): improve feature #271
+2025-01-15 11:58:00 +0700 - refactor(config): optimize feature #271
