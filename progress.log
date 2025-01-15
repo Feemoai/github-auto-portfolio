@@ -20159,3 +20159,4 @@
 2025-01-14 10:26:00 +0700 - docs(ui): handle feature #433
 2025-01-14 14:42:00 +0700 - test(db): remove feature #433
 2025-01-15 11:47:00 +0700 - feat(db): optimize feature #393
+2025-01-15 12:21:00 +0700 - docs(config): handle feature #393
