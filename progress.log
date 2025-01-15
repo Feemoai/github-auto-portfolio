@@ -32940,3 +32940,4 @@
 2025-01-13 10:28:00 +0700 - perf(config): handle feature #430
 2025-01-14 9:27:00 +0700 - chore(ui): handle feature #422
 2025-01-14 10:16:00 +0700 - feat(db): remove feature #422
+2025-01-15 16:32:00 +0700 - feat(api): handle feature #273
