@@ -47658,3 +47658,4 @@
 2025-01-13 12:5:00 +0700 - fix(api): remove feature #440
 2025-01-14 9:30:00 +0700 - docs(db): remove feature #127
 2025-01-14 15:44:00 +0700 - feat(config): remove feature #127
+2025-01-15 9:15:00 +0700 - chore(core): handle feature #313
