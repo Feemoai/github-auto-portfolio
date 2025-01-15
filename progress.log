@@ -1337,3 +1337,4 @@
 2025-01-14 13:17:00 +0700 - docs(core): update feature #114
 2025-01-14 12:16:00 +0700 - perf(api): handle feature #114
 2025-01-15 13:6:00 +0700 - test(ui): optimize feature #250
+2025-01-15 15:35:00 +0700 - chore(ui): improve feature #250
