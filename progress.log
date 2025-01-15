@@ -24560,3 +24560,5 @@
 2025-01-11 15:31:00 +0700 - fix(auth): update feature #104
 2025-01-13 14:15:00 +0700 - chore(db): handle feature #162
 2025-01-14 9:56:00 +0700 - fix(auth): update feature #126
+2025-01-15 9:48:00 +0700 - refactor(core): handle feature #493
+2025-01-15 11:23:00 +0700 - test(db): optimize feature #493
