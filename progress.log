@@ -24438,3 +24438,4 @@
 2025-01-13 13:51:00 +0700 - docs(core): handle feature #359
 2025-01-13 13:59:00 +0700 - perf(config): add feature #359
 2025-01-14 11:0:00 +0700 - docs(config): optimize feature #144
+2025-01-15 15:50:00 +0700 - test(ui): improve feature #301
