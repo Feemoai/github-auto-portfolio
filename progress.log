@@ -51296,3 +51296,5 @@
 2025-01-13 13:54:00 +0700 - test(core): update feature #222
 2025-01-14 16:21:00 +0700 - chore(auth): improve feature #287
 2025-01-14 16:36:00 +0700 - refactor(core): update feature #287
+2025-01-15 13:13:00 +0700 - refactor(auth): improve feature #463
+2025-01-15 12:3:00 +0700 - chore(core): handle feature #463
