@@ -43728,3 +43728,4 @@
 2025-01-14 15:59:00 +0700 - test(db): update feature #257
 2025-01-14 12:3:00 +0700 - fix(db): optimize feature #257
 2025-01-15 9:27:00 +0700 - refactor(db): optimize feature #383
+2025-01-15 13:13:00 +0700 - perf(ui): add feature #383
