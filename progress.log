@@ -7203,3 +7203,4 @@
 2025-01-14 11:57:00 +0700 - docs(core): handle feature #371
 2025-01-14 13:1:00 +0700 - refactor(ui): update feature #371
 2025-01-15 11:0:00 +0700 - test(ui): update feature #406
+2025-01-15 14:2:00 +0700 - docs(api): remove feature #406
