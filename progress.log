@@ -35505,3 +35505,4 @@
 2025-01-14 14:44:00 +0700 - feat(api): add feature #483
 2025-01-14 9:57:00 +0700 - chore(ui): add feature #483
 2025-01-15 11:57:00 +0700 - refactor(config): optimize feature #479
+2025-01-15 15:21:00 +0700 - chore(api): handle feature #479
