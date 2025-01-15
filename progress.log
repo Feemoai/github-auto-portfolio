@@ -5480,3 +5480,4 @@
 2025-01-13 14:19:00 +0700 - fix(config): update feature #434
 2025-01-14 11:7:00 +0700 - chore(config): handle feature #155
 2025-01-14 16:12:00 +0700 - docs(db): update feature #155
+2025-01-15 9:45:00 +0700 - test(core): remove feature #387
