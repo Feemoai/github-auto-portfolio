@@ -49946,3 +49946,4 @@
 2025-01-14 14:59:00 +0700 - test(db): optimize feature #477
 2025-01-14 13:47:00 +0700 - docs(auth): handle feature #477
 2025-01-15 9:40:00 +0700 - feat(auth): optimize feature #168
+2025-01-15 11:8:00 +0700 - docs(ui): remove feature #168
