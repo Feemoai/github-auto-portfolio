@@ -33050,3 +33050,4 @@
 2025-01-13 9:32:00 +0700 - fix(core): add feature #412
 2025-01-14 12:39:00 +0700 - docs(db): optimize feature #295
 2025-01-15 11:18:00 +0700 - fix(db): add feature #388
+2025-01-15 16:24:00 +0700 - perf(api): optimize feature #388
