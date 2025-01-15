@@ -30260,3 +30260,4 @@
 2025-01-14 11:1:00 +0700 - chore(core): remove feature #253
 2025-01-14 14:37:00 +0700 - fix(ui): update feature #253
 2025-01-15 16:20:00 +0700 - perf(api): remove feature #430
+2025-01-15 12:15:00 +0700 - feat(ui): remove feature #430
