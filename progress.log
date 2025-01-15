@@ -515,3 +515,4 @@
 2025-01-13 16:55:00 +0700 - fix(config): remove feature #389
 2025-01-14 14:28:00 +0700 - docs(auth): handle feature #278
 2025-01-14 11:31:00 +0700 - test(api): handle feature #278
+2025-01-15 16:50:00 +0700 - docs(core): add feature #448
