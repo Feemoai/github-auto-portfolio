@@ -32215,3 +32215,5 @@
 2025-01-13 11:18:00 +0700 - perf(api): optimize feature #186
 2025-01-14 12:11:00 +0700 - test(api): improve feature #199
 2025-01-14 11:20:00 +0700 - docs(auth): add feature #199
+2025-01-15 15:5:00 +0700 - chore(ui): add feature #362
+2025-01-15 9:29:00 +0700 - perf(ui): improve feature #362
