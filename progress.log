@@ -1803,3 +1803,4 @@
 2025-01-14 15:27:00 +0700 - chore(api): handle feature #273
 2025-01-14 15:17:00 +0700 - test(core): optimize feature #273
 2025-01-15 10:59:00 +0700 - chore(core): update feature #314
+2025-01-15 15:59:00 +0700 - refactor(api): improve feature #314
