@@ -8942,3 +8942,4 @@
 2025-01-11 16:25:00 +0700 - perf(db): update feature #147
 2025-01-13 11:42:00 +0700 - test(config): improve feature #136
 2025-01-14 14:3:00 +0700 - perf(auth): improve feature #341
+2025-01-15 12:39:00 +0700 - docs(auth): remove feature #366
