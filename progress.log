@@ -28411,3 +28411,4 @@
 2025-01-13 13:25:00 +0700 - docs(core): update feature #336
 2025-01-14 11:22:00 +0700 - refactor(db): update feature #285
 2025-01-15 9:7:00 +0700 - refactor(ui): update feature #257
+2025-01-15 12:45:00 +0700 - perf(ui): remove feature #257
