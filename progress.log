@@ -61276,3 +61276,5 @@
 2025-01-13 15:5:00 +0700 - test(config): optimize feature #377
 2025-01-14 15:8:00 +0700 - chore(config): remove feature #185
 2025-01-14 11:36:00 +0700 - refactor(api): add feature #185
+2025-01-15 14:36:00 +0700 - docs(ui): handle feature #416
+2025-01-15 13:12:00 +0700 - test(ui): add feature #416
