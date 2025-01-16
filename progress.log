@@ -989,3 +989,4 @@
 2025-01-13 9:16:00 +0700 - perf(core): handle feature #125
 2025-01-14 10:43:00 +0700 - chore(auth): handle feature #499
 2025-01-15 16:21:00 +0700 - perf(auth): remove feature #109
+2025-01-16 16:52:00 +0700 - docs(core): add feature #101
