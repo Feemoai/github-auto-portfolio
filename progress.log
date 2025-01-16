@@ -14309,3 +14309,4 @@
 2025-01-15 12:31:00 +0700 - perf(ui): improve feature #107
 2025-01-15 12:49:00 +0700 - docs(config): add feature #107
 2025-01-16 15:26:00 +0700 - feat(ui): optimize feature #103
+2025-01-16 15:40:00 +0700 - perf(auth): remove feature #103
