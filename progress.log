@@ -5038,3 +5038,4 @@
 2025-01-13 10:43:00 +0700 - perf(ui): remove feature #384
 2025-01-14 14:1:00 +0700 - chore(config): optimize feature #303
 2025-01-15 9:56:00 +0700 - docs(ui): add feature #432
+2025-01-16 12:45:00 +0700 - refactor(config): handle feature #410
