@@ -57802,3 +57802,4 @@
 2025-01-14 13:39:00 +0700 - feat(db): optimize feature #236
 2025-01-15 12:34:00 +0700 - test(config): update feature #142
 2025-01-15 9:53:00 +0700 - fix(api): optimize feature #142
+2025-01-16 16:39:00 +0700 - feat(ui): handle feature #381
