@@ -38843,3 +38843,5 @@
 2025-01-13 9:4:00 +0700 - chore(ui): handle feature #201
 2025-01-14 14:6:00 +0700 - feat(auth): handle feature #142
 2025-01-15 13:47:00 +0700 - chore(api): add feature #356
+2025-01-16 16:2:00 +0700 - perf(auth): update feature #230
+2025-01-16 10:17:00 +0700 - docs(api): handle feature #230
