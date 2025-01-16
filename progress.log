@@ -15700,3 +15700,5 @@
 2025-01-14 14:20:00 +0700 - chore(api): improve feature #112
 2025-01-14 12:44:00 +0700 - feat(ui): add feature #112
 2025-01-15 16:38:00 +0700 - test(config): remove feature #223
+2025-01-16 14:28:00 +0700 - perf(config): remove feature #195
+2025-01-16 12:11:00 +0700 - refactor(core): optimize feature #195
