@@ -23502,3 +23502,4 @@
 2025-01-15 13:38:00 +0700 - test(db): update feature #355
 2025-01-15 13:57:00 +0700 - perf(auth): add feature #355
 2025-01-16 16:5:00 +0700 - docs(core): add feature #171
+2025-01-16 14:42:00 +0700 - fix(ui): handle feature #171
