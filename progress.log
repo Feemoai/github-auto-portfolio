@@ -9754,3 +9754,4 @@
 2025-01-13 10:53:00 +0700 - docs(ui): remove feature #322
 2025-01-14 14:27:00 +0700 - docs(db): remove feature #286
 2025-01-15 13:29:00 +0700 - fix(auth): add feature #277
+2025-01-16 12:7:00 +0700 - fix(auth): handle feature #331
