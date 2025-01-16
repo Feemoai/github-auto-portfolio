@@ -3293,3 +3293,4 @@
 2025-01-14 14:26:00 +0700 - perf(config): update feature #259
 2025-01-14 16:13:00 +0700 - test(ui): optimize feature #259
 2025-01-15 11:12:00 +0700 - fix(ui): handle feature #214
+2025-01-16 10:13:00 +0700 - fix(auth): improve feature #303
