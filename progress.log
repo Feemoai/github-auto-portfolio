@@ -67420,3 +67420,4 @@
 2025-01-14 10:18:00 +0700 - perf(auth): handle feature #488
 2025-01-14 11:16:00 +0700 - docs(core): optimize feature #488
 2025-01-15 11:7:00 +0700 - refactor(ui): add feature #301
+2025-01-16 15:26:00 +0700 - docs(api): handle feature #437
