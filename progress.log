@@ -2496,3 +2496,4 @@
 2025-01-14 13:54:00 +0700 - perf(core): add feature #268
 2025-01-15 16:2:00 +0700 - chore(core): add feature #486
 2025-01-15 12:58:00 +0700 - test(auth): remove feature #486
+2025-01-16 9:40:00 +0700 - test(config): add feature #280
