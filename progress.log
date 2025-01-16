@@ -13505,3 +13505,4 @@
 2025-01-14 14:27:00 +0700 - fix(db): improve feature #420
 2025-01-15 13:31:00 +0700 - docs(core): handle feature #384
 2025-01-15 9:18:00 +0700 - docs(ui): remove feature #384
+2025-01-16 14:1:00 +0700 - perf(config): add feature #226
