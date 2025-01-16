@@ -49498,3 +49498,4 @@
 2025-01-14 13:6:00 +0700 - docs(config): remove feature #347
 2025-01-15 15:32:00 +0700 - perf(config): improve feature #196
 2025-01-15 11:12:00 +0700 - test(config): update feature #196
+2025-01-16 9:49:00 +0700 - fix(config): add feature #384
