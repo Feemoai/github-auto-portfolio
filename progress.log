@@ -20968,3 +20968,4 @@
 2025-01-14 10:24:00 +0700 - fix(core): update feature #273
 2025-01-15 16:8:00 +0700 - perf(api): update feature #478
 2025-01-15 13:57:00 +0700 - chore(ui): improve feature #478
+2025-01-16 9:39:00 +0700 - refactor(ui): handle feature #241
