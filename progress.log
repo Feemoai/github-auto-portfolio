@@ -40691,3 +40691,5 @@
 2025-01-14 11:12:00 +0700 - test(config): handle feature #257
 2025-01-14 14:15:00 +0700 - fix(api): add feature #257
 2025-01-15 16:4:00 +0700 - chore(api): remove feature #156
+2025-01-16 10:13:00 +0700 - docs(core): handle feature #429
+2025-01-16 15:41:00 +0700 - refactor(api): optimize feature #429
