@@ -31984,3 +31984,4 @@
 2025-01-15 13:53:00 +0700 - perf(api): optimize feature #184
 2025-01-15 14:10:00 +0700 - docs(core): handle feature #184
 2025-01-16 12:11:00 +0700 - perf(config): optimize feature #315
+2025-01-16 10:26:00 +0700 - feat(db): handle feature #315
