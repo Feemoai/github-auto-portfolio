@@ -19325,3 +19325,4 @@
 2025-01-14 13:10:00 +0700 - feat(auth): improve feature #308
 2025-01-15 12:16:00 +0700 - feat(core): improve feature #161
 2025-01-15 13:58:00 +0700 - fix(auth): handle feature #161
+2025-01-16 9:34:00 +0700 - chore(core): optimize feature #201
