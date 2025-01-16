@@ -63950,3 +63950,4 @@
 2025-01-14 11:21:00 +0700 - chore(auth): remove feature #425
 2025-01-15 13:10:00 +0700 - refactor(config): add feature #157
 2025-01-16 14:37:00 +0700 - perf(config): handle feature #180
+2025-01-16 16:13:00 +0700 - chore(core): update feature #180
