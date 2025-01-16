@@ -5819,3 +5819,4 @@
 2025-01-14 10:17:00 +0700 - feat(auth): handle feature #126
 2025-01-15 14:58:00 +0700 - docs(core): optimize feature #469
 2025-01-15 10:49:00 +0700 - fix(config): remove feature #469
+2025-01-16 11:2:00 +0700 - fix(auth): add feature #165
