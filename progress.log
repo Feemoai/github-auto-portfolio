@@ -58620,3 +58620,4 @@
 2025-01-14 10:49:00 +0700 - chore(auth): add feature #441
 2025-01-14 10:35:00 +0700 - feat(core): add feature #441
 2025-01-15 13:32:00 +0700 - fix(auth): add feature #304
+2025-01-16 16:58:00 +0700 - perf(auth): remove feature #334
