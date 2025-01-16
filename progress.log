@@ -38618,3 +38618,4 @@
 2025-01-14 11:8:00 +0700 - test(config): update feature #124
 2025-01-14 14:42:00 +0700 - test(core): remove feature #124
 2025-01-15 9:56:00 +0700 - docs(auth): optimize feature #391
+2025-01-16 10:10:00 +0700 - chore(core): remove feature #473
