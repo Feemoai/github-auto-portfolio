@@ -51979,3 +51979,4 @@
 2025-01-13 9:0:00 +0700 - docs(api): update feature #187
 2025-01-14 10:37:00 +0700 - test(core): optimize feature #251
 2025-01-15 11:2:00 +0700 - perf(ui): add feature #244
+2025-01-16 13:5:00 +0700 - perf(auth): remove feature #108
