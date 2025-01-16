@@ -26204,3 +26204,4 @@
 2025-01-14 13:38:00 +0700 - refactor(api): remove feature #292
 2025-01-15 14:37:00 +0700 - test(auth): remove feature #113
 2025-01-15 16:59:00 +0700 - feat(core): add feature #113
+2025-01-16 9:44:00 +0700 - fix(core): add feature #436
