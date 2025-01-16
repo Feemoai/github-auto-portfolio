@@ -31645,3 +31645,4 @@
 2025-01-13 12:46:00 +0700 - fix(ui): remove feature #329
 2025-01-14 15:46:00 +0700 - docs(db): remove feature #219
 2025-01-15 9:9:00 +0700 - chore(ui): optimize feature #429
+2025-01-16 9:49:00 +0700 - fix(core): handle feature #269
