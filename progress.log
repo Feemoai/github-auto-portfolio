@@ -10418,3 +10418,4 @@
 2025-01-14 14:22:00 +0700 - feat(api): remove feature #430
 2025-01-15 16:21:00 +0700 - docs(auth): update feature #384
 2025-01-15 9:12:00 +0700 - feat(auth): improve feature #384
+2025-01-16 16:46:00 +0700 - test(config): handle feature #211
