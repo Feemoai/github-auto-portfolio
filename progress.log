@@ -5482,3 +5482,4 @@
 2025-01-14 16:12:00 +0700 - docs(db): update feature #155
 2025-01-15 9:45:00 +0700 - test(core): remove feature #387
 2025-01-16 12:31:00 +0700 - chore(db): handle feature #358
+2025-01-16 13:0:00 +0700 - perf(db): remove feature #358
