@@ -6410,3 +6410,4 @@
 2025-01-15 10:53:00 +0700 - test(ui): update feature #183
 2025-01-15 12:8:00 +0700 - chore(core): optimize feature #183
 2025-01-16 11:40:00 +0700 - fix(db): add feature #478
+2025-01-16 12:26:00 +0700 - perf(core): remove feature #478
