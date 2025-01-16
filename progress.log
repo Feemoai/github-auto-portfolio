@@ -4100,3 +4100,4 @@
 2025-01-13 11:15:00 +0700 - docs(db): add feature #459
 2025-01-14 16:51:00 +0700 - feat(core): handle feature #152
 2025-01-15 15:30:00 +0700 - docs(api): update feature #248
+2025-01-16 14:54:00 +0700 - chore(auth): remove feature #487
