@@ -29442,3 +29442,4 @@
 2025-01-15 14:28:00 +0700 - chore(config): remove feature #421
 2025-01-15 12:16:00 +0700 - refactor(api): handle feature #421
 2025-01-16 9:45:00 +0700 - refactor(api): remove feature #281
+2025-01-16 16:33:00 +0700 - feat(ui): handle feature #281
