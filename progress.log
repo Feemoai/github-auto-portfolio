@@ -50508,3 +50508,5 @@
 2025-01-13 14:34:00 +0700 - feat(config): add feature #201
 2025-01-14 15:14:00 +0700 - refactor(ui): handle feature #231
 2025-01-15 13:48:00 +0700 - fix(db): optimize feature #483
+2025-01-16 15:17:00 +0700 - perf(auth): remove feature #487
+2025-01-16 16:5:00 +0700 - perf(core): remove feature #487
