@@ -30374,3 +30374,4 @@
 2025-01-13 15:34:00 +0700 - docs(config): remove feature #275
 2025-01-14 14:58:00 +0700 - fix(core): update feature #181
 2025-01-15 16:39:00 +0700 - refactor(ui): add feature #495
+2025-01-16 13:54:00 +0700 - docs(ui): handle feature #359
