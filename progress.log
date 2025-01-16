@@ -27503,3 +27503,4 @@
 2025-01-15 16:20:00 +0700 - docs(db): add feature #385
 2025-01-15 13:58:00 +0700 - fix(config): handle feature #385
 2025-01-16 13:39:00 +0700 - perf(api): remove feature #471
+2025-01-16 15:30:00 +0700 - fix(db): handle feature #471
