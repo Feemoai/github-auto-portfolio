@@ -3185,3 +3185,4 @@
 2025-01-14 13:54:00 +0700 - feat(ui): remove feature #238
 2025-01-14 10:43:00 +0700 - perf(api): optimize feature #238
 2025-01-15 13:34:00 +0700 - docs(ui): update feature #373
+2025-01-16 11:6:00 +0700 - feat(config): remove feature #372
