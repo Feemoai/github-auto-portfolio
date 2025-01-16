@@ -44993,3 +44993,4 @@
 2025-01-14 14:53:00 +0700 - perf(ui): remove feature #365
 2025-01-15 14:17:00 +0700 - fix(api): handle feature #174
 2025-01-16 12:46:00 +0700 - fix(auth): handle feature #155
+2025-01-16 16:38:00 +0700 - feat(ui): handle feature #155
