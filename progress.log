@@ -26548,3 +26548,5 @@
 2025-01-14 11:45:00 +0700 - fix(auth): add feature #355
 2025-01-15 11:5:00 +0700 - feat(db): handle feature #199
 2025-01-15 14:55:00 +0700 - docs(auth): handle feature #199
+2025-01-16 12:47:00 +0700 - fix(core): optimize feature #478
+2025-01-16 9:25:00 +0700 - refactor(config): update feature #478
