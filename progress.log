@@ -15937,3 +15937,4 @@
 2025-01-14 12:47:00 +0700 - perf(api): remove feature #192
 2025-01-15 13:32:00 +0700 - perf(core): handle feature #336
 2025-01-15 13:48:00 +0700 - perf(config): remove feature #336
+2025-01-16 14:25:00 +0700 - test(config): handle feature #432
