@@ -68331,3 +68331,4 @@
 2025-01-14 14:33:00 +0700 - test(core): handle feature #393
 2025-01-15 15:34:00 +0700 - chore(db): handle feature #342
 2025-01-15 9:6:00 +0700 - fix(core): remove feature #342
+2025-01-16 15:45:00 +0700 - feat(auth): improve feature #119
