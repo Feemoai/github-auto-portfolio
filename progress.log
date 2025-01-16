@@ -50290,3 +50290,4 @@
 2025-01-14 9:59:00 +0700 - chore(api): handle feature #340
 2025-01-15 13:1:00 +0700 - perf(config): remove feature #122
 2025-01-15 15:10:00 +0700 - perf(ui): handle feature #122
+2025-01-16 12:21:00 +0700 - fix(core): optimize feature #438
