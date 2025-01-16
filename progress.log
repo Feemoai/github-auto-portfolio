@@ -8716,3 +8716,4 @@
 2025-01-14 12:46:00 +0700 - fix(config): update feature #424
 2025-01-15 11:46:00 +0700 - fix(config): handle feature #240
 2025-01-15 9:27:00 +0700 - fix(db): update feature #240
+2025-01-16 13:54:00 +0700 - feat(api): add feature #494
