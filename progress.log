@@ -31191,3 +31191,5 @@
 2025-01-14 9:54:00 +0700 - feat(ui): handle feature #458
 2025-01-15 15:18:00 +0700 - docs(api): optimize feature #494
 2025-01-15 11:57:00 +0700 - chore(api): optimize feature #494
+2025-01-16 13:49:00 +0700 - test(api): optimize feature #387
+2025-01-16 16:5:00 +0700 - perf(db): optimize feature #387
