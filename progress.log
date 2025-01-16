@@ -24324,3 +24324,4 @@
 2025-01-14 9:40:00 +0700 - docs(core): remove feature #195
 2025-01-15 12:55:00 +0700 - docs(ui): improve feature #447
 2025-01-15 9:48:00 +0700 - perf(ui): add feature #447
+2025-01-16 16:33:00 +0700 - test(auth): remove feature #444
