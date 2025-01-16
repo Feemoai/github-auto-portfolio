@@ -13279,3 +13279,4 @@
 2025-01-14 9:45:00 +0700 - perf(config): optimize feature #125
 2025-01-15 10:23:00 +0700 - chore(api): handle feature #483
 2025-01-15 12:54:00 +0700 - chore(auth): handle feature #483
+2025-01-16 10:7:00 +0700 - fix(auth): optimize feature #263
