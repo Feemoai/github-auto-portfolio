@@ -18032,3 +18032,4 @@
 2025-01-14 16:27:00 +0700 - perf(core): remove feature #208
 2025-01-15 10:15:00 +0700 - fix(db): add feature #202
 2025-01-16 16:10:00 +0700 - refactor(api): optimize feature #188
+2025-01-16 11:36:00 +0700 - refactor(api): remove feature #188
