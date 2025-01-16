@@ -21796,3 +21796,5 @@
 2025-01-14 16:27:00 +0700 - chore(auth): optimize feature #316
 2025-01-15 13:30:00 +0700 - docs(api): optimize feature #454
 2025-01-15 15:20:00 +0700 - fix(auth): update feature #454
+2025-01-16 10:34:00 +0700 - chore(ui): handle feature #438
+2025-01-16 9:56:00 +0700 - perf(ui): update feature #438
