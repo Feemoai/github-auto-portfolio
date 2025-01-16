@@ -9166,3 +9166,4 @@
 2025-01-13 13:32:00 +0700 - feat(ui): improve feature #204
 2025-01-14 12:8:00 +0700 - fix(db): optimize feature #166
 2025-01-15 12:21:00 +0700 - fix(auth): improve feature #238
+2025-01-16 9:26:00 +0700 - docs(config): remove feature #237
