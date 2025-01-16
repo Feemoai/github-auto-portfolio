@@ -31305,3 +31305,4 @@
 2025-01-14 12:48:00 +0700 - perf(db): handle feature #310
 2025-01-15 16:11:00 +0700 - chore(core): improve feature #339
 2025-01-15 16:15:00 +0700 - chore(db): remove feature #339
+2025-01-16 16:24:00 +0700 - perf(config): handle feature #271
