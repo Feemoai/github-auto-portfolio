@@ -22020,3 +22020,4 @@
 2025-01-14 15:59:00 +0700 - feat(config): update feature #190
 2025-01-15 15:36:00 +0700 - perf(api): update feature #278
 2025-01-15 10:52:00 +0700 - docs(db): improve feature #278
+2025-01-16 16:20:00 +0700 - perf(db): handle feature #335
