@@ -61970,3 +61970,4 @@
 2025-01-14 9:47:00 +0700 - chore(db): handle feature #256
 2025-01-15 15:14:00 +0700 - refactor(auth): remove feature #413
 2025-01-15 15:29:00 +0700 - feat(core): handle feature #413
+2025-01-16 12:39:00 +0700 - test(api): remove feature #481
