@@ -45220,3 +45220,4 @@
 2025-01-14 16:14:00 +0700 - chore(api): update feature #460
 2025-01-15 14:32:00 +0700 - test(db): update feature #228
 2025-01-15 12:6:00 +0700 - feat(core): remove feature #228
+2025-01-16 15:20:00 +0700 - fix(config): handle feature #385
