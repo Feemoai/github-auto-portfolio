@@ -64537,3 +64537,4 @@
 2025-01-15 12:58:00 +0700 - test(db): add feature #281
 2025-01-15 14:7:00 +0700 - perf(core): update feature #281
 2025-01-16 14:46:00 +0700 - feat(auth): remove feature #123
+2025-01-16 15:21:00 +0700 - fix(auth): add feature #123
