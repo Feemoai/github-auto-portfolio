@@ -29207,3 +29207,4 @@
 2025-01-14 9:3:00 +0700 - fix(config): improve feature #207
 2025-01-15 9:52:00 +0700 - perf(db): handle feature #409
 2025-01-15 14:54:00 +0700 - chore(config): improve feature #409
+2025-01-16 12:7:00 +0700 - feat(core): optimize feature #390
