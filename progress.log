@@ -6053,3 +6053,4 @@
 2025-01-15 14:32:00 +0700 - chore(db): handle feature #335
 2025-01-15 14:17:00 +0700 - chore(config): add feature #335
 2025-01-16 11:17:00 +0700 - chore(auth): remove feature #243
+2025-01-16 10:15:00 +0700 - test(api): handle feature #243
