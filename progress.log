@@ -12141,3 +12141,4 @@
 2025-01-14 16:23:00 +0700 - fix(core): add feature #448
 2025-01-15 10:34:00 +0700 - perf(api): optimize feature #145
 2025-01-16 15:7:00 +0700 - docs(ui): optimize feature #300
+2025-01-16 16:49:00 +0700 - feat(api): add feature #300
