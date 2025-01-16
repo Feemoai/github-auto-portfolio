@@ -24087,3 +24087,4 @@
 2025-01-14 12:12:00 +0700 - test(ui): add feature #218
 2025-01-14 16:11:00 +0700 - test(api): handle feature #218
 2025-01-15 14:40:00 +0700 - chore(auth): optimize feature #100
+2025-01-16 12:39:00 +0700 - feat(config): update feature #289
