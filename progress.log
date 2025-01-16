@@ -33395,3 +33395,4 @@
 2025-01-13 14:55:00 +0700 - fix(config): add feature #147
 2025-01-14 16:8:00 +0700 - feat(core): update feature #259
 2025-01-15 15:55:00 +0700 - refactor(ui): remove feature #391
+2025-01-16 12:58:00 +0700 - refactor(ui): optimize feature #349
