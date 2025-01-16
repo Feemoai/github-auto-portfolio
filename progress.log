@@ -52548,3 +52548,4 @@
 2025-01-14 9:24:00 +0700 - fix(db): handle feature #323
 2025-01-15 11:9:00 +0700 - refactor(api): optimize feature #340
 2025-01-15 15:56:00 +0700 - chore(core): handle feature #340
+2025-01-16 15:51:00 +0700 - chore(ui): optimize feature #207
