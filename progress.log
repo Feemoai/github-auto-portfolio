@@ -24563,3 +24563,4 @@
 2025-01-15 9:48:00 +0700 - refactor(core): handle feature #493
 2025-01-15 11:23:00 +0700 - test(db): optimize feature #493
 2025-01-16 15:9:00 +0700 - docs(core): update feature #424
+2025-01-16 13:12:00 +0700 - fix(ui): handle feature #424
