@@ -2620,3 +2620,4 @@
 2025-01-14 12:50:00 +0700 - docs(core): add feature #497
 2025-01-14 16:36:00 +0700 - chore(config): handle feature #497
 2025-01-15 14:30:00 +0700 - feat(auth): remove feature #412
+2025-01-16 13:30:00 +0700 - chore(api): improve feature #412
