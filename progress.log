@@ -62552,3 +62552,5 @@
 2025-01-14 15:41:00 +0700 - perf(auth): add feature #413
 2025-01-15 12:47:00 +0700 - perf(auth): improve feature #475
 2025-01-15 14:12:00 +0700 - feat(api): update feature #475
+2025-01-16 11:2:00 +0700 - feat(config): optimize feature #340
+2025-01-16 13:16:00 +0700 - chore(config): optimize feature #340
