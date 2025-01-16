@@ -60935,3 +60935,4 @@
 2025-01-14 16:11:00 +0700 - fix(core): add feature #452
 2025-01-15 11:35:00 +0700 - perf(config): improve feature #404
 2025-01-15 14:14:00 +0700 - feat(config): remove feature #404
+2025-01-16 14:48:00 +0700 - chore(auth): add feature #137
