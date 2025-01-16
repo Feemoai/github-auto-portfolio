@@ -6639,3 +6639,4 @@
 2025-01-15 15:23:00 +0700 - refactor(core): update feature #314
 2025-01-15 14:52:00 +0700 - docs(core): remove feature #314
 2025-01-16 10:12:00 +0700 - refactor(ui): handle feature #240
+2025-01-16 13:31:00 +0700 - chore(auth): add feature #240
