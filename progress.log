@@ -14885,3 +14885,4 @@
 2025-01-13 16:46:00 +0700 - feat(api): remove feature #239
 2025-01-14 10:43:00 +0700 - feat(db): handle feature #332
 2025-01-15 11:22:00 +0700 - fix(api): update feature #315
+2025-01-16 11:12:00 +0700 - test(config): remove feature #429
