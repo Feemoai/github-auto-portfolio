@@ -49385,3 +49385,5 @@
 2025-01-14 12:29:00 +0700 - chore(auth): optimize feature #302
 2025-01-15 14:10:00 +0700 - refactor(auth): remove feature #317
 2025-01-15 12:30:00 +0700 - feat(core): add feature #317
+2025-01-16 15:17:00 +0700 - chore(core): optimize feature #406
+2025-01-16 13:27:00 +0700 - test(api): optimize feature #406
