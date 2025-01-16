@@ -42436,3 +42436,5 @@
 2025-01-14 15:3:00 +0700 - perf(ui): update feature #392
 2025-01-15 11:16:00 +0700 - chore(api): handle feature #421
 2025-01-15 15:4:00 +0700 - docs(api): optimize feature #421
+2025-01-16 9:6:00 +0700 - fix(auth): remove feature #398
+2025-01-16 13:56:00 +0700 - feat(ui): remove feature #398
