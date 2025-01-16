@@ -41162,3 +41162,5 @@
 2025-01-13 12:36:00 +0700 - chore(ui): improve feature #137
 2025-01-14 10:35:00 +0700 - feat(api): improve feature #293
 2025-01-15 11:7:00 +0700 - perf(config): update feature #325
+2025-01-16 11:0:00 +0700 - refactor(db): add feature #196
+2025-01-16 15:12:00 +0700 - refactor(config): remove feature #196
