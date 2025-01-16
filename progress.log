@@ -7095,3 +7095,5 @@
 2025-01-14 11:8:00 +0700 - fix(auth): improve feature #436
 2025-01-15 14:43:00 +0700 - docs(config): optimize feature #206
 2025-01-15 15:27:00 +0700 - perf(ui): add feature #206
+2025-01-16 14:44:00 +0700 - perf(ui): remove feature #273
+2025-01-16 9:53:00 +0700 - feat(api): optimize feature #273
