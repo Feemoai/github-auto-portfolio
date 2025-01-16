@@ -32819,3 +32819,4 @@
 2025-01-14 14:49:00 +0700 - refactor(api): handle feature #293
 2025-01-15 12:10:00 +0700 - feat(core): optimize feature #100
 2025-01-15 9:1:00 +0700 - perf(ui): remove feature #100
+2025-01-16 12:31:00 +0700 - feat(db): handle feature #346
