@@ -57572,3 +57572,4 @@
 2025-01-14 16:13:00 +0700 - chore(auth): handle feature #477
 2025-01-15 12:56:00 +0700 - chore(config): remove feature #205
 2025-01-15 14:25:00 +0700 - refactor(core): handle feature #205
+2025-01-16 14:52:00 +0700 - feat(core): remove feature #466
