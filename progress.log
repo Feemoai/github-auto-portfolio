@@ -39653,3 +39653,4 @@
 2025-01-15 10:44:00 +0700 - test(config): add feature #372
 2025-01-15 9:15:00 +0700 - feat(core): remove feature #372
 2025-01-16 10:39:00 +0700 - perf(auth): optimize feature #421
+2025-01-17 13:4:00 +0700 - docs(config): remove feature #110
