@@ -3755,3 +3755,5 @@
 2025-01-15 11:2:00 +0700 - perf(core): remove feature #173
 2025-01-15 13:4:00 +0700 - test(ui): add feature #173
 2025-01-16 16:18:00 +0700 - chore(db): handle feature #250
+2025-01-17 15:27:00 +0700 - fix(core): remove feature #302
+2025-01-17 15:25:00 +0700 - docs(auth): remove feature #302
