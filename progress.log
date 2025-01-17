@@ -5371,3 +5371,5 @@
 2025-01-15 16:26:00 +0700 - feat(api): update feature #152
 2025-01-16 13:36:00 +0700 - chore(ui): add feature #394
 2025-01-16 9:56:00 +0700 - feat(auth): improve feature #394
+2025-01-17 14:28:00 +0700 - fix(core): handle feature #281
+2025-01-17 15:14:00 +0700 - refactor(auth): optimize feature #281
