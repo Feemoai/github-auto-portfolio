@@ -33397,3 +33397,4 @@
 2025-01-15 15:55:00 +0700 - refactor(ui): remove feature #391
 2025-01-16 12:58:00 +0700 - refactor(ui): optimize feature #349
 2025-01-17 9:7:00 +0700 - perf(config): remove feature #497
+2025-01-17 10:52:00 +0700 - test(core): handle feature #497
