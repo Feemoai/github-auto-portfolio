@@ -50183,3 +50183,4 @@
 2025-01-16 16:40:00 +0700 - chore(config): update feature #235
 2025-01-16 9:52:00 +0700 - feat(config): optimize feature #235
 2025-01-17 12:33:00 +0700 - refactor(db): handle feature #400
+2025-01-17 11:52:00 +0700 - chore(ui): handle feature #400
