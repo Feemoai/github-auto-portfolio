@@ -56425,3 +56425,4 @@
 2025-01-14 13:9:00 +0700 - fix(config): remove feature #319
 2025-01-15 13:33:00 +0700 - docs(auth): handle feature #410
 2025-01-16 9:39:00 +0700 - test(config): optimize feature #357
+2025-01-17 13:17:00 +0700 - fix(core): add feature #153
