@@ -44638,3 +44638,4 @@
 2025-01-15 11:51:00 +0700 - refactor(api): remove feature #395
 2025-01-16 9:39:00 +0700 - docs(core): optimize feature #150
 2025-01-17 14:6:00 +0700 - refactor(db): remove feature #186
+2025-01-17 10:59:00 +0700 - chore(config): improve feature #186
