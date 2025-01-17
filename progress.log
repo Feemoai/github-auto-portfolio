@@ -52213,3 +52213,4 @@
 2025-01-15 9:48:00 +0700 - fix(ui): optimize feature #186
 2025-01-16 10:16:00 +0700 - chore(db): add feature #310
 2025-01-17 13:27:00 +0700 - chore(db): add feature #465
+2025-01-17 15:24:00 +0700 - docs(auth): handle feature #465
