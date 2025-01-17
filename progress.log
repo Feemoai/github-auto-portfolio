@@ -21447,3 +21447,4 @@
 2025-01-15 9:16:00 +0700 - docs(api): improve feature #166
 2025-01-16 10:28:00 +0700 - docs(api): remove feature #115
 2025-01-16 13:14:00 +0700 - fix(auth): handle feature #115
+2025-01-17 13:42:00 +0700 - docs(config): optimize feature #187
