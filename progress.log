@@ -8369,3 +8369,4 @@
 2025-01-15 9:43:00 +0700 - fix(db): update feature #474
 2025-01-16 14:8:00 +0700 - docs(api): handle feature #487
 2025-01-16 10:10:00 +0700 - perf(core): optimize feature #487
+2025-01-17 15:48:00 +0700 - refactor(config): optimize feature #167
