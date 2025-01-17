@@ -9400,3 +9400,4 @@
 2025-01-15 13:13:00 +0700 - refactor(auth): add feature #382
 2025-01-15 12:7:00 +0700 - test(db): optimize feature #382
 2025-01-16 13:9:00 +0700 - test(db): optimize feature #164
+2025-01-17 16:30:00 +0700 - docs(api): handle feature #119
