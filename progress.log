@@ -36899,3 +36899,4 @@
 2025-01-15 9:48:00 +0700 - test(core): remove feature #224
 2025-01-16 13:13:00 +0700 - chore(core): update feature #230
 2025-01-17 14:59:00 +0700 - perf(db): optimize feature #334
+2025-01-17 12:31:00 +0700 - perf(core): remove feature #334
