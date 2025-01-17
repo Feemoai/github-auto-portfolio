@@ -20635,3 +20635,4 @@
 2025-01-15 11:46:00 +0700 - perf(db): add feature #100
 2025-01-16 16:59:00 +0700 - chore(auth): optimize feature #454
 2025-01-16 11:49:00 +0700 - perf(auth): handle feature #454
+2025-01-17 11:35:00 +0700 - refactor(db): update feature #417
