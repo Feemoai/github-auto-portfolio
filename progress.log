@@ -37246,3 +37246,4 @@
 2025-01-15 13:37:00 +0700 - feat(core): add feature #434
 2025-01-16 16:43:00 +0700 - docs(core): update feature #279
 2025-01-16 10:20:00 +0700 - refactor(ui): remove feature #279
+2025-01-17 15:28:00 +0700 - test(db): handle feature #436
