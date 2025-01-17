@@ -63834,3 +63834,4 @@
 2025-01-15 15:11:00 +0700 - docs(core): update feature #328
 2025-01-16 9:4:00 +0700 - chore(auth): update feature #259
 2025-01-16 12:34:00 +0700 - perf(config): improve feature #259
+2025-01-17 14:58:00 +0700 - perf(db): handle feature #121
