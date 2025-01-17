@@ -61855,3 +61855,5 @@
 2025-01-15 14:17:00 +0700 - fix(core): optimize feature #271
 2025-01-16 15:14:00 +0700 - test(ui): remove feature #458
 2025-01-16 13:5:00 +0700 - fix(auth): handle feature #458
+2025-01-17 11:21:00 +0700 - test(ui): optimize feature #272
+2025-01-17 11:39:00 +0700 - test(auth): improve feature #272
