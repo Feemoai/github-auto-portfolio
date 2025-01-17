@@ -44308,3 +44308,4 @@
 2025-01-15 11:25:00 +0700 - fix(ui): improve feature #100
 2025-01-16 13:4:00 +0700 - feat(config): handle feature #216
 2025-01-16 16:33:00 +0700 - test(db): optimize feature #216
+2025-01-17 14:9:00 +0700 - test(ui): remove feature #352
