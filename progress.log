@@ -41164,3 +41164,4 @@
 2025-01-15 11:7:00 +0700 - perf(config): update feature #325
 2025-01-16 11:0:00 +0700 - refactor(db): add feature #196
 2025-01-16 15:12:00 +0700 - refactor(config): remove feature #196
+2025-01-17 9:16:00 +0700 - fix(ui): handle feature #433
