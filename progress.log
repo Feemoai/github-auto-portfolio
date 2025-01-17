@@ -13506,3 +13506,4 @@
 2025-01-15 13:31:00 +0700 - docs(core): handle feature #384
 2025-01-15 9:18:00 +0700 - docs(ui): remove feature #384
 2025-01-16 14:1:00 +0700 - perf(config): add feature #226
+2025-01-17 12:42:00 +0700 - test(core): improve feature #147
