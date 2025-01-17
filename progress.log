@@ -5820,3 +5820,5 @@
 2025-01-15 14:58:00 +0700 - docs(core): optimize feature #469
 2025-01-15 10:49:00 +0700 - fix(config): remove feature #469
 2025-01-16 11:2:00 +0700 - fix(auth): add feature #165
+2025-01-17 12:0:00 +0700 - feat(auth): update feature #184
+2025-01-17 16:38:00 +0700 - perf(core): improve feature #184
