@@ -42438,3 +42438,4 @@
 2025-01-15 15:4:00 +0700 - docs(api): optimize feature #421
 2025-01-16 9:6:00 +0700 - fix(auth): remove feature #398
 2025-01-16 13:56:00 +0700 - feat(ui): remove feature #398
+2025-01-17 9:22:00 +0700 - feat(core): handle feature #351
