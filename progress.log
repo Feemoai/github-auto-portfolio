@@ -24564,3 +24564,5 @@
 2025-01-15 11:23:00 +0700 - test(db): optimize feature #493
 2025-01-16 15:9:00 +0700 - docs(core): update feature #424
 2025-01-16 13:12:00 +0700 - fix(ui): handle feature #424
+2025-01-17 13:52:00 +0700 - chore(core): remove feature #484
+2025-01-17 10:14:00 +0700 - refactor(auth): improve feature #484
