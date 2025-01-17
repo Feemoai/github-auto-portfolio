@@ -24325,3 +24325,4 @@
 2025-01-15 12:55:00 +0700 - docs(ui): improve feature #447
 2025-01-15 9:48:00 +0700 - perf(ui): add feature #447
 2025-01-16 16:33:00 +0700 - test(auth): remove feature #444
+2025-01-17 9:45:00 +0700 - fix(api): optimize feature #294
