@@ -4574,3 +4574,4 @@
 2025-01-16 9:19:00 +0700 - refactor(core): update feature #327
 2025-01-16 15:27:00 +0700 - refactor(db): improve feature #327
 2025-01-17 14:47:00 +0700 - feat(auth): update feature #437
+2025-01-17 14:34:00 +0700 - perf(api): remove feature #437
