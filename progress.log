@@ -50068,3 +50068,4 @@
 2025-01-16 12:40:00 +0700 - feat(db): update feature #101
 2025-01-17 13:48:00 +0700 - perf(api): improve feature #267
 2025-01-18 9:47:00 +0700 - perf(config): optimize feature #115
+2025-01-18 14:17:00 +0700 - chore(core): handle feature #115
