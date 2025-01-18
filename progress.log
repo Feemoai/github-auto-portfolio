@@ -9867,3 +9867,4 @@
 2025-01-16 16:59:00 +0700 - feat(config): handle feature #408
 2025-01-17 11:52:00 +0700 - test(auth): add feature #118
 2025-01-17 13:10:00 +0700 - refactor(ui): add feature #118
+2025-01-18 13:11:00 +0700 - fix(ui): handle feature #230
