@@ -2623,3 +2623,4 @@
 2025-01-16 13:30:00 +0700 - chore(api): improve feature #412
 2025-01-17 9:52:00 +0700 - feat(core): update feature #491
 2025-01-18 16:55:00 +0700 - test(auth): add feature #316
+2025-01-18 9:58:00 +0700 - refactor(core): optimize feature #316
