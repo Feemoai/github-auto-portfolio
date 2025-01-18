@@ -3641,3 +3641,4 @@
 2025-01-16 15:15:00 +0700 - test(config): update feature #218
 2025-01-16 9:37:00 +0700 - docs(db): handle feature #218
 2025-01-17 9:0:00 +0700 - refactor(db): improve feature #181
+2025-01-18 13:23:00 +0700 - feat(api): handle feature #384
