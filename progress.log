@@ -7558,3 +7558,4 @@
 2025-01-17 14:6:00 +0700 - refactor(api): add feature #134
 2025-01-17 14:32:00 +0700 - fix(db): update feature #134
 2025-01-18 13:29:00 +0700 - test(ui): optimize feature #175
+2025-01-18 13:31:00 +0700 - refactor(config): remove feature #175
