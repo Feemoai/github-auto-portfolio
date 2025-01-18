@@ -51759,3 +51759,5 @@
 2025-01-15 15:58:00 +0700 - chore(ui): update feature #385
 2025-01-16 11:25:00 +0700 - refactor(db): handle feature #340
 2025-01-17 9:29:00 +0700 - fix(api): add feature #492
+2025-01-18 16:32:00 +0700 - fix(ui): handle feature #225
+2025-01-18 16:16:00 +0700 - docs(ui): improve feature #225
