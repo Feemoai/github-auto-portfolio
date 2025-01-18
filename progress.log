@@ -43022,3 +43022,4 @@
 2025-01-16 10:26:00 +0700 - perf(ui): update feature #342
 2025-01-16 12:15:00 +0700 - docs(api): add feature #342
 2025-01-17 15:36:00 +0700 - chore(auth): update feature #403
+2025-01-18 14:49:00 +0700 - refactor(core): handle feature #106
