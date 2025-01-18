@@ -10875,3 +10875,4 @@
 2025-01-15 12:0:00 +0700 - feat(config): optimize feature #256
 2025-01-16 11:4:00 +0700 - perf(auth): add feature #125
 2025-01-17 16:25:00 +0700 - feat(auth): add feature #163
+2025-01-18 16:23:00 +0700 - fix(core): add feature #340
