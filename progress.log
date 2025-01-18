@@ -63135,3 +63135,5 @@
 2025-01-15 16:25:00 +0700 - fix(core): update feature #104
 2025-01-16 11:28:00 +0700 - docs(auth): add feature #403
 2025-01-17 13:48:00 +0700 - feat(auth): remove feature #161
+2025-01-18 10:38:00 +0700 - docs(auth): remove feature #454
+2025-01-18 13:17:00 +0700 - chore(ui): update feature #454
