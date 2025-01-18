@@ -17453,3 +17453,5 @@
 2025-01-16 10:6:00 +0700 - refactor(core): optimize feature #217
 2025-01-17 9:14:00 +0700 - test(api): add feature #341
 2025-01-17 11:4:00 +0700 - docs(api): handle feature #341
+2025-01-18 10:32:00 +0700 - refactor(api): remove feature #259
+2025-01-18 15:16:00 +0700 - feat(api): handle feature #259
