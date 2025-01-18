@@ -24687,3 +24687,4 @@
 2025-01-17 11:24:00 +0700 - chore(api): handle feature #108
 2025-01-17 9:53:00 +0700 - test(auth): optimize feature #108
 2025-01-18 15:46:00 +0700 - fix(api): handle feature #467
+2025-01-18 16:15:00 +0700 - docs(config): handle feature #467
