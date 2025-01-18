@@ -9757,3 +9757,4 @@
 2025-01-16 12:7:00 +0700 - fix(auth): handle feature #331
 2025-01-17 12:38:00 +0700 - perf(api): remove feature #162
 2025-01-17 14:31:00 +0700 - perf(config): add feature #162
+2025-01-18 9:51:00 +0700 - fix(db): optimize feature #217
