@@ -18616,3 +18616,4 @@
 2025-01-16 16:0:00 +0700 - fix(db): add feature #493
 2025-01-17 12:11:00 +0700 - chore(db): optimize feature #380
 2025-01-17 16:16:00 +0700 - fix(ui): remove feature #380
+2025-01-18 15:51:00 +0700 - test(db): remove feature #110
