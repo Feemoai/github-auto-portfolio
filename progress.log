@@ -20855,3 +20855,4 @@
 2025-01-15 11:26:00 +0700 - test(ui): handle feature #391
 2025-01-16 14:20:00 +0700 - refactor(db): improve feature #162
 2025-01-17 10:19:00 +0700 - fix(api): improve feature #308
+2025-01-18 13:38:00 +0700 - perf(api): optimize feature #254
