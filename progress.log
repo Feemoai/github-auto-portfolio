@@ -67077,3 +67077,5 @@
 2025-01-16 13:54:00 +0700 - fix(db): remove feature #156
 2025-01-17 16:45:00 +0700 - feat(api): add feature #435
 2025-01-17 16:54:00 +0700 - feat(ui): optimize feature #435
+2025-01-18 14:39:00 +0700 - feat(ui): handle feature #431
+2025-01-18 11:25:00 +0700 - perf(auth): improve feature #431
