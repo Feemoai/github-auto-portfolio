@@ -33398,3 +33398,4 @@
 2025-01-16 12:58:00 +0700 - refactor(ui): optimize feature #349
 2025-01-17 9:7:00 +0700 - perf(config): remove feature #497
 2025-01-17 10:52:00 +0700 - test(core): handle feature #497
+2025-01-18 13:25:00 +0700 - fix(core): add feature #428
