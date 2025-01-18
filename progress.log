@@ -4462,3 +4462,4 @@
 2025-01-16 9:57:00 +0700 - feat(config): remove feature #250
 2025-01-17 11:27:00 +0700 - fix(auth): update feature #443
 2025-01-17 11:38:00 +0700 - test(ui): remove feature #443
+2025-01-18 9:43:00 +0700 - refactor(ui): handle feature #201
