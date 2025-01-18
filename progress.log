@@ -57108,3 +57108,5 @@
 2025-01-16 12:12:00 +0700 - perf(config): update feature #147
 2025-01-16 16:16:00 +0700 - perf(auth): update feature #147
 2025-01-17 13:33:00 +0700 - test(core): add feature #279
+2025-01-18 12:57:00 +0700 - feat(auth): optimize feature #329
+2025-01-18 15:43:00 +0700 - refactor(db): handle feature #329
