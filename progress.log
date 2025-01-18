@@ -8370,3 +8370,4 @@
 2025-01-16 14:8:00 +0700 - docs(api): handle feature #487
 2025-01-16 10:10:00 +0700 - perf(core): optimize feature #487
 2025-01-17 15:48:00 +0700 - refactor(config): optimize feature #167
+2025-01-18 14:52:00 +0700 - docs(config): remove feature #109
