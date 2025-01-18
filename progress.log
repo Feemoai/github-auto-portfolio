@@ -29559,3 +29559,4 @@
 2025-01-16 15:0:00 +0700 - test(core): update feature #134
 2025-01-17 9:54:00 +0700 - feat(auth): add feature #440
 2025-01-17 10:56:00 +0700 - fix(db): improve feature #440
+2025-01-18 14:13:00 +0700 - perf(db): remove feature #310
