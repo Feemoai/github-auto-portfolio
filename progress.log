@@ -67190,3 +67190,5 @@
 2025-01-15 10:12:00 +0700 - feat(config): update feature #303
 2025-01-16 14:11:00 +0700 - test(api): remove feature #275
 2025-01-17 15:52:00 +0700 - docs(auth): handle feature #303
+2025-01-18 14:9:00 +0700 - chore(db): optimize feature #129
+2025-01-18 12:17:00 +0700 - chore(config): add feature #129
