@@ -39763,3 +39763,4 @@
 2025-01-16 14:1:00 +0700 - fix(api): add feature #150
 2025-01-17 15:39:00 +0700 - refactor(ui): update feature #192
 2025-01-18 15:34:00 +0700 - refactor(ui): update feature #306
+2025-01-18 16:18:00 +0700 - chore(auth): handle feature #306
