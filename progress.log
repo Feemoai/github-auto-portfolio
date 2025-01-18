@@ -1686,3 +1686,4 @@
 2025-01-16 10:41:00 +0700 - feat(ui): handle feature #308
 2025-01-16 12:3:00 +0700 - chore(core): remove feature #308
 2025-01-17 9:48:00 +0700 - docs(ui): add feature #187
+2025-01-18 11:25:00 +0700 - test(api): handle feature #222
