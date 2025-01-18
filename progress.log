@@ -17222,3 +17222,5 @@
 2025-01-16 11:12:00 +0700 - feat(db): improve feature #396
 2025-01-17 9:34:00 +0700 - feat(auth): improve feature #337
 2025-01-17 10:50:00 +0700 - perf(api): add feature #337
+2025-01-18 12:42:00 +0700 - docs(ui): improve feature #248
+2025-01-18 16:36:00 +0700 - perf(core): optimize feature #248
