@@ -40694,3 +40694,4 @@
 2025-01-16 10:13:00 +0700 - docs(core): handle feature #429
 2025-01-16 15:41:00 +0700 - refactor(api): optimize feature #429
 2025-01-17 16:15:00 +0700 - test(config): update feature #401
+2025-01-18 12:28:00 +0700 - chore(api): improve feature #437
