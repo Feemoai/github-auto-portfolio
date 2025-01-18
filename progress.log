@@ -22374,3 +22374,4 @@
 2025-01-16 16:19:00 +0700 - chore(db): optimize feature #410
 2025-01-17 10:48:00 +0700 - refactor(db): remove feature #285
 2025-01-17 15:49:00 +0700 - feat(auth): update feature #285
+2025-01-18 10:58:00 +0700 - test(api): remove feature #189
