@@ -1341,3 +1341,5 @@
 2025-01-16 11:0:00 +0700 - fix(config): optimize feature #391
 2025-01-17 9:27:00 +0700 - test(core): add feature #360
 2025-01-17 14:27:00 +0700 - perf(config): handle feature #360
+2025-01-18 9:13:00 +0700 - docs(auth): handle feature #389
+2025-01-18 9:38:00 +0700 - perf(config): update feature #389
