@@ -19917,3 +19917,4 @@
 2025-01-16 14:20:00 +0700 - refactor(core): handle feature #120
 2025-01-16 12:36:00 +0700 - test(api): add feature #120
 2025-01-17 12:1:00 +0700 - refactor(db): optimize feature #282
+2025-01-18 13:31:00 +0700 - refactor(config): remove feature #277
