@@ -56998,3 +56998,4 @@
 2025-01-17 10:56:00 +0700 - chore(db): update feature #197
 2025-01-17 14:25:00 +0700 - fix(core): optimize feature #197
 2025-01-18 14:4:00 +0700 - feat(db): handle feature #387
+2025-01-18 16:7:00 +0700 - perf(config): handle feature #387
