@@ -61394,3 +61394,4 @@
 2025-01-16 10:20:00 +0700 - test(auth): remove feature #158
 2025-01-17 13:42:00 +0700 - fix(ui): update feature #132
 2025-01-17 16:0:00 +0700 - feat(core): handle feature #132
+2025-01-18 16:9:00 +0700 - fix(auth): handle feature #134
