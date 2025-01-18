@@ -14424,3 +14424,5 @@
 2025-01-16 15:22:00 +0700 - feat(config): update feature #132
 2025-01-16 15:51:00 +0700 - perf(core): add feature #132
 2025-01-17 12:46:00 +0700 - test(api): add feature #263
+2025-01-18 10:8:00 +0700 - docs(auth): add feature #478
+2025-01-18 10:48:00 +0700 - docs(core): handle feature #478
