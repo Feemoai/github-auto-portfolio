@@ -25510,3 +25510,4 @@
 2025-01-16 14:50:00 +0700 - fix(auth): improve feature #236
 2025-01-17 9:2:00 +0700 - feat(config): improve feature #396
 2025-01-17 13:14:00 +0700 - fix(api): remove feature #396
+2025-01-18 10:16:00 +0700 - perf(ui): handle feature #170
