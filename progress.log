@@ -34452,3 +34452,4 @@
 2025-01-16 14:19:00 +0700 - fix(auth): handle feature #280
 2025-01-16 12:54:00 +0700 - docs(core): update feature #280
 2025-01-17 9:44:00 +0700 - fix(ui): handle feature #102
+2025-01-18 11:5:00 +0700 - fix(api): add feature #425
