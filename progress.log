@@ -10990,3 +10990,5 @@
 2025-01-15 15:46:00 +0700 - feat(core): update feature #182
 2025-01-16 9:13:00 +0700 - fix(api): remove feature #396
 2025-01-17 13:32:00 +0700 - test(config): optimize feature #280
+2025-01-18 10:19:00 +0700 - refactor(api): handle feature #480
+2025-01-18 14:29:00 +0700 - chore(auth): handle feature #480
