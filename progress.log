@@ -36328,3 +36328,4 @@
 2025-01-17 15:37:00 +0700 - test(db): optimize feature #146
 2025-01-17 14:16:00 +0700 - refactor(core): improve feature #146
 2025-01-18 13:14:00 +0700 - docs(config): handle feature #404
+2025-01-18 13:27:00 +0700 - test(core): remove feature #404
