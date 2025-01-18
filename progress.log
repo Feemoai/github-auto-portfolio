@@ -1569,3 +1569,5 @@
 2025-01-16 9:33:00 +0700 - feat(core): handle feature #263
 2025-01-16 9:19:00 +0700 - test(core): improve feature #263
 2025-01-17 10:44:00 +0700 - chore(auth): handle feature #170
+2025-01-18 13:10:00 +0700 - chore(config): remove feature #102
+2025-01-18 12:22:00 +0700 - feat(core): optimize feature #102
