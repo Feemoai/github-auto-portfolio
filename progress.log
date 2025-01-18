@@ -9402,3 +9402,4 @@
 2025-01-16 13:9:00 +0700 - test(db): optimize feature #164
 2025-01-17 16:30:00 +0700 - docs(api): handle feature #119
 2025-01-18 16:29:00 +0700 - test(ui): improve feature #297
+2025-01-18 13:50:00 +0700 - perf(ui): improve feature #297
