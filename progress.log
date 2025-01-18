@@ -8947,3 +8947,4 @@
 2025-01-16 16:32:00 +0700 - test(ui): optimize feature #407
 2025-01-17 16:38:00 +0700 - feat(core): handle feature #170
 2025-01-18 11:9:00 +0700 - refactor(db): handle feature #310
+2025-01-18 12:14:00 +0700 - test(ui): remove feature #310
