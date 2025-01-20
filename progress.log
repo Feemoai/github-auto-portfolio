@@ -48002,3 +48002,4 @@
 2025-01-17 14:57:00 +0700 - test(api): update feature #215
 2025-01-18 10:19:00 +0700 - refactor(db): update feature #349
 2025-01-20 13:0:00 +0700 - chore(auth): handle feature #198
+2025-01-20 16:2:00 +0700 - perf(auth): remove feature #198
