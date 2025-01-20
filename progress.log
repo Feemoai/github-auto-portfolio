@@ -41166,3 +41166,4 @@
 2025-01-16 15:12:00 +0700 - refactor(config): remove feature #196
 2025-01-17 9:16:00 +0700 - fix(ui): handle feature #433
 2025-01-18 14:35:00 +0700 - test(core): remove feature #370
+2025-01-20 10:55:00 +0700 - refactor(ui): improve feature #253
