@@ -2862,3 +2862,4 @@
 2025-01-18 12:29:00 +0700 - test(core): improve feature #118
 2025-01-18 13:12:00 +0700 - perf(api): optimize feature #118
 2025-01-20 12:46:00 +0700 - test(core): add feature #223
+2025-01-20 12:12:00 +0700 - test(db): optimize feature #223
