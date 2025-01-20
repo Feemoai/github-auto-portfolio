@@ -40103,3 +40103,4 @@
 2025-01-18 13:26:00 +0700 - feat(api): update feature #144
 2025-01-18 15:37:00 +0700 - test(api): update feature #144
 2025-01-20 12:20:00 +0700 - fix(core): add feature #432
+2025-01-20 9:45:00 +0700 - chore(core): handle feature #432
