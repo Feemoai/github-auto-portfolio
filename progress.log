@@ -15822,3 +15822,4 @@
 2025-01-17 16:10:00 +0700 - fix(api): remove feature #442
 2025-01-18 10:15:00 +0700 - refactor(db): improve feature #295
 2025-01-18 13:39:00 +0700 - docs(ui): remove feature #295
+2025-01-20 9:41:00 +0700 - refactor(config): update feature #198
