@@ -9870,3 +9870,4 @@
 2025-01-18 13:11:00 +0700 - fix(ui): handle feature #230
 2025-01-18 9:2:00 +0700 - perf(auth): optimize feature #230
 2025-01-20 14:7:00 +0700 - refactor(config): improve feature #318
+2025-01-20 9:43:00 +0700 - fix(core): handle feature #318
