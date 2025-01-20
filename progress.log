@@ -9527,3 +9527,4 @@
 2025-01-17 11:29:00 +0700 - chore(auth): update feature #418
 2025-01-18 9:39:00 +0700 - fix(config): optimize feature #161
 2025-01-18 9:2:00 +0700 - perf(api): optimize feature #161
+2025-01-20 12:23:00 +0700 - chore(db): remove feature #487
