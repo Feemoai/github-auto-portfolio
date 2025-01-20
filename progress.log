@@ -6058,3 +6058,4 @@
 2025-01-18 13:11:00 +0700 - chore(config): remove feature #382
 2025-01-18 12:2:00 +0700 - fix(auth): update feature #382
 2025-01-20 15:20:00 +0700 - test(api): improve feature #105
+2025-01-20 14:15:00 +0700 - fix(api): handle feature #105
