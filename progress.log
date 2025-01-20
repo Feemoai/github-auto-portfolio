@@ -40813,3 +40813,4 @@
 2025-01-17 10:59:00 +0700 - fix(config): handle feature #415
 2025-01-17 16:20:00 +0700 - docs(ui): update feature #415
 2025-01-18 13:10:00 +0700 - chore(api): update feature #387
+2025-01-20 16:14:00 +0700 - chore(ui): optimize feature #489
