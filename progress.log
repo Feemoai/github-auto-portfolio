@@ -53577,3 +53577,4 @@
 2025-01-18 11:21:00 +0700 - feat(config): handle feature #178
 2025-01-18 9:51:00 +0700 - chore(api): optimize feature #178
 2025-01-20 14:28:00 +0700 - perf(db): remove feature #104
+2025-01-20 11:43:00 +0700 - feat(core): optimize feature #104
