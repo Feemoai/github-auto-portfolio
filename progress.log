@@ -20752,3 +20752,4 @@
 2025-01-17 14:58:00 +0700 - docs(config): remove feature #488
 2025-01-17 14:58:00 +0700 - refactor(config): handle feature #488
 2025-01-18 16:25:00 +0700 - feat(api): remove feature #362
+2025-01-20 9:34:00 +0700 - chore(auth): remove feature #267
