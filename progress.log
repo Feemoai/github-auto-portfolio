@@ -48337,3 +48337,5 @@
 2025-01-16 12:55:00 +0700 - chore(ui): update feature #347
 2025-01-17 14:26:00 +0700 - chore(auth): add feature #495
 2025-01-18 11:31:00 +0700 - refactor(config): update feature #431
+2025-01-20 11:31:00 +0700 - test(auth): update feature #112
+2025-01-20 10:37:00 +0700 - chore(config): optimize feature #112
