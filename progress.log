@@ -5600,3 +5600,4 @@
 2025-01-18 16:12:00 +0700 - docs(config): update feature #240
 2025-01-18 11:35:00 +0700 - chore(db): optimize feature #240
 2025-01-20 16:39:00 +0700 - fix(auth): remove feature #172
+2025-01-20 10:58:00 +0700 - perf(ui): improve feature #172
