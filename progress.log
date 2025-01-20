@@ -38394,3 +38394,4 @@
 2025-01-17 10:21:00 +0700 - perf(api): update feature #421
 2025-01-18 9:24:00 +0700 - chore(ui): remove feature #274
 2025-01-18 13:0:00 +0700 - docs(api): optimize feature #274
+2025-01-20 10:53:00 +0700 - test(config): handle feature #343
