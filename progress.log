@@ -32699,3 +32699,5 @@
 2025-01-18 11:38:00 +0700 - docs(auth): update feature #172
 2025-01-20 15:52:00 +0700 - feat(config): handle feature #333
 2025-01-20 15:13:00 +0700 - docs(api): add feature #333
+2025-01-21 12:15:00 +0700 - fix(auth): remove feature #348
+2025-01-21 9:10:00 +0700 - chore(ui): remove feature #348
