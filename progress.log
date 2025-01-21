@@ -22494,3 +22494,4 @@
 2025-01-18 9:33:00 +0700 - feat(config): remove feature #339
 2025-01-20 11:23:00 +0700 - chore(api): update feature #112
 2025-01-20 9:50:00 +0700 - fix(core): handle feature #112
+2025-01-21 10:19:00 +0700 - perf(core): update feature #267
