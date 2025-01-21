@@ -8026,3 +8026,5 @@
 2025-01-18 9:18:00 +0700 - chore(config): remove feature #133
 2025-01-20 16:15:00 +0700 - feat(auth): remove feature #176
 2025-01-20 11:35:00 +0700 - test(config): add feature #176
+2025-01-21 9:15:00 +0700 - chore(api): handle feature #292
+2025-01-21 9:7:00 +0700 - test(ui): handle feature #292
