@@ -24930,3 +24930,5 @@
 2025-01-18 11:52:00 +0700 - chore(config): improve feature #163
 2025-01-20 16:50:00 +0700 - perf(auth): handle feature #394
 2025-01-20 16:40:00 +0700 - perf(core): update feature #394
+2025-01-21 12:36:00 +0700 - docs(config): improve feature #424
+2025-01-21 16:31:00 +0700 - chore(config): handle feature #424
