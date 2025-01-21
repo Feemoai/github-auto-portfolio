@@ -43512,3 +43512,4 @@
 2025-01-18 16:49:00 +0700 - fix(api): update feature #285
 2025-01-20 11:32:00 +0700 - test(ui): add feature #411
 2025-01-20 12:33:00 +0700 - test(ui): add feature #411
+2025-01-21 12:52:00 +0700 - chore(core): remove feature #195
