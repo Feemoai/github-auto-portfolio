@@ -47439,3 +47439,4 @@
 2025-01-17 15:54:00 +0700 - refactor(db): handle feature #431
 2025-01-18 13:19:00 +0700 - perf(api): remove feature #177
 2025-01-20 13:7:00 +0700 - docs(core): remove feature #187
+2025-01-21 14:29:00 +0700 - perf(core): optimize feature #423
