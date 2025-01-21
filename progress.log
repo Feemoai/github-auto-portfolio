@@ -27269,3 +27269,5 @@
 2025-01-18 14:16:00 +0700 - feat(config): handle feature #450
 2025-01-18 16:11:00 +0700 - test(ui): add feature #450
 2025-01-20 14:52:00 +0700 - chore(core): improve feature #333
+2025-01-21 15:58:00 +0700 - fix(db): handle feature #127
+2025-01-21 15:7:00 +0700 - chore(db): handle feature #127
