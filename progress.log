@@ -37139,3 +37139,4 @@
 2025-01-18 10:18:00 +0700 - chore(api): remove feature #330
 2025-01-18 14:38:00 +0700 - chore(auth): optimize feature #330
 2025-01-20 13:12:00 +0700 - docs(auth): add feature #290
+2025-01-21 14:24:00 +0700 - refactor(auth): optimize feature #363
