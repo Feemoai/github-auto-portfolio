@@ -55988,3 +55988,5 @@
 2025-01-18 12:35:00 +0700 - refactor(ui): improve feature #288
 2025-01-20 16:32:00 +0700 - feat(core): handle feature #291
 2025-01-20 16:32:00 +0700 - docs(config): remove feature #291
+2025-01-21 15:24:00 +0700 - test(ui): handle feature #433
+2025-01-21 14:41:00 +0700 - fix(core): handle feature #433
