@@ -9283,3 +9283,5 @@
 2025-01-18 12:58:00 +0700 - test(auth): add feature #246
 2025-01-20 14:57:00 +0700 - fix(ui): optimize feature #435
 2025-01-20 13:52:00 +0700 - fix(api): add feature #435
+2025-01-21 11:51:00 +0700 - test(ui): handle feature #396
+2025-01-21 15:26:00 +0700 - test(auth): improve feature #396
