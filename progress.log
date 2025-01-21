@@ -36781,3 +36781,4 @@
 2025-01-18 15:18:00 +0700 - docs(api): add feature #470
 2025-01-20 16:55:00 +0700 - fix(db): update feature #470
 2025-01-21 10:58:00 +0700 - fix(auth): update feature #256
+2025-01-21 13:30:00 +0700 - fix(core): optimize feature #256
