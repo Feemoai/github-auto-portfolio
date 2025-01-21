@@ -10425,3 +10425,4 @@
 2025-01-18 9:3:00 +0700 - perf(core): handle feature #163
 2025-01-18 16:42:00 +0700 - feat(ui): update feature #163
 2025-01-20 11:5:00 +0700 - chore(auth): optimize feature #138
+2025-01-21 13:19:00 +0700 - test(auth): improve feature #185
