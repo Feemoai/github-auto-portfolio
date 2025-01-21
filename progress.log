@@ -3535,3 +3535,4 @@
 2025-01-18 12:21:00 +0700 - perf(config): handle feature #170
 2025-01-20 13:38:00 +0700 - perf(db): handle feature #310
 2025-01-20 11:48:00 +0700 - fix(core): add feature #310
+2025-01-21 14:59:00 +0700 - test(auth): handle feature #152
