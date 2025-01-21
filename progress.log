@@ -36103,3 +36103,4 @@
 2025-01-18 13:36:00 +0700 - fix(ui): optimize feature #357
 2025-01-18 16:3:00 +0700 - test(config): update feature #357
 2025-01-20 16:34:00 +0700 - test(auth): update feature #429
+2025-01-21 13:58:00 +0700 - test(api): optimize feature #387
