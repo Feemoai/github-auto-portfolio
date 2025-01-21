@@ -1919,3 +1919,4 @@
 2025-01-18 11:56:00 +0700 - perf(core): improve feature #197
 2025-01-20 12:10:00 +0700 - chore(auth): optimize feature #415
 2025-01-20 12:30:00 +0700 - perf(ui): remove feature #415
+2025-01-21 14:24:00 +0700 - fix(db): handle feature #178
