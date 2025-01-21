@@ -32824,3 +32824,5 @@
 2025-01-18 11:19:00 +0700 - test(db): add feature #264
 2025-01-20 13:8:00 +0700 - test(ui): optimize feature #367
 2025-01-20 14:19:00 +0700 - chore(ui): add feature #367
+2025-01-21 15:54:00 +0700 - test(core): update feature #233
+2025-01-21 16:26:00 +0700 - fix(ui): update feature #233
