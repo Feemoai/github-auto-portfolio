@@ -28419,3 +28419,4 @@
 2025-01-18 11:46:00 +0700 - docs(api): improve feature #335
 2025-01-20 9:55:00 +0700 - perf(core): handle feature #369
 2025-01-20 13:16:00 +0700 - chore(api): optimize feature #369
+2025-01-21 12:47:00 +0700 - chore(ui): handle feature #265
