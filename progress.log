@@ -1459,3 +1459,4 @@
 2025-01-20 14:51:00 +0700 - docs(db): optimize feature #315
 2025-01-20 13:14:00 +0700 - perf(auth): handle feature #315
 2025-01-21 9:1:00 +0700 - feat(config): remove feature #158
+2025-01-21 12:17:00 +0700 - fix(ui): optimize feature #158
