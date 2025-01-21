@@ -53931,3 +53931,4 @@
 2025-01-18 16:27:00 +0700 - docs(db): handle feature #389
 2025-01-20 11:33:00 +0700 - fix(ui): handle feature #450
 2025-01-20 9:48:00 +0700 - feat(core): update feature #450
+2025-01-21 15:45:00 +0700 - feat(auth): handle feature #380
