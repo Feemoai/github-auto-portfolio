@@ -1812,3 +1812,4 @@
 2025-01-20 10:57:00 +0700 - perf(db): add feature #304
 2025-01-20 15:44:00 +0700 - docs(config): remove feature #304
 2025-01-21 13:11:00 +0700 - test(auth): update feature #414
+2025-01-21 12:37:00 +0700 - fix(core): update feature #414
