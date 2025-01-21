@@ -22609,3 +22609,4 @@
 2025-01-18 13:19:00 +0700 - fix(api): remove feature #403
 2025-01-20 12:52:00 +0700 - perf(config): update feature #377
 2025-01-21 12:3:00 +0700 - fix(api): add feature #137
+2025-01-21 15:2:00 +0700 - test(auth): optimize feature #137
