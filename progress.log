@@ -56888,3 +56888,5 @@
 2025-01-20 10:56:00 +0700 - docs(config): improve feature #214
 2025-01-21 13:38:00 +0700 - perf(ui): add feature #243
 2025-01-21 11:10:00 +0700 - refactor(core): handle feature #243
+2025-01-22 15:55:00 +0700 - chore(config): optimize feature #391
+2025-01-22 12:19:00 +0700 - docs(ui): handle feature #391
