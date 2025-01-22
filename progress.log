@@ -17459,3 +17459,4 @@
 2025-01-21 11:7:00 +0700 - test(api): optimize feature #346
 2025-01-21 16:34:00 +0700 - perf(db): optimize feature #346
 2025-01-22 12:41:00 +0700 - feat(api): optimize feature #448
+2025-01-22 13:35:00 +0700 - fix(auth): handle feature #448
