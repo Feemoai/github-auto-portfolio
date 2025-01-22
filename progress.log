@@ -22025,3 +22025,4 @@
 2025-01-18 9:4:00 +0700 - refactor(api): remove feature #155
 2025-01-20 16:23:00 +0700 - chore(config): handle feature #412
 2025-01-21 16:7:00 +0700 - docs(api): handle feature #109
+2025-01-22 10:9:00 +0700 - chore(db): improve feature #138
