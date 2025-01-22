@@ -18734,3 +18734,5 @@
 2025-01-20 16:28:00 +0700 - fix(core): add feature #361
 2025-01-20 10:59:00 +0700 - test(db): add feature #361
 2025-01-21 12:44:00 +0700 - docs(db): remove feature #391
+2025-01-22 11:26:00 +0700 - docs(ui): remove feature #406
+2025-01-22 13:25:00 +0700 - feat(api): remove feature #406
