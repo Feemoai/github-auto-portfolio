@@ -40934,3 +40934,4 @@
 2025-01-21 14:55:00 +0700 - docs(auth): optimize feature #467
 2025-01-21 11:52:00 +0700 - fix(db): optimize feature #467
 2025-01-22 13:13:00 +0700 - perf(auth): update feature #346
+2025-01-22 15:33:00 +0700 - docs(ui): optimize feature #346
