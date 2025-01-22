@@ -29800,3 +29800,4 @@
 2025-01-21 10:15:00 +0700 - docs(api): remove feature #222
 2025-01-21 13:37:00 +0700 - docs(config): update feature #222
 2025-01-22 9:50:00 +0700 - fix(db): update feature #212
+2025-01-22 16:58:00 +0700 - chore(db): optimize feature #212
