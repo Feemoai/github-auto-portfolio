@@ -22379,3 +22379,4 @@
 2025-01-20 13:41:00 +0700 - test(db): add feature #318
 2025-01-20 15:56:00 +0700 - test(core): optimize feature #318
 2025-01-21 14:52:00 +0700 - docs(config): handle feature #158
+2025-01-22 12:50:00 +0700 - feat(auth): update feature #302
