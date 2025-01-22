@@ -8264,3 +8264,4 @@
 2025-01-21 12:23:00 +0700 - fix(db): add feature #325
 2025-01-21 13:25:00 +0700 - refactor(core): update feature #325
 2025-01-22 11:30:00 +0700 - perf(core): improve feature #142
+2025-01-22 12:36:00 +0700 - perf(auth): optimize feature #142
