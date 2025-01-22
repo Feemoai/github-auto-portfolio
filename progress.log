@@ -412,3 +412,4 @@
 2025-01-20 11:12:00 +0700 - fix(config): handle feature #256
 2025-01-20 15:19:00 +0700 - fix(config): add feature #256
 2025-01-21 16:20:00 +0700 - fix(api): handle feature #114
+2025-01-22 15:25:00 +0700 - perf(core): improve feature #220
