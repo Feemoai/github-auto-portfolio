@@ -34345,3 +34345,4 @@
 2025-01-20 15:57:00 +0700 - fix(ui): optimize feature #417
 2025-01-21 16:22:00 +0700 - docs(auth): add feature #146
 2025-01-21 12:35:00 +0700 - docs(api): remove feature #146
+2025-01-22 13:28:00 +0700 - test(core): optimize feature #259
