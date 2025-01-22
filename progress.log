@@ -13864,3 +13864,4 @@
 2025-01-20 13:12:00 +0700 - fix(db): update feature #129
 2025-01-21 13:34:00 +0700 - refactor(config): update feature #221
 2025-01-21 10:30:00 +0700 - test(api): add feature #221
+2025-01-22 13:4:00 +0700 - chore(core): handle feature #341
