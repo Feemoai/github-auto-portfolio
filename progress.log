@@ -13865,3 +13865,4 @@
 2025-01-21 13:34:00 +0700 - refactor(config): update feature #221
 2025-01-21 10:30:00 +0700 - test(api): add feature #221
 2025-01-22 13:4:00 +0700 - chore(core): handle feature #341
+2025-01-22 11:19:00 +0700 - perf(config): remove feature #341
