@@ -58506,3 +58506,4 @@
 2025-01-18 11:57:00 +0700 - feat(api): optimize feature #488
 2025-01-20 9:14:00 +0700 - fix(ui): improve feature #435
 2025-01-21 9:9:00 +0700 - test(core): remove feature #240
+2025-01-22 14:6:00 +0700 - refactor(config): add feature #494
