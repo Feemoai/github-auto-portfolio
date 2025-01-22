@@ -63613,3 +63613,4 @@
 2025-01-20 11:8:00 +0700 - perf(api): optimize feature #135
 2025-01-20 12:40:00 +0700 - feat(core): add feature #135
 2025-01-21 14:7:00 +0700 - perf(auth): remove feature #184
+2025-01-22 9:46:00 +0700 - chore(db): handle feature #304
