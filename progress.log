@@ -5713,3 +5713,5 @@
 2025-01-18 9:10:00 +0700 - test(ui): improve feature #210
 2025-01-20 16:7:00 +0700 - chore(db): handle feature #356
 2025-01-21 15:9:00 +0700 - fix(db): remove feature #430
+2025-01-22 14:52:00 +0700 - fix(config): add feature #173
+2025-01-22 16:5:00 +0700 - docs(config): improve feature #173
