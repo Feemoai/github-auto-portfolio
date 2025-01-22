@@ -57692,3 +57692,4 @@
 2025-01-18 13:3:00 +0700 - docs(db): handle feature #203
 2025-01-20 11:58:00 +0700 - refactor(api): remove feature #191
 2025-01-21 11:51:00 +0700 - perf(auth): handle feature #171
+2025-01-22 12:29:00 +0700 - fix(auth): optimize feature #144
