@@ -46417,3 +46417,4 @@
 2025-01-21 11:0:00 +0700 - fix(core): remove feature #382
 2025-01-21 14:18:00 +0700 - test(core): add feature #382
 2025-01-22 10:10:00 +0700 - fix(core): handle feature #487
+2025-01-22 14:51:00 +0700 - feat(config): add feature #487
