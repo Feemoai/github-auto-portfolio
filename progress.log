@@ -14663,3 +14663,4 @@
 2025-01-20 14:49:00 +0700 - feat(ui): update feature #200
 2025-01-20 14:59:00 +0700 - feat(db): optimize feature #200
 2025-01-21 10:8:00 +0700 - perf(config): optimize feature #488
+2025-01-22 12:13:00 +0700 - fix(config): update feature #437
