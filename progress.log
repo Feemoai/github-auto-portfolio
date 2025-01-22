@@ -29563,3 +29563,4 @@
 2025-01-20 11:5:00 +0700 - docs(db): remove feature #356
 2025-01-20 16:49:00 +0700 - docs(auth): update feature #356
 2025-01-21 14:50:00 +0700 - perf(auth): update feature #499
+2025-01-22 13:14:00 +0700 - fix(auth): optimize feature #491
