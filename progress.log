@@ -11571,3 +11571,4 @@
 2025-01-21 15:26:00 +0700 - fix(config): remove feature #163
 2025-01-22 9:45:00 +0700 - fix(core): improve feature #416
 2025-01-22 9:5:00 +0700 - feat(auth): update feature #416
+2025-01-23 11:39:00 +0700 - refactor(auth): remove feature #471
