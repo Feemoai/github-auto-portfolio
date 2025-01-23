@@ -29675,3 +29675,5 @@
 2025-01-20 11:16:00 +0700 - fix(config): handle feature #211
 2025-01-21 11:56:00 +0700 - docs(api): add feature #416
 2025-01-22 15:50:00 +0700 - refactor(config): add feature #234
+2025-01-23 12:25:00 +0700 - docs(api): optimize feature #272
+2025-01-23 16:20:00 +0700 - docs(ui): handle feature #272
