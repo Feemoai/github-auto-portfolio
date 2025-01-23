@@ -21806,3 +21806,4 @@
 2025-01-21 16:15:00 +0700 - test(ui): improve feature #407
 2025-01-22 16:12:00 +0700 - fix(auth): update feature #478
 2025-01-22 14:32:00 +0700 - fix(core): optimize feature #478
+2025-01-23 12:23:00 +0700 - perf(config): remove feature #108
