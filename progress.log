@@ -66852,3 +66852,4 @@
 2025-01-21 15:0:00 +0700 - perf(api): update feature #288
 2025-01-22 12:15:00 +0700 - chore(db): add feature #468
 2025-01-23 9:21:00 +0700 - docs(auth): add feature #160
+2025-01-23 12:56:00 +0700 - perf(ui): handle feature #160
