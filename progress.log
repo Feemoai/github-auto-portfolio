@@ -4110,3 +4110,4 @@
 2025-01-21 13:47:00 +0700 - feat(api): optimize feature #292
 2025-01-22 15:7:00 +0700 - docs(config): optimize feature #260
 2025-01-23 16:4:00 +0700 - docs(api): improve feature #134
+2025-01-23 11:57:00 +0700 - fix(auth): optimize feature #134
