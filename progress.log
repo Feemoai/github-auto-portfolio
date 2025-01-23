@@ -43388,3 +43388,4 @@
 2025-01-21 10:25:00 +0700 - perf(config): update feature #175
 2025-01-21 16:0:00 +0700 - test(core): update feature #175
 2025-01-22 16:56:00 +0700 - feat(config): handle feature #167
+2025-01-23 12:3:00 +0700 - fix(ui): remove feature #130
