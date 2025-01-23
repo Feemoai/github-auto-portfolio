@@ -22612,3 +22612,4 @@
 2025-01-21 15:2:00 +0700 - test(auth): optimize feature #137
 2025-01-22 12:14:00 +0700 - fix(auth): improve feature #237
 2025-01-22 15:34:00 +0700 - feat(core): handle feature #237
+2025-01-23 14:0:00 +0700 - feat(core): remove feature #424
