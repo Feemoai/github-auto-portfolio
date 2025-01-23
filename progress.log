@@ -68340,3 +68340,5 @@
 2025-01-21 10:29:00 +0700 - docs(auth): improve feature #185
 2025-01-22 16:42:00 +0700 - chore(auth): optimize feature #428
 2025-01-22 9:49:00 +0700 - docs(auth): optimize feature #428
+2025-01-23 9:20:00 +0700 - feat(core): remove feature #444
+2025-01-23 13:38:00 +0700 - refactor(config): remove feature #444
