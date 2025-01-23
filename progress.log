@@ -27848,3 +27848,4 @@
 2025-01-20 11:19:00 +0700 - feat(core): remove feature #429
 2025-01-21 13:58:00 +0700 - test(api): remove feature #161
 2025-01-22 15:3:00 +0700 - test(api): handle feature #435
+2025-01-23 12:39:00 +0700 - perf(auth): remove feature #300
