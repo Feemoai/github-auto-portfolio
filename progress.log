@@ -11344,3 +11344,5 @@
 2025-01-21 12:42:00 +0700 - fix(config): update feature #381
 2025-01-22 16:30:00 +0700 - chore(auth): handle feature #159
 2025-01-22 12:25:00 +0700 - chore(config): update feature #159
+2025-01-23 15:17:00 +0700 - fix(ui): add feature #191
+2025-01-23 13:18:00 +0700 - chore(ui): handle feature #191
