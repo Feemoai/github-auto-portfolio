@@ -63724,3 +63724,4 @@
 2025-01-21 13:12:00 +0700 - refactor(core): update feature #240
 2025-01-21 15:9:00 +0700 - refactor(ui): handle feature #240
 2025-01-22 15:24:00 +0700 - chore(auth): add feature #215
+2025-01-23 10:42:00 +0700 - test(auth): remove feature #356
