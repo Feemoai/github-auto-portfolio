@@ -8491,3 +8491,5 @@
 2025-01-21 12:34:00 +0700 - fix(core): handle feature #285
 2025-01-22 12:47:00 +0700 - chore(ui): improve feature #234
 2025-01-22 9:50:00 +0700 - refactor(config): handle feature #234
+2025-01-23 12:11:00 +0700 - fix(ui): handle feature #478
+2025-01-23 16:40:00 +0700 - fix(core): handle feature #478
