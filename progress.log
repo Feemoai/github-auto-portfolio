@@ -9062,3 +9062,4 @@
 2025-01-21 11:44:00 +0700 - test(core): update feature #278
 2025-01-21 12:25:00 +0700 - refactor(api): optimize feature #278
 2025-01-22 15:24:00 +0700 - refactor(config): remove feature #493
+2025-01-23 15:49:00 +0700 - fix(core): add feature #449
