@@ -8837,3 +8837,4 @@
 2025-01-22 12:18:00 +0700 - fix(ui): update feature #296
 2025-01-22 11:17:00 +0700 - docs(config): update feature #296
 2025-01-23 15:56:00 +0700 - docs(auth): improve feature #296
+2025-01-23 15:31:00 +0700 - test(config): handle feature #296
