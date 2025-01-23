@@ -1111,3 +1111,4 @@
 2025-01-21 16:22:00 +0700 - test(db): improve feature #370
 2025-01-22 12:48:00 +0700 - chore(ui): add feature #464
 2025-01-23 14:0:00 +0700 - test(ui): add feature #231
+2025-01-23 12:43:00 +0700 - fix(auth): update feature #231
