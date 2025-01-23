@@ -29331,3 +29331,4 @@
 2025-01-21 14:15:00 +0700 - perf(db): add feature #490
 2025-01-22 15:3:00 +0700 - fix(auth): handle feature #395
 2025-01-22 16:50:00 +0700 - docs(api): update feature #395
+2025-01-23 12:55:00 +0700 - fix(core): add feature #488
