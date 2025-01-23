@@ -63142,3 +63142,4 @@
 2025-01-22 10:51:00 +0700 - feat(db): handle feature #486
 2025-01-22 13:2:00 +0700 - feat(core): update feature #486
 2025-01-23 12:11:00 +0700 - fix(db): remove feature #250
+2025-01-23 15:20:00 +0700 - refactor(core): improve feature #250
