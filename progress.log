@@ -32461,3 +32461,5 @@
 2025-01-21 11:7:00 +0700 - chore(api): handle feature #290
 2025-01-22 11:21:00 +0700 - chore(config): handle feature #329
 2025-01-22 15:42:00 +0700 - fix(ui): add feature #329
+2025-01-23 11:51:00 +0700 - fix(core): add feature #186
+2025-01-23 11:43:00 +0700 - fix(api): handle feature #186
