@@ -44087,3 +44087,4 @@
 2025-01-21 13:51:00 +0700 - fix(core): remove feature #443
 2025-01-22 15:17:00 +0700 - docs(config): handle feature #395
 2025-01-22 9:38:00 +0700 - test(ui): remove feature #395
+2025-01-23 14:43:00 +0700 - refactor(ui): add feature #452
