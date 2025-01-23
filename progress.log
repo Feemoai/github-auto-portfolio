@@ -1348,3 +1348,4 @@
 2025-01-21 15:24:00 +0700 - feat(ui): update feature #487
 2025-01-21 14:42:00 +0700 - fix(auth): handle feature #487
 2025-01-22 12:19:00 +0700 - fix(ui): improve feature #391
+2025-01-23 13:17:00 +0700 - perf(core): handle feature #200
