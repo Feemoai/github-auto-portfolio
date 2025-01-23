@@ -20977,3 +20977,4 @@
 2025-01-20 15:11:00 +0700 - perf(api): remove feature #204
 2025-01-21 15:23:00 +0700 - chore(ui): handle feature #387
 2025-01-22 15:54:00 +0700 - feat(config): handle feature #359
+2025-01-23 13:6:00 +0700 - fix(config): improve feature #232
