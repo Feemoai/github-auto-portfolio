@@ -43263,3 +43263,5 @@
 2025-01-21 16:41:00 +0700 - chore(api): handle feature #199
 2025-01-22 16:46:00 +0700 - fix(core): update feature #187
 2025-01-22 11:40:00 +0700 - docs(config): add feature #187
+2025-01-23 9:2:00 +0700 - perf(db): handle feature #127
+2025-01-23 14:43:00 +0700 - docs(config): improve feature #127
