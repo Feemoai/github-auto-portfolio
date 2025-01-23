@@ -17582,3 +17582,4 @@
 2025-01-21 9:6:00 +0700 - test(ui): improve feature #401
 2025-01-22 12:15:00 +0700 - test(auth): handle feature #153
 2025-01-23 11:35:00 +0700 - feat(api): optimize feature #207
+2025-01-23 11:20:00 +0700 - perf(api): update feature #207
