@@ -67651,3 +67651,4 @@
 2025-01-22 16:21:00 +0700 - perf(core): improve feature #247
 2025-01-22 16:55:00 +0700 - docs(config): add feature #247
 2025-01-23 16:42:00 +0700 - feat(core): remove feature #443
+2025-01-23 13:59:00 +0700 - fix(core): optimize feature #443
