@@ -9764,3 +9764,4 @@
 2025-01-22 15:40:00 +0700 - feat(config): handle feature #362
 2025-01-22 14:5:00 +0700 - feat(ui): update feature #362
 2025-01-23 16:31:00 +0700 - fix(auth): optimize feature #432
+2025-01-23 14:3:00 +0700 - fix(config): handle feature #432
