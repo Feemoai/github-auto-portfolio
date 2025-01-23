@@ -61399,3 +61399,5 @@
 2025-01-21 12:47:00 +0700 - test(db): update feature #109
 2025-01-21 11:42:00 +0700 - refactor(api): improve feature #109
 2025-01-22 11:34:00 +0700 - fix(core): add feature #190
+2025-01-23 15:17:00 +0700 - feat(db): handle feature #342
+2025-01-23 14:15:00 +0700 - docs(core): improve feature #342
