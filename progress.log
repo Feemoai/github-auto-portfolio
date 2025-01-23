@@ -19806,3 +19806,4 @@
 2025-01-22 16:36:00 +0700 - fix(api): handle feature #124
 2025-01-22 13:59:00 +0700 - docs(db): add feature #124
 2025-01-23 9:45:00 +0700 - fix(core): improve feature #477
+2025-01-23 10:18:00 +0700 - fix(config): add feature #477
