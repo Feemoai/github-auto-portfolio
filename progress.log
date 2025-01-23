@@ -67650,3 +67650,4 @@
 2025-01-21 12:34:00 +0700 - feat(auth): optimize feature #179
 2025-01-22 16:21:00 +0700 - perf(core): improve feature #247
 2025-01-22 16:55:00 +0700 - docs(config): add feature #247
+2025-01-23 16:42:00 +0700 - feat(core): remove feature #443
