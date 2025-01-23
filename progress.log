@@ -16873,3 +16873,5 @@
 2025-01-20 15:13:00 +0700 - test(auth): add feature #115
 2025-01-21 14:26:00 +0700 - test(ui): handle feature #106
 2025-01-22 10:47:00 +0700 - docs(api): update feature #419
+2025-01-23 13:41:00 +0700 - perf(api): add feature #108
+2025-01-23 11:50:00 +0700 - perf(ui): update feature #108
