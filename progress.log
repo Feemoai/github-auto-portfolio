@@ -26325,3 +26325,4 @@
 2025-01-21 10:43:00 +0700 - fix(core): remove feature #309
 2025-01-22 9:56:00 +0700 - feat(auth): remove feature #360
 2025-01-22 10:21:00 +0700 - test(api): remove feature #360
+2025-01-23 10:51:00 +0700 - feat(core): add feature #233
