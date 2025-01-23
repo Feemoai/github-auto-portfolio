@@ -12599,3 +12599,5 @@
 2025-01-21 12:31:00 +0700 - docs(db): improve feature #185
 2025-01-22 15:41:00 +0700 - fix(core): optimize feature #341
 2025-01-22 12:36:00 +0700 - chore(auth): handle feature #341
+2025-01-23 10:9:00 +0700 - chore(ui): update feature #487
+2025-01-23 13:28:00 +0700 - test(core): handle feature #487
