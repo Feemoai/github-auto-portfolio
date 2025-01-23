@@ -67084,3 +67084,4 @@
 2025-01-21 12:11:00 +0700 - docs(db): optimize feature #324
 2025-01-21 14:34:00 +0700 - fix(api): add feature #324
 2025-01-22 13:46:00 +0700 - fix(core): add feature #287
+2025-01-23 11:20:00 +0700 - chore(api): handle feature #142
