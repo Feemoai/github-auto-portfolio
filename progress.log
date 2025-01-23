@@ -44426,3 +44426,4 @@
 2025-01-21 11:22:00 +0700 - fix(core): improve feature #369
 2025-01-22 11:35:00 +0700 - feat(core): update feature #477
 2025-01-23 12:21:00 +0700 - feat(auth): update feature #166
+2025-01-23 14:20:00 +0700 - perf(core): remove feature #166
