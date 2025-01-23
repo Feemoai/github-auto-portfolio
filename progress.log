@@ -28649,3 +28649,5 @@
 2025-01-21 13:21:00 +0700 - feat(core): handle feature #311
 2025-01-22 14:59:00 +0700 - feat(ui): add feature #124
 2025-01-22 13:14:00 +0700 - refactor(config): improve feature #124
+2025-01-23 10:49:00 +0700 - refactor(db): optimize feature #465
+2025-01-23 14:49:00 +0700 - chore(auth): add feature #465
