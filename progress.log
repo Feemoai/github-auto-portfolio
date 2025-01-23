@@ -56537,3 +56537,4 @@
 2025-01-21 9:46:00 +0700 - feat(db): update feature #166
 2025-01-22 13:1:00 +0700 - fix(db): remove feature #176
 2025-01-22 12:54:00 +0700 - chore(auth): remove feature #176
+2025-01-23 16:59:00 +0700 - chore(ui): add feature #145
