@@ -67989,3 +67989,5 @@
 2025-01-21 15:7:00 +0700 - docs(db): add feature #269
 2025-01-22 11:53:00 +0700 - feat(core): add feature #167
 2025-01-22 11:56:00 +0700 - feat(api): update feature #167
+2025-01-23 15:31:00 +0700 - refactor(config): handle feature #289
+2025-01-23 12:12:00 +0700 - perf(auth): remove feature #289
