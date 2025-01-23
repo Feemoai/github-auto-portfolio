@@ -18391,3 +18391,4 @@
 2025-01-22 12:16:00 +0700 - feat(db): handle feature #423
 2025-01-22 16:47:00 +0700 - perf(db): update feature #423
 2025-01-23 16:12:00 +0700 - perf(core): add feature #203
+2025-01-23 10:39:00 +0700 - fix(core): improve feature #203
