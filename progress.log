@@ -14318,3 +14318,4 @@
 2025-01-21 12:11:00 +0700 - docs(config): improve feature #123
 2025-01-22 12:40:00 +0700 - fix(db): optimize feature #111
 2025-01-23 16:32:00 +0700 - fix(ui): remove feature #411
+2025-01-23 13:10:00 +0700 - test(api): handle feature #411
