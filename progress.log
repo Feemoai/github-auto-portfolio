@@ -62680,3 +62680,5 @@
 2025-01-21 14:29:00 +0700 - chore(api): improve feature #242
 2025-01-22 9:17:00 +0700 - fix(db): remove feature #426
 2025-01-22 14:24:00 +0700 - feat(config): handle feature #426
+2025-01-23 16:13:00 +0700 - docs(config): optimize feature #359
+2025-01-23 16:23:00 +0700 - chore(core): optimize feature #359
