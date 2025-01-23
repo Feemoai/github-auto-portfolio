@@ -51190,3 +51190,5 @@
 2025-01-21 15:4:00 +0700 - feat(auth): remove feature #450
 2025-01-22 10:10:00 +0700 - test(auth): optimize feature #385
 2025-01-22 13:17:00 +0700 - chore(ui): improve feature #385
+2025-01-23 14:36:00 +0700 - test(config): add feature #330
+2025-01-23 9:31:00 +0700 - feat(config): add feature #330
