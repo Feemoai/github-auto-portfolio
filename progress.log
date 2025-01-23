@@ -13403,3 +13403,5 @@
 2025-01-21 16:28:00 +0700 - docs(db): update feature #199
 2025-01-22 11:58:00 +0700 - docs(core): handle feature #323
 2025-01-22 15:53:00 +0700 - perf(ui): optimize feature #323
+2025-01-23 9:25:00 +0700 - feat(core): remove feature #260
+2025-01-23 10:18:00 +0700 - refactor(api): improve feature #260
