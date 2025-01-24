@@ -43030,3 +43030,4 @@
 2025-01-22 12:55:00 +0700 - chore(config): update feature #134
 2025-01-23 10:22:00 +0700 - refactor(core): improve feature #166
 2025-01-24 13:7:00 +0700 - test(config): remove feature #250
+2025-01-24 9:44:00 +0700 - perf(core): add feature #250
