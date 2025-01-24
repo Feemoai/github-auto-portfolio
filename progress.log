@@ -5379,3 +5379,4 @@
 2025-01-22 11:3:00 +0700 - chore(core): remove feature #484
 2025-01-23 16:33:00 +0700 - docs(ui): improve feature #207
 2025-01-23 14:15:00 +0700 - refactor(api): handle feature #207
+2025-01-24 14:23:00 +0700 - chore(auth): handle feature #233
