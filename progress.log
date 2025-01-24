@@ -1463,3 +1463,4 @@
 2025-01-22 15:4:00 +0700 - docs(db): handle feature #142
 2025-01-23 11:48:00 +0700 - chore(api): optimize feature #131
 2025-01-23 12:39:00 +0700 - test(auth): remove feature #131
+2025-01-24 16:33:00 +0700 - test(api): improve feature #428
