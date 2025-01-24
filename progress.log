@@ -13753,3 +13753,5 @@
 2025-01-22 12:37:00 +0700 - docs(core): update feature #332
 2025-01-23 15:31:00 +0700 - test(api): improve feature #426
 2025-01-23 15:2:00 +0700 - test(ui): handle feature #426
+2025-01-24 10:24:00 +0700 - docs(core): add feature #476
+2025-01-24 16:22:00 +0700 - test(core): handle feature #476
