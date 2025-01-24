@@ -7213,3 +7213,5 @@
 2025-01-21 14:54:00 +0700 - fix(config): optimize feature #209
 2025-01-22 10:42:00 +0700 - chore(db): handle feature #183
 2025-01-23 13:55:00 +0700 - feat(auth): optimize feature #258
+2025-01-24 12:25:00 +0700 - chore(auth): remove feature #412
+2025-01-24 14:41:00 +0700 - chore(db): optimize feature #412
