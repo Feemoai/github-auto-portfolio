@@ -14094,3 +14094,4 @@
 2025-01-22 12:19:00 +0700 - test(config): handle feature #236
 2025-01-22 16:36:00 +0700 - fix(auth): add feature #236
 2025-01-23 16:53:00 +0700 - test(config): add feature #360
+2025-01-24 10:52:00 +0700 - docs(api): optimize feature #363
