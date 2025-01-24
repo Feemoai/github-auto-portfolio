@@ -42449,3 +42449,4 @@
 2025-01-23 12:10:00 +0700 - perf(auth): handle feature #252
 2025-01-23 10:38:00 +0700 - test(ui): add feature #252
 2025-01-24 10:59:00 +0700 - perf(auth): improve feature #323
+2025-01-24 11:7:00 +0700 - fix(api): optimize feature #323
