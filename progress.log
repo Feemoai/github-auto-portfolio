@@ -34460,3 +34460,4 @@
 2025-01-22 15:56:00 +0700 - chore(ui): update feature #338
 2025-01-23 12:38:00 +0700 - fix(ui): update feature #234
 2025-01-24 15:55:00 +0700 - perf(ui): optimize feature #256
+2025-01-24 15:55:00 +0700 - fix(db): remove feature #256
