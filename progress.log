@@ -29919,3 +29919,4 @@
 2025-01-22 11:4:00 +0700 - refactor(auth): handle feature #459
 2025-01-23 9:56:00 +0700 - refactor(core): update feature #425
 2025-01-23 10:25:00 +0700 - docs(auth): remove feature #425
+2025-01-24 14:32:00 +0700 - feat(ui): handle feature #164
