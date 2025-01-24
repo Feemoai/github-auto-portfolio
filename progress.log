@@ -58983,3 +58983,4 @@
 2025-01-22 10:31:00 +0700 - chore(core): remove feature #403
 2025-01-22 15:40:00 +0700 - feat(api): handle feature #403
 2025-01-23 15:51:00 +0700 - fix(db): remove feature #144
+2025-01-24 10:55:00 +0700 - perf(db): remove feature #423
