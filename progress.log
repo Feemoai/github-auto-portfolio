@@ -34349,3 +34349,4 @@
 2025-01-23 16:44:00 +0700 - fix(core): add feature #450
 2025-01-23 10:43:00 +0700 - chore(core): update feature #450
 2025-01-24 9:38:00 +0700 - feat(api): update feature #360
+2025-01-24 12:55:00 +0700 - chore(auth): handle feature #360
