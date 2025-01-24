@@ -3765,3 +3765,4 @@
 2025-01-22 13:19:00 +0700 - test(api): add feature #300
 2025-01-23 12:1:00 +0700 - refactor(api): update feature #332
 2025-01-24 13:30:00 +0700 - docs(core): handle feature #313
+2025-01-24 15:41:00 +0700 - test(auth): update feature #313
