@@ -65921,3 +65921,4 @@
 2025-01-23 14:22:00 +0700 - fix(auth): remove feature #108
 2025-01-23 15:33:00 +0700 - docs(ui): optimize feature #108
 2025-01-24 9:0:00 +0700 - docs(api): add feature #314
+2025-01-24 12:35:00 +0700 - perf(ui): remove feature #314
