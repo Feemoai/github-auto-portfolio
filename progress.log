@@ -62097,3 +62097,4 @@
 2025-01-22 9:39:00 +0700 - perf(auth): remove feature #416
 2025-01-23 16:25:00 +0700 - chore(auth): optimize feature #457
 2025-01-23 13:8:00 +0700 - chore(db): remove feature #457
+2025-01-24 10:8:00 +0700 - fix(auth): optimize feature #446
