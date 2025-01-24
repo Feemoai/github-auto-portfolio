@@ -10998,3 +10998,5 @@
 2025-01-22 11:22:00 +0700 - chore(db): update feature #401
 2025-01-22 12:0:00 +0700 - chore(auth): handle feature #401
 2025-01-23 12:18:00 +0700 - feat(api): handle feature #296
+2025-01-24 15:51:00 +0700 - feat(ui): handle feature #187
+2025-01-24 13:6:00 +0700 - chore(auth): add feature #187
