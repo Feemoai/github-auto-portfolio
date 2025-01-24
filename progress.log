@@ -23743,3 +23743,4 @@
 2025-01-22 12:12:00 +0700 - feat(config): improve feature #387
 2025-01-23 10:20:00 +0700 - perf(db): optimize feature #184
 2025-01-23 16:36:00 +0700 - perf(core): improve feature #184
+2025-01-24 15:17:00 +0700 - perf(db): optimize feature #324
