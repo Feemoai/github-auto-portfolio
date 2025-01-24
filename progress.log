@@ -51647,3 +51647,4 @@
 2025-01-22 16:6:00 +0700 - perf(ui): update feature #499
 2025-01-23 12:19:00 +0700 - fix(config): handle feature #301
 2025-01-23 12:1:00 +0700 - docs(api): improve feature #301
+2025-01-24 9:11:00 +0700 - chore(api): optimize feature #148
