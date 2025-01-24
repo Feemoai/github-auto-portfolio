@@ -27747,3 +27747,4 @@
 2025-01-21 15:15:00 +0700 - docs(db): handle feature #287
 2025-01-22 11:27:00 +0700 - fix(core): update feature #455
 2025-01-23 10:7:00 +0700 - perf(core): optimize feature #430
+2025-01-24 12:14:00 +0700 - chore(db): improve feature #375
