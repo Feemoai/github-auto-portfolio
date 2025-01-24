@@ -878,3 +878,4 @@
 2025-01-21 14:30:00 +0700 - refactor(db): remove feature #186
 2025-01-22 14:19:00 +0700 - chore(config): remove feature #391
 2025-01-23 13:39:00 +0700 - feat(config): add feature #171
+2025-01-24 13:28:00 +0700 - fix(auth): add feature #262
