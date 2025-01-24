@@ -19338,3 +19338,4 @@
 2025-01-22 10:2:00 +0700 - chore(core): remove feature #219
 2025-01-23 14:22:00 +0700 - fix(db): remove feature #468
 2025-01-23 14:55:00 +0700 - fix(api): update feature #468
+2025-01-24 13:32:00 +0700 - feat(api): optimize feature #421
