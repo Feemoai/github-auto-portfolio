@@ -27851,3 +27851,4 @@
 2025-01-23 12:39:00 +0700 - perf(auth): remove feature #300
 2025-01-23 11:18:00 +0700 - fix(db): add feature #300
 2025-01-24 9:59:00 +0700 - docs(api): remove feature #335
+2025-01-24 9:32:00 +0700 - test(auth): handle feature #335
