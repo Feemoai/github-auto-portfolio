@@ -27274,3 +27274,4 @@
 2025-01-22 10:26:00 +0700 - test(api): improve feature #350
 2025-01-23 9:26:00 +0700 - test(config): optimize feature #262
 2025-01-23 14:52:00 +0700 - perf(db): optimize feature #262
+2025-01-24 16:46:00 +0700 - refactor(api): optimize feature #162
