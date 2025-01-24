@@ -49397,3 +49397,4 @@
 2025-01-22 10:54:00 +0700 - feat(api): handle feature #489
 2025-01-22 14:52:00 +0700 - test(core): improve feature #489
 2025-01-23 13:24:00 +0700 - perf(auth): optimize feature #181
+2025-01-24 15:27:00 +0700 - refactor(api): optimize feature #225
