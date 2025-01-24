@@ -4345,3 +4345,4 @@
 2025-01-22 11:21:00 +0700 - perf(api): remove feature #219
 2025-01-22 9:33:00 +0700 - test(config): handle feature #219
 2025-01-23 14:29:00 +0700 - perf(ui): remove feature #132
+2025-01-24 16:6:00 +0700 - chore(core): remove feature #477
