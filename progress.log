@@ -37490,3 +37490,4 @@
 2025-01-22 16:24:00 +0700 - chore(db): remove feature #386
 2025-01-23 14:7:00 +0700 - feat(config): handle feature #176
 2025-01-23 9:50:00 +0700 - feat(auth): handle feature #176
+2025-01-24 12:17:00 +0700 - test(auth): optimize feature #283
