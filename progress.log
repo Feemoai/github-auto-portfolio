@@ -2746,3 +2746,4 @@
 2025-01-23 16:18:00 +0700 - feat(core): remove feature #358
 2025-01-23 14:44:00 +0700 - fix(ui): handle feature #358
 2025-01-24 16:34:00 +0700 - test(api): optimize feature #371
+2025-01-24 16:10:00 +0700 - perf(db): handle feature #371
