@@ -57928,3 +57928,4 @@
 2025-01-22 15:1:00 +0700 - test(api): update feature #342
 2025-01-22 14:28:00 +0700 - chore(core): handle feature #342
 2025-01-23 15:7:00 +0700 - docs(ui): remove feature #267
+2025-01-24 9:30:00 +0700 - fix(auth): optimize feature #157
