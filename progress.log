@@ -52446,3 +52446,4 @@
 2025-01-22 13:30:00 +0700 - docs(config): remove feature #315
 2025-01-22 15:16:00 +0700 - perf(api): add feature #315
 2025-01-23 15:14:00 +0700 - chore(api): handle feature #315
+2025-01-24 10:6:00 +0700 - perf(api): optimize feature #302
