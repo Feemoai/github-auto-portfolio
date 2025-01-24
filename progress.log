@@ -18980,3 +18980,4 @@
 2025-01-22 15:49:00 +0700 - test(config): remove feature #469
 2025-01-23 12:17:00 +0700 - chore(api): add feature #346
 2025-01-23 15:6:00 +0700 - refactor(auth): remove feature #346
+2025-01-24 10:26:00 +0700 - perf(api): optimize feature #425
