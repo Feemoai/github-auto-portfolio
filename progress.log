@@ -30499,3 +30499,4 @@
 2025-01-23 10:41:00 +0700 - perf(ui): remove feature #233
 2025-01-23 12:56:00 +0700 - refactor(api): add feature #233
 2025-01-24 14:11:00 +0700 - fix(api): optimize feature #487
+2025-01-24 10:52:00 +0700 - refactor(auth): improve feature #487
