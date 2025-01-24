@@ -58389,3 +58389,4 @@
 2025-01-22 14:54:00 +0700 - fix(api): update feature #326
 2025-01-22 13:49:00 +0700 - docs(auth): improve feature #326
 2025-01-23 13:44:00 +0700 - test(api): optimize feature #289
+2025-01-24 16:20:00 +0700 - fix(core): add feature #213
