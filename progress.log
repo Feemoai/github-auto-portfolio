@@ -8031,3 +8031,4 @@
 2025-01-22 14:18:00 +0700 - perf(config): update feature #102
 2025-01-22 16:23:00 +0700 - feat(ui): handle feature #102
 2025-01-23 16:30:00 +0700 - chore(db): add feature #377
+2025-01-24 13:48:00 +0700 - refactor(api): handle feature #221
