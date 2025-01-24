@@ -6881,3 +6881,4 @@
 2025-01-22 11:49:00 +0700 - chore(api): optimize feature #402
 2025-01-23 15:57:00 +0700 - docs(api): optimize feature #247
 2025-01-23 16:42:00 +0700 - feat(db): handle feature #247
+2025-01-24 11:5:00 +0700 - perf(db): improve feature #395
