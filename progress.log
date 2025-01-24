@@ -60710,3 +60710,5 @@
 2025-01-21 16:34:00 +0700 - chore(db): add feature #166
 2025-01-22 11:13:00 +0700 - feat(config): handle feature #322
 2025-01-23 10:10:00 +0700 - test(ui): optimize feature #217
+2025-01-24 13:10:00 +0700 - fix(api): add feature #266
+2025-01-24 10:2:00 +0700 - feat(auth): update feature #266
