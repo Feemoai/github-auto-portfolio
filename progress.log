@@ -10318,3 +10318,4 @@
 2025-01-21 11:22:00 +0700 - feat(ui): update feature #499
 2025-01-22 13:52:00 +0700 - chore(ui): optimize feature #341
 2025-01-23 10:19:00 +0700 - perf(config): handle feature #301
+2025-01-24 9:57:00 +0700 - fix(db): remove feature #135
