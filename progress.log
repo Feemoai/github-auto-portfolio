@@ -61401,3 +61401,4 @@
 2025-01-22 11:34:00 +0700 - fix(core): add feature #190
 2025-01-23 15:17:00 +0700 - feat(db): handle feature #342
 2025-01-23 14:15:00 +0700 - docs(core): improve feature #342
+2025-01-24 9:30:00 +0700 - perf(db): remove feature #213
