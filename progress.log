@@ -58041,3 +58041,5 @@
 2025-01-22 10:24:00 +0700 - fix(core): update feature #331
 2025-01-23 10:13:00 +0700 - perf(core): handle feature #453
 2025-01-23 16:2:00 +0700 - docs(api): improve feature #453
+2025-01-24 11:19:00 +0700 - perf(core): handle feature #400
+2025-01-24 15:5:00 +0700 - perf(config): add feature #400
