@@ -8726,3 +8726,4 @@
 2025-01-21 10:11:00 +0700 - refactor(core): update feature #196
 2025-01-22 14:28:00 +0700 - fix(core): optimize feature #282
 2025-01-23 14:27:00 +0700 - fix(auth): handle feature #219
+2025-01-24 16:7:00 +0700 - refactor(auth): improve feature #257
