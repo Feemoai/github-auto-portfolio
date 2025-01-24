@@ -39197,3 +39197,5 @@
 2025-01-22 15:42:00 +0700 - perf(db): improve feature #289
 2025-01-22 14:0:00 +0700 - fix(auth): handle feature #289
 2025-01-23 14:3:00 +0700 - perf(auth): handle feature #262
+2025-01-24 12:6:00 +0700 - docs(ui): remove feature #342
+2025-01-24 9:30:00 +0700 - docs(core): update feature #342
