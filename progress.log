@@ -53018,3 +53018,4 @@
 2025-01-22 13:47:00 +0700 - test(core): add feature #345
 2025-01-23 16:29:00 +0700 - docs(auth): remove feature #293
 2025-01-24 11:17:00 +0700 - perf(auth): handle feature #475
+2025-01-24 9:28:00 +0700 - feat(api): optimize feature #475
