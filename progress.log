@@ -9288,3 +9288,4 @@
 2025-01-22 12:33:00 +0700 - chore(api): handle feature #370
 2025-01-23 13:20:00 +0700 - perf(db): handle feature #179
 2025-01-23 14:22:00 +0700 - chore(api): update feature #179
+2025-01-24 11:48:00 +0700 - fix(api): handle feature #289
