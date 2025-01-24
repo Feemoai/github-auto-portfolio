@@ -9533,3 +9533,5 @@
 2025-01-22 12:48:00 +0700 - docs(api): update feature #236
 2025-01-22 10:5:00 +0700 - perf(api): add feature #236
 2025-01-23 10:25:00 +0700 - fix(ui): optimize feature #416
+2025-01-24 15:13:00 +0700 - fix(auth): handle feature #234
+2025-01-24 15:13:00 +0700 - refactor(auth): remove feature #234
