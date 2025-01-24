@@ -2977,3 +2977,5 @@
 2025-01-22 9:46:00 +0700 - fix(db): remove feature #495
 2025-01-23 14:6:00 +0700 - docs(ui): handle feature #471
 2025-01-23 15:19:00 +0700 - test(auth): handle feature #471
+2025-01-24 14:50:00 +0700 - chore(db): add feature #363
+2025-01-24 14:6:00 +0700 - chore(db): handle feature #363
