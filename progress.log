@@ -23068,3 +23068,4 @@
 2025-01-21 11:31:00 +0700 - refactor(ui): optimize feature #474
 2025-01-22 9:22:00 +0700 - test(auth): optimize feature #215
 2025-01-23 13:24:00 +0700 - test(config): add feature #122
+2025-01-24 10:2:00 +0700 - test(core): add feature #346
