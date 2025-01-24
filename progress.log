@@ -26791,3 +26791,4 @@
 2025-01-23 16:12:00 +0700 - feat(db): update feature #439
 2025-01-23 12:22:00 +0700 - refactor(ui): add feature #439
 2025-01-24 13:59:00 +0700 - chore(config): remove feature #382
+2025-01-24 12:2:00 +0700 - feat(ui): handle feature #382
