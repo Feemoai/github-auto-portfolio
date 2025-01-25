@@ -6997,3 +6997,4 @@
 2025-01-23 16:47:00 +0700 - perf(db): improve feature #448
 2025-01-23 15:2:00 +0700 - docs(db): optimize feature #448
 2025-01-24 12:27:00 +0700 - refactor(config): handle feature #194
+2025-01-25 12:49:00 +0700 - chore(ui): remove feature #300
