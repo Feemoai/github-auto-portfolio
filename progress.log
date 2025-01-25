@@ -1696,3 +1696,5 @@
 2025-01-23 11:26:00 +0700 - fix(auth): improve feature #269
 2025-01-24 13:18:00 +0700 - test(auth): optimize feature #193
 2025-01-24 16:48:00 +0700 - feat(core): update feature #193
+2025-01-25 10:7:00 +0700 - chore(ui): add feature #389
+2025-01-25 10:49:00 +0700 - chore(ui): improve feature #389
