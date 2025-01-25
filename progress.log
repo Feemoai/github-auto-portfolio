@@ -60259,3 +60259,4 @@
 2025-01-24 10:14:00 +0700 - docs(api): remove feature #495
 2025-01-24 16:10:00 +0700 - docs(core): remove feature #495
 2025-01-25 12:2:00 +0700 - test(auth): handle feature #195
+2025-01-25 16:22:00 +0700 - feat(auth): remove feature #195
