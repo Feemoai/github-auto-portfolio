@@ -2512,3 +2512,5 @@
 2025-01-23 10:41:00 +0700 - fix(core): optimize feature #101
 2025-01-24 10:0:00 +0700 - refactor(api): handle feature #415
 2025-01-24 10:49:00 +0700 - fix(ui): optimize feature #415
+2025-01-25 10:2:00 +0700 - perf(auth): handle feature #201
+2025-01-25 9:16:00 +0700 - feat(api): remove feature #201
