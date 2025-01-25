@@ -58275,3 +58275,4 @@
 2025-01-23 12:56:00 +0700 - fix(api): handle feature #434
 2025-01-23 16:55:00 +0700 - docs(api): optimize feature #434
 2025-01-24 13:29:00 +0700 - perf(auth): add feature #418
+2025-01-25 16:39:00 +0700 - feat(api): handle feature #123
