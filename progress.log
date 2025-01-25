@@ -8956,3 +8956,4 @@
 2025-01-23 15:53:00 +0700 - feat(ui): remove feature #202
 2025-01-23 10:30:00 +0700 - test(db): update feature #202
 2025-01-24 14:13:00 +0700 - test(api): optimize feature #405
+2025-01-25 16:59:00 +0700 - chore(api): remove feature #212
