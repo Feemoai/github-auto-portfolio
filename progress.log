@@ -1579,3 +1579,5 @@
 2025-01-23 9:2:00 +0700 - perf(ui): add feature #234
 2025-01-24 15:35:00 +0700 - docs(db): remove feature #334
 2025-01-24 10:38:00 +0700 - test(ui): improve feature #334
+2025-01-25 15:12:00 +0700 - refactor(ui): optimize feature #470
+2025-01-25 11:21:00 +0700 - feat(api): optimize feature #470
