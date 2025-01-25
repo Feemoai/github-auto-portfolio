@@ -8267,3 +8267,4 @@
 2025-01-22 12:36:00 +0700 - perf(auth): optimize feature #142
 2025-01-23 12:12:00 +0700 - perf(ui): optimize feature #245
 2025-01-24 10:0:00 +0700 - perf(db): update feature #378
+2025-01-25 13:24:00 +0700 - fix(db): handle feature #284
