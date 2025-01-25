@@ -18044,3 +18044,4 @@
 2025-01-23 9:48:00 +0700 - chore(db): handle feature #413
 2025-01-24 13:16:00 +0700 - test(auth): update feature #316
 2025-01-25 13:21:00 +0700 - fix(core): add feature #469
+2025-01-25 10:44:00 +0700 - fix(config): update feature #469
