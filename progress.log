@@ -38054,3 +38054,4 @@
 2025-01-23 15:52:00 +0700 - docs(core): add feature #151
 2025-01-24 13:47:00 +0700 - test(core): handle feature #145
 2025-01-24 12:47:00 +0700 - test(api): handle feature #145
+2025-01-25 11:21:00 +0700 - feat(auth): remove feature #413
