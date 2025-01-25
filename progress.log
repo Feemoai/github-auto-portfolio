@@ -60474,3 +60474,4 @@
 2025-01-22 14:19:00 +0700 - feat(ui): update feature #205
 2025-01-23 11:6:00 +0700 - test(ui): handle feature #176
 2025-01-24 12:13:00 +0700 - test(api): handle feature #366
+2025-01-25 10:35:00 +0700 - perf(db): optimize feature #240
