@@ -25166,3 +25166,4 @@
 2025-01-23 16:9:00 +0700 - feat(db): remove feature #458
 2025-01-24 9:19:00 +0700 - test(ui): update feature #213
 2025-01-24 9:57:00 +0700 - docs(ui): optimize feature #213
+2025-01-25 12:55:00 +0700 - perf(auth): optimize feature #365
