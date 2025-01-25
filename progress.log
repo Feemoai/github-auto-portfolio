@@ -5947,3 +5947,4 @@
 2025-01-23 15:59:00 +0700 - fix(auth): improve feature #172
 2025-01-24 15:50:00 +0700 - test(core): remove feature #214
 2025-01-24 16:48:00 +0700 - perf(auth): add feature #214
+2025-01-25 16:17:00 +0700 - feat(config): improve feature #237
