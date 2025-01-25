@@ -3885,3 +3885,5 @@
 2025-01-23 14:47:00 +0700 - docs(ui): handle feature #457
 2025-01-24 13:57:00 +0700 - feat(api): update feature #245
 2025-01-24 11:9:00 +0700 - fix(ui): improve feature #245
+2025-01-25 15:38:00 +0700 - fix(ui): optimize feature #294
+2025-01-25 11:23:00 +0700 - chore(db): improve feature #294
