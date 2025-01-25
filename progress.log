@@ -13985,3 +13985,4 @@
 2025-01-23 10:47:00 +0700 - docs(api): improve feature #322
 2025-01-24 13:55:00 +0700 - docs(config): improve feature #235
 2025-01-24 13:51:00 +0700 - chore(core): optimize feature #235
+2025-01-25 12:58:00 +0700 - chore(auth): optimize feature #349
