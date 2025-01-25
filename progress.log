@@ -55995,3 +55995,5 @@
 2025-01-23 12:48:00 +0700 - feat(core): remove feature #195
 2025-01-24 14:31:00 +0700 - test(api): improve feature #422
 2025-01-24 14:31:00 +0700 - perf(db): optimize feature #422
+2025-01-25 9:33:00 +0700 - perf(auth): optimize feature #275
+2025-01-25 13:28:00 +0700 - perf(db): optimize feature #275
