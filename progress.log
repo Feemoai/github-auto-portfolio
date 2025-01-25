@@ -24100,3 +24100,4 @@
 2025-01-23 13:30:00 +0700 - test(core): optimize feature #391
 2025-01-24 10:22:00 +0700 - fix(core): improve feature #295
 2025-01-24 13:57:00 +0700 - perf(auth): improve feature #295
+2025-01-25 12:7:00 +0700 - feat(auth): add feature #327
