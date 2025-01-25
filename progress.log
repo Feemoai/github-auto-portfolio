@@ -6420,3 +6420,4 @@
 2025-01-23 15:31:00 +0700 - perf(auth): update feature #179
 2025-01-23 10:21:00 +0700 - docs(db): add feature #179
 2025-01-24 13:32:00 +0700 - fix(ui): remove feature #320
+2025-01-25 9:27:00 +0700 - feat(ui): handle feature #464
