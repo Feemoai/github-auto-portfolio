@@ -22150,3 +22150,4 @@
 2025-01-24 16:44:00 +0700 - perf(core): improve feature #431
 2025-01-25 11:28:00 +0700 - fix(config): handle feature #130
 2025-01-27 11:49:00 +0700 - docs(core): optimize feature #440
+2025-01-27 9:19:00 +0700 - fix(db): remove feature #440
