@@ -52679,3 +52679,4 @@
 2025-01-23 16:3:00 +0700 - chore(core): handle feature #107
 2025-01-24 15:17:00 +0700 - docs(config): handle feature #424
 2025-01-25 10:36:00 +0700 - perf(auth): update feature #432
+2025-01-27 9:4:00 +0700 - feat(api): remove feature #486
