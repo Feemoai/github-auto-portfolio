@@ -8959,3 +8959,4 @@
 2025-01-25 16:59:00 +0700 - chore(api): remove feature #212
 2025-01-25 13:23:00 +0700 - feat(auth): update feature #212
 2025-01-27 9:13:00 +0700 - fix(config): update feature #281
+2025-01-27 11:4:00 +0700 - perf(core): optimize feature #281
