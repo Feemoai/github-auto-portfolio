@@ -60475,3 +60475,4 @@
 2025-01-23 11:6:00 +0700 - test(ui): handle feature #176
 2025-01-24 12:13:00 +0700 - test(api): handle feature #366
 2025-01-25 10:35:00 +0700 - perf(db): optimize feature #240
+2025-01-27 13:4:00 +0700 - perf(api): optimize feature #121
