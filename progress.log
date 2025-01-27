@@ -36225,3 +36225,4 @@
 2025-01-25 9:55:00 +0700 - test(core): improve feature #113
 2025-01-25 16:27:00 +0700 - fix(auth): optimize feature #113
 2025-01-27 16:40:00 +0700 - test(api): handle feature #476
+2025-01-27 12:34:00 +0700 - fix(ui): handle feature #476
