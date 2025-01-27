@@ -46992,3 +46992,4 @@
 2025-01-24 14:5:00 +0700 - fix(db): optimize feature #413
 2025-01-24 10:15:00 +0700 - test(ui): handle feature #413
 2025-01-25 11:55:00 +0700 - docs(db): improve feature #225
+2025-01-27 14:5:00 +0700 - chore(db): remove feature #292
