@@ -43858,3 +43858,4 @@
 2025-01-24 12:29:00 +0700 - fix(api): optimize feature #354
 2025-01-25 11:51:00 +0700 - test(core): optimize feature #167
 2025-01-25 11:48:00 +0700 - chore(api): add feature #167
+2025-01-27 12:20:00 +0700 - fix(auth): handle feature #175
