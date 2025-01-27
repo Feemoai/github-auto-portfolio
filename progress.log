@@ -49044,3 +49044,4 @@
 2025-01-25 9:41:00 +0700 - perf(config): remove feature #402
 2025-01-25 13:56:00 +0700 - feat(config): update feature #402
 2025-01-27 11:58:00 +0700 - feat(db): handle feature #151
+2025-01-27 12:50:00 +0700 - fix(core): optimize feature #151
