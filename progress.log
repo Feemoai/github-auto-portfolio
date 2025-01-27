@@ -9650,3 +9650,4 @@
 2025-01-24 14:7:00 +0700 - fix(core): improve feature #458
 2025-01-25 15:34:00 +0700 - test(ui): handle feature #458
 2025-01-25 15:11:00 +0700 - chore(api): add feature #458
+2025-01-27 16:54:00 +0700 - perf(core): optimize feature #299
