@@ -56436,3 +56436,5 @@
 2025-01-24 16:59:00 +0700 - docs(config): remove feature #156
 2025-01-25 14:31:00 +0700 - test(config): remove feature #112
 2025-01-25 14:40:00 +0700 - test(api): add feature #112
+2025-01-27 12:16:00 +0700 - fix(auth): optimize feature #388
+2025-01-27 11:59:00 +0700 - fix(ui): improve feature #388
