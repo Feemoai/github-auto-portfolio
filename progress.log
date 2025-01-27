@@ -6422,3 +6422,4 @@
 2025-01-24 13:32:00 +0700 - fix(ui): remove feature #320
 2025-01-25 9:27:00 +0700 - feat(ui): handle feature #464
 2025-01-25 13:45:00 +0700 - perf(config): optimize feature #464
+2025-01-27 15:48:00 +0700 - perf(core): optimize feature #274
