@@ -31880,3 +31880,4 @@
 2025-01-24 11:3:00 +0700 - perf(db): optimize feature #323
 2025-01-25 9:28:00 +0700 - fix(config): handle feature #287
 2025-01-25 12:19:00 +0700 - fix(config): add feature #287
+2025-01-27 12:59:00 +0700 - test(api): optimize feature #187
