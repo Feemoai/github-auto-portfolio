@@ -10320,3 +10320,5 @@
 2025-01-23 10:19:00 +0700 - perf(config): handle feature #301
 2025-01-24 9:57:00 +0700 - fix(db): remove feature #135
 2025-01-25 15:13:00 +0700 - feat(core): optimize feature #472
+2025-01-27 14:28:00 +0700 - fix(core): optimize feature #134
+2025-01-27 16:25:00 +0700 - fix(core): handle feature #134
