@@ -8035,3 +8035,4 @@
 2025-01-25 12:43:00 +0700 - refactor(ui): optimize feature #342
 2025-01-25 16:29:00 +0700 - feat(db): add feature #342
 2025-01-27 15:25:00 +0700 - chore(config): add feature #342
+2025-01-28 16:56:00 +0700 - perf(auth): handle feature #229
