@@ -28765,3 +28765,4 @@
 2025-01-25 10:20:00 +0700 - docs(core): optimize feature #352
 2025-01-27 13:22:00 +0700 - test(ui): optimize feature #433
 2025-01-27 16:36:00 +0700 - chore(api): optimize feature #433
+2025-01-28 9:52:00 +0700 - fix(db): optimize feature #235
