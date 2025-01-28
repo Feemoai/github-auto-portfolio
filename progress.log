@@ -23748,3 +23748,4 @@
 2025-01-27 13:36:00 +0700 - docs(db): add feature #339
 2025-01-27 14:55:00 +0700 - chore(ui): improve feature #339
 2025-01-28 14:55:00 +0700 - feat(ui): remove feature #250
+2025-01-28 12:38:00 +0700 - test(api): remove feature #250
