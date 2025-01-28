@@ -51543,3 +51543,5 @@
 2025-01-24 10:40:00 +0700 - fix(ui): remove feature #362
 2025-01-25 13:19:00 +0700 - docs(ui): remove feature #299
 2025-01-27 9:12:00 +0700 - docs(api): improve feature #345
+2025-01-28 13:58:00 +0700 - chore(core): handle feature #326
+2025-01-28 12:4:00 +0700 - fix(ui): handle feature #326
