@@ -14899,3 +14899,5 @@
 2025-01-25 11:29:00 +0700 - feat(ui): remove feature #297
 2025-01-27 12:19:00 +0700 - test(ui): improve feature #304
 2025-01-27 11:14:00 +0700 - perf(db): update feature #304
+2025-01-28 14:27:00 +0700 - fix(db): improve feature #472
+2025-01-28 13:39:00 +0700 - test(ui): improve feature #472
