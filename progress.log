@@ -40465,3 +40465,4 @@
 2025-01-25 9:58:00 +0700 - chore(api): add feature #256
 2025-01-25 16:48:00 +0700 - test(core): remove feature #256
 2025-01-27 14:36:00 +0700 - fix(core): improve feature #204
+2025-01-28 10:52:00 +0700 - docs(config): handle feature #493
