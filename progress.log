@@ -53355,3 +53355,4 @@
 2025-01-25 16:22:00 +0700 - test(config): optimize feature #448
 2025-01-25 16:45:00 +0700 - fix(ui): remove feature #448
 2025-01-27 9:18:00 +0700 - docs(api): remove feature #459
+2025-01-28 12:13:00 +0700 - perf(auth): handle feature #480
