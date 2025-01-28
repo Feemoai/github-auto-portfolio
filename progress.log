@@ -11929,3 +11929,4 @@
 2025-01-27 12:11:00 +0700 - perf(ui): remove feature #458
 2025-01-27 16:37:00 +0700 - perf(ui): optimize feature #458
 2025-01-28 11:59:00 +0700 - docs(core): handle feature #401
+2025-01-28 16:8:00 +0700 - refactor(core): improve feature #401
