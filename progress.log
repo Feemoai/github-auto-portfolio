@@ -9294,3 +9294,5 @@
 2025-01-25 13:35:00 +0700 - perf(auth): optimize feature #479
 2025-01-27 13:38:00 +0700 - docs(api): update feature #268
 2025-01-27 13:42:00 +0700 - test(ui): update feature #268
+2025-01-28 10:53:00 +0700 - test(config): remove feature #481
+2025-01-28 16:25:00 +0700 - test(config): remove feature #481
