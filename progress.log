@@ -24457,3 +24457,4 @@
 2025-01-24 11:16:00 +0700 - docs(api): remove feature #129
 2025-01-25 14:55:00 +0700 - test(api): optimize feature #394
 2025-01-27 14:57:00 +0700 - feat(auth): remove feature #309
+2025-01-28 15:20:00 +0700 - perf(auth): optimize feature #137
