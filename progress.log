@@ -1820,3 +1820,5 @@
 2025-01-24 16:37:00 +0700 - docs(api): handle feature #247
 2025-01-25 11:17:00 +0700 - chore(db): improve feature #294
 2025-01-27 9:22:00 +0700 - test(auth): improve feature #172
+2025-01-28 11:28:00 +0700 - test(config): handle feature #286
+2025-01-28 14:39:00 +0700 - perf(config): update feature #286
