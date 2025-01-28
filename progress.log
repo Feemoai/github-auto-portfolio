@@ -44321,3 +44321,5 @@
 2025-01-25 12:41:00 +0700 - test(core): update feature #454
 2025-01-27 15:4:00 +0700 - feat(db): handle feature #300
 2025-01-27 13:26:00 +0700 - test(ui): update feature #300
+2025-01-28 9:2:00 +0700 - perf(db): optimize feature #396
+2025-01-28 10:58:00 +0700 - chore(api): update feature #396
