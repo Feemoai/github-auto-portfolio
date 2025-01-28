@@ -49046,3 +49046,4 @@
 2025-01-27 11:58:00 +0700 - feat(db): handle feature #151
 2025-01-27 12:50:00 +0700 - fix(core): optimize feature #151
 2025-01-28 13:20:00 +0700 - fix(config): add feature #375
+2025-01-28 11:10:00 +0700 - fix(db): optimize feature #375
