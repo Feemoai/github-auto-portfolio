@@ -67434,3 +67434,4 @@
 2025-01-25 13:19:00 +0700 - fix(db): remove feature #136
 2025-01-27 9:16:00 +0700 - perf(db): improve feature #423
 2025-01-27 14:38:00 +0700 - refactor(config): update feature #423
+2025-01-28 9:0:00 +0700 - feat(core): update feature #374
