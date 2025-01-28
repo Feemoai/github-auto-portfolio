@@ -2516,3 +2516,5 @@
 2025-01-25 9:16:00 +0700 - feat(api): remove feature #201
 2025-01-27 9:52:00 +0700 - chore(api): handle feature #117
 2025-01-27 9:10:00 +0700 - docs(auth): remove feature #117
+2025-01-28 10:14:00 +0700 - perf(core): remove feature #384
+2025-01-28 9:20:00 +0700 - fix(ui): handle feature #384
