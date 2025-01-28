@@ -63848,3 +63848,4 @@
 2025-01-25 16:54:00 +0700 - feat(ui): update feature #332
 2025-01-27 12:55:00 +0700 - test(db): update feature #433
 2025-01-27 9:4:00 +0700 - perf(auth): remove feature #433
+2025-01-28 11:55:00 +0700 - fix(auth): handle feature #359
