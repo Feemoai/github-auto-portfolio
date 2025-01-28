@@ -50525,3 +50525,4 @@
 2025-01-25 13:32:00 +0700 - feat(auth): remove feature #199
 2025-01-27 9:12:00 +0700 - fix(ui): improve feature #101
 2025-01-28 11:2:00 +0700 - fix(ui): optimize feature #162
+2025-01-28 9:24:00 +0700 - perf(api): handle feature #162
