@@ -1584,3 +1584,4 @@
 2025-01-27 13:2:00 +0700 - feat(db): add feature #366
 2025-01-28 13:34:00 +0700 - perf(core): optimize feature #269
 2025-01-29 9:35:00 +0700 - perf(core): add feature #238
+2025-01-29 14:56:00 +0700 - test(db): handle feature #238
