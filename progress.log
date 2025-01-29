@@ -17590,3 +17590,5 @@
 2025-01-27 11:42:00 +0700 - fix(ui): update feature #305
 2025-01-28 14:47:00 +0700 - feat(core): remove feature #222
 2025-01-28 13:59:00 +0700 - perf(db): optimize feature #222
+2025-01-29 13:34:00 +0700 - chore(auth): remove feature #498
+2025-01-29 10:13:00 +0700 - chore(ui): handle feature #498
