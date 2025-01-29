@@ -13058,3 +13058,4 @@
 2025-01-28 15:57:00 +0700 - fix(core): handle feature #320
 2025-01-28 9:37:00 +0700 - refactor(config): remove feature #320
 2025-01-29 15:4:00 +0700 - perf(config): improve feature #340
+2025-01-29 9:12:00 +0700 - chore(core): improve feature #340
