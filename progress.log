@@ -28546,3 +28546,4 @@
 2025-01-27 16:10:00 +0700 - fix(api): optimize feature #319
 2025-01-28 16:50:00 +0700 - test(api): handle feature #233
 2025-01-28 12:32:00 +0700 - test(config): remove feature #233
+2025-01-29 9:32:00 +0700 - fix(core): remove feature #345
