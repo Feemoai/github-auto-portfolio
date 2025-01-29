@@ -53714,3 +53714,4 @@
 2025-01-27 12:19:00 +0700 - chore(api): update feature #379
 2025-01-28 15:6:00 +0700 - test(api): optimize feature #170
 2025-01-29 10:47:00 +0700 - chore(config): optimize feature #292
+2025-01-29 15:40:00 +0700 - docs(auth): handle feature #292
