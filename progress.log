@@ -12497,3 +12497,4 @@
 2025-01-27 16:22:00 +0700 - docs(db): update feature #482
 2025-01-28 11:51:00 +0700 - chore(config): optimize feature #233
 2025-01-29 9:52:00 +0700 - fix(db): add feature #115
+2025-01-29 12:21:00 +0700 - feat(core): handle feature #115
