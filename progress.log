@@ -51432,3 +51432,4 @@
 2025-01-27 13:4:00 +0700 - perf(core): add feature #394
 2025-01-28 12:49:00 +0700 - chore(db): improve feature #131
 2025-01-29 16:31:00 +0700 - refactor(db): improve feature #232
+2025-01-29 16:36:00 +0700 - test(core): handle feature #232
