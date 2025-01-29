@@ -10434,3 +10434,4 @@
 2025-01-27 14:42:00 +0700 - chore(core): remove feature #489
 2025-01-27 12:25:00 +0700 - test(auth): improve feature #489
 2025-01-28 15:50:00 +0700 - chore(db): update feature #397
+2025-01-29 10:48:00 +0700 - fix(ui): remove feature #398
