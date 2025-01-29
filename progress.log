@@ -49048,3 +49048,4 @@
 2025-01-28 13:20:00 +0700 - fix(config): add feature #375
 2025-01-28 11:10:00 +0700 - fix(db): optimize feature #375
 2025-01-29 15:3:00 +0700 - test(core): add feature #489
+2025-01-29 10:8:00 +0700 - perf(auth): handle feature #489
