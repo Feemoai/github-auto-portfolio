@@ -3432,3 +3432,4 @@
 2025-01-27 9:14:00 +0700 - test(auth): handle feature #171
 2025-01-28 10:12:00 +0700 - perf(auth): remove feature #494
 2025-01-28 9:23:00 +0700 - docs(core): update feature #494
+2025-01-29 11:6:00 +0700 - fix(core): remove feature #259
