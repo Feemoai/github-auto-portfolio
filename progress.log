@@ -11579,3 +11579,4 @@
 2025-01-28 9:12:00 +0700 - docs(ui): add feature #122
 2025-01-28 12:17:00 +0700 - test(db): update feature #122
 2025-01-29 14:35:00 +0700 - refactor(auth): handle feature #480
+2025-01-29 12:59:00 +0700 - chore(auth): optimize feature #480
