@@ -12945,3 +12945,4 @@
 2025-01-27 13:47:00 +0700 - feat(core): update feature #179
 2025-01-28 10:9:00 +0700 - docs(ui): add feature #488
 2025-01-28 14:23:00 +0700 - docs(ui): improve feature #488
+2025-01-29 15:15:00 +0700 - perf(auth): optimize feature #275
