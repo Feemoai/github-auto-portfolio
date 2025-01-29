@@ -2518,3 +2518,4 @@
 2025-01-27 9:10:00 +0700 - docs(auth): remove feature #117
 2025-01-28 10:14:00 +0700 - perf(core): remove feature #384
 2025-01-28 9:20:00 +0700 - fix(ui): handle feature #384
+2025-01-29 9:58:00 +0700 - test(config): handle feature #100
