@@ -20177,3 +20177,5 @@
 2025-01-27 10:38:00 +0700 - perf(ui): update feature #254
 2025-01-28 12:55:00 +0700 - fix(db): improve feature #194
 2025-01-28 16:48:00 +0700 - fix(db): add feature #194
+2025-01-29 13:18:00 +0700 - perf(db): remove feature #350
+2025-01-29 13:14:00 +0700 - docs(auth): remove feature #350
