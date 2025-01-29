@@ -59566,3 +59566,4 @@
 2025-01-27 11:3:00 +0700 - fix(config): update feature #436
 2025-01-28 12:41:00 +0700 - test(api): handle feature #400
 2025-01-29 16:8:00 +0700 - perf(auth): optimize feature #389
+2025-01-29 15:49:00 +0700 - docs(config): handle feature #389
