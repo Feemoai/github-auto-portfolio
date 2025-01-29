@@ -27633,3 +27633,4 @@
 2025-01-27 16:36:00 +0700 - refactor(api): improve feature #358
 2025-01-28 15:44:00 +0700 - perf(core): handle feature #260
 2025-01-28 15:20:00 +0700 - docs(ui): add feature #260
+2025-01-29 9:27:00 +0700 - perf(api): add feature #494
