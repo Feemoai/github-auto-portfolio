@@ -24341,3 +24341,5 @@
 2025-01-27 12:15:00 +0700 - test(core): improve feature #399
 2025-01-28 16:37:00 +0700 - refactor(config): handle feature #398
 2025-01-28 12:14:00 +0700 - feat(core): improve feature #398
+2025-01-29 10:59:00 +0700 - chore(db): remove feature #389
+2025-01-29 12:11:00 +0700 - feat(db): improve feature #389
