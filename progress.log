@@ -64906,3 +64906,4 @@
 2025-01-27 15:41:00 +0700 - perf(config): update feature #253
 2025-01-28 14:45:00 +0700 - perf(config): optimize feature #277
 2025-01-28 16:44:00 +0700 - perf(ui): optimize feature #277
+2025-01-29 11:29:00 +0700 - perf(ui): handle feature #234
