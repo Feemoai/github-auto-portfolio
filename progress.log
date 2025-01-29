@@ -37940,3 +37940,5 @@
 2025-01-27 10:38:00 +0700 - perf(auth): optimize feature #349
 2025-01-28 16:41:00 +0700 - perf(ui): improve feature #401
 2025-01-28 13:9:00 +0700 - chore(core): handle feature #401
+2025-01-29 14:14:00 +0700 - docs(auth): add feature #432
+2025-01-29 14:1:00 +0700 - fix(core): update feature #432
