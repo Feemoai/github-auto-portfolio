@@ -304,3 +304,5 @@
 2025-01-27 10:8:00 +0700 - perf(auth): handle feature #183
 2025-01-28 13:28:00 +0700 - test(db): add feature #446
 2025-01-28 12:41:00 +0700 - fix(core): handle feature #446
+2025-01-29 14:58:00 +0700 - test(auth): update feature #312
+2025-01-29 9:9:00 +0700 - fix(config): update feature #312
