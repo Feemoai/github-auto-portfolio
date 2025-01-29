@@ -33645,3 +33645,5 @@
 2025-01-27 16:5:00 +0700 - test(config): optimize feature #147
 2025-01-28 10:26:00 +0700 - chore(core): add feature #326
 2025-01-28 11:58:00 +0700 - chore(auth): optimize feature #326
+2025-01-29 10:23:00 +0700 - fix(config): update feature #207
+2025-01-29 13:1:00 +0700 - fix(db): handle feature #207
