@@ -44538,3 +44538,4 @@
 2025-01-27 11:12:00 +0700 - test(ui): improve feature #486
 2025-01-28 11:50:00 +0700 - test(core): remove feature #439
 2025-01-28 12:44:00 +0700 - chore(api): optimize feature #439
+2025-01-29 16:26:00 +0700 - perf(auth): remove feature #462
