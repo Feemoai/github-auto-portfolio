@@ -63508,3 +63508,4 @@
 2025-01-27 13:42:00 +0700 - feat(core): add feature #307
 2025-01-28 16:13:00 +0700 - test(ui): add feature #291
 2025-01-29 15:57:00 +0700 - chore(ui): update feature #250
+2025-01-29 12:25:00 +0700 - chore(api): handle feature #250
