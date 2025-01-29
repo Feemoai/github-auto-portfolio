@@ -51545,3 +51545,4 @@
 2025-01-27 9:12:00 +0700 - docs(api): improve feature #345
 2025-01-28 13:58:00 +0700 - chore(core): handle feature #326
 2025-01-28 12:4:00 +0700 - fix(ui): handle feature #326
+2025-01-29 15:48:00 +0700 - perf(auth): optimize feature #172
