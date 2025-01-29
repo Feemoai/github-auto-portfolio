@@ -19932,3 +19932,4 @@
 2025-01-27 13:13:00 +0700 - docs(ui): handle feature #292
 2025-01-28 11:45:00 +0700 - perf(ui): update feature #474
 2025-01-29 9:18:00 +0700 - perf(auth): handle feature #360
+2025-01-29 16:2:00 +0700 - fix(ui): remove feature #360
