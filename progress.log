@@ -18629,3 +18629,4 @@
 2025-01-28 12:36:00 +0700 - perf(db): handle feature #213
 2025-01-28 12:21:00 +0700 - feat(core): handle feature #213
 2025-01-29 10:43:00 +0700 - refactor(core): improve feature #141
+2025-01-29 11:50:00 +0700 - feat(ui): optimize feature #141
