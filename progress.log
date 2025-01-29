@@ -14670,3 +14670,4 @@
 2025-01-25 15:52:00 +0700 - feat(api): improve feature #134
 2025-01-27 13:9:00 +0700 - fix(config): handle feature #329
 2025-01-28 11:54:00 +0700 - perf(ui): optimize feature #120
+2025-01-29 9:11:00 +0700 - chore(auth): remove feature #205
