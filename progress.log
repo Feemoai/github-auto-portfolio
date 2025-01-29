@@ -3654,3 +3654,4 @@
 2025-01-27 12:36:00 +0700 - perf(db): improve feature #377
 2025-01-27 15:18:00 +0700 - fix(db): improve feature #377
 2025-01-28 10:8:00 +0700 - refactor(config): improve feature #343
+2025-01-29 13:20:00 +0700 - perf(auth): remove feature #499
