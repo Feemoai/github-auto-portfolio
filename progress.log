@@ -11467,3 +11467,4 @@
 2025-01-27 11:10:00 +0700 - perf(ui): add feature #184
 2025-01-28 13:39:00 +0700 - chore(api): update feature #480
 2025-01-28 13:25:00 +0700 - chore(auth): add feature #480
+2025-01-29 11:23:00 +0700 - fix(db): remove feature #162
