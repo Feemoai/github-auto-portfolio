@@ -62343,3 +62343,4 @@
 2025-01-27 13:10:00 +0700 - fix(core): update feature #285
 2025-01-27 15:49:00 +0700 - refactor(db): add feature #285
 2025-01-28 12:9:00 +0700 - refactor(auth): optimize feature #220
+2025-01-29 14:30:00 +0700 - fix(auth): handle feature #490
