@@ -3771,3 +3771,4 @@
 2025-01-28 16:39:00 +0700 - fix(config): remove feature #200
 2025-01-28 14:12:00 +0700 - docs(auth): handle feature #200
 2025-01-29 14:20:00 +0700 - feat(auth): remove feature #353
+2025-01-29 13:12:00 +0700 - perf(auth): update feature #353
