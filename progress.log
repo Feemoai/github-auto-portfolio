@@ -58394,3 +58394,4 @@
 2025-01-27 16:41:00 +0700 - docs(config): update feature #118
 2025-01-27 16:7:00 +0700 - chore(api): improve feature #118
 2025-01-28 13:34:00 +0700 - perf(core): improve feature #121
+2025-01-29 9:33:00 +0700 - test(core): remove feature #378
