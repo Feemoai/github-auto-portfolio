@@ -22268,3 +22268,4 @@
 2025-01-27 12:56:00 +0700 - perf(db): improve feature #249
 2025-01-28 10:53:00 +0700 - docs(core): handle feature #292
 2025-01-28 16:54:00 +0700 - feat(auth): handle feature #292
+2025-01-29 12:26:00 +0700 - feat(core): remove feature #413
