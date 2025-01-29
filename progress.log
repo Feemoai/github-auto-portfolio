@@ -41887,3 +41887,4 @@
 2025-01-27 10:8:00 +0700 - chore(config): optimize feature #406
 2025-01-28 16:29:00 +0700 - feat(db): update feature #429
 2025-01-28 16:16:00 +0700 - refactor(auth): improve feature #429
+2025-01-29 12:59:00 +0700 - test(auth): handle feature #442
