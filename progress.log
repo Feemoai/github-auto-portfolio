@@ -24939,3 +24939,5 @@
 2025-01-25 14:32:00 +0700 - feat(api): update feature #405
 2025-01-27 13:6:00 +0700 - chore(api): add feature #228
 2025-01-28 9:1:00 +0700 - fix(ui): add feature #365
+2025-01-29 10:25:00 +0700 - docs(ui): add feature #224
+2025-01-29 12:19:00 +0700 - feat(ui): remove feature #224
