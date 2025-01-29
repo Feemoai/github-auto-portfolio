@@ -38520,3 +38520,4 @@
 2025-01-25 15:51:00 +0700 - fix(db): update feature #387
 2025-01-27 16:30:00 +0700 - test(config): update feature #461
 2025-01-28 15:35:00 +0700 - docs(ui): optimize feature #426
+2025-01-29 9:43:00 +0700 - fix(config): handle feature #230
