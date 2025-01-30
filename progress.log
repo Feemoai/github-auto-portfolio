@@ -28548,3 +28548,4 @@
 2025-01-28 12:32:00 +0700 - test(config): remove feature #233
 2025-01-29 9:32:00 +0700 - fix(core): remove feature #345
 2025-01-29 9:23:00 +0700 - feat(ui): remove feature #345
+2025-01-30 12:2:00 +0700 - fix(core): optimize feature #404
