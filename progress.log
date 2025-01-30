@@ -22269,3 +22269,4 @@
 2025-01-28 10:53:00 +0700 - docs(core): handle feature #292
 2025-01-28 16:54:00 +0700 - feat(auth): handle feature #292
 2025-01-29 12:26:00 +0700 - feat(core): remove feature #413
+2025-01-30 11:29:00 +0700 - fix(core): update feature #398
