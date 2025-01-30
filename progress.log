@@ -26679,3 +26679,4 @@
 2025-01-28 11:18:00 +0700 - chore(auth): optimize feature #351
 2025-01-28 16:36:00 +0700 - feat(auth): handle feature #351
 2025-01-29 16:14:00 +0700 - fix(config): optimize feature #219
+2025-01-30 11:47:00 +0700 - fix(auth): remove feature #347
