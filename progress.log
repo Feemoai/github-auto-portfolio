@@ -35066,3 +35066,4 @@
 2025-01-29 13:19:00 +0700 - fix(ui): handle feature #334
 2025-01-29 14:2:00 +0700 - feat(ui): add feature #334
 2025-01-30 14:39:00 +0700 - test(auth): remove feature #102
+2025-01-30 13:12:00 +0700 - feat(config): optimize feature #102
