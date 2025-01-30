@@ -20536,3 +20536,4 @@
 2025-01-28 9:41:00 +0700 - feat(db): handle feature #400
 2025-01-28 13:20:00 +0700 - fix(config): improve feature #400
 2025-01-29 10:2:00 +0700 - chore(auth): improve feature #403
+2025-01-30 16:39:00 +0700 - fix(auth): handle feature #337
