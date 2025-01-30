@@ -57587,3 +57587,5 @@
 2025-01-28 15:45:00 +0700 - perf(db): add feature #404
 2025-01-29 10:28:00 +0700 - perf(db): add feature #416
 2025-01-29 14:18:00 +0700 - perf(ui): update feature #416
+2025-01-30 11:38:00 +0700 - feat(auth): update feature #379
+2025-01-30 16:58:00 +0700 - fix(config): handle feature #379
