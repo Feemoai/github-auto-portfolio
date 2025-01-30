@@ -28430,3 +28430,4 @@
 2025-01-28 9:3:00 +0700 - test(auth): add feature #345
 2025-01-29 9:18:00 +0700 - fix(config): handle feature #345
 2025-01-29 14:26:00 +0700 - fix(db): optimize feature #345
+2025-01-30 16:25:00 +0700 - perf(config): remove feature #333
