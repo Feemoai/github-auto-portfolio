@@ -35185,3 +35185,4 @@
 2025-01-28 14:21:00 +0700 - fix(ui): handle feature #373
 2025-01-29 9:27:00 +0700 - perf(ui): update feature #366
 2025-01-30 14:29:00 +0700 - feat(ui): remove feature #366
+2025-01-30 14:10:00 +0700 - fix(auth): remove feature #366
