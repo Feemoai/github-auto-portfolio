@@ -15125,3 +15125,4 @@
 2025-01-27 12:13:00 +0700 - test(ui): improve feature #337
 2025-01-28 11:8:00 +0700 - perf(api): handle feature #143
 2025-01-29 12:50:00 +0700 - test(ui): handle feature #308
+2025-01-30 9:20:00 +0700 - chore(ui): optimize feature #499
