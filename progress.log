@@ -20180,3 +20180,4 @@
 2025-01-29 13:18:00 +0700 - perf(db): remove feature #350
 2025-01-29 13:14:00 +0700 - docs(auth): remove feature #350
 2025-01-30 11:26:00 +0700 - docs(auth): remove feature #413
+2025-01-30 15:6:00 +0700 - fix(db): optimize feature #413
