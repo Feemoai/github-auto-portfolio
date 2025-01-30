@@ -12276,3 +12276,4 @@
 2025-01-28 14:20:00 +0700 - test(auth): handle feature #232
 2025-01-29 15:8:00 +0700 - fix(db): update feature #457
 2025-01-29 14:2:00 +0700 - refactor(auth): add feature #457
+2025-01-30 11:43:00 +0700 - refactor(config): handle feature #139
