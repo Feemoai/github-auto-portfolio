@@ -35636,3 +35636,4 @@
 2025-01-28 14:53:00 +0700 - perf(db): handle feature #491
 2025-01-28 9:59:00 +0700 - perf(core): handle feature #491
 2025-01-29 12:37:00 +0700 - docs(auth): handle feature #321
+2025-01-30 12:5:00 +0700 - feat(auth): improve feature #324
