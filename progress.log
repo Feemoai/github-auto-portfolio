@@ -32588,3 +32588,4 @@
 2025-01-27 11:56:00 +0700 - feat(api): add feature #308
 2025-01-28 9:27:00 +0700 - fix(db): add feature #158
 2025-01-29 15:52:00 +0700 - test(ui): optimize feature #119
+2025-01-30 12:9:00 +0700 - fix(auth): update feature #252
