@@ -21813,3 +21813,4 @@
 2025-01-27 13:13:00 +0700 - fix(core): remove feature #415
 2025-01-28 15:8:00 +0700 - perf(auth): optimize feature #112
 2025-01-29 12:29:00 +0700 - fix(ui): remove feature #319
+2025-01-30 11:6:00 +0700 - docs(api): remove feature #152
