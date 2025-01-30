@@ -63387,3 +63387,4 @@
 2025-01-28 13:23:00 +0700 - perf(config): optimize feature #106
 2025-01-29 9:43:00 +0700 - perf(auth): optimize feature #127
 2025-01-29 10:25:00 +0700 - docs(db): remove feature #127
+2025-01-30 15:59:00 +0700 - perf(api): add feature #346
