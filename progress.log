@@ -60830,3 +60830,5 @@
 2025-01-28 10:2:00 +0700 - feat(config): remove feature #298
 2025-01-29 15:22:00 +0700 - fix(db): handle feature #363
 2025-01-29 15:5:00 +0700 - fix(config): remove feature #363
+2025-01-30 15:18:00 +0700 - refactor(ui): optimize feature #274
+2025-01-30 11:0:00 +0700 - fix(core): handle feature #274
