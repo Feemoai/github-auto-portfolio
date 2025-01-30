@@ -30850,3 +30850,4 @@
 2025-01-28 14:43:00 +0700 - docs(core): remove feature #138
 2025-01-29 9:40:00 +0700 - perf(db): update feature #369
 2025-01-29 13:21:00 +0700 - test(db): remove feature #369
+2025-01-30 9:20:00 +0700 - test(api): handle feature #339
