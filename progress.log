@@ -4353,3 +4353,4 @@
 2025-01-29 10:2:00 +0700 - test(core): handle feature #101
 2025-01-29 9:31:00 +0700 - perf(core): improve feature #101
 2025-01-30 15:14:00 +0700 - docs(auth): remove feature #453
+2025-01-30 11:47:00 +0700 - feat(config): add feature #453
