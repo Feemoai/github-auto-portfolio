@@ -35301,3 +35301,4 @@
 2025-01-28 9:4:00 +0700 - test(db): update feature #377
 2025-01-28 12:11:00 +0700 - refactor(ui): remove feature #377
 2025-01-29 14:55:00 +0700 - perf(auth): optimize feature #317
+2025-01-30 12:35:00 +0700 - chore(api): remove feature #290
