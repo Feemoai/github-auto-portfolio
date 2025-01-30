@@ -30734,3 +30734,4 @@
 2025-01-28 14:13:00 +0700 - feat(ui): handle feature #461
 2025-01-29 9:49:00 +0700 - fix(config): optimize feature #360
 2025-01-30 16:54:00 +0700 - fix(core): handle feature #497
+2025-01-30 10:23:00 +0700 - chore(api): handle feature #497
