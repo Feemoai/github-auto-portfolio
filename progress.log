@@ -5723,3 +5723,5 @@
 2025-01-27 15:24:00 +0700 - docs(ui): remove feature #124
 2025-01-28 9:26:00 +0700 - feat(db): update feature #147
 2025-01-29 15:31:00 +0700 - docs(config): optimize feature #148
+2025-01-30 10:15:00 +0700 - test(config): update feature #140
+2025-01-30 13:52:00 +0700 - perf(ui): handle feature #140
