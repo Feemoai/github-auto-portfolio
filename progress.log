@@ -3312,3 +3312,4 @@
 2025-01-29 16:0:00 +0700 - chore(api): update feature #378
 2025-01-29 14:25:00 +0700 - docs(ui): update feature #378
 2025-01-30 13:14:00 +0700 - feat(config): add feature #398
+2025-01-30 11:43:00 +0700 - test(core): handle feature #398
