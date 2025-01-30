@@ -42230,3 +42230,4 @@
 2025-01-28 14:7:00 +0700 - test(ui): optimize feature #465
 2025-01-28 14:41:00 +0700 - feat(core): handle feature #465
 2025-01-29 11:6:00 +0700 - refactor(core): optimize feature #479
+2025-01-30 10:2:00 +0700 - test(config): remove feature #321
