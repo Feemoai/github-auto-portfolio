@@ -10550,3 +10550,4 @@
 2025-01-28 9:35:00 +0700 - test(config): optimize feature #301
 2025-01-29 9:43:00 +0700 - docs(api): remove feature #208
 2025-01-29 15:27:00 +0700 - test(ui): optimize feature #208
+2025-01-30 9:34:00 +0700 - chore(auth): add feature #437
