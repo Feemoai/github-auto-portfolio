@@ -13992,3 +13992,4 @@
 2025-01-29 10:40:00 +0700 - perf(core): remove feature #426
 2025-01-29 14:11:00 +0700 - test(config): improve feature #426
 2025-01-30 11:44:00 +0700 - feat(config): improve feature #355
+2025-01-30 11:42:00 +0700 - chore(auth): optimize feature #355
