@@ -2403,3 +2403,5 @@
 2025-01-28 14:37:00 +0700 - perf(core): remove feature #196
 2025-01-28 9:11:00 +0700 - docs(core): handle feature #196
 2025-01-29 9:15:00 +0700 - docs(ui): remove feature #392
+2025-01-30 15:57:00 +0700 - docs(ui): optimize feature #319
+2025-01-30 10:14:00 +0700 - test(config): optimize feature #319
