@@ -30507,3 +30507,4 @@
 2025-01-28 11:50:00 +0700 - docs(auth): optimize feature #439
 2025-01-29 10:30:00 +0700 - chore(api): optimize feature #495
 2025-01-29 14:56:00 +0700 - test(core): remove feature #495
+2025-01-30 9:53:00 +0700 - fix(ui): optimize feature #230
