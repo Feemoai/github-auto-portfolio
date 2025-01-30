@@ -56337,3 +56337,5 @@
 2025-01-28 15:38:00 +0700 - feat(ui): update feature #104
 2025-01-29 9:53:00 +0700 - feat(auth): optimize feature #210
 2025-01-29 14:39:00 +0700 - docs(config): add feature #210
+2025-01-30 13:47:00 +0700 - fix(ui): update feature #328
+2025-01-30 14:23:00 +0700 - fix(core): add feature #328
