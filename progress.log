@@ -46059,3 +46059,5 @@
 2025-01-28 10:47:00 +0700 - refactor(auth): update feature #460
 2025-01-29 13:22:00 +0700 - refactor(core): add feature #166
 2025-01-29 11:46:00 +0700 - docs(config): add feature #166
+2025-01-30 9:31:00 +0700 - fix(config): handle feature #424
+2025-01-30 9:1:00 +0700 - feat(core): improve feature #424
