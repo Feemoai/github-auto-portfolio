@@ -3099,3 +3099,4 @@
 2025-01-28 13:55:00 +0700 - test(auth): update feature #140
 2025-01-29 16:17:00 +0700 - refactor(db): handle feature #331
 2025-01-29 9:43:00 +0700 - fix(core): handle feature #331
+2025-01-30 14:23:00 +0700 - test(ui): remove feature #344
