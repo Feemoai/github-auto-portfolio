@@ -36230,3 +36230,4 @@
 2025-01-28 14:7:00 +0700 - docs(api): improve feature #310
 2025-01-29 9:59:00 +0700 - chore(auth): update feature #460
 2025-01-30 13:39:00 +0700 - test(config): optimize feature #353
+2025-01-30 13:5:00 +0700 - test(core): handle feature #353
