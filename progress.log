@@ -2520,3 +2520,4 @@
 2025-01-28 9:20:00 +0700 - fix(ui): handle feature #384
 2025-01-29 9:58:00 +0700 - test(config): handle feature #100
 2025-01-29 14:4:00 +0700 - perf(db): update feature #100
+2025-01-30 10:24:00 +0700 - fix(config): handle feature #166
