@@ -11697,3 +11697,5 @@
 2025-01-28 9:59:00 +0700 - feat(auth): update feature #363
 2025-01-28 13:21:00 +0700 - test(core): update feature #363
 2025-01-29 16:9:00 +0700 - perf(config): improve feature #379
+2025-01-30 14:40:00 +0700 - feat(config): handle feature #427
+2025-01-30 12:18:00 +0700 - fix(core): improve feature #427
