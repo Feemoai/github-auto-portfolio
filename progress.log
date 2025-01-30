@@ -12499,3 +12499,4 @@
 2025-01-29 9:52:00 +0700 - fix(db): add feature #115
 2025-01-29 12:21:00 +0700 - feat(core): handle feature #115
 2025-01-30 15:51:00 +0700 - perf(auth): improve feature #483
+2025-01-30 15:39:00 +0700 - docs(core): handle feature #483
