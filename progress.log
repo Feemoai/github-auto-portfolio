@@ -50198,3 +50198,4 @@
 2025-01-29 15:7:00 +0700 - perf(db): optimize feature #240
 2025-01-29 9:30:00 +0700 - perf(ui): handle feature #240
 2025-01-30 11:25:00 +0700 - test(config): improve feature #412
+2025-01-31 9:22:00 +0700 - fix(db): handle feature #177
