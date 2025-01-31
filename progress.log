@@ -12048,3 +12048,4 @@
 2025-01-29 16:13:00 +0700 - docs(api): handle feature #121
 2025-01-30 12:9:00 +0700 - docs(ui): add feature #378
 2025-01-30 14:41:00 +0700 - perf(db): handle feature #378
+2025-01-31 15:56:00 +0700 - feat(core): optimize feature #248
