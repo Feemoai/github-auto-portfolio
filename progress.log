@@ -11239,3 +11239,4 @@
 2025-01-30 16:50:00 +0700 - docs(api): handle feature #365
 2025-01-30 12:10:00 +0700 - fix(config): optimize feature #365
 2025-01-31 11:4:00 +0700 - feat(db): optimize feature #395
+2025-01-31 9:15:00 +0700 - feat(db): improve feature #395
