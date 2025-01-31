@@ -33534,3 +33534,5 @@
 2025-01-28 12:23:00 +0700 - perf(core): update feature #150
 2025-01-29 14:8:00 +0700 - docs(api): add feature #201
 2025-01-30 11:24:00 +0700 - test(db): optimize feature #136
+2025-01-31 15:38:00 +0700 - chore(auth): update feature #367
+2025-01-31 15:30:00 +0700 - fix(auth): update feature #367
