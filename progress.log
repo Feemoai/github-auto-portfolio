@@ -63511,3 +63511,5 @@
 2025-01-29 12:25:00 +0700 - chore(api): handle feature #250
 2025-01-30 11:53:00 +0700 - docs(core): improve feature #445
 2025-01-30 11:7:00 +0700 - refactor(ui): update feature #445
+2025-01-31 14:46:00 +0700 - feat(db): improve feature #469
+2025-01-31 10:31:00 +0700 - feat(ui): update feature #469
