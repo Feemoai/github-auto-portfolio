@@ -54957,3 +54957,5 @@
 2025-01-28 12:8:00 +0700 - fix(ui): handle feature #284
 2025-01-29 12:21:00 +0700 - docs(ui): improve feature #485
 2025-01-30 9:42:00 +0700 - test(ui): update feature #115
+2025-01-31 14:3:00 +0700 - chore(config): handle feature #472
+2025-01-31 10:29:00 +0700 - feat(core): update feature #472
