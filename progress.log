@@ -57936,3 +57936,4 @@
 2025-01-29 10:20:00 +0700 - refactor(ui): update feature #232
 2025-01-30 13:42:00 +0700 - chore(config): update feature #402
 2025-01-30 16:46:00 +0700 - fix(ui): optimize feature #402
+2025-01-31 15:49:00 +0700 - test(core): remove feature #240
