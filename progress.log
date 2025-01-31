@@ -540,3 +540,4 @@
 2025-01-29 16:24:00 +0700 - feat(api): add feature #149
 2025-01-30 10:14:00 +0700 - test(db): add feature #136
 2025-01-31 10:47:00 +0700 - docs(core): remove feature #181
+2025-01-31 12:48:00 +0700 - refactor(core): handle feature #181
