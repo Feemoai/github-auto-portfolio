@@ -52684,3 +52684,5 @@
 2025-01-28 10:48:00 +0700 - feat(config): update feature #391
 2025-01-29 14:11:00 +0700 - test(ui): remove feature #389
 2025-01-30 15:38:00 +0700 - chore(config): optimize feature #251
+2025-01-31 15:44:00 +0700 - fix(core): optimize feature #126
+2025-01-31 12:12:00 +0700 - docs(auth): improve feature #126
