@@ -30049,3 +30049,4 @@
 2025-01-29 14:51:00 +0700 - feat(db): update feature #169
 2025-01-30 16:45:00 +0700 - test(ui): remove feature #462
 2025-01-31 11:23:00 +0700 - test(api): optimize feature #390
+2025-01-31 12:33:00 +0700 - docs(api): optimize feature #390
