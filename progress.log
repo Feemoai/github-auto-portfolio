@@ -13297,3 +13297,4 @@
 2025-01-29 14:39:00 +0700 - feat(auth): handle feature #319
 2025-01-30 9:44:00 +0700 - fix(core): optimize feature #336
 2025-01-30 10:45:00 +0700 - refactor(ui): remove feature #336
+2025-01-31 12:13:00 +0700 - chore(auth): remove feature #199
