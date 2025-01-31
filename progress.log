@@ -34469,3 +34469,4 @@
 2025-01-30 12:45:00 +0700 - fix(core): optimize feature #413
 2025-01-30 13:4:00 +0700 - fix(config): improve feature #413
 2025-01-31 10:5:00 +0700 - refactor(auth): update feature #218
+2025-01-31 15:26:00 +0700 - feat(core): handle feature #218
