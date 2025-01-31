@@ -5499,3 +5499,4 @@
 2025-01-30 14:20:00 +0700 - perf(config): add feature #165
 2025-01-30 16:35:00 +0700 - fix(ui): handle feature #165
 2025-01-31 9:34:00 +0700 - perf(ui): update feature #241
+2025-01-31 9:55:00 +0700 - refactor(config): update feature #241
