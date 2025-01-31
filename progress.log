@@ -61992,3 +61992,4 @@
 2025-01-29 14:49:00 +0700 - test(api): improve feature #392
 2025-01-30 13:34:00 +0700 - docs(config): improve feature #212
 2025-01-30 11:47:00 +0700 - test(auth): add feature #212
+2025-01-31 15:1:00 +0700 - chore(auth): handle feature #299
