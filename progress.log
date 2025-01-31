@@ -2986,3 +2986,5 @@
 2025-01-29 16:22:00 +0700 - chore(auth): add feature #297
 2025-01-30 15:52:00 +0700 - chore(config): handle feature #290
 2025-01-30 12:15:00 +0700 - perf(auth): handle feature #290
+2025-01-31 10:15:00 +0700 - chore(auth): optimize feature #332
+2025-01-31 13:54:00 +0700 - test(db): handle feature #332
