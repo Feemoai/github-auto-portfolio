@@ -22271,3 +22271,5 @@
 2025-01-29 12:26:00 +0700 - feat(core): remove feature #413
 2025-01-30 11:29:00 +0700 - fix(core): update feature #398
 2025-01-30 14:32:00 +0700 - perf(ui): add feature #398
+2025-01-31 9:52:00 +0700 - docs(config): handle feature #140
+2025-01-31 15:22:00 +0700 - feat(config): optimize feature #140
