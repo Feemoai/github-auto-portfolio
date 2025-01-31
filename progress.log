@@ -3100,3 +3100,4 @@
 2025-01-29 16:17:00 +0700 - refactor(db): handle feature #331
 2025-01-29 9:43:00 +0700 - fix(core): handle feature #331
 2025-01-30 14:23:00 +0700 - test(ui): remove feature #344
+2025-01-31 16:11:00 +0700 - docs(ui): improve feature #449
