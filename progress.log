@@ -68350,3 +68350,4 @@
 2025-01-29 10:2:00 +0700 - feat(auth): remove feature #471
 2025-01-30 13:16:00 +0700 - chore(api): update feature #237
 2025-01-30 14:23:00 +0700 - chore(ui): optimize feature #237
+2025-01-31 9:0:00 +0700 - perf(db): handle feature #210
