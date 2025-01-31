@@ -54514,3 +54514,4 @@
 2025-01-30 11:32:00 +0700 - docs(auth): improve feature #169
 2025-01-30 15:47:00 +0700 - docs(config): add feature #169
 2025-01-31 11:48:00 +0700 - feat(auth): add feature #260
+2025-01-31 16:7:00 +0700 - refactor(db): optimize feature #260
