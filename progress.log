@@ -24109,3 +24109,4 @@
 2025-01-30 15:17:00 +0700 - fix(db): add feature #461
 2025-01-30 11:39:00 +0700 - fix(ui): handle feature #461
 2025-01-31 9:42:00 +0700 - fix(config): add feature #394
+2025-01-31 10:2:00 +0700 - chore(config): remove feature #394
