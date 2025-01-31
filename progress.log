@@ -49404,3 +49404,4 @@
 2025-01-29 11:46:00 +0700 - perf(ui): optimize feature #341
 2025-01-30 9:25:00 +0700 - fix(api): handle feature #471
 2025-01-30 9:9:00 +0700 - perf(config): update feature #471
+2025-01-31 14:13:00 +0700 - test(ui): update feature #277
