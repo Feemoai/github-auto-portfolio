@@ -38746,3 +38746,4 @@
 2025-01-30 9:10:00 +0700 - chore(api): update feature #103
 2025-01-30 13:20:00 +0700 - docs(api): remove feature #103
 2025-01-31 15:21:00 +0700 - fix(config): handle feature #481
+2025-01-31 12:58:00 +0700 - test(ui): improve feature #481
