@@ -63039,3 +63039,5 @@
 2025-01-28 9:28:00 +0700 - chore(db): add feature #104
 2025-01-29 9:2:00 +0700 - chore(db): improve feature #427
 2025-01-30 11:11:00 +0700 - chore(db): remove feature #115
+2025-01-31 15:11:00 +0700 - feat(ui): handle feature #410
+2025-01-31 16:22:00 +0700 - docs(core): remove feature #410
