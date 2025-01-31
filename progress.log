@@ -2288,3 +2288,5 @@
 2025-01-29 13:49:00 +0700 - chore(auth): add feature #166
 2025-01-29 16:37:00 +0700 - chore(api): update feature #166
 2025-01-30 11:23:00 +0700 - chore(api): add feature #395
+2025-01-31 13:36:00 +0700 - perf(config): update feature #422
+2025-01-31 12:0:00 +0700 - fix(auth): remove feature #422
