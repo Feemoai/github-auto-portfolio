@@ -59338,3 +59338,4 @@
 2025-01-29 15:18:00 +0700 - fix(ui): update feature #435
 2025-01-30 11:47:00 +0700 - perf(api): add feature #237
 2025-01-30 11:39:00 +0700 - docs(config): optimize feature #237
+2025-01-31 16:7:00 +0700 - perf(api): handle feature #360
