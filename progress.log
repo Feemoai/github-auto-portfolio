@@ -13763,3 +13763,4 @@
 2025-01-29 11:17:00 +0700 - fix(auth): update feature #489
 2025-01-29 15:3:00 +0700 - perf(db): optimize feature #489
 2025-01-30 11:30:00 +0700 - perf(config): optimize feature #346
+2025-01-31 10:14:00 +0700 - perf(api): improve feature #442
