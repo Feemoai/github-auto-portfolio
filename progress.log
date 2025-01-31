@@ -33302,3 +33302,4 @@
 2025-01-29 12:25:00 +0700 - chore(core): handle feature #192
 2025-01-29 13:0:00 +0700 - perf(api): handle feature #192
 2025-01-30 12:30:00 +0700 - feat(config): improve feature #291
+2025-01-31 15:17:00 +0700 - perf(api): remove feature #469
