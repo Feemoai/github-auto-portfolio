@@ -39090,3 +39090,4 @@
 2025-01-29 9:35:00 +0700 - docs(config): update feature #485
 2025-01-30 12:59:00 +0700 - docs(config): handle feature #321
 2025-01-30 9:27:00 +0700 - refactor(api): optimize feature #321
+2025-01-31 16:0:00 +0700 - test(api): handle feature #177
