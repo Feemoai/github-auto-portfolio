@@ -39316,3 +39316,4 @@
 2025-01-29 9:48:00 +0700 - fix(ui): remove feature #236
 2025-01-29 11:1:00 +0700 - chore(core): optimize feature #236
 2025-01-30 9:20:00 +0700 - fix(db): add feature #279
+2025-01-31 15:1:00 +0700 - feat(core): handle feature #222
