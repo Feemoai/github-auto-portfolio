@@ -43983,3 +43983,4 @@
 2025-01-29 11:39:00 +0700 - docs(config): improve feature #297
 2025-01-30 9:36:00 +0700 - refactor(db): remove feature #467
 2025-01-30 11:30:00 +0700 - perf(core): add feature #467
+2025-01-31 15:22:00 +0700 - refactor(core): remove feature #194
