@@ -18053,3 +18053,5 @@
 2025-01-30 14:42:00 +0700 - refactor(ui): remove feature #133
 2025-01-31 9:43:00 +0700 - feat(db): update feature #425
 2025-01-31 15:12:00 +0700 - test(ui): handle feature #425
+2025-02-01 11:45:00 +0700 - fix(api): optimize feature #100
+2025-02-01 13:52:00 +0700 - perf(db): improve feature #100
