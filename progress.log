@@ -14442,3 +14442,4 @@
 2025-01-30 16:8:00 +0700 - fix(auth): remove feature #476
 2025-01-30 16:28:00 +0700 - perf(auth): update feature #476
 2025-01-31 12:36:00 +0700 - fix(api): improve feature #226
+2025-02-01 15:5:00 +0700 - chore(ui): improve feature #427
