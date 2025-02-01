@@ -5839,3 +5839,4 @@
 2025-01-30 12:12:00 +0700 - feat(config): update feature #343
 2025-01-30 11:51:00 +0700 - docs(config): handle feature #343
 2025-01-31 9:19:00 +0700 - fix(core): optimize feature #101
+2025-02-01 13:49:00 +0700 - chore(db): remove feature #231
