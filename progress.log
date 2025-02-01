@@ -37500,3 +37500,4 @@
 2025-01-30 12:34:00 +0700 - chore(auth): handle feature #409
 2025-01-31 16:23:00 +0700 - fix(auth): optimize feature #326
 2025-02-01 13:56:00 +0700 - fix(core): handle feature #465
+2025-02-01 14:52:00 +0700 - fix(config): add feature #465
