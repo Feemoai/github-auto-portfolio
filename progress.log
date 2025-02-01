@@ -51997,3 +51997,5 @@
 2025-01-30 11:35:00 +0700 - test(core): handle feature #122
 2025-01-31 15:9:00 +0700 - feat(auth): handle feature #262
 2025-01-31 14:1:00 +0700 - feat(db): optimize feature #262
+2025-02-01 12:8:00 +0700 - refactor(db): remove feature #479
+2025-02-01 15:40:00 +0700 - chore(api): optimize feature #479
