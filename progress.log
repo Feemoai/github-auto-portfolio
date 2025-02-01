@@ -68465,3 +68465,4 @@
 2025-01-30 11:54:00 +0700 - fix(api): update feature #152
 2025-01-31 15:57:00 +0700 - feat(api): remove feature #428
 2025-02-01 9:26:00 +0700 - docs(core): optimize feature #402
+2025-02-01 16:24:00 +0700 - fix(auth): improve feature #402
