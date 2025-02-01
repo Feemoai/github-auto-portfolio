@@ -22038,3 +22038,4 @@
 2025-01-31 9:17:00 +0700 - test(auth): remove feature #262
 2025-01-31 10:48:00 +0700 - docs(api): add feature #262
 2025-02-01 10:16:00 +0700 - chore(db): optimize feature #275
+2025-02-01 10:4:00 +0700 - feat(api): remove feature #275
