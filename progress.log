@@ -46764,3 +46764,4 @@
 2025-01-30 15:30:00 +0700 - feat(config): update feature #231
 2025-01-30 12:57:00 +0700 - refactor(api): update feature #231
 2025-01-31 15:57:00 +0700 - fix(auth): optimize feature #337
+2025-02-01 16:59:00 +0700 - refactor(db): optimize feature #110
