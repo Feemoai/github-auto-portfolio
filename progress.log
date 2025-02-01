@@ -46305,3 +46305,5 @@
 2025-01-30 14:8:00 +0700 - fix(auth): update feature #173
 2025-01-30 15:20:00 +0700 - test(db): handle feature #173
 2025-01-31 9:59:00 +0700 - perf(config): update feature #326
+2025-02-01 11:52:00 +0700 - fix(ui): optimize feature #292
+2025-02-01 9:46:00 +0700 - feat(db): optimize feature #292
