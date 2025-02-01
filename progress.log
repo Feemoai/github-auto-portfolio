@@ -40595,3 +40595,4 @@
 2025-01-30 9:35:00 +0700 - fix(ui): remove feature #415
 2025-01-31 9:5:00 +0700 - chore(api): update feature #484
 2025-02-01 12:59:00 +0700 - docs(ui): add feature #221
+2025-02-01 14:33:00 +0700 - perf(db): handle feature #221
