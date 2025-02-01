@@ -30285,3 +30285,4 @@
 2025-01-30 15:23:00 +0700 - chore(auth): handle feature #232
 2025-01-30 16:22:00 +0700 - perf(ui): handle feature #232
 2025-01-31 10:22:00 +0700 - fix(api): remove feature #177
+2025-02-01 11:17:00 +0700 - fix(api): handle feature #257
