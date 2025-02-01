@@ -49293,3 +49293,4 @@
 2025-01-31 9:3:00 +0700 - docs(auth): optimize feature #375
 2025-01-31 11:4:00 +0700 - perf(config): update feature #375
 2025-02-01 10:31:00 +0700 - refactor(auth): improve feature #367
+2025-02-01 15:48:00 +0700 - chore(auth): handle feature #367
