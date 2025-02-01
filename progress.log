@@ -18989,3 +18989,4 @@
 2025-01-30 13:41:00 +0700 - feat(core): add feature #390
 2025-01-31 9:47:00 +0700 - feat(config): improve feature #330
 2025-01-31 15:52:00 +0700 - perf(db): improve feature #330
+2025-02-01 10:43:00 +0700 - fix(auth): handle feature #320
