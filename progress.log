@@ -64910,3 +64910,4 @@
 2025-01-30 16:5:00 +0700 - test(config): improve feature #103
 2025-01-31 14:26:00 +0700 - refactor(api): remove feature #241
 2025-01-31 12:25:00 +0700 - test(auth): handle feature #241
+2025-02-01 11:35:00 +0700 - fix(auth): update feature #168
