@@ -30736,3 +30736,4 @@
 2025-01-30 16:54:00 +0700 - fix(core): handle feature #497
 2025-01-30 10:23:00 +0700 - chore(api): handle feature #497
 2025-01-31 15:45:00 +0700 - test(api): improve feature #424
+2025-02-01 15:22:00 +0700 - test(core): improve feature #226
