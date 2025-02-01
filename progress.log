@@ -6542,3 +6542,4 @@
 2025-01-30 9:23:00 +0700 - feat(config): add feature #218
 2025-01-30 13:20:00 +0700 - docs(api): remove feature #218
 2025-01-31 16:48:00 +0700 - test(config): update feature #130
+2025-02-01 11:46:00 +0700 - test(ui): remove feature #320
