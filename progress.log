@@ -31092,3 +31092,4 @@
 2025-01-30 11:44:00 +0700 - docs(core): add feature #327
 2025-01-31 15:20:00 +0700 - refactor(db): update feature #254
 2025-01-31 14:25:00 +0700 - test(auth): add feature #254
+2025-02-01 14:14:00 +0700 - perf(core): handle feature #392
