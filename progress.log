@@ -40120,3 +40120,4 @@
 2025-01-30 12:48:00 +0700 - perf(db): handle feature #184
 2025-01-30 9:56:00 +0700 - docs(auth): update feature #184
 2025-01-31 13:38:00 +0700 - fix(db): handle feature #177
+2025-02-01 10:24:00 +0700 - chore(auth): remove feature #411
