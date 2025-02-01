@@ -6775,3 +6775,4 @@
 2025-01-31 12:39:00 +0700 - chore(auth): handle feature #287
 2025-01-31 13:37:00 +0700 - fix(api): remove feature #287
 2025-02-01 15:14:00 +0700 - docs(api): optimize feature #145
+2025-02-01 13:2:00 +0700 - perf(core): add feature #145
