@@ -52911,3 +52911,4 @@
 2025-01-30 10:57:00 +0700 - fix(ui): update feature #425
 2025-01-31 11:10:00 +0700 - chore(auth): improve feature #481
 2025-01-31 11:19:00 +0700 - fix(auth): optimize feature #481
+2025-02-01 16:41:00 +0700 - test(api): handle feature #178
