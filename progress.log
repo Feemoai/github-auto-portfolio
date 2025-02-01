@@ -64434,3 +64434,5 @@
 2025-01-30 11:57:00 +0700 - feat(db): remove feature #318
 2025-01-31 13:32:00 +0700 - docs(core): add feature #374
 2025-01-31 9:54:00 +0700 - test(db): optimize feature #374
+2025-02-01 15:20:00 +0700 - chore(core): add feature #473
+2025-02-01 15:22:00 +0700 - fix(config): update feature #473
