@@ -1357,3 +1357,4 @@
 2025-01-30 14:17:00 +0700 - docs(ui): add feature #317
 2025-01-31 9:7:00 +0700 - perf(core): update feature #295
 2025-01-31 15:49:00 +0700 - fix(auth): handle feature #295
+2025-02-01 11:10:00 +0700 - feat(config): add feature #195
