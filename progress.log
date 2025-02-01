@@ -3660,3 +3660,4 @@
 2025-01-31 10:36:00 +0700 - perf(core): improve feature #242
 2025-01-31 13:50:00 +0700 - docs(auth): update feature #242
 2025-02-01 9:42:00 +0700 - docs(db): handle feature #459
+2025-02-01 12:21:00 +0700 - fix(core): improve feature #459
