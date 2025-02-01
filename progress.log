@@ -6661,3 +6661,4 @@
 2025-01-30 14:22:00 +0700 - refactor(db): remove feature #441
 2025-01-31 9:14:00 +0700 - refactor(api): remove feature #201
 2025-01-31 9:16:00 +0700 - chore(api): remove feature #201
+2025-02-01 13:12:00 +0700 - perf(db): improve feature #175
