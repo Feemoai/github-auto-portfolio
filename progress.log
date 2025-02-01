@@ -47108,3 +47108,4 @@
 2025-01-30 13:14:00 +0700 - docs(config): handle feature #497
 2025-01-31 16:31:00 +0700 - test(api): improve feature #175
 2025-01-31 9:28:00 +0700 - feat(auth): update feature #175
+2025-02-01 13:11:00 +0700 - feat(ui): remove feature #190
