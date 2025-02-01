@@ -36573,3 +36573,4 @@
 2025-01-30 14:25:00 +0700 - docs(core): optimize feature #138
 2025-01-31 14:50:00 +0700 - perf(core): remove feature #267
 2025-01-31 16:41:00 +0700 - refactor(core): handle feature #267
+2025-02-01 16:12:00 +0700 - fix(api): remove feature #166
