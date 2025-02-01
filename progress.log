@@ -34114,3 +34114,4 @@
 2025-01-30 16:43:00 +0700 - feat(api): remove feature #349
 2025-01-30 15:7:00 +0700 - perf(ui): update feature #349
 2025-01-31 9:20:00 +0700 - feat(config): handle feature #182
+2025-02-01 16:45:00 +0700 - perf(db): remove feature #330
