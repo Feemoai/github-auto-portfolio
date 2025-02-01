@@ -26222,3 +26222,4 @@
 2025-01-30 12:12:00 +0700 - perf(api): improve feature #302
 2025-01-31 11:43:00 +0700 - fix(api): improve feature #116
 2025-01-31 13:13:00 +0700 - chore(core): remove feature #116
+2025-02-01 14:10:00 +0700 - feat(config): remove feature #469
