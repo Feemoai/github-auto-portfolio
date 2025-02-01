@@ -23296,3 +23296,4 @@
 2025-01-29 15:49:00 +0700 - refactor(api): optimize feature #184
 2025-01-30 15:24:00 +0700 - chore(api): remove feature #338
 2025-01-31 11:8:00 +0700 - test(api): improve feature #129
+2025-02-01 11:59:00 +0700 - perf(core): optimize feature #337
