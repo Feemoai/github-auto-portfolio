@@ -39998,3 +39998,4 @@
 2025-01-30 15:7:00 +0700 - feat(api): handle feature #115
 2025-01-31 15:43:00 +0700 - test(api): remove feature #191
 2025-01-31 10:45:00 +0700 - perf(config): handle feature #191
+2025-02-01 14:36:00 +0700 - test(ui): remove feature #346
