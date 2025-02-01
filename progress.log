@@ -1589,3 +1589,4 @@
 2025-01-30 16:19:00 +0700 - fix(api): add feature #420
 2025-01-31 12:51:00 +0700 - docs(auth): handle feature #129
 2025-02-01 12:35:00 +0700 - fix(api): handle feature #146
+2025-02-01 11:57:00 +0700 - refactor(auth): update feature #146
