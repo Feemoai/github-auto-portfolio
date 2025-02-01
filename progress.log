@@ -28315,3 +28315,4 @@
 2025-01-29 11:53:00 +0700 - test(api): optimize feature #380
 2025-01-30 11:47:00 +0700 - chore(db): optimize feature #491
 2025-01-31 9:58:00 +0700 - docs(db): optimize feature #300
+2025-02-01 11:37:00 +0700 - chore(config): handle feature #451
