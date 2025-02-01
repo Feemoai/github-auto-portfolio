@@ -2875,3 +2875,5 @@
 2025-01-30 16:29:00 +0700 - fix(core): optimize feature #387
 2025-01-31 13:44:00 +0700 - feat(db): improve feature #197
 2025-01-31 14:25:00 +0700 - chore(db): add feature #197
+2025-02-01 11:20:00 +0700 - fix(core): remove feature #186
+2025-02-01 12:51:00 +0700 - chore(db): optimize feature #186
