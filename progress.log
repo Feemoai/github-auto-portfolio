@@ -3552,3 +3552,5 @@
 2025-01-30 9:24:00 +0700 - feat(db): update feature #420
 2025-01-31 10:52:00 +0700 - docs(db): add feature #277
 2025-01-31 14:47:00 +0700 - perf(ui): update feature #277
+2025-02-01 9:36:00 +0700 - docs(auth): optimize feature #146
+2025-02-01 14:56:00 +0700 - docs(config): update feature #146
