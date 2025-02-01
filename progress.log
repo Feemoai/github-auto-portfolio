@@ -16319,3 +16319,4 @@
 2025-01-31 10:23:00 +0700 - test(db): remove feature #213
 2025-01-31 14:6:00 +0700 - fix(db): remove feature #213
 2025-02-01 10:16:00 +0700 - chore(auth): add feature #366
+2025-02-01 14:57:00 +0700 - feat(api): optimize feature #366
