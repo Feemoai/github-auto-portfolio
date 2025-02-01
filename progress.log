@@ -23408,3 +23408,4 @@
 2025-01-30 13:43:00 +0700 - fix(db): add feature #221
 2025-01-31 12:41:00 +0700 - feat(db): add feature #418
 2025-01-31 10:14:00 +0700 - perf(auth): remove feature #418
+2025-02-01 16:10:00 +0700 - docs(core): optimize feature #198
