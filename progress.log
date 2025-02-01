@@ -65018,3 +65018,4 @@
 2025-01-30 15:52:00 +0700 - perf(config): remove feature #262
 2025-01-30 15:46:00 +0700 - feat(ui): add feature #262
 2025-01-31 12:46:00 +0700 - refactor(ui): update feature #254
+2025-02-01 12:2:00 +0700 - refactor(ui): handle feature #171
