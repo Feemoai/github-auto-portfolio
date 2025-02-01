@@ -36116,3 +36116,4 @@
 2025-01-29 10:16:00 +0700 - test(db): optimize feature #401
 2025-01-30 13:13:00 +0700 - feat(ui): improve feature #324
 2025-01-31 15:13:00 +0700 - chore(db): add feature #185
+2025-02-01 11:29:00 +0700 - perf(api): handle feature #397
