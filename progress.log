@@ -20872,3 +20872,4 @@
 2025-01-30 11:29:00 +0700 - docs(auth): add feature #163
 2025-01-31 9:17:00 +0700 - chore(config): add feature #459
 2025-02-01 10:24:00 +0700 - perf(ui): remove feature #146
+2025-02-01 12:47:00 +0700 - perf(config): handle feature #146
