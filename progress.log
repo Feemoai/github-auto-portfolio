@@ -34361,3 +34361,5 @@
 2025-01-31 12:57:00 +0700 - feat(core): remove feature #153
 2025-02-01 10:19:00 +0700 - chore(api): handle feature #221
 2025-02-01 16:2:00 +0700 - docs(auth): update feature #221
+2025-02-03 15:59:00 +0700 - chore(config): update feature #402
+2025-02-03 15:13:00 +0700 - chore(config): handle feature #402
