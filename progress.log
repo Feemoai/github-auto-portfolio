@@ -9545,3 +9545,4 @@
 2025-01-31 12:20:00 +0700 - feat(api): remove feature #218
 2025-02-01 12:27:00 +0700 - perf(config): optimize feature #414
 2025-02-03 16:40:00 +0700 - docs(auth): improve feature #400
+2025-02-03 12:26:00 +0700 - refactor(api): handle feature #400
