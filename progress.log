@@ -50417,3 +50417,4 @@
 2025-01-31 13:21:00 +0700 - docs(api): handle feature #398
 2025-01-31 10:43:00 +0700 - perf(api): add feature #398
 2025-02-01 13:20:00 +0700 - test(config): handle feature #310
+2025-02-03 10:19:00 +0700 - perf(core): add feature #114
