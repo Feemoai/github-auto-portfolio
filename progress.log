@@ -36461,3 +36461,4 @@
 2025-01-31 14:27:00 +0700 - perf(api): add feature #353
 2025-01-31 13:9:00 +0700 - chore(ui): handle feature #353
 2025-02-01 14:14:00 +0700 - fix(auth): improve feature #290
+2025-02-03 15:46:00 +0700 - feat(config): update feature #390
