@@ -38294,3 +38294,4 @@
 2025-02-01 9:38:00 +0700 - feat(db): improve feature #316
 2025-02-01 10:0:00 +0700 - test(auth): update feature #316
 2025-02-03 13:0:00 +0700 - perf(auth): update feature #401
+2025-02-03 11:2:00 +0700 - docs(auth): optimize feature #401
