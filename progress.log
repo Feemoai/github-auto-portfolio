@@ -5841,3 +5841,4 @@
 2025-01-31 9:19:00 +0700 - fix(core): optimize feature #101
 2025-02-01 13:49:00 +0700 - chore(db): remove feature #231
 2025-02-01 11:24:00 +0700 - perf(config): add feature #231
+2025-02-03 16:58:00 +0700 - fix(db): update feature #185
