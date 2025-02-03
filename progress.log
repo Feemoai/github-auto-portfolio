@@ -1478,3 +1478,4 @@
 2025-02-01 16:56:00 +0700 - fix(ui): add feature #204
 2025-02-01 12:57:00 +0700 - refactor(ui): improve feature #204
 2025-02-03 12:28:00 +0700 - docs(config): update feature #228
+2025-02-03 13:6:00 +0700 - perf(api): handle feature #228
