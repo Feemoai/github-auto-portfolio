@@ -53596,3 +53596,4 @@
 2025-01-31 16:44:00 +0700 - docs(db): remove feature #261
 2025-02-01 14:54:00 +0700 - perf(api): optimize feature #476
 2025-02-01 13:48:00 +0700 - feat(ui): remove feature #476
+2025-02-03 14:37:00 +0700 - fix(auth): improve feature #306
