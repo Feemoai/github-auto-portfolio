@@ -43985,3 +43985,5 @@
 2025-01-30 11:30:00 +0700 - perf(core): add feature #467
 2025-01-31 15:22:00 +0700 - refactor(core): remove feature #194
 2025-02-01 10:17:00 +0700 - refactor(core): add feature #407
+2025-02-03 14:14:00 +0700 - refactor(db): improve feature #211
+2025-02-03 13:42:00 +0700 - fix(ui): improve feature #211
