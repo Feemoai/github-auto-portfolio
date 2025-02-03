@@ -24113,3 +24113,4 @@
 2025-02-01 10:35:00 +0700 - chore(api): add feature #212
 2025-02-01 14:15:00 +0700 - fix(core): improve feature #212
 2025-02-03 12:30:00 +0700 - perf(api): optimize feature #249
+2025-02-03 14:55:00 +0700 - feat(auth): improve feature #249
