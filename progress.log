@@ -6892,3 +6892,4 @@
 2025-01-31 13:55:00 +0700 - perf(auth): remove feature #322
 2025-02-01 14:5:00 +0700 - chore(auth): handle feature #107
 2025-02-01 14:47:00 +0700 - test(config): improve feature #107
+2025-02-03 9:25:00 +0700 - docs(auth): update feature #421
