@@ -1358,3 +1358,5 @@
 2025-01-31 9:7:00 +0700 - perf(core): update feature #295
 2025-01-31 15:49:00 +0700 - fix(auth): handle feature #295
 2025-02-01 11:10:00 +0700 - feat(config): add feature #195
+2025-02-03 11:38:00 +0700 - fix(db): optimize feature #123
+2025-02-03 15:33:00 +0700 - fix(db): remove feature #123
