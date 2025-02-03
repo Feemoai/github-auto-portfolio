@@ -11473,3 +11473,4 @@
 2025-02-01 15:41:00 +0700 - fix(core): improve feature #400
 2025-02-01 16:11:00 +0700 - perf(api): update feature #400
 2025-02-03 12:0:00 +0700 - chore(auth): handle feature #358
+2025-02-03 9:24:00 +0700 - perf(config): optimize feature #358
