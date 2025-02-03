@@ -15490,3 +15490,5 @@
 2025-01-31 10:50:00 +0700 - chore(core): improve feature #104
 2025-02-01 12:27:00 +0700 - feat(db): update feature #476
 2025-02-01 14:55:00 +0700 - refactor(db): optimize feature #476
+2025-02-03 14:14:00 +0700 - fix(auth): remove feature #211
+2025-02-03 12:52:00 +0700 - test(ui): improve feature #211
