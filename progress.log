@@ -35528,3 +35528,4 @@
 2025-01-31 14:21:00 +0700 - feat(config): handle feature #382
 2025-02-01 11:24:00 +0700 - fix(api): update feature #130
 2025-02-03 12:24:00 +0700 - chore(ui): optimize feature #138
+2025-02-03 12:25:00 +0700 - chore(core): remove feature #138
