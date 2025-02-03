@@ -36920,3 +36920,4 @@
 2025-02-01 12:35:00 +0700 - feat(auth): update feature #433
 2025-02-01 9:10:00 +0700 - test(config): update feature #433
 2025-02-03 14:58:00 +0700 - chore(ui): improve feature #493
+2025-02-03 16:9:00 +0700 - fix(core): optimize feature #493
