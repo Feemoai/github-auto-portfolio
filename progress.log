@@ -12164,3 +12164,4 @@
 2025-02-01 9:14:00 +0700 - fix(core): update feature #254
 2025-02-01 16:19:00 +0700 - refactor(ui): update feature #254
 2025-02-03 10:5:00 +0700 - test(db): improve feature #136
+2025-02-03 15:36:00 +0700 - refactor(db): handle feature #136
