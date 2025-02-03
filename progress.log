@@ -15251,3 +15251,4 @@
 2025-01-31 11:56:00 +0700 - test(config): improve feature #313
 2025-02-01 15:9:00 +0700 - chore(db): update feature #286
 2025-02-01 12:59:00 +0700 - perf(core): add feature #286
+2025-02-03 12:25:00 +0700 - fix(db): improve feature #322
