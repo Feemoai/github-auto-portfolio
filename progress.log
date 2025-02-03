@@ -37269,3 +37269,4 @@
 2025-02-01 11:16:00 +0700 - perf(db): remove feature #477
 2025-02-01 9:40:00 +0700 - fix(ui): add feature #477
 2025-02-03 16:23:00 +0700 - test(core): update feature #350
+2025-02-03 11:48:00 +0700 - fix(config): remove feature #350
