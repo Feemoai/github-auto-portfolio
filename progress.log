@@ -36233,3 +36233,4 @@
 2025-01-30 13:5:00 +0700 - test(core): handle feature #353
 2025-01-31 16:43:00 +0700 - fix(api): improve feature #210
 2025-02-01 12:15:00 +0700 - refactor(core): add feature #119
+2025-02-03 15:19:00 +0700 - fix(core): handle feature #220
