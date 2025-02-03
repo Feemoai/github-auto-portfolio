@@ -2990,3 +2990,4 @@
 2025-01-31 13:54:00 +0700 - test(db): handle feature #332
 2025-02-01 11:12:00 +0700 - perf(db): improve feature #388
 2025-02-01 13:22:00 +0700 - refactor(config): handle feature #388
+2025-02-03 16:47:00 +0700 - chore(core): add feature #394
