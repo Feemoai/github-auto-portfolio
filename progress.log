@@ -64208,3 +64208,4 @@
 2025-01-31 13:17:00 +0700 - docs(api): optimize feature #115
 2025-02-01 9:4:00 +0700 - refactor(core): add feature #478
 2025-02-03 13:44:00 +0700 - refactor(auth): improve feature #359
+2025-02-03 13:52:00 +0700 - fix(api): handle feature #359
