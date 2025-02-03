@@ -5284,3 +5284,5 @@
 2025-01-31 10:34:00 +0700 - fix(config): handle feature #259
 2025-02-01 13:48:00 +0700 - feat(core): improve feature #498
 2025-02-01 12:55:00 +0700 - perf(ui): add feature #498
+2025-02-03 12:35:00 +0700 - feat(db): optimize feature #214
+2025-02-03 11:43:00 +0700 - perf(auth): handle feature #214
