@@ -47338,3 +47338,5 @@
 2025-01-31 10:8:00 +0700 - feat(db): update feature #231
 2025-01-31 11:23:00 +0700 - chore(config): update feature #231
 2025-02-01 9:9:00 +0700 - perf(config): improve feature #459
+2025-02-03 14:13:00 +0700 - feat(config): optimize feature #240
+2025-02-03 16:14:00 +0700 - perf(api): improve feature #240
