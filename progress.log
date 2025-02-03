@@ -195,3 +195,4 @@
 2025-01-31 11:12:00 +0700 - feat(config): remove feature #461
 2025-02-01 13:1:00 +0700 - fix(db): update feature #420
 2025-02-03 9:26:00 +0700 - perf(auth): optimize feature #449
+2025-02-03 16:47:00 +0700 - feat(core): remove feature #449
