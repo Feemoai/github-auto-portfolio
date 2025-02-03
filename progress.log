@@ -4480,3 +4480,4 @@
 2025-01-31 10:2:00 +0700 - test(db): remove feature #221
 2025-01-31 9:10:00 +0700 - test(ui): handle feature #221
 2025-02-01 16:8:00 +0700 - chore(api): handle feature #486
+2025-02-03 12:10:00 +0700 - refactor(api): remove feature #405
