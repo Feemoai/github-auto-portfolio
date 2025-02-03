@@ -3102,3 +3102,4 @@
 2025-01-30 14:23:00 +0700 - test(ui): remove feature #344
 2025-01-31 16:11:00 +0700 - docs(ui): improve feature #449
 2025-02-01 14:47:00 +0700 - chore(api): remove feature #188
+2025-02-03 10:11:00 +0700 - fix(auth): handle feature #129
