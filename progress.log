@@ -5502,3 +5502,4 @@
 2025-01-31 9:55:00 +0700 - refactor(config): update feature #241
 2025-02-01 15:37:00 +0700 - feat(auth): remove feature #294
 2025-02-03 13:53:00 +0700 - feat(api): add feature #134
+2025-02-03 13:6:00 +0700 - chore(ui): handle feature #134
