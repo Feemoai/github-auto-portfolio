@@ -22275,3 +22275,5 @@
 2025-01-31 15:22:00 +0700 - feat(config): optimize feature #140
 2025-02-01 15:22:00 +0700 - fix(api): update feature #480
 2025-02-01 10:41:00 +0700 - feat(api): optimize feature #480
+2025-02-03 15:38:00 +0700 - docs(config): update feature #391
+2025-02-03 10:37:00 +0700 - fix(config): add feature #391
