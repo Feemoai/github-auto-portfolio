@@ -32356,3 +32356,4 @@
 2025-02-01 16:0:00 +0700 - perf(config): handle feature #311
 2025-02-01 9:2:00 +0700 - perf(ui): improve feature #311
 2025-02-03 15:54:00 +0700 - fix(auth): optimize feature #170
+2025-02-03 11:56:00 +0700 - refactor(config): handle feature #170
