@@ -11585,3 +11585,4 @@
 2025-02-01 13:36:00 +0700 - docs(ui): add feature #159
 2025-02-01 15:0:00 +0700 - fix(config): improve feature #159
 2025-02-03 10:13:00 +0700 - test(core): add feature #409
+2025-02-03 16:13:00 +0700 - perf(auth): optimize feature #409
