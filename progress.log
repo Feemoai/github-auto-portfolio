@@ -56005,3 +56005,4 @@
 2025-01-31 9:20:00 +0700 - fix(core): improve feature #268
 2025-01-31 16:1:00 +0700 - chore(ui): handle feature #268
 2025-02-01 14:14:00 +0700 - fix(ui): add feature #218
+2025-02-03 10:57:00 +0700 - perf(ui): remove feature #477
