@@ -892,3 +892,5 @@
 2025-01-31 13:28:00 +0700 - chore(api): update feature #259
 2025-01-31 12:47:00 +0700 - chore(ui): remove feature #259
 2025-02-01 12:4:00 +0700 - test(core): handle feature #381
+2025-02-03 11:57:00 +0700 - perf(ui): improve feature #287
+2025-02-03 11:50:00 +0700 - fix(core): add feature #287
