@@ -25062,3 +25062,5 @@
 2025-01-31 15:22:00 +0700 - fix(core): handle feature #399
 2025-01-31 11:19:00 +0700 - feat(auth): add feature #399
 2025-02-01 13:11:00 +0700 - test(db): handle feature #488
+2025-02-03 11:18:00 +0700 - test(auth): remove feature #345
+2025-02-03 15:16:00 +0700 - perf(ui): handle feature #345
