@@ -10555,3 +10555,4 @@
 2025-01-31 12:32:00 +0700 - fix(ui): improve feature #240
 2025-02-01 12:17:00 +0700 - feat(auth): update feature #302
 2025-02-01 12:29:00 +0700 - fix(auth): handle feature #302
+2025-02-03 13:47:00 +0700 - fix(config): update feature #230
