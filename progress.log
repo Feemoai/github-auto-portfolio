@@ -2525,3 +2525,4 @@
 2025-01-31 11:42:00 +0700 - test(config): improve feature #266
 2025-01-31 13:45:00 +0700 - perf(core): handle feature #266
 2025-02-01 11:48:00 +0700 - fix(config): handle feature #208
+2025-02-03 16:33:00 +0700 - test(api): remove feature #486
