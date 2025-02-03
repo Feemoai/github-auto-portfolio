@@ -55540,3 +55540,4 @@
 2025-01-31 13:36:00 +0700 - perf(config): add feature #235
 2025-01-31 10:58:00 +0700 - refactor(db): optimize feature #235
 2025-02-01 14:23:00 +0700 - chore(ui): handle feature #441
+2025-02-03 9:22:00 +0700 - feat(config): remove feature #388
