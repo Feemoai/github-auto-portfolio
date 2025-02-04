@@ -52574,3 +52574,5 @@
 2025-02-01 9:40:00 +0700 - chore(api): add feature #446
 2025-02-03 11:2:00 +0700 - chore(api): optimize feature #344
 2025-02-03 16:42:00 +0700 - docs(db): improve feature #344
+2025-02-04 13:19:00 +0700 - perf(db): handle feature #332
+2025-02-04 16:32:00 +0700 - fix(core): optimize feature #332
