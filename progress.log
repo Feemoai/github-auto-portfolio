@@ -45241,3 +45241,4 @@
 2025-01-31 9:36:00 +0700 - perf(api): handle feature #453
 2025-02-01 16:14:00 +0700 - refactor(db): remove feature #347
 2025-02-03 12:58:00 +0700 - perf(ui): improve feature #138
+2025-02-04 16:42:00 +0700 - feat(api): remove feature #233
