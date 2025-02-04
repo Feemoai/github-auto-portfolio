@@ -39440,3 +39440,4 @@
 2025-02-03 10:20:00 +0700 - test(core): optimize feature #282
 2025-02-03 11:28:00 +0700 - perf(auth): optimize feature #282
 2025-02-04 9:46:00 +0700 - feat(ui): optimize feature #307
+2025-02-04 11:15:00 +0700 - fix(config): improve feature #307
