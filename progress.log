@@ -2646,3 +2646,4 @@
 2025-02-01 15:55:00 +0700 - docs(config): add feature #305
 2025-02-03 10:33:00 +0700 - chore(config): remove feature #464
 2025-02-03 11:14:00 +0700 - test(config): update feature #464
+2025-02-04 10:16:00 +0700 - fix(auth): add feature #360
