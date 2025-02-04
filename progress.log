@@ -15492,3 +15492,4 @@
 2025-02-01 14:55:00 +0700 - refactor(db): optimize feature #476
 2025-02-03 14:14:00 +0700 - fix(auth): remove feature #211
 2025-02-03 12:52:00 +0700 - test(ui): improve feature #211
+2025-02-04 16:50:00 +0700 - fix(api): improve feature #389
