@@ -29693,3 +29693,4 @@
 2025-02-01 12:41:00 +0700 - test(config): handle feature #471
 2025-02-03 10:50:00 +0700 - chore(auth): remove feature #110
 2025-02-03 14:14:00 +0700 - chore(ui): optimize feature #110
+2025-02-04 15:57:00 +0700 - test(core): add feature #309
