@@ -9778,3 +9778,4 @@
 2025-02-01 13:35:00 +0700 - refactor(auth): handle feature #440
 2025-02-03 14:48:00 +0700 - docs(db): handle feature #153
 2025-02-03 15:1:00 +0700 - docs(auth): update feature #153
+2025-02-04 16:49:00 +0700 - fix(api): remove feature #186
