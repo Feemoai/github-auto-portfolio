@@ -25532,3 +25532,5 @@
 2025-02-01 10:24:00 +0700 - perf(core): optimize feature #457
 2025-02-03 9:10:00 +0700 - chore(core): update feature #180
 2025-02-03 14:6:00 +0700 - test(db): optimize feature #180
+2025-02-04 16:16:00 +0700 - docs(auth): optimize feature #374
+2025-02-04 13:44:00 +0700 - fix(core): improve feature #374
