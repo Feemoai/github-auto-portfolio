@@ -4481,3 +4481,4 @@
 2025-01-31 9:10:00 +0700 - test(ui): handle feature #221
 2025-02-01 16:8:00 +0700 - chore(api): handle feature #486
 2025-02-03 12:10:00 +0700 - refactor(api): remove feature #405
+2025-02-04 10:32:00 +0700 - chore(config): optimize feature #208
