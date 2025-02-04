@@ -894,3 +894,5 @@
 2025-02-01 12:4:00 +0700 - test(core): handle feature #381
 2025-02-03 11:57:00 +0700 - perf(ui): improve feature #287
 2025-02-03 11:50:00 +0700 - fix(core): add feature #287
+2025-02-04 12:48:00 +0700 - feat(db): handle feature #208
+2025-02-04 15:43:00 +0700 - test(db): add feature #208
