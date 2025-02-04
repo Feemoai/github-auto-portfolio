@@ -7459,3 +7459,4 @@
 2025-02-01 16:52:00 +0700 - chore(config): handle feature #355
 2025-02-03 10:10:00 +0700 - docs(db): improve feature #246
 2025-02-04 10:9:00 +0700 - docs(ui): remove feature #291
+2025-02-04 12:5:00 +0700 - refactor(core): add feature #291
