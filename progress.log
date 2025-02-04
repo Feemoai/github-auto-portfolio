@@ -23299,3 +23299,4 @@
 2025-02-01 11:59:00 +0700 - perf(core): optimize feature #337
 2025-02-03 10:43:00 +0700 - test(core): handle feature #307
 2025-02-03 10:11:00 +0700 - chore(db): remove feature #307
+2025-02-04 14:49:00 +0700 - perf(config): improve feature #397
