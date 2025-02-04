@@ -6779,3 +6779,4 @@
 2025-02-03 16:23:00 +0700 - perf(config): update feature #398
 2025-02-03 10:36:00 +0700 - fix(db): handle feature #398
 2025-02-04 12:42:00 +0700 - fix(ui): update feature #336
+2025-02-04 13:56:00 +0700 - perf(auth): add feature #336
