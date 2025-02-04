@@ -58755,3 +58755,5 @@
 2025-02-01 15:57:00 +0700 - feat(config): optimize feature #383
 2025-02-03 11:8:00 +0700 - perf(db): add feature #407
 2025-02-03 10:10:00 +0700 - perf(core): handle feature #407
+2025-02-04 16:22:00 +0700 - feat(config): add feature #440
+2025-02-04 15:29:00 +0700 - fix(api): optimize feature #440
