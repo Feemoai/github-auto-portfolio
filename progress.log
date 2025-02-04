@@ -47798,3 +47798,4 @@
 2025-01-31 16:51:00 +0700 - fix(api): optimize feature #477
 2025-02-01 15:0:00 +0700 - fix(ui): remove feature #343
 2025-02-03 12:28:00 +0700 - feat(db): remove feature #353
+2025-02-04 16:2:00 +0700 - feat(config): add feature #226
