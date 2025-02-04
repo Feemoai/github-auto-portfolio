@@ -31332,3 +31332,4 @@
 2025-02-03 14:19:00 +0700 - perf(config): add feature #462
 2025-02-03 9:14:00 +0700 - chore(auth): remove feature #462
 2025-02-04 16:23:00 +0700 - chore(core): improve feature #312
+2025-02-04 13:5:00 +0700 - test(core): remove feature #312
