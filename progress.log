@@ -61881,3 +61881,4 @@
 2025-02-03 14:27:00 +0700 - fix(db): handle feature #298
 2025-02-03 12:18:00 +0700 - test(db): optimize feature #298
 2025-02-04 16:49:00 +0700 - feat(ui): handle feature #180
+2025-02-04 10:28:00 +0700 - feat(config): add feature #180
