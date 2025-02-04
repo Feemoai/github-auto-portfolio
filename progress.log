@@ -57827,3 +57827,4 @@
 2025-02-01 15:15:00 +0700 - feat(core): update feature #423
 2025-02-01 13:50:00 +0700 - test(core): remove feature #423
 2025-02-03 15:7:00 +0700 - refactor(db): remove feature #438
+2025-02-04 14:4:00 +0700 - perf(db): improve feature #285
