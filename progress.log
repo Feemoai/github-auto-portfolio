@@ -4014,3 +4014,4 @@
 2025-02-03 15:33:00 +0700 - chore(db): update feature #206
 2025-02-03 11:40:00 +0700 - fix(config): optimize feature #206
 2025-02-04 12:2:00 +0700 - fix(core): remove feature #222
+2025-02-04 14:45:00 +0700 - refactor(api): optimize feature #222
