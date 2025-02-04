@@ -25874,3 +25874,4 @@
 2025-02-01 13:9:00 +0700 - feat(ui): remove feature #341
 2025-02-01 15:8:00 +0700 - refactor(db): optimize feature #341
 2025-02-03 16:52:00 +0700 - refactor(core): optimize feature #481
+2025-02-04 14:43:00 +0700 - test(db): remove feature #471
