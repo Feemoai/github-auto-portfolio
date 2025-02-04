@@ -13529,3 +13529,4 @@
 2025-02-01 16:58:00 +0700 - feat(api): handle feature #238
 2025-02-01 9:16:00 +0700 - docs(auth): update feature #238
 2025-02-03 10:21:00 +0700 - fix(ui): handle feature #203
+2025-02-04 15:25:00 +0700 - fix(ui): remove feature #166
