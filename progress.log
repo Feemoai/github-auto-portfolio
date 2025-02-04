@@ -64438,3 +64438,5 @@
 2025-02-01 15:22:00 +0700 - fix(config): update feature #473
 2025-02-03 13:50:00 +0700 - test(core): optimize feature #247
 2025-02-03 15:48:00 +0700 - feat(api): update feature #247
+2025-02-04 13:6:00 +0700 - perf(core): optimize feature #497
+2025-02-04 12:7:00 +0700 - feat(api): update feature #497
