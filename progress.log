@@ -41770,3 +41770,4 @@
 2025-02-01 9:40:00 +0700 - docs(config): optimize feature #339
 2025-02-03 16:35:00 +0700 - docs(core): handle feature #284
 2025-02-03 10:57:00 +0700 - perf(config): improve feature #284
+2025-02-04 14:39:00 +0700 - docs(auth): remove feature #416
