@@ -45828,3 +45828,4 @@
 2025-02-01 11:9:00 +0700 - docs(api): update feature #134
 2025-02-03 12:1:00 +0700 - fix(api): optimize feature #179
 2025-02-03 9:45:00 +0700 - perf(ui): optimize feature #179
+2025-02-04 12:19:00 +0700 - perf(config): remove feature #356
