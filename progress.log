@@ -14444,3 +14444,5 @@
 2025-01-31 12:36:00 +0700 - fix(api): improve feature #226
 2025-02-01 15:5:00 +0700 - chore(ui): improve feature #427
 2025-02-03 14:16:00 +0700 - refactor(ui): update feature #240
+2025-02-04 12:4:00 +0700 - feat(db): handle feature #349
+2025-02-04 15:56:00 +0700 - test(db): improve feature #349
