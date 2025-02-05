@@ -57023,3 +57023,4 @@
 2025-02-04 10:39:00 +0700 - feat(api): optimize feature #416
 2025-02-04 13:3:00 +0700 - chore(db): remove feature #416
 2025-02-05 10:47:00 +0700 - feat(auth): handle feature #402
+2025-02-05 15:17:00 +0700 - fix(ui): optimize feature #402
