@@ -30740,3 +30740,4 @@
 2025-02-03 9:46:00 +0700 - chore(auth): optimize feature #173
 2025-02-04 13:6:00 +0700 - fix(core): handle feature #378
 2025-02-04 16:51:00 +0700 - fix(config): add feature #378
+2025-02-05 13:13:00 +0700 - fix(core): handle feature #478
