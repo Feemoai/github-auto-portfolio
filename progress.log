@@ -26112,3 +26112,5 @@
 2025-02-03 10:40:00 +0700 - docs(core): handle feature #133
 2025-02-04 15:43:00 +0700 - perf(config): improve feature #153
 2025-02-04 9:19:00 +0700 - perf(ui): add feature #153
+2025-02-05 12:29:00 +0700 - feat(config): add feature #374
+2025-02-05 14:50:00 +0700 - test(core): update feature #374
