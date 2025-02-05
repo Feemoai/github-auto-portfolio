@@ -26225,3 +26225,4 @@
 2025-02-01 14:10:00 +0700 - feat(config): remove feature #469
 2025-02-03 11:30:00 +0700 - test(db): add feature #430
 2025-02-04 14:3:00 +0700 - chore(ui): update feature #255
+2025-02-05 9:33:00 +0700 - test(ui): handle feature #308
