@@ -4127,3 +4127,4 @@
 2025-02-03 10:23:00 +0700 - perf(config): remove feature #253
 2025-02-04 10:45:00 +0700 - test(ui): optimize feature #177
 2025-02-04 10:24:00 +0700 - refactor(core): handle feature #177
+2025-02-05 11:51:00 +0700 - docs(api): remove feature #345
