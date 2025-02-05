@@ -34007,3 +34007,4 @@
 2025-02-04 16:43:00 +0700 - docs(ui): remove feature #246
 2025-02-04 13:20:00 +0700 - fix(auth): optimize feature #246
 2025-02-05 14:29:00 +0700 - chore(core): add feature #370
+2025-02-05 11:12:00 +0700 - feat(config): handle feature #370
