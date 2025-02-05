@@ -4599,3 +4599,4 @@
 2025-02-03 13:25:00 +0700 - feat(core): optimize feature #432
 2025-02-04 14:37:00 +0700 - feat(core): remove feature #479
 2025-02-04 9:41:00 +0700 - fix(api): update feature #479
+2025-02-05 16:36:00 +0700 - chore(auth): improve feature #263
