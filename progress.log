@@ -37504,3 +37504,4 @@
 2025-02-03 16:54:00 +0700 - perf(core): handle feature #335
 2025-02-04 12:34:00 +0700 - test(config): optimize feature #143
 2025-02-04 14:50:00 +0700 - perf(auth): add feature #143
+2025-02-05 12:20:00 +0700 - refactor(config): update feature #296
