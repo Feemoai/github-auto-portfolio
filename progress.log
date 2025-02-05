@@ -32597,3 +32597,4 @@
 2025-02-03 15:55:00 +0700 - refactor(auth): update feature #154
 2025-02-04 16:58:00 +0700 - chore(core): remove feature #163
 2025-02-04 14:30:00 +0700 - docs(core): handle feature #163
+2025-02-05 11:17:00 +0700 - feat(config): optimize feature #499
