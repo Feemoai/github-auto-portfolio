@@ -41307,3 +41307,4 @@
 2025-02-03 16:27:00 +0700 - docs(auth): optimize feature #105
 2025-02-04 16:42:00 +0700 - chore(db): improve feature #273
 2025-02-04 14:8:00 +0700 - chore(core): remove feature #273
+2025-02-05 11:12:00 +0700 - fix(core): add feature #233
