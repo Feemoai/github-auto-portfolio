@@ -2993,3 +2993,5 @@
 2025-02-03 16:47:00 +0700 - chore(core): add feature #394
 2025-02-04 11:48:00 +0700 - test(auth): handle feature #272
 2025-02-04 11:13:00 +0700 - fix(core): improve feature #272
+2025-02-05 11:4:00 +0700 - feat(auth): add feature #248
+2025-02-05 15:38:00 +0700 - test(core): improve feature #248
