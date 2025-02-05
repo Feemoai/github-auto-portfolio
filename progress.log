@@ -60606,3 +60606,4 @@
 2025-02-03 11:18:00 +0700 - perf(config): remove feature #316
 2025-02-04 15:8:00 +0700 - feat(core): optimize feature #293
 2025-02-05 10:31:00 +0700 - perf(auth): remove feature #394
+2025-02-05 11:55:00 +0700 - refactor(config): improve feature #394
