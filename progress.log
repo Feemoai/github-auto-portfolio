@@ -65257,3 +65257,4 @@
 2025-02-03 13:51:00 +0700 - docs(db): add feature #344
 2025-02-04 16:31:00 +0700 - chore(core): remove feature #399
 2025-02-04 15:51:00 +0700 - test(ui): improve feature #399
+2025-02-05 16:27:00 +0700 - refactor(config): handle feature #216
