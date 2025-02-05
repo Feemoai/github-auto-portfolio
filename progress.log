@@ -39096,3 +39096,4 @@
 2025-02-03 15:46:00 +0700 - feat(core): update feature #458
 2025-02-04 12:37:00 +0700 - perf(auth): update feature #492
 2025-02-05 9:34:00 +0700 - feat(auth): update feature #329
+2025-02-05 16:46:00 +0700 - refactor(auth): handle feature #329
