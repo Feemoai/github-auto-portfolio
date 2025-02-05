@@ -10441,3 +10441,4 @@
 2025-02-01 15:40:00 +0700 - docs(core): remove feature #310
 2025-02-03 16:48:00 +0700 - fix(ui): remove feature #443
 2025-02-04 13:24:00 +0700 - fix(db): handle feature #340
+2025-02-05 10:24:00 +0700 - refactor(db): add feature #165
