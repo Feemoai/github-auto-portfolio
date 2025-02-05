@@ -60725,3 +60725,4 @@
 2025-02-03 11:8:00 +0700 - feat(config): optimize feature #362
 2025-02-04 10:7:00 +0700 - perf(db): optimize feature #439
 2025-02-04 10:33:00 +0700 - perf(core): handle feature #439
+2025-02-05 15:41:00 +0700 - docs(config): update feature #322
