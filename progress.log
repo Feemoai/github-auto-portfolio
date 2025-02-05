@@ -44664,3 +44664,4 @@
 2025-02-04 12:8:00 +0700 - fix(core): remove feature #139
 2025-02-04 9:41:00 +0700 - docs(api): remove feature #139
 2025-02-05 14:7:00 +0700 - test(auth): handle feature #160
+2025-02-05 14:6:00 +0700 - test(ui): add feature #160
