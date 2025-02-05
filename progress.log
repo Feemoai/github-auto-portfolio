@@ -9662,3 +9662,5 @@
 2025-02-01 15:1:00 +0700 - fix(core): optimize feature #194
 2025-02-03 12:2:00 +0700 - refactor(config): handle feature #150
 2025-02-04 12:12:00 +0700 - refactor(api): remove feature #187
+2025-02-05 16:17:00 +0700 - chore(ui): improve feature #387
+2025-02-05 11:6:00 +0700 - test(ui): remove feature #387
