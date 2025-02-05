@@ -44442,3 +44442,4 @@
 2025-02-03 13:10:00 +0700 - perf(core): improve feature #404
 2025-02-04 12:39:00 +0700 - fix(db): optimize feature #458
 2025-02-04 12:12:00 +0700 - feat(db): handle feature #458
+2025-02-05 16:36:00 +0700 - feat(api): update feature #246
