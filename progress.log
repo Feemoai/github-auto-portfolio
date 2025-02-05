@@ -52116,3 +52116,4 @@
 2025-02-03 15:51:00 +0700 - feat(core): update feature #230
 2025-02-04 13:55:00 +0700 - fix(db): update feature #478
 2025-02-05 10:23:00 +0700 - test(ui): optimize feature #451
+2025-02-05 13:13:00 +0700 - feat(config): handle feature #451
