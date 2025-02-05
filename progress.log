@@ -14911,3 +14911,5 @@
 2025-02-03 12:12:00 +0700 - perf(db): handle feature #491
 2025-02-03 16:27:00 +0700 - refactor(core): improve feature #491
 2025-02-04 13:41:00 +0700 - docs(db): handle feature #399
+2025-02-05 14:44:00 +0700 - refactor(config): handle feature #399
+2025-02-05 14:15:00 +0700 - fix(config): handle feature #399
