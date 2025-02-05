@@ -49637,3 +49637,5 @@
 2025-02-01 9:34:00 +0700 - chore(core): improve feature #233
 2025-02-03 11:57:00 +0700 - docs(db): optimize feature #156
 2025-02-04 14:59:00 +0700 - test(db): improve feature #101
+2025-02-05 10:0:00 +0700 - refactor(core): improve feature #144
+2025-02-05 12:1:00 +0700 - test(db): handle feature #144
