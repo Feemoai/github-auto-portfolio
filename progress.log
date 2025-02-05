@@ -50204,3 +50204,4 @@
 2025-02-03 15:49:00 +0700 - docs(ui): remove feature #460
 2025-02-04 10:17:00 +0700 - perf(db): improve feature #129
 2025-02-04 11:27:00 +0700 - refactor(core): improve feature #129
+2025-02-05 16:46:00 +0700 - refactor(auth): remove feature #190
