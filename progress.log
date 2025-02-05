@@ -20995,3 +20995,4 @@
 2025-02-04 9:16:00 +0700 - chore(api): add feature #408
 2025-02-04 13:28:00 +0700 - test(db): optimize feature #408
 2025-02-05 9:29:00 +0700 - fix(ui): optimize feature #198
+2025-02-05 10:18:00 +0700 - refactor(db): optimize feature #198
