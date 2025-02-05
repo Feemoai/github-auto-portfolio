@@ -9780,3 +9780,4 @@
 2025-02-03 15:1:00 +0700 - docs(auth): update feature #153
 2025-02-04 16:49:00 +0700 - fix(api): remove feature #186
 2025-02-05 15:39:00 +0700 - fix(core): optimize feature #460
+2025-02-05 14:37:00 +0700 - docs(config): remove feature #460
