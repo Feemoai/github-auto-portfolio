@@ -43045,3 +43045,4 @@
 2025-02-03 12:47:00 +0700 - chore(core): improve feature #254
 2025-02-04 9:2:00 +0700 - fix(ui): improve feature #269
 2025-02-04 9:26:00 +0700 - perf(auth): improve feature #269
+2025-02-05 14:23:00 +0700 - perf(config): remove feature #163
