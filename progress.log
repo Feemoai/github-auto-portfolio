@@ -66168,3 +66168,5 @@
 2025-02-03 13:15:00 +0700 - test(auth): optimize feature #244
 2025-02-04 15:19:00 +0700 - refactor(config): remove feature #242
 2025-02-04 14:0:00 +0700 - perf(config): update feature #242
+2025-02-05 9:43:00 +0700 - chore(config): remove feature #244
+2025-02-05 9:36:00 +0700 - refactor(core): update feature #244
