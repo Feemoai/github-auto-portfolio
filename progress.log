@@ -314,3 +314,4 @@
 2025-02-03 12:59:00 +0700 - docs(ui): remove feature #343
 2025-02-04 15:45:00 +0700 - refactor(db): optimize feature #115
 2025-02-05 12:27:00 +0700 - fix(auth): optimize feature #409
+2025-02-05 14:41:00 +0700 - feat(core): improve feature #409
