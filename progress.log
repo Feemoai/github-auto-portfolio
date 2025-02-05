@@ -38641,3 +38641,4 @@
 2025-02-01 10:5:00 +0700 - fix(ui): remove feature #371
 2025-02-03 11:5:00 +0700 - fix(auth): update feature #420
 2025-02-04 13:6:00 +0700 - docs(db): handle feature #312
+2025-02-05 9:55:00 +0700 - docs(config): add feature #491
