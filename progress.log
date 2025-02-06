@@ -28666,3 +28666,4 @@
 2025-02-04 15:8:00 +0700 - test(db): update feature #339
 2025-02-05 12:58:00 +0700 - perf(config): improve feature #144
 2025-02-06 14:39:00 +0700 - feat(core): improve feature #139
+2025-02-06 10:41:00 +0700 - fix(auth): remove feature #139
