@@ -25422,3 +25422,4 @@
 2025-02-05 12:43:00 +0700 - feat(config): handle feature #178
 2025-02-05 15:22:00 +0700 - refactor(config): optimize feature #178
 2025-02-06 16:48:00 +0700 - docs(api): optimize feature #197
+2025-02-06 11:51:00 +0700 - refactor(core): improve feature #197
