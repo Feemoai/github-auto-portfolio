@@ -48249,3 +48249,4 @@
 2025-02-04 13:41:00 +0700 - feat(db): remove feature #282
 2025-02-05 15:41:00 +0700 - chore(auth): remove feature #331
 2025-02-05 9:14:00 +0700 - docs(core): update feature #331
+2025-02-06 13:48:00 +0700 - test(ui): add feature #337
