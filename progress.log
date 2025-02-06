@@ -29696,3 +29696,4 @@
 2025-02-04 15:57:00 +0700 - test(core): add feature #309
 2025-02-05 11:28:00 +0700 - feat(ui): remove feature #385
 2025-02-06 12:55:00 +0700 - perf(auth): update feature #372
+2025-02-06 13:2:00 +0700 - perf(config): remove feature #372
