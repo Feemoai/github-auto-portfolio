@@ -25760,3 +25760,5 @@
 2025-02-03 12:8:00 +0700 - test(core): improve feature #139
 2025-02-04 12:54:00 +0700 - fix(auth): update feature #104
 2025-02-05 16:41:00 +0700 - test(auth): handle feature #185
+2025-02-06 11:15:00 +0700 - feat(core): update feature #302
+2025-02-06 14:56:00 +0700 - perf(api): optimize feature #302
