@@ -47801,3 +47801,4 @@
 2025-02-04 16:2:00 +0700 - feat(config): add feature #226
 2025-02-05 16:44:00 +0700 - test(ui): handle feature #326
 2025-02-05 13:13:00 +0700 - docs(ui): update feature #326
+2025-02-06 16:54:00 +0700 - test(api): remove feature #214
