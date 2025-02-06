@@ -2414,3 +2414,4 @@
 2025-02-04 11:40:00 +0700 - chore(core): improve feature #158
 2025-02-05 10:47:00 +0700 - fix(core): handle feature #188
 2025-02-06 9:33:00 +0700 - fix(core): update feature #308
+2025-02-06 10:26:00 +0700 - test(core): optimize feature #308
