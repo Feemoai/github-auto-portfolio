@@ -6433,3 +6433,4 @@
 2025-02-04 12:50:00 +0700 - chore(api): handle feature #219
 2025-02-05 9:33:00 +0700 - perf(auth): remove feature #122
 2025-02-05 9:36:00 +0700 - test(api): improve feature #122
+2025-02-06 10:40:00 +0700 - test(core): handle feature #136
