@@ -67215,3 +67215,4 @@
 2025-02-04 13:31:00 +0700 - docs(api): remove feature #110
 2025-02-05 9:5:00 +0700 - perf(db): add feature #123
 2025-02-05 12:18:00 +0700 - test(db): update feature #123
+2025-02-06 10:42:00 +0700 - chore(core): handle feature #374
