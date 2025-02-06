@@ -52240,3 +52240,4 @@
 2025-02-03 14:8:00 +0700 - chore(config): improve feature #116
 2025-02-04 16:16:00 +0700 - chore(config): remove feature #307
 2025-02-05 15:9:00 +0700 - feat(auth): handle feature #385
+2025-02-06 14:8:00 +0700 - perf(auth): handle feature #360
