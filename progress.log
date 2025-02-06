@@ -22280,3 +22280,4 @@
 2025-02-04 16:44:00 +0700 - refactor(core): update feature #164
 2025-02-04 16:36:00 +0700 - perf(ui): optimize feature #164
 2025-02-05 9:28:00 +0700 - chore(db): optimize feature #243
+2025-02-06 11:54:00 +0700 - fix(ui): handle feature #377
