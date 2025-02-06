@@ -31335,3 +31335,4 @@
 2025-02-04 13:5:00 +0700 - test(core): remove feature #312
 2025-02-05 15:22:00 +0700 - refactor(core): optimize feature #373
 2025-02-05 10:7:00 +0700 - fix(api): add feature #373
+2025-02-06 13:11:00 +0700 - test(api): handle feature #441
