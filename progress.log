@@ -51328,3 +51328,4 @@
 2025-02-03 14:40:00 +0700 - feat(ui): remove feature #187
 2025-02-04 12:39:00 +0700 - refactor(config): remove feature #258
 2025-02-05 11:55:00 +0700 - fix(core): update feature #372
+2025-02-06 14:23:00 +0700 - fix(db): handle feature #194
