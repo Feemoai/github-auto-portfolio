@@ -430,3 +430,5 @@
 2025-02-04 9:27:00 +0700 - fix(api): improve feature #335
 2025-02-05 9:38:00 +0700 - docs(config): remove feature #147
 2025-02-05 11:57:00 +0700 - chore(config): update feature #147
+2025-02-06 16:4:00 +0700 - chore(core): remove feature #396
+2025-02-06 15:13:00 +0700 - perf(api): update feature #396
