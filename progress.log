@@ -55313,3 +55313,4 @@
 2025-02-04 12:18:00 +0700 - feat(core): update feature #192
 2025-02-04 9:3:00 +0700 - refactor(config): update feature #192
 2025-02-05 12:57:00 +0700 - chore(api): add feature #154
+2025-02-06 11:22:00 +0700 - refactor(db): remove feature #434
