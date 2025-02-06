@@ -10901,3 +10901,4 @@
 2025-02-03 12:54:00 +0700 - fix(api): handle feature #215
 2025-02-04 9:35:00 +0700 - feat(db): optimize feature #153
 2025-02-05 12:14:00 +0700 - perf(core): add feature #430
+2025-02-06 11:32:00 +0700 - fix(auth): handle feature #462
