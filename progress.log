@@ -15729,3 +15729,4 @@
 2025-02-05 13:34:00 +0700 - test(config): add feature #237
 2025-02-05 11:27:00 +0700 - docs(db): improve feature #237
 2025-02-06 9:0:00 +0700 - docs(core): update feature #277
+2025-02-06 13:49:00 +0700 - test(ui): handle feature #277
