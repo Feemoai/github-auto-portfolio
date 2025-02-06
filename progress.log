@@ -24836,3 +24836,4 @@
 2025-02-04 16:25:00 +0700 - chore(api): handle feature #369
 2025-02-05 14:4:00 +0700 - perf(api): remove feature #186
 2025-02-05 12:8:00 +0700 - perf(core): remove feature #186
+2025-02-06 16:42:00 +0700 - fix(config): update feature #215
