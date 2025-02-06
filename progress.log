@@ -17359,3 +17359,5 @@
 2025-02-04 14:20:00 +0700 - feat(auth): optimize feature #182
 2025-02-05 13:33:00 +0700 - feat(core): handle feature #413
 2025-02-05 11:39:00 +0700 - fix(auth): improve feature #413
+2025-02-06 9:39:00 +0700 - test(ui): handle feature #144
+2025-02-06 10:40:00 +0700 - fix(auth): optimize feature #144
