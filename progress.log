@@ -7120,3 +7120,4 @@
 2025-02-04 14:41:00 +0700 - docs(core): improve feature #288
 2025-02-05 10:15:00 +0700 - chore(api): remove feature #100
 2025-02-05 13:7:00 +0700 - test(api): optimize feature #100
+2025-02-06 11:27:00 +0700 - fix(db): update feature #290
