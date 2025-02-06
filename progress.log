@@ -36690,3 +36690,4 @@
 2025-02-04 16:19:00 +0700 - chore(auth): improve feature #428
 2025-02-04 11:20:00 +0700 - test(ui): update feature #428
 2025-02-05 13:30:00 +0700 - docs(core): add feature #425
+2025-02-06 15:43:00 +0700 - fix(config): handle feature #162
