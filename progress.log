@@ -6201,3 +6201,5 @@
 2025-02-04 16:7:00 +0700 - feat(ui): optimize feature #376
 2025-02-05 14:26:00 +0700 - refactor(core): optimize feature #284
 2025-02-05 14:11:00 +0700 - docs(api): handle feature #284
+2025-02-06 14:27:00 +0700 - feat(auth): remove feature #154
+2025-02-06 15:3:00 +0700 - test(db): add feature #154
