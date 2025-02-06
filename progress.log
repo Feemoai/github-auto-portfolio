@@ -52117,3 +52117,5 @@
 2025-02-04 13:55:00 +0700 - fix(db): update feature #478
 2025-02-05 10:23:00 +0700 - test(ui): optimize feature #451
 2025-02-05 13:13:00 +0700 - feat(config): handle feature #451
+2025-02-06 16:47:00 +0700 - chore(core): remove feature #248
+2025-02-06 12:10:00 +0700 - test(core): remove feature #248
