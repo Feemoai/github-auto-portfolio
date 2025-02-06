@@ -48250,3 +48250,4 @@
 2025-02-05 15:41:00 +0700 - chore(auth): remove feature #331
 2025-02-05 9:14:00 +0700 - docs(core): update feature #331
 2025-02-06 13:48:00 +0700 - test(ui): add feature #337
+2025-02-06 16:49:00 +0700 - feat(config): handle feature #337
