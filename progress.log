@@ -32244,3 +32244,5 @@
 2025-02-04 11:22:00 +0700 - refactor(core): improve feature #236
 2025-02-05 12:10:00 +0700 - refactor(db): optimize feature #230
 2025-02-05 13:36:00 +0700 - test(ui): improve feature #230
+2025-02-06 13:59:00 +0700 - feat(db): handle feature #273
+2025-02-06 11:16:00 +0700 - refactor(core): remove feature #273
