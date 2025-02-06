@@ -47460,3 +47460,4 @@
 2025-02-04 13:3:00 +0700 - refactor(auth): optimize feature #498
 2025-02-05 11:56:00 +0700 - docs(db): optimize feature #334
 2025-02-05 15:35:00 +0700 - perf(ui): update feature #334
+2025-02-06 14:20:00 +0700 - fix(api): improve feature #441
