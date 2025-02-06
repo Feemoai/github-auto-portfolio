@@ -28554,3 +28554,5 @@
 2025-02-03 11:37:00 +0700 - test(ui): improve feature #389
 2025-02-04 16:20:00 +0700 - feat(ui): optimize feature #138
 2025-02-05 15:19:00 +0700 - chore(db): remove feature #151
+2025-02-06 12:20:00 +0700 - chore(db): handle feature #197
+2025-02-06 16:28:00 +0700 - feat(db): remove feature #197
