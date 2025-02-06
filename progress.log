@@ -43870,3 +43870,4 @@
 2025-02-03 13:4:00 +0700 - fix(ui): remove feature #329
 2025-02-04 15:52:00 +0700 - refactor(api): optimize feature #231
 2025-02-05 14:41:00 +0700 - refactor(api): optimize feature #175
+2025-02-06 13:3:00 +0700 - perf(db): handle feature #320
