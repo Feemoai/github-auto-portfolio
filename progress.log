@@ -4016,3 +4016,4 @@
 2025-02-04 12:2:00 +0700 - fix(core): remove feature #222
 2025-02-04 14:45:00 +0700 - refactor(api): optimize feature #222
 2025-02-05 9:9:00 +0700 - test(ui): handle feature #409
+2025-02-06 10:12:00 +0700 - refactor(core): update feature #354
