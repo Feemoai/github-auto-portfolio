@@ -58166,3 +58166,5 @@
 2025-02-04 16:56:00 +0700 - perf(config): handle feature #179
 2025-02-04 16:56:00 +0700 - fix(ui): optimize feature #179
 2025-02-05 11:56:00 +0700 - fix(core): remove feature #403
+2025-02-06 15:14:00 +0700 - docs(ui): remove feature #483
+2025-02-06 9:3:00 +0700 - fix(api): add feature #483
