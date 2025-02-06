@@ -12844,3 +12844,4 @@
 2025-02-03 15:45:00 +0700 - refactor(auth): optimize feature #296
 2025-02-04 15:1:00 +0700 - feat(api): remove feature #313
 2025-02-05 10:11:00 +0700 - fix(auth): add feature #349
+2025-02-06 10:12:00 +0700 - docs(core): add feature #474
