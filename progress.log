@@ -20312,3 +20312,4 @@
 2025-02-03 15:22:00 +0700 - feat(api): add feature #121
 2025-02-04 13:13:00 +0700 - test(config): remove feature #393
 2025-02-05 12:45:00 +0700 - perf(api): handle feature #174
+2025-02-06 16:7:00 +0700 - fix(api): optimize feature #401
