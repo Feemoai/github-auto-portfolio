@@ -41540,3 +41540,4 @@
 2025-02-04 14:20:00 +0700 - perf(auth): improve feature #164
 2025-02-05 10:43:00 +0700 - chore(api): remove feature #367
 2025-02-06 16:47:00 +0700 - perf(core): improve feature #233
+2025-02-06 15:33:00 +0700 - chore(ui): handle feature #233
