@@ -66055,3 +66055,5 @@
 2025-02-04 15:39:00 +0700 - feat(api): remove feature #252
 2025-02-04 16:3:00 +0700 - docs(config): optimize feature #252
 2025-02-05 10:32:00 +0700 - test(ui): remove feature #443
+2025-02-06 13:30:00 +0700 - feat(ui): optimize feature #255
+2025-02-06 12:52:00 +0700 - feat(core): optimize feature #255
