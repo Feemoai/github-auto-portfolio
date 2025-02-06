@@ -46890,3 +46890,4 @@
 2025-02-04 11:4:00 +0700 - fix(auth): add feature #326
 2025-02-05 14:8:00 +0700 - chore(core): update feature #472
 2025-02-05 14:32:00 +0700 - perf(db): handle feature #472
+2025-02-06 10:49:00 +0700 - test(api): improve feature #394
