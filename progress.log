@@ -52460,3 +52460,4 @@
 2025-02-04 16:7:00 +0700 - feat(db): update feature #444
 2025-02-04 9:47:00 +0700 - fix(config): handle feature #444
 2025-02-05 9:48:00 +0700 - docs(auth): optimize feature #264
+2025-02-06 12:37:00 +0700 - docs(api): optimize feature #477
