@@ -61530,3 +61530,4 @@
 2025-02-05 11:39:00 +0700 - chore(auth): update feature #257
 2025-02-05 16:8:00 +0700 - test(db): update feature #257
 2025-02-06 13:8:00 +0700 - feat(core): update feature #114
+2025-02-06 9:25:00 +0700 - perf(auth): remove feature #114
