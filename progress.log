@@ -1942,3 +1942,5 @@
 2025-02-04 12:5:00 +0700 - perf(api): update feature #414
 2025-02-05 15:4:00 +0700 - perf(config): handle feature #468
 2025-02-05 13:20:00 +0700 - test(core): remove feature #468
+2025-02-06 12:13:00 +0700 - chore(auth): update feature #379
+2025-02-06 9:43:00 +0700 - docs(db): add feature #379
