@@ -53601,3 +53601,4 @@
 2025-02-04 14:2:00 +0700 - test(ui): add feature #380
 2025-02-04 12:8:00 +0700 - fix(api): optimize feature #380
 2025-02-05 13:52:00 +0700 - test(core): optimize feature #329
+2025-02-06 9:40:00 +0700 - fix(config): handle feature #444
