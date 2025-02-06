@@ -19945,3 +19945,4 @@
 2025-02-05 14:11:00 +0700 - chore(auth): improve feature #390
 2025-02-05 13:14:00 +0700 - chore(auth): optimize feature #390
 2025-02-06 11:24:00 +0700 - refactor(db): remove feature #381
+2025-02-06 12:49:00 +0700 - refactor(api): handle feature #381
