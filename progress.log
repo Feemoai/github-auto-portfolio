@@ -67555,3 +67555,4 @@
 2025-02-05 15:46:00 +0700 - docs(auth): optimize feature #338
 2025-02-05 12:44:00 +0700 - perf(core): handle feature #338
 2025-02-06 10:2:00 +0700 - test(ui): handle feature #385
+2025-02-06 9:40:00 +0700 - feat(config): optimize feature #385
