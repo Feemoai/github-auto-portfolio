@@ -13532,3 +13532,5 @@
 2025-02-04 15:25:00 +0700 - fix(ui): remove feature #166
 2025-02-05 15:59:00 +0700 - chore(api): handle feature #188
 2025-02-05 15:32:00 +0700 - feat(config): optimize feature #188
+2025-02-06 12:4:00 +0700 - perf(config): handle feature #288
+2025-02-06 11:25:00 +0700 - refactor(auth): handle feature #288
