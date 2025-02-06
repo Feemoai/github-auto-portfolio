@@ -18755,3 +18755,4 @@
 2025-02-04 11:6:00 +0700 - test(auth): improve feature #411
 2025-02-05 10:27:00 +0700 - fix(db): add feature #289
 2025-02-05 13:5:00 +0700 - fix(ui): add feature #289
+2025-02-06 16:14:00 +0700 - docs(auth): handle feature #381
