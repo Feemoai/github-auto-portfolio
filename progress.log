@@ -58294,3 +58294,4 @@
 2025-02-06 10:41:00 +0700 - feat(api): add feature #475
 2025-02-06 9:5:00 +0700 - feat(auth): add feature #475
 2025-02-07 16:59:00 +0700 - feat(ui): add feature #101
+2025-02-07 11:0:00 +0700 - perf(config): remove feature #101
