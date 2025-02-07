@@ -39568,3 +39568,4 @@
 2025-02-05 10:21:00 +0700 - test(ui): handle feature #272
 2025-02-06 9:6:00 +0700 - chore(config): remove feature #245
 2025-02-06 14:26:00 +0700 - fix(core): optimize feature #245
+2025-02-07 11:45:00 +0700 - test(core): handle feature #302
