@@ -32722,3 +32722,4 @@
 2025-02-05 14:32:00 +0700 - docs(config): handle feature #454
 2025-02-06 14:16:00 +0700 - feat(config): optimize feature #418
 2025-02-07 16:52:00 +0700 - perf(api): update feature #295
+2025-02-07 14:30:00 +0700 - chore(core): remove feature #295
