@@ -24714,3 +24714,4 @@
 2025-02-05 14:18:00 +0700 - docs(api): add feature #341
 2025-02-06 11:50:00 +0700 - perf(auth): improve feature #377
 2025-02-06 12:18:00 +0700 - test(config): add feature #377
+2025-02-07 16:46:00 +0700 - chore(config): handle feature #200
