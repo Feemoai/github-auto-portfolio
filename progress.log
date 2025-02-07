@@ -4829,3 +4829,5 @@
 2025-02-04 13:45:00 +0700 - test(config): remove feature #441
 2025-02-05 9:0:00 +0700 - docs(ui): remove feature #474
 2025-02-06 15:12:00 +0700 - test(db): improve feature #196
+2025-02-07 15:27:00 +0700 - docs(core): optimize feature #197
+2025-02-07 11:17:00 +0700 - test(core): handle feature #197
