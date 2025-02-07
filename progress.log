@@ -49857,3 +49857,5 @@
 2025-02-04 14:10:00 +0700 - test(core): update feature #228
 2025-02-05 9:20:00 +0700 - test(api): improve feature #475
 2025-02-06 16:9:00 +0700 - fix(db): optimize feature #188
+2025-02-07 15:23:00 +0700 - chore(db): add feature #366
+2025-02-07 9:35:00 +0700 - test(api): handle feature #366
