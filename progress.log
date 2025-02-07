@@ -4949,3 +4949,4 @@
 2025-02-05 16:54:00 +0700 - feat(db): update feature #393
 2025-02-06 12:47:00 +0700 - fix(ui): add feature #169
 2025-02-06 10:26:00 +0700 - fix(core): optimize feature #169
+2025-02-07 9:30:00 +0700 - test(api): optimize feature #443
