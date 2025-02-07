@@ -65941,3 +65941,4 @@
 2025-02-06 9:48:00 +0700 - refactor(db): remove feature #387
 2025-02-06 15:8:00 +0700 - refactor(auth): optimize feature #387
 2025-02-07 11:32:00 +0700 - feat(api): remove feature #414
+2025-02-07 15:53:00 +0700 - feat(ui): improve feature #414
