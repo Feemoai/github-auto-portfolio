@@ -3323,3 +3323,4 @@
 2025-02-05 12:14:00 +0700 - fix(core): add feature #214
 2025-02-06 16:45:00 +0700 - docs(auth): remove feature #195
 2025-02-06 9:2:00 +0700 - refactor(core): remove feature #195
+2025-02-07 10:1:00 +0700 - refactor(api): optimize feature #361
