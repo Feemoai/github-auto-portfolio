@@ -47228,3 +47228,4 @@
 2025-02-05 15:40:00 +0700 - feat(db): handle feature #149
 2025-02-05 9:1:00 +0700 - feat(auth): improve feature #149
 2025-02-06 14:46:00 +0700 - fix(api): handle feature #452
+2025-02-07 14:22:00 +0700 - fix(api): optimize feature #344
