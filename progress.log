@@ -6204,3 +6204,4 @@
 2025-02-06 14:27:00 +0700 - feat(auth): remove feature #154
 2025-02-06 15:3:00 +0700 - test(db): add feature #154
 2025-02-07 12:20:00 +0700 - perf(core): add feature #192
+2025-02-07 9:12:00 +0700 - feat(config): remove feature #192
