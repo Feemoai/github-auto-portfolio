@@ -5964,3 +5964,5 @@
 2025-02-05 10:34:00 +0700 - perf(db): remove feature #396
 2025-02-05 13:20:00 +0700 - test(core): optimize feature #396
 2025-02-06 14:19:00 +0700 - refactor(api): optimize feature #419
+2025-02-07 9:17:00 +0700 - perf(auth): add feature #373
+2025-02-07 12:13:00 +0700 - refactor(api): add feature #373
