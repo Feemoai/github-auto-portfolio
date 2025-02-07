@@ -7927,3 +7927,5 @@
 2025-02-05 9:15:00 +0700 - refactor(auth): add feature #403
 2025-02-06 15:42:00 +0700 - perf(config): update feature #299
 2025-02-06 11:12:00 +0700 - perf(config): handle feature #299
+2025-02-07 16:5:00 +0700 - feat(api): update feature #307
+2025-02-07 9:29:00 +0700 - fix(ui): optimize feature #307
