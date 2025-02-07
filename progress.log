@@ -27870,3 +27870,4 @@
 2025-02-06 15:40:00 +0700 - chore(core): update feature #363
 2025-02-06 10:35:00 +0700 - test(api): optimize feature #363
 2025-02-07 11:52:00 +0700 - refactor(ui): optimize feature #237
+2025-02-07 11:23:00 +0700 - perf(ui): remove feature #237
