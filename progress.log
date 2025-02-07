@@ -26807,3 +26807,4 @@
 2025-02-06 13:42:00 +0700 - feat(api): optimize feature #488
 2025-02-06 13:21:00 +0700 - refactor(db): optimize feature #488
 2025-02-07 9:3:00 +0700 - chore(db): update feature #390
+2025-02-07 14:48:00 +0700 - feat(core): handle feature #390
