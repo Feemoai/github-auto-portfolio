@@ -66172,3 +66172,5 @@
 2025-02-05 9:36:00 +0700 - refactor(core): update feature #244
 2025-02-06 9:53:00 +0700 - test(core): update feature #113
 2025-02-06 10:44:00 +0700 - refactor(ui): optimize feature #113
+2025-02-07 16:59:00 +0700 - docs(config): handle feature #475
+2025-02-07 11:35:00 +0700 - refactor(core): remove feature #475
