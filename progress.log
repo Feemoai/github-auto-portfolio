@@ -6549,3 +6549,4 @@
 2025-02-05 14:25:00 +0700 - perf(api): handle feature #460
 2025-02-06 14:50:00 +0700 - fix(core): remove feature #247
 2025-02-07 14:40:00 +0700 - fix(config): handle feature #176
+2025-02-07 15:10:00 +0700 - chore(core): remove feature #176
