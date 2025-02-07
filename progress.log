@@ -2178,3 +2178,4 @@
 2025-02-04 11:37:00 +0700 - feat(api): optimize feature #338
 2025-02-05 9:0:00 +0700 - feat(ui): add feature #187
 2025-02-06 10:41:00 +0700 - perf(ui): optimize feature #407
+2025-02-07 15:38:00 +0700 - test(core): optimize feature #333
