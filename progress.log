@@ -55547,3 +55547,4 @@
 2025-02-05 12:1:00 +0700 - chore(db): remove feature #165
 2025-02-06 15:34:00 +0700 - test(auth): add feature #434
 2025-02-06 11:54:00 +0700 - perf(auth): remove feature #434
+2025-02-07 9:33:00 +0700 - feat(auth): handle feature #387
