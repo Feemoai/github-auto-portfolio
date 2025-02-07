@@ -7010,3 +7010,4 @@
 2025-02-06 16:39:00 +0700 - docs(api): optimize feature #381
 2025-02-06 10:47:00 +0700 - feat(db): handle feature #381
 2025-02-07 11:55:00 +0700 - feat(auth): remove feature #443
+2025-02-07 15:39:00 +0700 - perf(core): update feature #443
