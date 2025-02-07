@@ -25183,3 +25183,4 @@
 2025-02-05 16:46:00 +0700 - fix(db): optimize feature #474
 2025-02-05 15:44:00 +0700 - test(core): handle feature #474
 2025-02-06 16:57:00 +0700 - fix(db): remove feature #234
+2025-02-07 14:36:00 +0700 - fix(core): remove feature #480
