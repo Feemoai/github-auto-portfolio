@@ -26344,3 +26344,4 @@
 2025-02-05 14:17:00 +0700 - docs(config): optimize feature #407
 2025-02-06 11:46:00 +0700 - refactor(db): remove feature #425
 2025-02-07 10:57:00 +0700 - refactor(core): optimize feature #397
+2025-02-07 16:26:00 +0700 - fix(ui): update feature #397
