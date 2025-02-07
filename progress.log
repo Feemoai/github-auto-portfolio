@@ -1595,3 +1595,4 @@
 2025-02-04 15:25:00 +0700 - fix(core): add feature #401
 2025-02-05 10:0:00 +0700 - feat(core): handle feature #308
 2025-02-06 14:59:00 +0700 - test(api): remove feature #113
+2025-02-07 14:25:00 +0700 - test(auth): handle feature #432
