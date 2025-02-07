@@ -3561,3 +3561,5 @@
 2025-02-05 13:28:00 +0700 - feat(api): add feature #440
 2025-02-06 16:10:00 +0700 - fix(core): improve feature #330
 2025-02-06 11:46:00 +0700 - test(core): handle feature #330
+2025-02-07 16:24:00 +0700 - perf(config): add feature #454
+2025-02-07 12:4:00 +0700 - docs(db): remove feature #454
