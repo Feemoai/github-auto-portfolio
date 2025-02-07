@@ -24594,3 +24594,4 @@
 2025-02-05 16:47:00 +0700 - docs(ui): update feature #166
 2025-02-06 10:3:00 +0700 - chore(core): add feature #400
 2025-02-06 13:11:00 +0700 - perf(core): handle feature #400
+2025-02-07 11:16:00 +0700 - perf(config): add feature #351
