@@ -27294,3 +27294,4 @@
 2025-02-05 13:47:00 +0700 - docs(auth): remove feature #347
 2025-02-06 12:21:00 +0700 - perf(ui): remove feature #159
 2025-02-06 15:30:00 +0700 - feat(config): handle feature #159
+2025-02-07 9:34:00 +0700 - chore(ui): handle feature #237
