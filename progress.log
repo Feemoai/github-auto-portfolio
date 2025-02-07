@@ -27171,3 +27171,4 @@
 2025-02-04 13:48:00 +0700 - docs(ui): optimize feature #214
 2025-02-05 11:56:00 +0700 - chore(db): remove feature #150
 2025-02-06 9:55:00 +0700 - test(config): optimize feature #167
+2025-02-07 9:28:00 +0700 - fix(api): remove feature #239
