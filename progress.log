@@ -41902,3 +41902,4 @@
 2025-02-06 12:10:00 +0700 - refactor(db): add feature #492
 2025-02-06 12:46:00 +0700 - refactor(auth): update feature #492
 2025-02-07 9:18:00 +0700 - docs(api): optimize feature #267
+2025-02-07 11:52:00 +0700 - perf(config): remove feature #267
