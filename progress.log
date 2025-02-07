@@ -47911,3 +47911,5 @@
 2025-02-05 10:24:00 +0700 - refactor(api): update feature #304
 2025-02-05 12:7:00 +0700 - feat(ui): update feature #304
 2025-02-06 12:56:00 +0700 - feat(db): optimize feature #352
+2025-02-07 14:59:00 +0700 - perf(core): add feature #198
+2025-02-07 12:32:00 +0700 - chore(config): optimize feature #198
