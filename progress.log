@@ -12058,3 +12058,4 @@
 2025-02-05 9:39:00 +0700 - chore(ui): optimize feature #469
 2025-02-06 15:51:00 +0700 - perf(auth): remove feature #143
 2025-02-06 16:4:00 +0700 - test(ui): add feature #143
+2025-02-07 10:49:00 +0700 - perf(ui): remove feature #237
