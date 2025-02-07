@@ -17823,3 +17823,4 @@
 2025-02-04 13:18:00 +0700 - chore(db): handle feature #487
 2025-02-05 14:30:00 +0700 - feat(core): handle feature #105
 2025-02-06 9:46:00 +0700 - feat(core): add feature #176
+2025-02-07 16:54:00 +0700 - fix(auth): add feature #323
