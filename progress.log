@@ -18758,3 +18758,4 @@
 2025-02-06 16:14:00 +0700 - docs(auth): handle feature #381
 2025-02-06 15:9:00 +0700 - test(auth): remove feature #381
 2025-02-07 16:51:00 +0700 - test(config): remove feature #101
+2025-02-07 11:57:00 +0700 - feat(ui): add feature #101
