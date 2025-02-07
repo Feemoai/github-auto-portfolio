@@ -32012,3 +32012,4 @@
 2025-02-04 16:9:00 +0700 - chore(config): handle feature #216
 2025-02-05 14:31:00 +0700 - chore(ui): optimize feature #261
 2025-02-06 11:52:00 +0700 - refactor(ui): improve feature #124
+2025-02-07 14:52:00 +0700 - perf(core): improve feature #125
