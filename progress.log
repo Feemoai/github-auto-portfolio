@@ -22742,3 +22742,4 @@
 2025-02-04 15:17:00 +0700 - perf(core): remove feature #423
 2025-02-05 14:23:00 +0700 - perf(ui): remove feature #399
 2025-02-06 15:34:00 +0700 - perf(auth): improve feature #462
+2025-02-07 9:51:00 +0700 - docs(auth): handle feature #243
