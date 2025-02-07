@@ -6083,3 +6083,4 @@
 2025-02-06 10:12:00 +0700 - perf(ui): update feature #378
 2025-02-06 13:51:00 +0700 - chore(core): optimize feature #378
 2025-02-07 15:47:00 +0700 - test(auth): add feature #366
+2025-02-07 9:36:00 +0700 - chore(api): handle feature #366
