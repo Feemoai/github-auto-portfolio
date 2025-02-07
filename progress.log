@@ -6667,3 +6667,4 @@
 2025-02-05 10:11:00 +0700 - chore(ui): remove feature #193
 2025-02-06 9:37:00 +0700 - perf(core): optimize feature #153
 2025-02-07 14:48:00 +0700 - fix(config): add feature #446
+2025-02-07 10:0:00 +0700 - fix(ui): optimize feature #446
