@@ -63161,3 +63161,4 @@
 2025-02-06 16:39:00 +0700 - docs(ui): optimize feature #248
 2025-02-06 14:25:00 +0700 - perf(api): add feature #248
 2025-02-07 16:26:00 +0700 - chore(auth): handle feature #246
+2025-02-07 13:38:00 +0700 - feat(auth): improve feature #246
