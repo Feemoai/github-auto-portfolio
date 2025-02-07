@@ -24951,3 +24951,4 @@
 2025-02-05 10:30:00 +0700 - feat(api): update feature #464
 2025-02-05 16:23:00 +0700 - fix(api): remove feature #464
 2025-02-06 12:4:00 +0700 - feat(core): optimize feature #372
+2025-02-07 14:53:00 +0700 - perf(auth): update feature #420
