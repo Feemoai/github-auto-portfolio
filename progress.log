@@ -4719,3 +4719,4 @@
 2025-02-06 14:3:00 +0700 - perf(auth): improve feature #127
 2025-02-07 11:46:00 +0700 - refactor(api): add feature #213
 2025-02-07 11:2:00 +0700 - chore(api): improve feature #213
+2025-02-08 15:6:00 +0700 - fix(config): handle feature #180
