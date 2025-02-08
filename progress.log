@@ -14915,3 +14915,5 @@
 2025-02-05 14:15:00 +0700 - fix(config): handle feature #399
 2025-02-06 10:12:00 +0700 - test(api): remove feature #302
 2025-02-07 11:39:00 +0700 - perf(auth): optimize feature #317
+2025-02-08 15:15:00 +0700 - chore(db): remove feature #112
+2025-02-08 15:44:00 +0700 - perf(core): remove feature #112
