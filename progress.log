@@ -35079,3 +35079,4 @@
 2025-02-06 11:18:00 +0700 - feat(ui): handle feature #303
 2025-02-07 11:1:00 +0700 - docs(ui): add feature #121
 2025-02-08 11:26:00 +0700 - chore(db): optimize feature #341
+2025-02-08 9:36:00 +0700 - test(core): add feature #341
