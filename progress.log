@@ -12394,3 +12394,4 @@
 2025-02-06 9:4:00 +0700 - chore(api): improve feature #100
 2025-02-07 16:56:00 +0700 - perf(core): update feature #263
 2025-02-08 10:38:00 +0700 - test(ui): handle feature #267
+2025-02-08 12:1:00 +0700 - chore(config): remove feature #267
