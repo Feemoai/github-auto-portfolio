@@ -50425,3 +50425,4 @@
 2025-02-06 16:49:00 +0700 - perf(core): handle feature #339
 2025-02-07 16:49:00 +0700 - perf(core): add feature #325
 2025-02-07 16:52:00 +0700 - fix(core): optimize feature #325
+2025-02-08 9:48:00 +0700 - test(core): remove feature #407
