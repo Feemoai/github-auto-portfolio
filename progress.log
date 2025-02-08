@@ -7123,3 +7123,4 @@
 2025-02-06 11:27:00 +0700 - fix(db): update feature #290
 2025-02-07 16:57:00 +0700 - docs(ui): handle feature #171
 2025-02-07 10:5:00 +0700 - perf(db): handle feature #171
+2025-02-08 11:48:00 +0700 - perf(db): optimize feature #174
