@@ -18882,3 +18882,4 @@
 2025-02-06 9:42:00 +0700 - docs(api): optimize feature #343
 2025-02-07 13:1:00 +0700 - test(config): optimize feature #418
 2025-02-07 9:6:00 +0700 - test(db): remove feature #418
+2025-02-08 11:2:00 +0700 - feat(api): add feature #200
