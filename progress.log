@@ -15732,3 +15732,4 @@
 2025-02-06 13:49:00 +0700 - test(ui): handle feature #277
 2025-02-07 15:20:00 +0700 - chore(ui): update feature #295
 2025-02-08 16:9:00 +0700 - fix(db): improve feature #293
+2025-02-08 11:21:00 +0700 - refactor(api): handle feature #293
