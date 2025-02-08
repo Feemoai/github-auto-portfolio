@@ -13307,3 +13307,4 @@
 2025-02-07 10:7:00 +0700 - perf(api): add feature #460
 2025-02-07 14:2:00 +0700 - feat(config): update feature #460
 2025-02-08 11:46:00 +0700 - test(api): handle feature #499
+2025-02-08 15:22:00 +0700 - perf(auth): optimize feature #499
