@@ -18175,3 +18175,4 @@
 2025-02-06 10:37:00 +0700 - perf(auth): remove feature #272
 2025-02-07 10:16:00 +0700 - chore(auth): optimize feature #164
 2025-02-07 15:41:00 +0700 - fix(auth): handle feature #164
+2025-02-08 15:8:00 +0700 - test(auth): handle feature #184
