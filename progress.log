@@ -9668,3 +9668,4 @@
 2025-02-06 16:21:00 +0700 - test(auth): improve feature #471
 2025-02-07 16:11:00 +0700 - docs(core): add feature #421
 2025-02-08 9:26:00 +0700 - test(core): update feature #401
+2025-02-08 14:19:00 +0700 - feat(db): handle feature #401
