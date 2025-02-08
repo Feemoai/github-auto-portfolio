@@ -58410,3 +58410,4 @@
 2025-02-07 10:1:00 +0700 - chore(auth): update feature #165
 2025-02-07 13:49:00 +0700 - test(ui): optimize feature #165
 2025-02-08 16:30:00 +0700 - fix(db): handle feature #305
+2025-02-08 12:13:00 +0700 - fix(api): update feature #305
