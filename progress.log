@@ -6668,3 +6668,5 @@
 2025-02-06 9:37:00 +0700 - perf(core): optimize feature #153
 2025-02-07 14:48:00 +0700 - fix(config): add feature #446
 2025-02-07 10:0:00 +0700 - fix(ui): optimize feature #446
+2025-02-08 9:21:00 +0700 - feat(config): optimize feature #176
+2025-02-08 13:53:00 +0700 - refactor(db): remove feature #176
