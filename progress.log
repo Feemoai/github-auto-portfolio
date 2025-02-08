@@ -34599,3 +34599,4 @@
 2025-02-06 15:49:00 +0700 - fix(api): optimize feature #432
 2025-02-06 14:40:00 +0700 - docs(core): improve feature #432
 2025-02-07 11:32:00 +0700 - fix(auth): add feature #364
+2025-02-08 13:0:00 +0700 - chore(config): add feature #253
