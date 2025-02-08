@@ -22282,3 +22282,5 @@
 2025-02-05 9:28:00 +0700 - chore(db): optimize feature #243
 2025-02-06 11:54:00 +0700 - fix(ui): handle feature #377
 2025-02-07 11:5:00 +0700 - feat(config): update feature #221
+2025-02-08 13:58:00 +0700 - feat(config): remove feature #469
+2025-02-08 10:44:00 +0700 - chore(config): optimize feature #469
