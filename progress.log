@@ -60162,3 +60162,4 @@
 2025-02-06 10:59:00 +0700 - chore(auth): optimize feature #108
 2025-02-07 9:50:00 +0700 - fix(core): improve feature #117
 2025-02-07 12:51:00 +0700 - perf(api): remove feature #117
+2025-02-08 14:6:00 +0700 - chore(ui): handle feature #474
