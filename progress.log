@@ -45834,3 +45834,4 @@
 2025-02-06 15:25:00 +0700 - docs(core): add feature #299
 2025-02-07 10:37:00 +0700 - feat(ui): optimize feature #381
 2025-02-08 16:13:00 +0700 - fix(core): optimize feature #452
+2025-02-08 10:21:00 +0700 - perf(ui): update feature #452
