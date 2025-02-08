@@ -43643,3 +43643,4 @@
 2025-02-06 9:30:00 +0700 - fix(api): remove feature #253
 2025-02-07 14:18:00 +0700 - chore(config): remove feature #499
 2025-02-07 15:11:00 +0700 - chore(db): optimize feature #499
+2025-02-08 12:23:00 +0700 - chore(auth): handle feature #373
