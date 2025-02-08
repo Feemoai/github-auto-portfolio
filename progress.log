@@ -54968,3 +54968,4 @@
 2025-02-06 12:12:00 +0700 - docs(api): optimize feature #394
 2025-02-06 9:32:00 +0700 - feat(core): handle feature #394
 2025-02-07 12:57:00 +0700 - chore(auth): update feature #104
+2025-02-08 13:25:00 +0700 - fix(core): remove feature #367
