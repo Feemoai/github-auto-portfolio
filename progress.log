@@ -13422,3 +13422,4 @@
 2025-02-06 11:36:00 +0700 - test(config): update feature #213
 2025-02-06 15:2:00 +0700 - chore(config): add feature #213
 2025-02-07 13:21:00 +0700 - chore(auth): optimize feature #381
+2025-02-08 10:40:00 +0700 - fix(auth): optimize feature #418
