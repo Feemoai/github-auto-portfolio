@@ -11714,3 +11714,4 @@
 2025-02-07 11:54:00 +0700 - feat(auth): remove feature #101
 2025-02-07 13:24:00 +0700 - docs(core): improve feature #101
 2025-02-08 13:48:00 +0700 - chore(auth): remove feature #141
+2025-02-08 11:23:00 +0700 - chore(db): handle feature #141
