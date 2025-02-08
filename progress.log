@@ -46193,3 +46193,4 @@
 2025-02-06 11:8:00 +0700 - docs(core): handle feature #383
 2025-02-07 11:58:00 +0700 - perf(ui): improve feature #286
 2025-02-08 9:29:00 +0700 - docs(api): remove feature #466
+2025-02-08 9:49:00 +0700 - feat(core): remove feature #466
