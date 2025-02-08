@@ -12171,3 +12171,4 @@
 2025-02-06 13:9:00 +0700 - chore(core): improve feature #351
 2025-02-06 16:58:00 +0700 - refactor(ui): remove feature #351
 2025-02-07 9:21:00 +0700 - fix(api): improve feature #103
+2025-02-08 16:47:00 +0700 - feat(db): handle feature #106
