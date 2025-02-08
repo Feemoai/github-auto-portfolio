@@ -11591,3 +11591,4 @@
 2025-02-06 14:39:00 +0700 - test(core): remove feature #357
 2025-02-07 14:9:00 +0700 - perf(ui): optimize feature #156
 2025-02-08 12:8:00 +0700 - perf(core): handle feature #394
+2025-02-08 9:18:00 +0700 - docs(core): optimize feature #394
