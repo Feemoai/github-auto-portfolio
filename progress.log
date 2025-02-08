@@ -17011,3 +17011,4 @@
 2025-02-07 9:25:00 +0700 - fix(db): handle feature #348
 2025-02-07 14:0:00 +0700 - perf(api): add feature #348
 2025-02-08 9:51:00 +0700 - feat(api): add feature #349
+2025-02-08 10:14:00 +0700 - feat(auth): update feature #349
