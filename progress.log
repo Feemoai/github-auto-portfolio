@@ -36124,3 +36124,4 @@
 2025-02-07 9:10:00 +0700 - docs(core): update feature #491
 2025-02-07 13:53:00 +0700 - fix(api): update feature #491
 2025-02-08 10:48:00 +0700 - test(config): remove feature #350
+2025-02-08 13:20:00 +0700 - perf(auth): optimize feature #350
