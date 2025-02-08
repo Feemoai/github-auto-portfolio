@@ -11367,3 +11367,4 @@
 2025-02-06 11:46:00 +0700 - docs(ui): optimize feature #126
 2025-02-07 11:42:00 +0700 - test(api): optimize feature #480
 2025-02-08 14:23:00 +0700 - docs(db): handle feature #306
+2025-02-08 16:23:00 +0700 - feat(config): remove feature #306
