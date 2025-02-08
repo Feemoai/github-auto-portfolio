@@ -28323,3 +28323,4 @@
 2025-02-06 11:58:00 +0700 - fix(auth): improve feature #307
 2025-02-07 15:25:00 +0700 - docs(db): handle feature #101
 2025-02-07 9:51:00 +0700 - chore(api): update feature #101
+2025-02-08 9:40:00 +0700 - refactor(db): optimize feature #183
