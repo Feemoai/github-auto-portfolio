@@ -19475,3 +19475,4 @@
 2025-02-07 15:49:00 +0700 - chore(config): update feature #352
 2025-02-07 16:33:00 +0700 - perf(db): add feature #352
 2025-02-08 15:53:00 +0700 - fix(core): add feature #312
+2025-02-08 14:16:00 +0700 - fix(api): handle feature #312
