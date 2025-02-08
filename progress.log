@@ -52581,3 +52581,4 @@
 2025-02-07 14:50:00 +0700 - feat(config): remove feature #187
 2025-02-07 9:47:00 +0700 - test(ui): update feature #187
 2025-02-08 15:22:00 +0700 - fix(ui): optimize feature #111
+2025-02-08 14:49:00 +0700 - fix(auth): remove feature #111
