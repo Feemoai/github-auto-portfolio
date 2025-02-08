@@ -43993,3 +43993,4 @@
 2025-02-06 13:45:00 +0700 - perf(ui): handle feature #246
 2025-02-06 10:4:00 +0700 - test(api): add feature #246
 2025-02-07 13:6:00 +0700 - test(auth): remove feature #203
+2025-02-08 13:25:00 +0700 - chore(core): optimize feature #269
