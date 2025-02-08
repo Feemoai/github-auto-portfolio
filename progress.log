@@ -66989,3 +66989,4 @@
 2025-02-06 15:12:00 +0700 - docs(db): optimize feature #299
 2025-02-06 13:7:00 +0700 - docs(auth): update feature #299
 2025-02-07 11:18:00 +0700 - test(core): remove feature #231
+2025-02-08 12:19:00 +0700 - perf(auth): remove feature #493
