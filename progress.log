@@ -39570,3 +39570,5 @@
 2025-02-06 14:26:00 +0700 - fix(core): optimize feature #245
 2025-02-07 11:45:00 +0700 - test(core): handle feature #302
 2025-02-07 9:51:00 +0700 - fix(auth): update feature #302
+2025-02-08 10:10:00 +0700 - fix(ui): remove feature #241
+2025-02-08 12:43:00 +0700 - docs(db): improve feature #241
