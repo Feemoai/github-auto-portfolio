@@ -53726,3 +53726,4 @@
 2025-02-05 15:17:00 +0700 - perf(auth): remove feature #187
 2025-02-06 15:52:00 +0700 - perf(config): handle feature #308
 2025-02-07 9:18:00 +0700 - test(auth): improve feature #399
+2025-02-08 15:53:00 +0700 - fix(ui): remove feature #154
