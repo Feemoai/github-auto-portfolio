@@ -11129,3 +11129,4 @@
 2025-02-06 14:58:00 +0700 - perf(auth): update feature #388
 2025-02-07 12:19:00 +0700 - docs(core): remove feature #288
 2025-02-08 11:2:00 +0700 - chore(db): optimize feature #461
+2025-02-08 11:10:00 +0700 - fix(config): remove feature #461
