@@ -32724,3 +32724,4 @@
 2025-02-07 16:52:00 +0700 - perf(api): update feature #295
 2025-02-07 14:30:00 +0700 - chore(core): remove feature #295
 2025-02-08 9:6:00 +0700 - fix(ui): handle feature #322
+2025-02-08 16:55:00 +0700 - refactor(config): remove feature #322
