@@ -44669,3 +44669,4 @@
 2025-02-06 16:25:00 +0700 - docs(ui): update feature #430
 2025-02-07 12:50:00 +0700 - test(auth): remove feature #435
 2025-02-08 9:54:00 +0700 - chore(core): remove feature #398
+2025-02-08 9:11:00 +0700 - chore(api): optimize feature #398
