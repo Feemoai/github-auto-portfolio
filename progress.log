@@ -201,3 +201,4 @@
 2025-02-06 12:48:00 +0700 - refactor(config): handle feature #140
 2025-02-06 13:17:00 +0700 - fix(core): update feature #140
 2025-02-07 16:35:00 +0700 - test(core): handle feature #225
+2025-02-08 10:45:00 +0700 - test(config): improve feature #285
