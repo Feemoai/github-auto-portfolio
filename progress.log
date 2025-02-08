@@ -12286,3 +12286,4 @@
 2025-02-05 13:22:00 +0700 - chore(db): improve feature #258
 2025-02-06 9:59:00 +0700 - fix(core): optimize feature #469
 2025-02-07 16:7:00 +0700 - docs(config): remove feature #164
+2025-02-08 10:20:00 +0700 - fix(core): remove feature #334
