@@ -52463,3 +52463,5 @@
 2025-02-06 12:37:00 +0700 - docs(api): optimize feature #477
 2025-02-07 12:20:00 +0700 - fix(api): handle feature #205
 2025-02-07 15:56:00 +0700 - docs(core): remove feature #205
+2025-02-08 13:34:00 +0700 - perf(core): improve feature #384
+2025-02-08 11:29:00 +0700 - fix(ui): improve feature #384
