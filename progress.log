@@ -39327,3 +39327,4 @@
 2025-02-06 15:22:00 +0700 - docs(config): improve feature #339
 2025-02-06 10:27:00 +0700 - refactor(db): remove feature #339
 2025-02-07 14:55:00 +0700 - feat(core): improve feature #144
+2025-02-08 15:52:00 +0700 - fix(auth): improve feature #374
