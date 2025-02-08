@@ -6786,3 +6786,4 @@
 2025-02-06 10:26:00 +0700 - refactor(config): remove feature #129
 2025-02-07 14:39:00 +0700 - perf(ui): remove feature #357
 2025-02-08 15:21:00 +0700 - test(db): improve feature #417
+2025-02-08 9:51:00 +0700 - docs(config): handle feature #417
