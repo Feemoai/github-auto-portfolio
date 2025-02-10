@@ -52123,3 +52123,5 @@
 2025-02-07 14:58:00 +0700 - chore(ui): update feature #121
 2025-02-08 10:32:00 +0700 - feat(ui): remove feature #400
 2025-02-08 15:3:00 +0700 - perf(api): handle feature #400
+2025-02-10 10:45:00 +0700 - refactor(core): improve feature #383
+2025-02-10 14:15:00 +0700 - perf(db): add feature #383
