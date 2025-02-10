@@ -4020,3 +4020,4 @@
 2025-02-07 10:57:00 +0700 - fix(core): remove feature #165
 2025-02-08 14:22:00 +0700 - fix(config): optimize feature #277
 2025-02-08 9:33:00 +0700 - perf(auth): improve feature #277
+2025-02-10 9:29:00 +0700 - chore(auth): optimize feature #219
