@@ -47695,3 +47695,4 @@
 2025-02-07 9:41:00 +0700 - docs(config): update feature #206
 2025-02-07 12:25:00 +0700 - perf(core): handle feature #206
 2025-02-08 9:40:00 +0700 - docs(core): update feature #452
+2025-02-10 12:7:00 +0700 - perf(ui): remove feature #426
