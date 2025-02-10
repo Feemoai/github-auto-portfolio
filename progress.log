@@ -20073,3 +20073,5 @@
 2025-02-07 14:54:00 +0700 - chore(config): improve feature #111
 2025-02-08 12:20:00 +0700 - fix(db): improve feature #205
 2025-02-08 16:44:00 +0700 - test(core): remove feature #205
+2025-02-10 9:2:00 +0700 - test(auth): optimize feature #190
+2025-02-10 11:26:00 +0700 - docs(auth): optimize feature #190
