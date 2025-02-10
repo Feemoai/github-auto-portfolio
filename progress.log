@@ -33314,3 +33314,4 @@
 2025-02-07 10:7:00 +0700 - feat(core): improve feature #302
 2025-02-08 10:15:00 +0700 - perf(config): remove feature #324
 2025-02-10 16:47:00 +0700 - docs(api): handle feature #197
+2025-02-10 16:31:00 +0700 - fix(core): handle feature #197
