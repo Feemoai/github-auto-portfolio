@@ -21594,3 +21594,4 @@
 2025-02-07 11:51:00 +0700 - feat(db): remove feature #201
 2025-02-07 12:37:00 +0700 - feat(ui): handle feature #201
 2025-02-08 15:52:00 +0700 - feat(ui): improve feature #440
+2025-02-10 12:46:00 +0700 - perf(ui): handle feature #208
