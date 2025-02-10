@@ -66651,3 +66651,4 @@
 2025-02-07 16:54:00 +0700 - docs(ui): optimize feature #127
 2025-02-08 9:18:00 +0700 - chore(auth): optimize feature #420
 2025-02-10 13:42:00 +0700 - test(ui): remove feature #471
+2025-02-10 9:27:00 +0700 - feat(core): remove feature #471
