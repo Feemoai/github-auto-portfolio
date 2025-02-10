@@ -15379,3 +15379,4 @@
 2025-02-07 12:47:00 +0700 - perf(api): remove feature #342
 2025-02-07 10:24:00 +0700 - feat(config): handle feature #342
 2025-02-08 15:36:00 +0700 - perf(db): improve feature #263
+2025-02-10 14:49:00 +0700 - fix(config): update feature #418
