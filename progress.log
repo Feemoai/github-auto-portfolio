@@ -45249,3 +45249,4 @@
 2025-02-07 12:23:00 +0700 - chore(auth): improve feature #169
 2025-02-08 11:22:00 +0700 - refactor(config): remove feature #171
 2025-02-08 13:21:00 +0700 - refactor(api): update feature #171
+2025-02-10 14:23:00 +0700 - docs(auth): handle feature #386
