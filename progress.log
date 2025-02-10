@@ -33663,3 +33663,4 @@
 2025-02-07 14:19:00 +0700 - feat(core): add feature #439
 2025-02-08 12:33:00 +0700 - refactor(auth): remove feature #459
 2025-02-10 13:14:00 +0700 - feat(db): update feature #259
+2025-02-10 12:0:00 +0700 - fix(ui): handle feature #259
