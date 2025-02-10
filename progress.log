@@ -3672,3 +3672,4 @@
 2025-02-07 16:14:00 +0700 - perf(db): add feature #363
 2025-02-08 12:5:00 +0700 - refactor(db): optimize feature #271
 2025-02-08 9:54:00 +0700 - docs(db): update feature #271
+2025-02-10 14:23:00 +0700 - perf(api): handle feature #317
