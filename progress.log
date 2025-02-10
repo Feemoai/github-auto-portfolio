@@ -44449,3 +44449,4 @@
 2025-02-08 9:25:00 +0700 - fix(db): handle feature #371
 2025-02-08 11:33:00 +0700 - refactor(auth): add feature #371
 2025-02-10 12:32:00 +0700 - perf(core): improve feature #414
+2025-02-10 14:4:00 +0700 - feat(api): optimize feature #414
