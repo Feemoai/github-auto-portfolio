@@ -41545,3 +41545,4 @@
 2025-02-07 9:13:00 +0700 - docs(db): optimize feature #487
 2025-02-08 13:2:00 +0700 - chore(core): remove feature #421
 2025-02-08 13:31:00 +0700 - chore(config): remove feature #421
+2025-02-10 16:2:00 +0700 - perf(config): update feature #471
