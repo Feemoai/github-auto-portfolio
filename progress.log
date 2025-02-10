@@ -3110,3 +3110,4 @@
 2025-02-07 16:46:00 +0700 - docs(core): handle feature #399
 2025-02-08 15:37:00 +0700 - refactor(api): update feature #386
 2025-02-08 11:51:00 +0700 - chore(config): handle feature #386
+2025-02-10 13:9:00 +0700 - perf(core): optimize feature #427
