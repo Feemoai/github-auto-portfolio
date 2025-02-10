@@ -65496,3 +65496,4 @@
 2025-02-07 14:59:00 +0700 - test(api): optimize feature #116
 2025-02-08 9:12:00 +0700 - perf(auth): update feature #335
 2025-02-08 14:28:00 +0700 - chore(auth): handle feature #335
+2025-02-10 14:28:00 +0700 - feat(auth): add feature #213
