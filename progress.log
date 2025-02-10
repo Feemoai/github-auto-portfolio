@@ -11592,3 +11592,4 @@
 2025-02-07 14:9:00 +0700 - perf(ui): optimize feature #156
 2025-02-08 12:8:00 +0700 - perf(core): handle feature #394
 2025-02-08 9:18:00 +0700 - docs(core): optimize feature #394
+2025-02-10 12:35:00 +0700 - refactor(core): handle feature #463
