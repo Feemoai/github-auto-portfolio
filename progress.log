@@ -59583,3 +59583,4 @@
 2025-02-07 11:13:00 +0700 - test(api): update feature #227
 2025-02-08 11:53:00 +0700 - chore(config): update feature #280
 2025-02-10 11:25:00 +0700 - perf(db): update feature #491
+2025-02-10 10:57:00 +0700 - feat(core): handle feature #491
