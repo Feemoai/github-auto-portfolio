@@ -41905,3 +41905,4 @@
 2025-02-07 11:52:00 +0700 - perf(config): remove feature #267
 2025-02-08 15:20:00 +0700 - docs(config): update feature #310
 2025-02-08 15:33:00 +0700 - perf(ui): optimize feature #310
+2025-02-10 16:23:00 +0700 - test(api): optimize feature #176
