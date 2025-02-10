@@ -15259,3 +15259,4 @@
 2025-02-07 14:23:00 +0700 - chore(ui): add feature #240
 2025-02-08 10:26:00 +0700 - docs(config): improve feature #253
 2025-02-10 9:34:00 +0700 - fix(core): update feature #296
+2025-02-10 15:17:00 +0700 - perf(api): optimize feature #296
