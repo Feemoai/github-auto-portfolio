@@ -14796,3 +14796,4 @@
 2025-02-07 11:14:00 +0700 - fix(auth): remove feature #223
 2025-02-08 12:47:00 +0700 - test(core): handle feature #481
 2025-02-08 12:14:00 +0700 - fix(db): remove feature #481
+2025-02-10 9:46:00 +0700 - chore(db): add feature #205
