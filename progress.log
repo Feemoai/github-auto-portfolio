@@ -33778,3 +33778,5 @@
 2025-02-07 16:3:00 +0700 - fix(config): update feature #219
 2025-02-08 11:23:00 +0700 - chore(ui): improve feature #418
 2025-02-08 14:29:00 +0700 - fix(auth): improve feature #418
+2025-02-10 10:45:00 +0700 - perf(ui): optimize feature #293
+2025-02-10 15:34:00 +0700 - feat(ui): handle feature #293
