@@ -37163,3 +37163,4 @@
 2025-02-07 16:36:00 +0700 - refactor(db): remove feature #274
 2025-02-08 16:52:00 +0700 - test(auth): add feature #465
 2025-02-08 15:8:00 +0700 - chore(core): handle feature #465
+2025-02-10 10:11:00 +0700 - fix(core): update feature #339
