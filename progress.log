@@ -12622,3 +12622,5 @@
 2025-02-07 15:46:00 +0700 - fix(db): update feature #106
 2025-02-08 11:16:00 +0700 - perf(auth): improve feature #367
 2025-02-08 10:46:00 +0700 - test(ui): improve feature #367
+2025-02-10 10:24:00 +0700 - chore(core): add feature #493
+2025-02-10 13:12:00 +0700 - test(api): update feature #493
