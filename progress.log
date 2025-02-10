@@ -36007,3 +36007,4 @@
 2025-02-06 13:11:00 +0700 - test(api): update feature #182
 2025-02-07 15:40:00 +0700 - chore(auth): update feature #482
 2025-02-08 15:27:00 +0700 - perf(config): update feature #354
+2025-02-10 12:10:00 +0700 - fix(api): remove feature #411
