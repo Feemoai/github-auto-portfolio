@@ -6787,3 +6787,5 @@
 2025-02-07 14:39:00 +0700 - perf(ui): remove feature #357
 2025-02-08 15:21:00 +0700 - test(db): improve feature #417
 2025-02-08 9:51:00 +0700 - docs(config): handle feature #417
+2025-02-10 11:54:00 +0700 - perf(core): update feature #129
+2025-02-10 12:19:00 +0700 - perf(db): optimize feature #129
