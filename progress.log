@@ -46776,3 +46776,4 @@
 2025-02-07 14:7:00 +0700 - docs(config): handle feature #436
 2025-02-08 12:47:00 +0700 - refactor(api): improve feature #498
 2025-02-10 11:0:00 +0700 - feat(api): add feature #351
+2025-02-10 12:0:00 +0700 - feat(ui): handle feature #351
