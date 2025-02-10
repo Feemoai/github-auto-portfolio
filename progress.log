@@ -1598,3 +1598,4 @@
 2025-02-07 14:25:00 +0700 - test(auth): handle feature #432
 2025-02-08 14:37:00 +0700 - docs(ui): improve feature #268
 2025-02-08 9:37:00 +0700 - feat(core): remove feature #268
+2025-02-10 16:17:00 +0700 - perf(auth): update feature #151
