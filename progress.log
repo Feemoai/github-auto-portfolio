@@ -36809,3 +36809,4 @@
 2025-02-07 10:6:00 +0700 - test(core): update feature #128
 2025-02-08 11:24:00 +0700 - chore(config): remove feature #466
 2025-02-10 9:41:00 +0700 - chore(core): optimize feature #275
+2025-02-10 9:56:00 +0700 - chore(ui): remove feature #275
