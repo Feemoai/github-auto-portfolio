@@ -320,3 +320,4 @@
 2025-02-07 15:23:00 +0700 - test(db): remove feature #205
 2025-02-08 12:12:00 +0700 - perf(core): handle feature #438
 2025-02-08 12:59:00 +0700 - chore(core): optimize feature #438
+2025-02-10 9:2:00 +0700 - test(auth): optimize feature #394
