@@ -67781,3 +67781,4 @@
 2025-02-07 10:29:00 +0700 - fix(core): handle feature #157
 2025-02-08 9:7:00 +0700 - feat(db): remove feature #225
 2025-02-08 16:26:00 +0700 - chore(config): add feature #225
+2025-02-10 11:5:00 +0700 - feat(config): handle feature #240
