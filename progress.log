@@ -902,3 +902,5 @@
 2025-02-07 13:34:00 +0700 - docs(config): add feature #177
 2025-02-07 11:21:00 +0700 - test(config): add feature #177
 2025-02-08 10:50:00 +0700 - refactor(core): optimize feature #171
+2025-02-10 16:13:00 +0700 - perf(config): handle feature #268
+2025-02-10 12:19:00 +0700 - test(auth): handle feature #268
