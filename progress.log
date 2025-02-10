@@ -21358,3 +21358,4 @@
 2025-02-07 16:52:00 +0700 - test(core): handle feature #317
 2025-02-07 14:22:00 +0700 - feat(auth): add feature #317
 2025-02-08 16:33:00 +0700 - docs(core): update feature #455
+2025-02-10 11:13:00 +0700 - perf(auth): optimize feature #365
