@@ -62235,3 +62235,4 @@
 2025-02-07 15:32:00 +0700 - fix(ui): add feature #287
 2025-02-08 15:58:00 +0700 - fix(db): update feature #384
 2025-02-08 12:3:00 +0700 - feat(api): optimize feature #384
+2025-02-10 14:2:00 +0700 - perf(db): remove feature #267
