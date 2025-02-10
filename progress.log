@@ -61193,3 +61193,4 @@
 2025-02-07 9:24:00 +0700 - fix(auth): handle feature #156
 2025-02-07 9:44:00 +0700 - docs(config): optimize feature #156
 2025-02-08 15:7:00 +0700 - perf(core): improve feature #190
+2025-02-10 10:20:00 +0700 - feat(auth): remove feature #111
