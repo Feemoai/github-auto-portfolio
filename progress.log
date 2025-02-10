@@ -3564,3 +3564,4 @@
 2025-02-07 16:24:00 +0700 - perf(config): add feature #454
 2025-02-07 12:4:00 +0700 - docs(db): remove feature #454
 2025-02-08 9:13:00 +0700 - chore(auth): handle feature #445
+2025-02-10 10:23:00 +0700 - fix(ui): add feature #293
