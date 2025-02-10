@@ -25300,3 +25300,4 @@
 2025-02-07 16:34:00 +0700 - feat(auth): handle feature #357
 2025-02-08 14:18:00 +0700 - docs(auth): remove feature #124
 2025-02-08 14:8:00 +0700 - refactor(ui): update feature #124
+2025-02-10 14:58:00 +0700 - refactor(api): optimize feature #373
