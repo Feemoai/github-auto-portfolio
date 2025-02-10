@@ -18177,3 +18177,4 @@
 2025-02-07 15:41:00 +0700 - fix(auth): handle feature #164
 2025-02-08 15:8:00 +0700 - test(auth): handle feature #184
 2025-02-10 10:29:00 +0700 - fix(auth): improve feature #250
+2025-02-10 12:3:00 +0700 - perf(api): optimize feature #250
