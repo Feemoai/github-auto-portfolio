@@ -51448,3 +51448,5 @@
 2025-02-07 11:49:00 +0700 - chore(ui): handle feature #286
 2025-02-08 11:7:00 +0700 - feat(auth): optimize feature #446
 2025-02-08 14:9:00 +0700 - test(auth): handle feature #446
+2025-02-10 12:36:00 +0700 - chore(core): add feature #302
+2025-02-10 13:4:00 +0700 - chore(ui): update feature #302
