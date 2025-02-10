@@ -19119,3 +19119,4 @@
 2025-02-07 16:43:00 +0700 - test(db): optimize feature #373
 2025-02-08 12:32:00 +0700 - test(core): optimize feature #223
 2025-02-08 11:5:00 +0700 - perf(config): handle feature #223
+2025-02-10 10:13:00 +0700 - feat(config): add feature #436
