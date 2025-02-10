@@ -17715,3 +17715,4 @@
 2025-02-07 9:40:00 +0700 - perf(ui): update feature #353
 2025-02-08 14:29:00 +0700 - fix(core): remove feature #172
 2025-02-08 15:1:00 +0700 - test(core): add feature #172
+2025-02-10 13:50:00 +0700 - test(api): remove feature #143
