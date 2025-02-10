@@ -1366,3 +1366,4 @@
 2025-02-06 16:33:00 +0700 - docs(db): update feature #348
 2025-02-07 9:0:00 +0700 - fix(core): remove feature #469
 2025-02-08 12:12:00 +0700 - chore(db): remove feature #384
+2025-02-10 9:9:00 +0700 - perf(api): update feature #364
