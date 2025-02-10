@@ -16675,3 +16675,4 @@
 2025-02-07 14:10:00 +0700 - feat(core): update feature #439
 2025-02-08 10:18:00 +0700 - feat(auth): handle feature #350
 2025-02-08 13:21:00 +0700 - test(ui): add feature #350
+2025-02-10 14:17:00 +0700 - refactor(ui): improve feature #231
