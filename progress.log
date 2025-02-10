@@ -30982,3 +30982,4 @@
 2025-02-07 14:8:00 +0700 - test(auth): update feature #267
 2025-02-08 15:1:00 +0700 - test(config): handle feature #242
 2025-02-08 11:28:00 +0700 - fix(core): handle feature #242
+2025-02-10 9:40:00 +0700 - fix(ui): remove feature #133
