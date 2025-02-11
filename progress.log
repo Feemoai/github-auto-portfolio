@@ -48948,3 +48948,4 @@
 2025-02-08 15:8:00 +0700 - feat(api): remove feature #299
 2025-02-08 12:26:00 +0700 - docs(api): update feature #299
 2025-02-10 9:56:00 +0700 - fix(config): remove feature #147
+2025-02-11 10:25:00 +0700 - perf(ui): add feature #262
