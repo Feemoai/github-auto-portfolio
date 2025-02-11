@@ -205,3 +205,4 @@
 2025-02-08 14:43:00 +0700 - fix(ui): update feature #285
 2025-02-10 15:6:00 +0700 - feat(core): optimize feature #499
 2025-02-10 12:23:00 +0700 - test(config): add feature #499
+2025-02-11 11:12:00 +0700 - perf(api): improve feature #220
