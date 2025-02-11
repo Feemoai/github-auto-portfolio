@@ -8515,3 +8515,4 @@
 2025-02-08 15:22:00 +0700 - chore(db): add feature #194
 2025-02-10 16:24:00 +0700 - chore(config): handle feature #480
 2025-02-10 16:34:00 +0700 - refactor(db): handle feature #480
+2025-02-11 10:52:00 +0700 - fix(core): remove feature #365
