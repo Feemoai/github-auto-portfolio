@@ -60613,3 +60613,4 @@
 2025-02-08 10:27:00 +0700 - fix(ui): update feature #480
 2025-02-08 13:19:00 +0700 - fix(auth): optimize feature #480
 2025-02-10 9:38:00 +0700 - refactor(auth): remove feature #488
+2025-02-11 10:45:00 +0700 - feat(auth): optimize feature #446
