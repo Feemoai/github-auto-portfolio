@@ -52246,3 +52246,4 @@
 2025-02-08 16:49:00 +0700 - chore(core): improve feature #323
 2025-02-08 10:11:00 +0700 - test(db): optimize feature #323
 2025-02-10 13:10:00 +0700 - fix(auth): optimize feature #333
+2025-02-11 16:58:00 +0700 - feat(auth): remove feature #135
