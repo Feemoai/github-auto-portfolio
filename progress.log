@@ -9788,3 +9788,4 @@
 2025-02-08 15:5:00 +0700 - feat(core): improve feature #362
 2025-02-08 10:2:00 +0700 - perf(core): update feature #362
 2025-02-10 14:28:00 +0700 - perf(api): update feature #241
+2025-02-11 15:4:00 +0700 - fix(api): handle feature #284
