@@ -789,3 +789,5 @@
 2025-02-08 16:28:00 +0700 - chore(config): add feature #347
 2025-02-10 11:11:00 +0700 - feat(db): handle feature #387
 2025-02-10 12:23:00 +0700 - fix(ui): add feature #387
+2025-02-11 14:55:00 +0700 - fix(ui): handle feature #330
+2025-02-11 11:19:00 +0700 - chore(config): optimize feature #330
