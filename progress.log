@@ -40249,3 +40249,5 @@
 2025-02-08 10:11:00 +0700 - feat(core): remove feature #436
 2025-02-10 16:46:00 +0700 - refactor(auth): add feature #193
 2025-02-10 12:2:00 +0700 - docs(db): remove feature #193
+2025-02-11 10:39:00 +0700 - test(config): add feature #247
+2025-02-11 11:4:00 +0700 - fix(db): update feature #247
