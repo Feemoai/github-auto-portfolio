@@ -40839,3 +40839,4 @@
 2025-02-08 16:41:00 +0700 - test(auth): handle feature #240
 2025-02-10 15:7:00 +0700 - perf(auth): update feature #258
 2025-02-10 12:50:00 +0700 - test(ui): handle feature #258
+2025-02-11 16:15:00 +0700 - feat(auth): remove feature #298
