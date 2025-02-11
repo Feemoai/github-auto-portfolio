@@ -21360,3 +21360,4 @@
 2025-02-08 16:33:00 +0700 - docs(core): update feature #455
 2025-02-10 11:13:00 +0700 - perf(auth): optimize feature #365
 2025-02-10 16:18:00 +0700 - fix(core): handle feature #365
+2025-02-11 15:2:00 +0700 - perf(auth): optimize feature #347
