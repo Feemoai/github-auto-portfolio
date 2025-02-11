@@ -11370,3 +11370,4 @@
 2025-02-08 16:23:00 +0700 - feat(config): remove feature #306
 2025-02-10 9:0:00 +0700 - test(config): add feature #338
 2025-02-10 13:46:00 +0700 - perf(api): remove feature #338
+2025-02-11 14:42:00 +0700 - docs(core): update feature #366
