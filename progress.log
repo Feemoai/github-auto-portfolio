@@ -51215,3 +51215,5 @@
 2025-02-08 13:56:00 +0700 - test(ui): add feature #327
 2025-02-10 11:10:00 +0700 - fix(ui): handle feature #147
 2025-02-10 10:6:00 +0700 - docs(auth): remove feature #147
+2025-02-11 13:16:00 +0700 - docs(config): optimize feature #110
+2025-02-11 10:13:00 +0700 - refactor(auth): handle feature #110
