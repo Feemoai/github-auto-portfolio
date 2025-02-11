@@ -36930,3 +36930,4 @@
 2025-02-08 12:20:00 +0700 - docs(core): update feature #169
 2025-02-08 16:42:00 +0700 - feat(db): optimize feature #169
 2025-02-10 15:49:00 +0700 - fix(core): optimize feature #260
+2025-02-11 14:41:00 +0700 - perf(config): improve feature #421
