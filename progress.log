@@ -12062,3 +12062,5 @@
 2025-02-08 16:36:00 +0700 - docs(config): handle feature #313
 2025-02-08 9:8:00 +0700 - perf(auth): update feature #313
 2025-02-10 14:30:00 +0700 - docs(config): remove feature #487
+2025-02-11 14:28:00 +0700 - docs(core): update feature #492
+2025-02-11 11:2:00 +0700 - fix(core): add feature #492
