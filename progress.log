@@ -32367,3 +32367,4 @@
 2025-02-08 16:40:00 +0700 - chore(api): remove feature #436
 2025-02-10 9:8:00 +0700 - fix(core): add feature #158
 2025-02-11 10:1:00 +0700 - test(core): remove feature #462
+2025-02-11 11:36:00 +0700 - feat(config): optimize feature #462
