@@ -13424,3 +13424,4 @@
 2025-02-07 13:21:00 +0700 - chore(auth): optimize feature #381
 2025-02-08 10:40:00 +0700 - fix(auth): optimize feature #418
 2025-02-10 15:8:00 +0700 - fix(ui): handle feature #486
+2025-02-11 10:18:00 +0700 - fix(config): handle feature #359
