@@ -8638,3 +8638,4 @@
 2025-02-08 12:6:00 +0700 - feat(config): update feature #384
 2025-02-10 12:18:00 +0700 - fix(auth): remove feature #295
 2025-02-10 10:29:00 +0700 - fix(config): handle feature #295
+2025-02-11 14:48:00 +0700 - fix(ui): improve feature #360
