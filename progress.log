@@ -12174,3 +12174,5 @@
 2025-02-08 16:47:00 +0700 - feat(db): handle feature #106
 2025-02-08 14:3:00 +0700 - fix(core): handle feature #106
 2025-02-10 15:5:00 +0700 - test(core): add feature #410
+2025-02-11 12:19:00 +0700 - docs(api): optimize feature #477
+2025-02-11 12:50:00 +0700 - feat(config): handle feature #477
