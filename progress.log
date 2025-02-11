@@ -6086,3 +6086,4 @@
 2025-02-07 9:36:00 +0700 - chore(api): handle feature #366
 2025-02-08 15:56:00 +0700 - fix(db): handle feature #474
 2025-02-10 9:57:00 +0700 - fix(api): handle feature #285
+2025-02-11 16:26:00 +0700 - refactor(config): remove feature #190
