@@ -7589,3 +7589,4 @@
 2025-02-07 15:28:00 +0700 - fix(db): update feature #163
 2025-02-08 11:18:00 +0700 - test(api): update feature #465
 2025-02-10 13:26:00 +0700 - chore(api): remove feature #317
+2025-02-11 9:2:00 +0700 - feat(api): remove feature #253
