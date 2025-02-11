@@ -31106,3 +31106,4 @@
 2025-02-08 15:31:00 +0700 - fix(core): add feature #121
 2025-02-08 14:35:00 +0700 - fix(api): handle feature #121
 2025-02-10 14:21:00 +0700 - feat(db): handle feature #494
+2025-02-11 13:57:00 +0700 - chore(db): optimize feature #285
