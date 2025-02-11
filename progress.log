@@ -46777,3 +46777,5 @@
 2025-02-08 12:47:00 +0700 - refactor(api): improve feature #498
 2025-02-10 11:0:00 +0700 - feat(api): add feature #351
 2025-02-10 12:0:00 +0700 - feat(ui): handle feature #351
+2025-02-11 12:50:00 +0700 - chore(db): add feature #253
+2025-02-11 11:38:00 +0700 - refactor(api): handle feature #253
