@@ -9429,3 +9429,4 @@
 2025-02-08 10:6:00 +0700 - chore(db): remove feature #335
 2025-02-10 9:23:00 +0700 - test(config): update feature #331
 2025-02-10 12:42:00 +0700 - docs(api): remove feature #331
+2025-02-11 15:47:00 +0700 - fix(auth): improve feature #375
