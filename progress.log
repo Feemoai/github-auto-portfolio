@@ -15261,3 +15261,4 @@
 2025-02-10 9:34:00 +0700 - fix(core): update feature #296
 2025-02-10 15:17:00 +0700 - perf(api): optimize feature #296
 2025-02-11 11:24:00 +0700 - perf(auth): add feature #303
+2025-02-11 10:37:00 +0700 - fix(core): handle feature #303
