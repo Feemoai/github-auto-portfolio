@@ -3111,3 +3111,5 @@
 2025-02-08 15:37:00 +0700 - refactor(api): update feature #386
 2025-02-08 11:51:00 +0700 - chore(config): handle feature #386
 2025-02-10 13:9:00 +0700 - perf(core): optimize feature #427
+2025-02-11 9:55:00 +0700 - fix(core): improve feature #176
+2025-02-11 9:23:00 +0700 - feat(core): optimize feature #176
