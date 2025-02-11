@@ -38535,3 +38535,4 @@
 2025-02-08 10:23:00 +0700 - refactor(core): remove feature #272
 2025-02-10 12:2:00 +0700 - feat(core): improve feature #300
 2025-02-10 13:33:00 +0700 - refactor(api): add feature #300
+2025-02-11 16:32:00 +0700 - fix(api): handle feature #442
