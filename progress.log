@@ -1600,3 +1600,4 @@
 2025-02-08 9:37:00 +0700 - feat(core): remove feature #268
 2025-02-10 16:17:00 +0700 - perf(auth): update feature #151
 2025-02-10 15:44:00 +0700 - perf(db): add feature #151
+2025-02-11 12:34:00 +0700 - perf(ui): handle feature #305
