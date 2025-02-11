@@ -62587,3 +62587,5 @@
 2025-02-08 15:2:00 +0700 - chore(core): add feature #257
 2025-02-10 16:20:00 +0700 - refactor(db): remove feature #429
 2025-02-10 10:23:00 +0700 - chore(db): handle feature #429
+2025-02-11 15:3:00 +0700 - refactor(core): update feature #291
+2025-02-11 10:18:00 +0700 - fix(auth): optimize feature #291
