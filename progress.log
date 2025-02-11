@@ -61647,3 +61647,4 @@
 2025-02-10 11:17:00 +0700 - docs(api): optimize feature #187
 2025-02-10 16:8:00 +0700 - fix(core): update feature #187
 2025-02-11 11:15:00 +0700 - perf(core): add feature #420
+2025-02-11 13:19:00 +0700 - perf(api): update feature #420
