@@ -57028,3 +57028,5 @@
 2025-02-07 11:4:00 +0700 - test(api): add feature #173
 2025-02-08 10:29:00 +0700 - chore(db): handle feature #146
 2025-02-10 16:42:00 +0700 - perf(auth): add feature #146
+2025-02-11 11:41:00 +0700 - fix(auth): remove feature #247
+2025-02-11 9:30:00 +0700 - feat(ui): update feature #247
