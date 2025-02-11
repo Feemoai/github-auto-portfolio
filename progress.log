@@ -63527,3 +63527,4 @@
 2025-02-10 11:5:00 +0700 - fix(db): optimize feature #144
 2025-02-10 11:1:00 +0700 - chore(config): update feature #144
 2025-02-11 13:40:00 +0700 - test(auth): remove feature #223
+2025-02-11 15:30:00 +0700 - chore(db): handle feature #223
