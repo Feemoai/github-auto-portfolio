@@ -62940,3 +62940,5 @@
 2025-02-08 14:0:00 +0700 - fix(api): optimize feature #115
 2025-02-10 9:16:00 +0700 - perf(core): handle feature #308
 2025-02-10 11:46:00 +0700 - docs(api): optimize feature #308
+2025-02-11 11:41:00 +0700 - perf(ui): handle feature #368
+2025-02-11 12:50:00 +0700 - refactor(ui): handle feature #368
