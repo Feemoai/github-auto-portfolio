@@ -17605,3 +17605,4 @@
 2025-02-08 12:27:00 +0700 - perf(config): update feature #156
 2025-02-10 9:44:00 +0700 - test(auth): update feature #389
 2025-02-10 16:59:00 +0700 - fix(db): add feature #389
+2025-02-11 16:8:00 +0700 - test(core): handle feature #336
