@@ -65498,3 +65498,4 @@
 2025-02-08 14:28:00 +0700 - chore(auth): handle feature #335
 2025-02-10 14:28:00 +0700 - feat(auth): add feature #213
 2025-02-10 10:29:00 +0700 - perf(config): remove feature #213
+2025-02-11 12:9:00 +0700 - docs(core): optimize feature #476
