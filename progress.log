@@ -30063,3 +30063,4 @@
 2025-02-08 14:38:00 +0700 - fix(db): add feature #424
 2025-02-10 13:2:00 +0700 - perf(core): optimize feature #457
 2025-02-10 9:19:00 +0700 - docs(api): optimize feature #457
+2025-02-11 9:0:00 +0700 - perf(auth): add feature #458
