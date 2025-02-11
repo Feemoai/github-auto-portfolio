@@ -8167,3 +8167,5 @@
 2025-02-07 15:42:00 +0700 - docs(core): remove feature #235
 2025-02-08 15:10:00 +0700 - fix(api): update feature #369
 2025-02-10 11:16:00 +0700 - chore(db): add feature #328
+2025-02-11 12:6:00 +0700 - perf(db): optimize feature #195
+2025-02-11 12:32:00 +0700 - chore(auth): optimize feature #195
