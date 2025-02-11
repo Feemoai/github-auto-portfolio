@@ -15025,3 +15025,4 @@
 2025-02-08 16:54:00 +0700 - fix(api): add feature #320
 2025-02-10 11:56:00 +0700 - feat(config): remove feature #486
 2025-02-10 15:39:00 +0700 - fix(auth): remove feature #486
+2025-02-11 14:23:00 +0700 - perf(auth): improve feature #378
