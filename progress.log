@@ -57369,3 +57369,4 @@
 2025-02-08 12:33:00 +0700 - feat(auth): update feature #177
 2025-02-10 12:3:00 +0700 - docs(ui): optimize feature #189
 2025-02-10 12:45:00 +0700 - refactor(core): update feature #189
+2025-02-11 11:30:00 +0700 - fix(core): handle feature #492
