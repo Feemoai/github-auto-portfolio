@@ -6438,3 +6438,4 @@
 2025-02-07 14:23:00 +0700 - perf(core): update feature #190
 2025-02-08 15:0:00 +0700 - fix(auth): handle feature #438
 2025-02-10 13:29:00 +0700 - test(api): add feature #453
+2025-02-11 16:49:00 +0700 - refactor(api): optimize feature #237
