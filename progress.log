@@ -49646,3 +49646,4 @@
 2025-02-11 12:6:00 +0700 - docs(auth): add feature #410
 2025-02-11 13:40:00 +0700 - perf(db): remove feature #410
 2025-02-12 11:49:00 +0700 - fix(auth): add feature #377
+2025-02-12 13:42:00 +0700 - chore(config): improve feature #377
