@@ -47810,3 +47810,5 @@
 2025-02-10 9:52:00 +0700 - test(api): update feature #256
 2025-02-11 10:57:00 +0700 - fix(auth): update feature #257
 2025-02-11 16:56:00 +0700 - perf(db): handle feature #257
+2025-02-12 14:6:00 +0700 - feat(config): handle feature #400
+2025-02-12 12:16:00 +0700 - feat(api): optimize feature #400
