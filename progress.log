@@ -9201,3 +9201,4 @@
 2025-02-10 15:10:00 +0700 - test(config): update feature #276
 2025-02-11 15:52:00 +0700 - docs(auth): add feature #275
 2025-02-11 11:32:00 +0700 - refactor(api): optimize feature #275
+2025-02-12 10:49:00 +0700 - refactor(api): handle feature #312
