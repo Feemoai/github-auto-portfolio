@@ -42829,3 +42829,4 @@
 2025-02-10 11:34:00 +0700 - refactor(auth): optimize feature #252
 2025-02-11 10:12:00 +0700 - fix(core): remove feature #118
 2025-02-11 10:0:00 +0700 - docs(config): remove feature #118
+2025-02-12 15:8:00 +0700 - chore(ui): add feature #152
