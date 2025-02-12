@@ -15970,3 +15970,4 @@
 2025-02-08 12:13:00 +0700 - test(api): remove feature #459
 2025-02-10 12:11:00 +0700 - chore(ui): handle feature #397
 2025-02-11 13:49:00 +0700 - perf(db): remove feature #347
+2025-02-12 10:59:00 +0700 - fix(ui): handle feature #391
