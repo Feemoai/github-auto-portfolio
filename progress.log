@@ -45838,3 +45838,4 @@
 2025-02-10 9:47:00 +0700 - perf(auth): optimize feature #128
 2025-02-11 14:14:00 +0700 - perf(db): remove feature #412
 2025-02-11 13:49:00 +0700 - perf(auth): add feature #412
+2025-02-12 15:2:00 +0700 - chore(db): add feature #297
