@@ -35084,3 +35084,5 @@
 2025-02-10 16:48:00 +0700 - docs(core): add feature #491
 2025-02-11 12:1:00 +0700 - docs(db): optimize feature #247
 2025-02-11 12:42:00 +0700 - fix(config): remove feature #247
+2025-02-12 11:2:00 +0700 - feat(ui): improve feature #458
+2025-02-12 12:33:00 +0700 - perf(core): improve feature #458
