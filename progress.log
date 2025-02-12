@@ -3907,3 +3907,4 @@
 2025-02-10 9:32:00 +0700 - refactor(api): remove feature #178
 2025-02-11 11:31:00 +0700 - refactor(config): add feature #197
 2025-02-11 13:24:00 +0700 - fix(api): handle feature #197
+2025-02-12 9:19:00 +0700 - refactor(core): update feature #247
