@@ -60847,3 +60847,4 @@
 2025-02-10 13:5:00 +0700 - fix(core): optimize feature #474
 2025-02-11 16:39:00 +0700 - perf(ui): improve feature #147
 2025-02-11 11:18:00 +0700 - fix(config): improve feature #147
+2025-02-12 16:40:00 +0700 - feat(auth): handle feature #226
