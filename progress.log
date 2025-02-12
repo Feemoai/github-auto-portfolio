@@ -8518,3 +8518,4 @@
 2025-02-11 10:52:00 +0700 - fix(core): remove feature #365
 2025-02-11 11:18:00 +0700 - refactor(auth): add feature #365
 2025-02-12 15:42:00 +0700 - fix(db): handle feature #207
+2025-02-12 16:12:00 +0700 - docs(db): optimize feature #207
