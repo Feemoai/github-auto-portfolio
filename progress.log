@@ -47582,3 +47582,5 @@
 2025-02-10 9:49:00 +0700 - test(ui): optimize feature #147
 2025-02-11 9:33:00 +0700 - feat(ui): improve feature #420
 2025-02-11 16:48:00 +0700 - perf(db): optimize feature #420
+2025-02-12 10:29:00 +0700 - feat(config): remove feature #135
+2025-02-12 12:17:00 +0700 - chore(config): improve feature #135
