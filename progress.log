@@ -21362,3 +21362,4 @@
 2025-02-10 16:18:00 +0700 - fix(core): handle feature #365
 2025-02-11 15:2:00 +0700 - perf(auth): optimize feature #347
 2025-02-11 9:17:00 +0700 - feat(auth): update feature #347
+2025-02-12 13:1:00 +0700 - chore(auth): update feature #417
