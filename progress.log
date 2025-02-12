@@ -57488,3 +57488,4 @@
 2025-02-10 12:24:00 +0700 - docs(api): remove feature #493
 2025-02-11 12:49:00 +0700 - feat(auth): handle feature #472
 2025-02-11 12:42:00 +0700 - chore(config): update feature #472
+2025-02-12 10:24:00 +0700 - perf(auth): handle feature #255
