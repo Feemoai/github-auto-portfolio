@@ -14571,3 +14571,4 @@
 2025-02-11 9:30:00 +0700 - test(core): remove feature #329
 2025-02-11 11:36:00 +0700 - feat(auth): improve feature #329
 2025-02-12 15:48:00 +0700 - docs(db): improve feature #377
+2025-02-12 9:11:00 +0700 - chore(db): optimize feature #377
