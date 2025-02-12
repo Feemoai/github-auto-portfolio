@@ -12176,3 +12176,4 @@
 2025-02-10 15:5:00 +0700 - test(core): add feature #410
 2025-02-11 12:19:00 +0700 - docs(api): optimize feature #477
 2025-02-11 12:50:00 +0700 - feat(config): handle feature #477
+2025-02-12 16:57:00 +0700 - chore(db): optimize feature #390
