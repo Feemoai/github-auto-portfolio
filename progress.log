@@ -4254,3 +4254,5 @@
 2025-02-10 15:33:00 +0700 - fix(auth): improve feature #379
 2025-02-10 13:14:00 +0700 - perf(auth): handle feature #379
 2025-02-11 12:32:00 +0700 - fix(api): improve feature #416
+2025-02-12 10:54:00 +0700 - test(config): update feature #395
+2025-02-12 13:12:00 +0700 - test(config): handle feature #395
