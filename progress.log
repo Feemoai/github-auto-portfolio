@@ -21237,3 +21237,4 @@
 2025-02-11 15:22:00 +0700 - chore(api): update feature #419
 2025-02-11 15:34:00 +0700 - fix(auth): optimize feature #419
 2025-02-12 11:4:00 +0700 - test(config): optimize feature #286
+2025-02-12 10:19:00 +0700 - fix(core): remove feature #286
