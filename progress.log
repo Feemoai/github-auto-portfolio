@@ -1949,3 +1949,4 @@
 2025-02-10 11:16:00 +0700 - feat(ui): add feature #239
 2025-02-11 16:22:00 +0700 - docs(core): remove feature #380
 2025-02-12 11:19:00 +0700 - fix(ui): handle feature #196
+2025-02-12 15:40:00 +0700 - fix(db): handle feature #196
