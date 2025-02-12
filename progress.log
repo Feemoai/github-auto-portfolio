@@ -39222,3 +39222,5 @@
 2025-02-10 14:34:00 +0700 - docs(config): improve feature #265
 2025-02-10 12:0:00 +0700 - chore(ui): handle feature #265
 2025-02-11 11:29:00 +0700 - perf(api): optimize feature #401
+2025-02-12 11:4:00 +0700 - test(config): optimize feature #352
+2025-02-12 14:16:00 +0700 - docs(ui): remove feature #352
