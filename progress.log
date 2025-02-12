@@ -1255,3 +1255,5 @@
 2025-02-08 12:45:00 +0700 - test(db): improve feature #420
 2025-02-10 13:19:00 +0700 - perf(ui): handle feature #159
 2025-02-11 11:51:00 +0700 - perf(db): optimize feature #242
+2025-02-12 12:3:00 +0700 - docs(core): handle feature #162
+2025-02-12 9:15:00 +0700 - feat(core): remove feature #162
