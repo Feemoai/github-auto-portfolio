@@ -31224,3 +31224,4 @@
 2025-02-10 10:11:00 +0700 - test(auth): handle feature #120
 2025-02-11 10:8:00 +0700 - docs(config): handle feature #137
 2025-02-11 15:21:00 +0700 - perf(core): remove feature #137
+2025-02-12 13:32:00 +0700 - perf(config): optimize feature #360
