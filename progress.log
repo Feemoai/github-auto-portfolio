@@ -21598,3 +21598,4 @@
 2025-02-10 11:22:00 +0700 - chore(auth): add feature #208
 2025-02-11 13:11:00 +0700 - chore(config): update feature #115
 2025-02-11 15:28:00 +0700 - refactor(core): handle feature #115
+2025-02-12 16:36:00 +0700 - refactor(ui): remove feature #344
