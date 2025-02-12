@@ -67225,3 +67225,4 @@
 2025-02-11 13:30:00 +0700 - feat(auth): remove feature #230
 2025-02-11 13:25:00 +0700 - chore(core): add feature #230
 2025-02-12 16:46:00 +0700 - refactor(api): handle feature #305
+2025-02-12 10:23:00 +0700 - test(ui): remove feature #305
