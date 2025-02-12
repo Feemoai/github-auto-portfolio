@@ -7238,3 +7238,4 @@
 2025-02-08 10:42:00 +0700 - perf(auth): remove feature #171
 2025-02-10 13:22:00 +0700 - fix(api): remove feature #463
 2025-02-11 16:19:00 +0700 - test(core): remove feature #267
+2025-02-12 10:4:00 +0700 - docs(api): optimize feature #396
