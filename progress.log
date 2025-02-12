@@ -42360,3 +42360,4 @@
 2025-02-10 13:44:00 +0700 - feat(ui): improve feature #449
 2025-02-11 13:44:00 +0700 - refactor(core): improve feature #418
 2025-02-11 13:50:00 +0700 - fix(core): update feature #418
+2025-02-12 11:49:00 +0700 - fix(db): optimize feature #328
