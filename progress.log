@@ -37958,3 +37958,4 @@
 2025-02-10 12:9:00 +0700 - feat(core): add feature #415
 2025-02-11 14:7:00 +0700 - perf(auth): optimize feature #406
 2025-02-11 11:25:00 +0700 - feat(db): remove feature #406
+2025-02-12 15:1:00 +0700 - perf(core): add feature #168
