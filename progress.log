@@ -66179,3 +66179,4 @@
 2025-02-10 9:15:00 +0700 - fix(api): optimize feature #229
 2025-02-11 11:20:00 +0700 - fix(auth): handle feature #119
 2025-02-11 14:4:00 +0700 - chore(auth): optimize feature #119
+2025-02-12 9:21:00 +0700 - test(core): update feature #472
