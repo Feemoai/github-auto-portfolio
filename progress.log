@@ -14799,3 +14799,4 @@
 2025-02-10 9:46:00 +0700 - chore(db): add feature #205
 2025-02-10 12:7:00 +0700 - docs(config): add feature #205
 2025-02-11 11:45:00 +0700 - chore(config): add feature #386
+2025-02-12 13:57:00 +0700 - perf(core): remove feature #174
