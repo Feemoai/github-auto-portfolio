@@ -46321,3 +46321,5 @@
 2025-02-10 14:21:00 +0700 - test(api): remove feature #348
 2025-02-11 9:50:00 +0700 - docs(auth): update feature #286
 2025-02-11 10:13:00 +0700 - chore(core): optimize feature #286
+2025-02-12 12:49:00 +0700 - feat(api): handle feature #344
+2025-02-12 13:3:00 +0700 - refactor(core): update feature #344
