@@ -9789,3 +9789,5 @@
 2025-02-08 10:2:00 +0700 - perf(core): update feature #362
 2025-02-10 14:28:00 +0700 - perf(api): update feature #241
 2025-02-11 15:4:00 +0700 - fix(api): handle feature #284
+2025-02-12 16:42:00 +0700 - chore(api): handle feature #302
+2025-02-12 12:37:00 +0700 - test(core): improve feature #302
