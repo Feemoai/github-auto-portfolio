@@ -28786,3 +28786,4 @@
 2025-02-11 11:14:00 +0700 - feat(core): update feature #272
 2025-02-12 10:20:00 +0700 - fix(auth): update feature #344
 2025-02-12 10:17:00 +0700 - feat(config): handle feature #344
+2025-02-13 11:32:00 +0700 - fix(auth): handle feature #306
