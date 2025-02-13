@@ -68366,3 +68366,4 @@
 2025-02-11 10:56:00 +0700 - feat(db): remove feature #289
 2025-02-12 9:28:00 +0700 - perf(auth): update feature #130
 2025-02-12 12:54:00 +0700 - fix(config): add feature #130
+2025-02-13 11:33:00 +0700 - chore(auth): handle feature #188
