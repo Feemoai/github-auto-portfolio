@@ -24602,3 +24602,5 @@
 2025-02-11 12:37:00 +0700 - fix(api): improve feature #271
 2025-02-12 15:15:00 +0700 - chore(db): add feature #193
 2025-02-12 13:26:00 +0700 - perf(ui): improve feature #193
+2025-02-13 13:0:00 +0700 - perf(core): improve feature #275
+2025-02-13 11:59:00 +0700 - fix(ui): remove feature #275
