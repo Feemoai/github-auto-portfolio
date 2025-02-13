@@ -16900,3 +16900,4 @@
 2025-02-12 14:8:00 +0700 - feat(api): improve feature #104
 2025-02-12 14:12:00 +0700 - fix(auth): remove feature #104
 2025-02-13 16:37:00 +0700 - chore(core): optimize feature #189
+2025-02-13 16:38:00 +0700 - fix(config): remove feature #189
