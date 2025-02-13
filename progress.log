@@ -22634,3 +22634,4 @@
 2025-02-10 10:59:00 +0700 - test(ui): remove feature #367
 2025-02-11 14:23:00 +0700 - test(api): handle feature #419
 2025-02-12 14:47:00 +0700 - feat(auth): improve feature #108
+2025-02-13 14:21:00 +0700 - chore(core): optimize feature #157
