@@ -39577,3 +39577,4 @@
 2025-02-11 14:45:00 +0700 - docs(db): optimize feature #410
 2025-02-11 10:44:00 +0700 - chore(config): remove feature #410
 2025-02-12 10:16:00 +0700 - test(core): optimize feature #264
+2025-02-13 14:17:00 +0700 - fix(config): improve feature #422
