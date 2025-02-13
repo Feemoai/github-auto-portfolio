@@ -48950,3 +48950,4 @@
 2025-02-10 9:56:00 +0700 - fix(config): remove feature #147
 2025-02-11 10:25:00 +0700 - perf(ui): add feature #262
 2025-02-12 16:51:00 +0700 - feat(auth): handle feature #392
+2025-02-13 14:14:00 +0700 - fix(auth): optimize feature #471
