@@ -65148,3 +65148,4 @@
 2025-02-11 13:14:00 +0700 - chore(config): update feature #303
 2025-02-12 15:2:00 +0700 - fix(db): remove feature #389
 2025-02-12 11:9:00 +0700 - perf(core): handle feature #389
+2025-02-13 16:13:00 +0700 - perf(auth): update feature #322
