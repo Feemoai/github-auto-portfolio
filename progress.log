@@ -6328,3 +6328,4 @@
 2025-02-12 11:9:00 +0700 - fix(ui): handle feature #354
 2025-02-12 14:32:00 +0700 - perf(db): improve feature #354
 2025-02-13 9:22:00 +0700 - perf(api): improve feature #221
+2025-02-13 9:27:00 +0700 - docs(api): optimize feature #221
