@@ -39451,3 +39451,5 @@
 2025-02-11 15:47:00 +0700 - refactor(ui): optimize feature #191
 2025-02-12 10:22:00 +0700 - docs(auth): handle feature #136
 2025-02-12 10:5:00 +0700 - refactor(auth): update feature #136
+2025-02-13 11:25:00 +0700 - refactor(api): optimize feature #469
+2025-02-13 12:45:00 +0700 - docs(auth): remove feature #469
