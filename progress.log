@@ -61311,3 +61311,5 @@
 2025-02-11 10:7:00 +0700 - chore(config): improve feature #257
 2025-02-11 15:51:00 +0700 - test(config): handle feature #257
 2025-02-12 14:49:00 +0700 - docs(db): optimize feature #168
+2025-02-13 10:51:00 +0700 - test(ui): improve feature #390
+2025-02-13 16:38:00 +0700 - test(core): update feature #390
