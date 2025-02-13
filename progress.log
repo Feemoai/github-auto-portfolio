@@ -48371,3 +48371,4 @@
 2025-02-11 15:18:00 +0700 - feat(ui): add feature #153
 2025-02-11 9:6:00 +0700 - refactor(api): add feature #153
 2025-02-12 15:30:00 +0700 - perf(api): remove feature #309
+2025-02-13 14:44:00 +0700 - docs(auth): handle feature #216
