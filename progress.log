@@ -22865,3 +22865,5 @@
 2025-02-10 9:17:00 +0700 - test(auth): update feature #251
 2025-02-11 15:29:00 +0700 - perf(core): remove feature #257
 2025-02-12 14:53:00 +0700 - refactor(config): remove feature #386
+2025-02-13 13:40:00 +0700 - refactor(ui): improve feature #197
+2025-02-13 12:45:00 +0700 - refactor(ui): handle feature #197
