@@ -24959,3 +24959,4 @@
 2025-02-12 16:37:00 +0700 - test(auth): optimize feature #208
 2025-02-12 15:42:00 +0700 - docs(api): update feature #208
 2025-02-13 10:46:00 +0700 - docs(core): remove feature #152
+2025-02-13 13:46:00 +0700 - fix(db): handle feature #152
