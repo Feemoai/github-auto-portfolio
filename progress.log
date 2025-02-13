@@ -16563,3 +16563,4 @@
 2025-02-11 9:43:00 +0700 - docs(config): improve feature #348
 2025-02-12 10:1:00 +0700 - chore(auth): update feature #263
 2025-02-12 15:22:00 +0700 - fix(core): remove feature #263
+2025-02-13 14:25:00 +0700 - fix(api): handle feature #333
