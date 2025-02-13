@@ -32855,3 +32855,4 @@
 2025-02-11 10:5:00 +0700 - feat(ui): add feature #393
 2025-02-12 9:6:00 +0700 - fix(auth): optimize feature #252
 2025-02-12 12:17:00 +0700 - perf(auth): add feature #252
+2025-02-13 14:21:00 +0700 - feat(db): handle feature #397
