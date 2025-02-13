@@ -56685,3 +56685,4 @@
 2025-02-11 11:44:00 +0700 - fix(ui): optimize feature #192
 2025-02-12 11:33:00 +0700 - fix(core): improve feature #151
 2025-02-12 14:20:00 +0700 - test(auth): add feature #151
+2025-02-13 15:36:00 +0700 - refactor(core): handle feature #426
