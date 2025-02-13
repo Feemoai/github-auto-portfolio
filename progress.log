@@ -62008,3 +62008,5 @@
 2025-02-10 15:20:00 +0700 - feat(db): optimize feature #367
 2025-02-11 11:27:00 +0700 - feat(ui): add feature #431
 2025-02-12 12:14:00 +0700 - test(api): add feature #165
+2025-02-13 11:48:00 +0700 - chore(db): optimize feature #146
+2025-02-13 15:1:00 +0700 - feat(config): handle feature #146
