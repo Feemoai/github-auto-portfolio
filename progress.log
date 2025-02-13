@@ -17487,3 +17487,5 @@
 2025-02-11 16:22:00 +0700 - feat(auth): remove feature #348
 2025-02-11 9:49:00 +0700 - docs(ui): update feature #348
 2025-02-12 10:41:00 +0700 - refactor(ui): remove feature #469
+2025-02-13 11:26:00 +0700 - docs(db): improve feature #347
+2025-02-13 11:8:00 +0700 - perf(core): remove feature #347
