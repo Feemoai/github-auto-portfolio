@@ -52010,3 +52010,5 @@
 2025-02-10 13:28:00 +0700 - refactor(db): update feature #153
 2025-02-11 13:42:00 +0700 - refactor(api): update feature #381
 2025-02-12 9:36:00 +0700 - fix(ui): remove feature #170
+2025-02-13 13:12:00 +0700 - test(ui): add feature #378
+2025-02-13 13:8:00 +0700 - perf(auth): handle feature #378
