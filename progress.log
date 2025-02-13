@@ -51909,3 +51909,5 @@
 2025-02-11 14:30:00 +0700 - docs(db): add feature #368
 2025-02-12 14:36:00 +0700 - test(api): improve feature #120
 2025-02-12 12:47:00 +0700 - refactor(config): optimize feature #120
+2025-02-13 10:53:00 +0700 - chore(config): handle feature #149
+2025-02-13 12:5:00 +0700 - perf(db): remove feature #149
