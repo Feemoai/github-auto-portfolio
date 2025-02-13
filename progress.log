@@ -23310,3 +23310,4 @@
 2025-02-11 12:47:00 +0700 - feat(api): add feature #375
 2025-02-11 11:36:00 +0700 - chore(auth): improve feature #375
 2025-02-12 12:36:00 +0700 - chore(ui): handle feature #369
+2025-02-13 11:0:00 +0700 - fix(db): handle feature #464
