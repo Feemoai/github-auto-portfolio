@@ -66879,3 +66879,4 @@
 2025-02-11 15:6:00 +0700 - docs(api): improve feature #256
 2025-02-12 9:8:00 +0700 - test(auth): optimize feature #336
 2025-02-13 9:1:00 +0700 - fix(core): add feature #142
+2025-02-13 11:38:00 +0700 - docs(config): handle feature #142
