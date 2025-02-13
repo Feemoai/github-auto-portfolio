@@ -29829,3 +29829,4 @@
 2025-02-11 13:13:00 +0700 - test(core): remove feature #187
 2025-02-12 16:9:00 +0700 - fix(db): remove feature #176
 2025-02-13 10:59:00 +0700 - perf(ui): improve feature #281
+2025-02-13 11:10:00 +0700 - chore(db): add feature #281
