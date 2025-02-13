@@ -6675,3 +6675,5 @@
 2025-02-11 13:35:00 +0700 - refactor(config): handle feature #183
 2025-02-12 11:38:00 +0700 - fix(db): remove feature #380
 2025-02-12 15:5:00 +0700 - refactor(db): add feature #380
+2025-02-13 13:47:00 +0700 - chore(config): optimize feature #437
+2025-02-13 11:30:00 +0700 - chore(ui): handle feature #437
