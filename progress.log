@@ -61892,3 +61892,4 @@
 2025-02-11 14:32:00 +0700 - chore(ui): update feature #239
 2025-02-12 11:28:00 +0700 - chore(core): remove feature #417
 2025-02-12 16:58:00 +0700 - docs(auth): update feature #417
+2025-02-13 11:40:00 +0700 - test(api): handle feature #468
