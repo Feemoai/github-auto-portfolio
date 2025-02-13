@@ -62118,3 +62118,5 @@
 2025-02-11 9:6:00 +0700 - docs(core): add feature #288
 2025-02-11 14:3:00 +0700 - fix(core): add feature #288
 2025-02-12 12:55:00 +0700 - chore(auth): add feature #487
+2025-02-13 13:8:00 +0700 - perf(ui): remove feature #373
+2025-02-13 16:55:00 +0700 - fix(api): optimize feature #373
