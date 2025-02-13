@@ -48834,3 +48834,5 @@
 2025-02-11 14:0:00 +0700 - test(auth): add feature #477
 2025-02-12 14:51:00 +0700 - refactor(core): handle feature #215
 2025-02-12 10:33:00 +0700 - chore(config): optimize feature #215
+2025-02-13 13:40:00 +0700 - docs(ui): optimize feature #199
+2025-02-13 15:19:00 +0700 - fix(ui): optimize feature #199
