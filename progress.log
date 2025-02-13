@@ -36587,3 +36587,4 @@
 2025-02-11 16:4:00 +0700 - perf(db): add feature #163
 2025-02-12 10:49:00 +0700 - docs(ui): add feature #158
 2025-02-13 11:9:00 +0700 - feat(config): handle feature #367
+2025-02-13 13:1:00 +0700 - feat(auth): remove feature #367
