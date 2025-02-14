@@ -40965,3 +40965,4 @@
 2025-02-12 14:22:00 +0700 - docs(config): remove feature #440
 2025-02-13 16:40:00 +0700 - docs(auth): handle feature #497
 2025-02-14 11:5:00 +0700 - perf(api): remove feature #280
+2025-02-14 14:46:00 +0700 - fix(core): update feature #280
