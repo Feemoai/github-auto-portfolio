@@ -15505,3 +15505,5 @@
 2025-02-12 10:13:00 +0700 - fix(auth): update feature #253
 2025-02-12 16:36:00 +0700 - feat(core): handle feature #253
 2025-02-13 13:8:00 +0700 - perf(config): update feature #275
+2025-02-14 11:45:00 +0700 - chore(db): update feature #341
+2025-02-14 9:52:00 +0700 - feat(core): improve feature #341
