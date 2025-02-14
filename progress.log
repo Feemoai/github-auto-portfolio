@@ -42477,3 +42477,5 @@
 2025-02-12 15:39:00 +0700 - fix(auth): handle feature #471
 2025-02-12 11:55:00 +0700 - docs(api): handle feature #471
 2025-02-13 9:52:00 +0700 - test(core): update feature #347
+2025-02-14 9:52:00 +0700 - perf(api): update feature #186
+2025-02-14 10:56:00 +0700 - test(auth): improve feature #186
