@@ -4372,3 +4372,4 @@
 2025-02-12 11:32:00 +0700 - refactor(core): add feature #379
 2025-02-13 10:34:00 +0700 - chore(auth): improve feature #243
 2025-02-13 15:56:00 +0700 - test(ui): update feature #243
+2025-02-14 11:24:00 +0700 - perf(api): add feature #267
