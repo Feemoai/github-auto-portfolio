@@ -39901,3 +39901,5 @@
 2025-02-11 10:49:00 +0700 - fix(core): update feature #411
 2025-02-12 12:51:00 +0700 - feat(auth): improve feature #132
 2025-02-13 14:0:00 +0700 - docs(api): remove feature #123
+2025-02-14 15:19:00 +0700 - perf(auth): improve feature #434
+2025-02-14 12:24:00 +0700 - refactor(auth): optimize feature #434
