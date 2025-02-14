@@ -51105,3 +51105,5 @@
 2025-02-12 11:55:00 +0700 - test(ui): update feature #469
 2025-02-13 12:13:00 +0700 - refactor(api): update feature #112
 2025-02-13 15:32:00 +0700 - fix(db): handle feature #112
+2025-02-14 15:49:00 +0700 - fix(ui): improve feature #298
+2025-02-14 15:59:00 +0700 - refactor(core): handle feature #298
