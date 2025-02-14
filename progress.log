@@ -1142,3 +1142,5 @@
 2025-02-12 15:9:00 +0700 - docs(ui): update feature #431
 2025-02-13 13:39:00 +0700 - chore(ui): add feature #299
 2025-02-13 11:48:00 +0700 - fix(api): improve feature #299
+2025-02-14 11:47:00 +0700 - fix(db): optimize feature #224
+2025-02-14 9:59:00 +0700 - fix(auth): optimize feature #224
