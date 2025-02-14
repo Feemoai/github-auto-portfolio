@@ -9675,3 +9675,4 @@
 2025-02-12 12:6:00 +0700 - chore(auth): handle feature #496
 2025-02-12 11:32:00 +0700 - perf(auth): optimize feature #496
 2025-02-13 12:33:00 +0700 - docs(auth): handle feature #426
+2025-02-14 16:23:00 +0700 - refactor(api): handle feature #198
