@@ -43768,3 +43768,4 @@
 2025-02-13 9:28:00 +0700 - fix(api): remove feature #393
 2025-02-13 14:39:00 +0700 - feat(db): optimize feature #393
 2025-02-14 14:36:00 +0700 - feat(auth): improve feature #373
+2025-02-14 16:28:00 +0700 - perf(ui): add feature #373
