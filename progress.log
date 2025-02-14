@@ -28564,3 +28564,4 @@
 2025-02-12 9:23:00 +0700 - test(ui): optimize feature #129
 2025-02-12 11:34:00 +0700 - docs(core): optimize feature #129
 2025-02-13 14:44:00 +0700 - feat(ui): handle feature #393
+2025-02-14 16:3:00 +0700 - perf(api): handle feature #259
