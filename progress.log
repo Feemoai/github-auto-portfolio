@@ -52012,3 +52012,4 @@
 2025-02-12 9:36:00 +0700 - fix(ui): remove feature #170
 2025-02-13 13:12:00 +0700 - test(ui): add feature #378
 2025-02-13 13:8:00 +0700 - perf(auth): handle feature #378
+2025-02-14 9:40:00 +0700 - fix(auth): optimize feature #361
