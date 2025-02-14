@@ -8865,3 +8865,5 @@
 2025-02-12 9:58:00 +0700 - docs(auth): handle feature #440
 2025-02-13 14:44:00 +0700 - perf(api): optimize feature #339
 2025-02-13 16:45:00 +0700 - test(auth): add feature #339
+2025-02-14 9:30:00 +0700 - chore(auth): handle feature #344
+2025-02-14 15:5:00 +0700 - feat(config): remove feature #344
