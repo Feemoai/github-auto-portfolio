@@ -794,3 +794,4 @@
 2025-02-12 9:0:00 +0700 - feat(ui): remove feature #355
 2025-02-13 16:15:00 +0700 - test(core): optimize feature #102
 2025-02-14 12:2:00 +0700 - perf(ui): handle feature #286
+2025-02-14 13:12:00 +0700 - feat(core): handle feature #286
