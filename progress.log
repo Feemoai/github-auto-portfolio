@@ -19126,3 +19126,4 @@
 2025-02-12 16:52:00 +0700 - chore(core): add feature #378
 2025-02-13 11:40:00 +0700 - perf(core): handle feature #238
 2025-02-13 14:6:00 +0700 - test(core): improve feature #238
+2025-02-14 11:41:00 +0700 - perf(ui): remove feature #418
