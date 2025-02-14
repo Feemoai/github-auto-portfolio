@@ -13660,3 +13660,4 @@
 2025-02-12 10:41:00 +0700 - chore(ui): update feature #407
 2025-02-13 10:16:00 +0700 - refactor(auth): add feature #463
 2025-02-13 9:37:00 +0700 - perf(api): handle feature #463
+2025-02-14 11:25:00 +0700 - feat(ui): optimize feature #483
