@@ -59124,3 +59124,5 @@
 2025-02-12 16:44:00 +0700 - test(core): update feature #129
 2025-02-13 11:56:00 +0700 - feat(api): update feature #307
 2025-02-13 11:47:00 +0700 - perf(core): handle feature #307
+2025-02-14 16:46:00 +0700 - test(core): remove feature #345
+2025-02-14 15:21:00 +0700 - feat(core): improve feature #345
