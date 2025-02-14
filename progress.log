@@ -6906,3 +6906,4 @@
 2025-02-12 16:49:00 +0700 - fix(db): remove feature #316
 2025-02-13 9:3:00 +0700 - chore(core): handle feature #111
 2025-02-14 12:5:00 +0700 - fix(core): handle feature #122
+2025-02-14 15:23:00 +0700 - feat(config): optimize feature #122
