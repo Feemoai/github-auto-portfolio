@@ -51220,3 +51220,5 @@
 2025-02-12 12:21:00 +0700 - chore(api): improve feature #278
 2025-02-12 14:14:00 +0700 - docs(ui): remove feature #278
 2025-02-13 12:25:00 +0700 - chore(auth): improve feature #186
+2025-02-14 11:40:00 +0700 - docs(auth): optimize feature #236
+2025-02-14 14:14:00 +0700 - feat(auth): optimize feature #236
