@@ -21239,3 +21239,4 @@
 2025-02-12 11:4:00 +0700 - test(config): optimize feature #286
 2025-02-12 10:19:00 +0700 - fix(core): remove feature #286
 2025-02-13 14:57:00 +0700 - perf(auth): remove feature #212
+2025-02-14 15:43:00 +0700 - docs(ui): update feature #220
