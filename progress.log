@@ -62592,3 +62592,5 @@
 2025-02-12 12:55:00 +0700 - docs(api): optimize feature #328
 2025-02-12 9:49:00 +0700 - feat(auth): add feature #328
 2025-02-13 12:44:00 +0700 - chore(core): optimize feature #341
+2025-02-14 13:17:00 +0700 - test(db): optimize feature #239
+2025-02-14 12:56:00 +0700 - perf(auth): optimize feature #239
