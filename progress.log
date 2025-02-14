@@ -35544,3 +35544,5 @@
 2025-02-12 10:55:00 +0700 - fix(config): update feature #387
 2025-02-12 14:13:00 +0700 - test(core): update feature #387
 2025-02-13 14:32:00 +0700 - test(config): add feature #215
+2025-02-14 11:19:00 +0700 - chore(ui): improve feature #244
+2025-02-14 11:25:00 +0700 - test(core): optimize feature #244
