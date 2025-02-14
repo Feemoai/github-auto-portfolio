@@ -37401,3 +37401,4 @@
 2025-02-12 10:50:00 +0700 - perf(ui): add feature #275
 2025-02-13 14:25:00 +0700 - docs(api): remove feature #194
 2025-02-14 14:3:00 +0700 - perf(api): handle feature #130
+2025-02-14 14:37:00 +0700 - fix(core): handle feature #130
