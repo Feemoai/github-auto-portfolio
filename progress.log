@@ -65614,3 +65614,4 @@
 2025-02-12 15:57:00 +0700 - test(config): update feature #359
 2025-02-12 16:25:00 +0700 - refactor(db): handle feature #359
 2025-02-13 16:3:00 +0700 - fix(ui): optimize feature #487
+2025-02-14 15:59:00 +0700 - fix(core): handle feature #412
