@@ -28788,3 +28788,4 @@
 2025-02-12 10:17:00 +0700 - feat(config): handle feature #344
 2025-02-13 11:32:00 +0700 - fix(auth): handle feature #306
 2025-02-13 9:5:00 +0700 - perf(ui): remove feature #306
+2025-02-14 14:5:00 +0700 - refactor(db): improve feature #352
