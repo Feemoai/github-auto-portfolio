@@ -31684,3 +31684,4 @@
 2025-02-11 10:29:00 +0700 - test(auth): remove feature #352
 2025-02-12 15:19:00 +0700 - test(ui): improve feature #373
 2025-02-13 12:34:00 +0700 - test(auth): handle feature #114
+2025-02-14 9:34:00 +0700 - fix(core): handle feature #228
