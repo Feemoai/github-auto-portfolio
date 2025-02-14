@@ -42591,3 +42591,4 @@
 2025-02-12 13:9:00 +0700 - docs(core): optimize feature #352
 2025-02-13 16:38:00 +0700 - test(auth): optimize feature #479
 2025-02-13 9:23:00 +0700 - chore(db): optimize feature #479
+2025-02-14 11:45:00 +0700 - feat(db): handle feature #111
