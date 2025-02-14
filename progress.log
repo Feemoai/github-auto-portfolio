@@ -35657,3 +35657,5 @@
 2025-02-12 15:8:00 +0700 - perf(config): add feature #110
 2025-02-12 16:47:00 +0700 - perf(ui): update feature #110
 2025-02-13 10:29:00 +0700 - fix(auth): add feature #489
+2025-02-14 15:15:00 +0700 - perf(auth): handle feature #386
+2025-02-14 15:41:00 +0700 - fix(api): update feature #386
