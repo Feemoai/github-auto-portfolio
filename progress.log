@@ -45473,3 +45473,4 @@
 2025-02-12 14:35:00 +0700 - docs(auth): add feature #273
 2025-02-13 11:29:00 +0700 - chore(ui): update feature #129
 2025-02-13 11:26:00 +0700 - test(ui): optimize feature #129
+2025-02-14 14:22:00 +0700 - fix(api): remove feature #223
