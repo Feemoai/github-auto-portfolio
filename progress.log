@@ -3116,3 +3116,4 @@
 2025-02-12 14:47:00 +0700 - feat(core): update feature #396
 2025-02-13 13:17:00 +0700 - docs(db): update feature #330
 2025-02-13 15:18:00 +0700 - chore(ui): improve feature #330
+2025-02-14 13:8:00 +0700 - fix(auth): handle feature #493
