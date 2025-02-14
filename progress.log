@@ -25308,3 +25308,5 @@
 2025-02-12 14:8:00 +0700 - perf(core): add feature #261
 2025-02-13 16:47:00 +0700 - test(db): remove feature #326
 2025-02-13 16:21:00 +0700 - refactor(auth): update feature #326
+2025-02-14 13:15:00 +0700 - test(db): optimize feature #489
+2025-02-14 9:33:00 +0700 - perf(core): handle feature #489
