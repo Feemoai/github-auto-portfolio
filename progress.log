@@ -32856,3 +32856,4 @@
 2025-02-12 9:6:00 +0700 - fix(auth): optimize feature #252
 2025-02-12 12:17:00 +0700 - perf(auth): add feature #252
 2025-02-13 14:21:00 +0700 - feat(db): handle feature #397
+2025-02-14 11:37:00 +0700 - chore(config): optimize feature #494
