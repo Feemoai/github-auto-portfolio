@@ -32493,3 +32493,4 @@
 2025-02-12 10:38:00 +0700 - test(config): optimize feature #495
 2025-02-13 13:17:00 +0700 - fix(core): add feature #333
 2025-02-13 11:25:00 +0700 - chore(api): update feature #333
+2025-02-14 11:8:00 +0700 - perf(ui): optimize feature #113
