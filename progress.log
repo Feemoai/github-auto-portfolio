@@ -63871,3 +63871,4 @@
 2025-02-12 13:52:00 +0700 - docs(core): handle feature #150
 2025-02-13 16:7:00 +0700 - fix(db): optimize feature #340
 2025-02-13 12:33:00 +0700 - chore(auth): improve feature #340
+2025-02-14 16:51:00 +0700 - fix(api): add feature #415
