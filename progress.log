@@ -2422,3 +2422,4 @@
 2025-02-11 15:4:00 +0700 - docs(config): optimize feature #263
 2025-02-12 11:9:00 +0700 - docs(core): improve feature #421
 2025-02-13 16:37:00 +0700 - perf(core): update feature #470
+2025-02-14 13:51:00 +0700 - fix(db): handle feature #434
