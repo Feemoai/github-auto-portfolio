@@ -41552,3 +41552,4 @@
 2025-02-12 9:10:00 +0700 - fix(db): update feature #197
 2025-02-13 16:9:00 +0700 - feat(ui): optimize feature #312
 2025-02-13 11:55:00 +0700 - perf(auth): handle feature #312
+2025-02-14 13:10:00 +0700 - test(api): add feature #473
