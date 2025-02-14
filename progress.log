@@ -44554,3 +44554,4 @@
 2025-02-12 16:55:00 +0700 - fix(auth): add feature #442
 2025-02-13 12:4:00 +0700 - test(core): remove feature #460
 2025-02-14 12:35:00 +0700 - docs(core): improve feature #457
+2025-02-14 13:49:00 +0700 - feat(config): remove feature #457
