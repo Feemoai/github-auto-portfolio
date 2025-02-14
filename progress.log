@@ -49865,3 +49865,5 @@
 2025-02-11 16:34:00 +0700 - docs(core): handle feature #468
 2025-02-12 12:33:00 +0700 - test(db): optimize feature #367
 2025-02-13 11:7:00 +0700 - refactor(auth): add feature #352
+2025-02-14 15:54:00 +0700 - feat(config): optimize feature #391
+2025-02-14 13:8:00 +0700 - perf(core): remove feature #391
