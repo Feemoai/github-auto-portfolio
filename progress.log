@@ -50548,3 +50548,4 @@
 2025-02-12 12:11:00 +0700 - feat(api): remove feature #108
 2025-02-13 16:49:00 +0700 - feat(auth): optimize feature #208
 2025-02-13 13:34:00 +0700 - perf(core): add feature #208
+2025-02-14 14:28:00 +0700 - fix(ui): add feature #406
