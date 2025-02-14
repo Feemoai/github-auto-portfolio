@@ -17020,3 +17020,4 @@
 2025-02-13 15:20:00 +0700 - docs(auth): remove feature #384
 2025-02-13 11:19:00 +0700 - perf(auth): update feature #384
 2025-02-14 10:25:00 +0700 - chore(config): add feature #443
+2025-02-14 13:58:00 +0700 - fix(auth): remove feature #443
