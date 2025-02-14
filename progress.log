@@ -1721,3 +1721,4 @@
 2025-02-12 10:41:00 +0700 - test(ui): handle feature #464
 2025-02-13 9:45:00 +0700 - feat(auth): optimize feature #255
 2025-02-13 11:1:00 +0700 - refactor(db): handle feature #255
+2025-02-14 9:36:00 +0700 - fix(ui): improve feature #206
