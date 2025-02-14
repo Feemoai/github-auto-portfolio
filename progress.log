@@ -19006,3 +19006,5 @@
 2025-02-12 10:38:00 +0700 - fix(config): improve feature #135
 2025-02-13 13:45:00 +0700 - test(config): remove feature #203
 2025-02-13 10:21:00 +0700 - docs(ui): optimize feature #203
+2025-02-14 12:56:00 +0700 - refactor(db): handle feature #386
+2025-02-14 16:1:00 +0700 - fix(config): handle feature #386
