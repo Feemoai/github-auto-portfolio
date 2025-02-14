@@ -15973,3 +15973,4 @@
 2025-02-12 10:59:00 +0700 - fix(ui): handle feature #391
 2025-02-13 15:59:00 +0700 - chore(ui): handle feature #118
 2025-02-13 11:33:00 +0700 - test(api): add feature #118
+2025-02-14 12:51:00 +0700 - perf(api): optimize feature #401
