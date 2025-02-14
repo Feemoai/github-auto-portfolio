@@ -50434,3 +50434,4 @@
 2025-02-12 16:1:00 +0700 - feat(api): optimize feature #347
 2025-02-13 12:36:00 +0700 - test(api): remove feature #148
 2025-02-13 11:17:00 +0700 - docs(db): optimize feature #148
+2025-02-14 15:30:00 +0700 - fix(config): update feature #382
