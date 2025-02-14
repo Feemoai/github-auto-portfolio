@@ -38192,3 +38192,5 @@
 2025-02-11 12:1:00 +0700 - test(core): improve feature #446
 2025-02-12 10:51:00 +0700 - fix(db): handle feature #465
 2025-02-13 13:32:00 +0700 - test(api): optimize feature #136
+2025-02-14 14:5:00 +0700 - fix(auth): improve feature #491
+2025-02-14 9:19:00 +0700 - perf(auth): remove feature #491
