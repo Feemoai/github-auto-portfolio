@@ -43421,3 +43421,4 @@
 2025-02-13 10:4:00 +0700 - feat(ui): improve feature #200
 2025-02-14 13:7:00 +0700 - fix(db): optimize feature #154
 2025-02-14 15:35:00 +0700 - test(api): optimize feature #154
+2025-02-15 12:56:00 +0700 - fix(auth): update feature #458
