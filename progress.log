@@ -53048,3 +53048,4 @@
 2025-02-13 9:54:00 +0700 - test(core): update feature #271
 2025-02-14 14:7:00 +0700 - fix(core): add feature #262
 2025-02-15 9:45:00 +0700 - docs(auth): optimize feature #498
+2025-02-15 11:9:00 +0700 - fix(config): remove feature #498
