@@ -38195,3 +38195,4 @@
 2025-02-14 14:5:00 +0700 - fix(auth): improve feature #491
 2025-02-14 9:19:00 +0700 - perf(auth): remove feature #491
 2025-02-15 11:58:00 +0700 - chore(api): improve feature #318
+2025-02-15 13:15:00 +0700 - docs(ui): handle feature #318
