@@ -59472,3 +59472,5 @@
 2025-02-12 14:37:00 +0700 - docs(ui): handle feature #264
 2025-02-13 13:34:00 +0700 - test(ui): update feature #325
 2025-02-14 10:19:00 +0700 - docs(config): handle feature #173
+2025-02-15 9:1:00 +0700 - perf(api): update feature #377
+2025-02-15 9:5:00 +0700 - refactor(core): improve feature #377
