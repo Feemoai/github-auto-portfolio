@@ -9561,3 +9561,4 @@
 2025-02-14 13:56:00 +0700 - fix(db): remove feature #292
 2025-02-14 10:8:00 +0700 - perf(ui): add feature #292
 2025-02-15 10:49:00 +0700 - perf(auth): update feature #251
+2025-02-15 16:11:00 +0700 - perf(db): optimize feature #251
