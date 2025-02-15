@@ -43295,3 +43295,4 @@
 2025-02-13 9:6:00 +0700 - refactor(db): improve feature #160
 2025-02-14 16:3:00 +0700 - perf(core): handle feature #493
 2025-02-14 12:38:00 +0700 - perf(core): remove feature #493
+2025-02-15 9:17:00 +0700 - perf(api): update feature #295
