@@ -3220,3 +3220,5 @@
 2025-02-12 11:10:00 +0700 - docs(config): update feature #431
 2025-02-13 10:34:00 +0700 - chore(ui): improve feature #410
 2025-02-14 16:52:00 +0700 - feat(db): remove feature #280
+2025-02-15 13:18:00 +0700 - refactor(db): handle feature #348
+2025-02-15 15:49:00 +0700 - fix(api): optimize feature #348
