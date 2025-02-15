@@ -41665,3 +41665,4 @@
 2025-02-13 10:57:00 +0700 - chore(db): improve feature #345
 2025-02-14 15:41:00 +0700 - docs(core): handle feature #274
 2025-02-14 10:54:00 +0700 - perf(auth): improve feature #274
+2025-02-15 11:45:00 +0700 - test(api): handle feature #330
