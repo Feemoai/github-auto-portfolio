@@ -56357,3 +56357,4 @@
 2025-02-12 15:57:00 +0700 - chore(api): remove feature #104
 2025-02-13 9:26:00 +0700 - test(core): handle feature #106
 2025-02-14 11:35:00 +0700 - docs(config): handle feature #436
+2025-02-15 9:42:00 +0700 - fix(config): add feature #241
