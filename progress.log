@@ -5519,3 +5519,4 @@
 2025-02-13 12:12:00 +0700 - test(config): remove feature #113
 2025-02-13 10:37:00 +0700 - perf(db): improve feature #113
 2025-02-14 13:1:00 +0700 - chore(ui): optimize feature #134
+2025-02-15 12:6:00 +0700 - fix(core): remove feature #417
