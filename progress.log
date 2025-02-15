@@ -17610,3 +17610,4 @@
 2025-02-13 14:50:00 +0700 - perf(api): optimize feature #166
 2025-02-13 16:3:00 +0700 - test(config): optimize feature #166
 2025-02-14 10:50:00 +0700 - chore(config): remove feature #229
+2025-02-15 15:45:00 +0700 - feat(ui): handle feature #187
