@@ -51678,3 +51678,4 @@
 2025-02-13 11:59:00 +0700 - feat(ui): remove feature #436
 2025-02-14 12:7:00 +0700 - test(auth): improve feature #129
 2025-02-14 13:1:00 +0700 - chore(auth): remove feature #129
+2025-02-15 10:15:00 +0700 - fix(core): optimize feature #214
