@@ -18769,3 +18769,4 @@
 2025-02-14 15:58:00 +0700 - docs(core): optimize feature #131
 2025-02-14 13:37:00 +0700 - chore(auth): handle feature #131
 2025-02-15 16:11:00 +0700 - chore(db): improve feature #474
+2025-02-15 13:11:00 +0700 - fix(api): handle feature #474
