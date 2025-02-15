@@ -15389,3 +15389,4 @@
 2025-02-13 11:47:00 +0700 - feat(db): remove feature #419
 2025-02-14 14:11:00 +0700 - fix(db): optimize feature #474
 2025-02-15 10:27:00 +0700 - refactor(api): improve feature #379
+2025-02-15 10:32:00 +0700 - chore(config): improve feature #379
