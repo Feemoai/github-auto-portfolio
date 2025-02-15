@@ -18423,3 +18423,4 @@
 2025-02-13 16:51:00 +0700 - docs(ui): optimize feature #147
 2025-02-14 9:53:00 +0700 - feat(db): optimize feature #118
 2025-02-14 11:27:00 +0700 - chore(api): handle feature #118
+2025-02-15 14:40:00 +0700 - fix(core): handle feature #119
