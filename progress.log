@@ -3336,3 +3336,4 @@
 2025-02-13 14:23:00 +0700 - fix(core): add feature #375
 2025-02-14 10:51:00 +0700 - perf(db): remove feature #497
 2025-02-14 13:2:00 +0700 - fix(api): optimize feature #497
+2025-02-15 16:13:00 +0700 - test(core): improve feature #124
