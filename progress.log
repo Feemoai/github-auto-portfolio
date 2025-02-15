@@ -14576,3 +14576,4 @@
 2025-02-14 13:2:00 +0700 - test(api): optimize feature #336
 2025-02-14 11:17:00 +0700 - perf(ui): improve feature #336
 2025-02-15 13:11:00 +0700 - refactor(config): improve feature #206
+2025-02-15 13:29:00 +0700 - perf(core): optimize feature #206
