@@ -12181,3 +12181,5 @@
 2025-02-13 14:45:00 +0700 - feat(auth): add feature #166
 2025-02-13 9:43:00 +0700 - feat(core): add feature #166
 2025-02-14 10:51:00 +0700 - fix(config): update feature #392
+2025-02-15 15:44:00 +0700 - test(config): remove feature #359
+2025-02-15 15:27:00 +0700 - chore(ui): remove feature #359
