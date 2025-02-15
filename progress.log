@@ -2660,3 +2660,4 @@
 2025-02-13 13:16:00 +0700 - refactor(db): update feature #416
 2025-02-13 15:58:00 +0700 - refactor(api): improve feature #416
 2025-02-14 13:37:00 +0700 - test(api): add feature #467
+2025-02-15 12:1:00 +0700 - chore(api): handle feature #226
