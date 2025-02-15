@@ -43882,3 +43882,4 @@
 2025-02-14 12:43:00 +0700 - docs(ui): optimize feature #486
 2025-02-14 9:46:00 +0700 - perf(ui): handle feature #486
 2025-02-15 16:10:00 +0700 - chore(api): remove feature #332
+2025-02-15 10:38:00 +0700 - test(core): remove feature #332
