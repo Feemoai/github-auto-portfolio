@@ -35433,3 +35433,4 @@
 2025-02-12 14:10:00 +0700 - docs(core): add feature #138
 2025-02-13 16:40:00 +0700 - refactor(core): improve feature #393
 2025-02-14 11:58:00 +0700 - chore(ui): add feature #123
+2025-02-15 14:11:00 +0700 - refactor(db): handle feature #461
