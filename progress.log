@@ -28565,3 +28565,4 @@
 2025-02-12 11:34:00 +0700 - docs(core): optimize feature #129
 2025-02-13 14:44:00 +0700 - feat(ui): handle feature #393
 2025-02-14 16:3:00 +0700 - perf(api): handle feature #259
+2025-02-15 14:50:00 +0700 - chore(auth): update feature #495
