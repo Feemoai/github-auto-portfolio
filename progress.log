@@ -62831,3 +62831,4 @@
 2025-02-13 13:42:00 +0700 - docs(auth): handle feature #318
 2025-02-13 11:47:00 +0700 - docs(core): add feature #318
 2025-02-14 12:43:00 +0700 - fix(core): handle feature #368
+2025-02-15 15:24:00 +0700 - perf(core): improve feature #282
