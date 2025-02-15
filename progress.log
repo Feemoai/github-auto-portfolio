@@ -10802,3 +10802,5 @@
 2025-02-12 11:36:00 +0700 - feat(ui): add feature #498
 2025-02-13 16:52:00 +0700 - feat(auth): optimize feature #105
 2025-02-14 15:34:00 +0700 - perf(auth): optimize feature #125
+2025-02-15 10:4:00 +0700 - refactor(ui): remove feature #312
+2025-02-15 16:27:00 +0700 - chore(api): remove feature #312
