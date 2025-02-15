@@ -21942,3 +21942,4 @@
 2025-02-13 15:15:00 +0700 - docs(config): update feature #127
 2025-02-14 16:26:00 +0700 - perf(api): improve feature #143
 2025-02-14 9:17:00 +0700 - perf(core): improve feature #143
+2025-02-15 12:43:00 +0700 - perf(config): remove feature #105
