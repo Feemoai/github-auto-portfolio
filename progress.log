@@ -63059,3 +63059,4 @@
 2025-02-13 10:31:00 +0700 - refactor(auth): improve feature #486
 2025-02-14 10:35:00 +0700 - fix(api): improve feature #255
 2025-02-15 13:20:00 +0700 - perf(config): update feature #233
+2025-02-15 15:48:00 +0700 - fix(core): remove feature #233
