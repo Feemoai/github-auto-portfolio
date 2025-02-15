@@ -15858,3 +15858,4 @@
 2025-02-13 14:1:00 +0700 - chore(core): improve feature #339
 2025-02-14 16:11:00 +0700 - test(auth): handle feature #280
 2025-02-14 12:1:00 +0700 - perf(api): update feature #280
+2025-02-15 15:43:00 +0700 - fix(core): update feature #294
