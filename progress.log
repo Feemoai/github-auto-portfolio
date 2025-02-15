@@ -5179,3 +5179,5 @@
 2025-02-12 13:8:00 +0700 - fix(api): improve feature #322
 2025-02-13 14:43:00 +0700 - docs(api): add feature #122
 2025-02-14 12:48:00 +0700 - test(auth): update feature #312
+2025-02-15 10:49:00 +0700 - fix(api): add feature #490
+2025-02-15 15:0:00 +0700 - perf(ui): handle feature #490
