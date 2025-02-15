@@ -6444,3 +6444,4 @@
 2025-02-13 13:5:00 +0700 - fix(db): improve feature #392
 2025-02-14 12:16:00 +0700 - chore(api): improve feature #451
 2025-02-14 11:30:00 +0700 - refactor(api): remove feature #451
+2025-02-15 12:9:00 +0700 - fix(auth): update feature #416
