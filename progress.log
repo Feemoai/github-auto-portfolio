@@ -10915,3 +10915,4 @@
 2025-02-14 13:28:00 +0700 - test(api): update feature #171
 2025-02-14 12:48:00 +0700 - fix(core): update feature #171
 2025-02-15 13:58:00 +0700 - feat(auth): add feature #274
+2025-02-15 14:23:00 +0700 - chore(db): handle feature #274
