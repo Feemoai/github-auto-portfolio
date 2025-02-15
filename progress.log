@@ -7708,3 +7708,4 @@
 2025-02-13 9:40:00 +0700 - docs(core): add feature #167
 2025-02-14 16:40:00 +0700 - feat(api): add feature #355
 2025-02-14 12:48:00 +0700 - perf(api): improve feature #355
+2025-02-15 9:21:00 +0700 - fix(api): handle feature #254
