@@ -34852,3 +34852,4 @@
 2025-02-14 16:3:00 +0700 - docs(config): update feature #338
 2025-02-14 12:15:00 +0700 - docs(ui): update feature #338
 2025-02-15 12:8:00 +0700 - chore(core): update feature #248
+2025-02-15 15:14:00 +0700 - perf(api): handle feature #248
