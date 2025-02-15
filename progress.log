@@ -1952,3 +1952,4 @@
 2025-02-12 15:40:00 +0700 - fix(db): handle feature #196
 2025-02-13 13:30:00 +0700 - perf(db): remove feature #446
 2025-02-14 11:21:00 +0700 - fix(ui): optimize feature #479
+2025-02-15 11:47:00 +0700 - chore(api): add feature #320
