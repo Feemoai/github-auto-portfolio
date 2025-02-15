@@ -47125,3 +47125,4 @@
 2025-02-13 11:33:00 +0700 - feat(core): remove feature #207
 2025-02-13 13:39:00 +0700 - test(api): improve feature #207
 2025-02-14 13:46:00 +0700 - feat(db): improve feature #400
+2025-02-15 10:49:00 +0700 - feat(auth): handle feature #119
