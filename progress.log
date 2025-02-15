@@ -42138,3 +42138,5 @@
 2025-02-13 16:50:00 +0700 - chore(auth): update feature #101
 2025-02-13 9:51:00 +0700 - chore(config): optimize feature #101
 2025-02-14 11:1:00 +0700 - feat(db): update feature #205
+2025-02-15 16:24:00 +0700 - chore(db): optimize feature #158
+2025-02-15 10:58:00 +0700 - refactor(ui): improve feature #158
