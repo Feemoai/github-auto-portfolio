@@ -910,3 +910,5 @@
 2025-02-13 12:0:00 +0700 - fix(api): update feature #195
 2025-02-14 14:36:00 +0700 - fix(api): update feature #142
 2025-02-14 10:20:00 +0700 - chore(ui): handle feature #142
+2025-02-15 12:20:00 +0700 - perf(auth): improve feature #397
+2025-02-15 15:18:00 +0700 - chore(ui): add feature #397
