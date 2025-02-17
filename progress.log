@@ -59710,3 +59710,4 @@
 2025-02-13 15:6:00 +0700 - docs(ui): improve feature #219
 2025-02-14 10:50:00 +0700 - fix(api): update feature #327
 2025-02-15 12:33:00 +0700 - fix(ui): improve feature #165
+2025-02-17 12:55:00 +0700 - test(db): handle feature #196
