@@ -66422,3 +66422,4 @@
 2025-02-15 10:2:00 +0700 - docs(auth): improve feature #485
 2025-02-15 10:57:00 +0700 - test(core): update feature #485
 2025-02-17 14:1:00 +0700 - refactor(ui): update feature #251
+2025-02-17 9:50:00 +0700 - feat(db): remove feature #251
