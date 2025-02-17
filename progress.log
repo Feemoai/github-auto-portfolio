@@ -45600,3 +45600,4 @@
 2025-02-14 10:55:00 +0700 - feat(ui): remove feature #124
 2025-02-15 16:5:00 +0700 - perf(api): handle feature #230
 2025-02-15 13:18:00 +0700 - refactor(auth): update feature #230
+2025-02-17 15:19:00 +0700 - refactor(config): improve feature #378
