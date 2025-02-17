@@ -42252,3 +42252,5 @@
 2025-02-14 14:30:00 +0700 - docs(config): update feature #185
 2025-02-15 11:40:00 +0700 - refactor(core): improve feature #118
 2025-02-15 13:56:00 +0700 - feat(ui): add feature #118
+2025-02-17 16:22:00 +0700 - fix(ui): optimize feature #255
+2025-02-17 11:50:00 +0700 - docs(auth): optimize feature #255
