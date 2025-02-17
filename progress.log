@@ -46204,3 +46204,4 @@
 2025-02-14 15:53:00 +0700 - fix(db): optimize feature #223
 2025-02-14 12:13:00 +0700 - perf(db): optimize feature #223
 2025-02-15 15:6:00 +0700 - perf(ui): optimize feature #440
+2025-02-17 14:54:00 +0700 - docs(config): handle feature #146
