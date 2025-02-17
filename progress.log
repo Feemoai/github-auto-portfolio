@@ -44920,3 +44920,4 @@
 2025-02-14 14:28:00 +0700 - feat(api): improve feature #459
 2025-02-15 15:1:00 +0700 - feat(auth): improve feature #158
 2025-02-15 10:0:00 +0700 - docs(ui): optimize feature #158
+2025-02-17 12:4:00 +0700 - perf(core): optimize feature #122
