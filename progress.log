@@ -32612,3 +32612,5 @@
 2025-02-14 10:9:00 +0700 - docs(api): remove feature #342
 2025-02-15 13:54:00 +0700 - test(config): add feature #379
 2025-02-15 14:1:00 +0700 - docs(db): update feature #379
+2025-02-17 12:10:00 +0700 - fix(auth): handle feature #198
+2025-02-17 13:36:00 +0700 - docs(auth): remove feature #198
