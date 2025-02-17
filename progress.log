@@ -20669,3 +20669,5 @@
 2025-02-13 14:31:00 +0700 - test(db): update feature #360
 2025-02-14 9:59:00 +0700 - feat(core): add feature #483
 2025-02-15 13:51:00 +0700 - docs(ui): add feature #463
+2025-02-17 15:2:00 +0700 - feat(config): remove feature #254
+2025-02-17 9:49:00 +0700 - test(core): improve feature #254
