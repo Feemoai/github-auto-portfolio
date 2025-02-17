@@ -20784,3 +20784,4 @@
 2025-02-14 12:10:00 +0700 - fix(config): remove feature #111
 2025-02-15 14:32:00 +0700 - fix(auth): handle feature #345
 2025-02-17 15:2:00 +0700 - docs(ui): update feature #279
+2025-02-17 9:51:00 +0700 - fix(core): update feature #279
