@@ -24849,3 +24849,4 @@
 2025-02-14 9:12:00 +0700 - feat(ui): add feature #173
 2025-02-15 11:43:00 +0700 - chore(config): add feature #460
 2025-02-15 9:2:00 +0700 - test(core): add feature #460
+2025-02-17 14:26:00 +0700 - chore(auth): remove feature #248
