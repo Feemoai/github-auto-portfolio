@@ -19958,3 +19958,4 @@
 2025-02-13 11:39:00 +0700 - feat(core): add feature #276
 2025-02-14 14:49:00 +0700 - test(ui): update feature #454
 2025-02-15 11:10:00 +0700 - test(config): remove feature #475
+2025-02-17 9:8:00 +0700 - fix(ui): remove feature #388
