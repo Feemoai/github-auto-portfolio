@@ -4959,3 +4959,4 @@
 2025-02-13 12:35:00 +0700 - test(api): remove feature #143
 2025-02-14 11:37:00 +0700 - refactor(api): improve feature #337
 2025-02-15 12:49:00 +0700 - fix(ui): optimize feature #490
+2025-02-17 13:9:00 +0700 - perf(ui): optimize feature #225
