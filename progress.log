@@ -27306,3 +27306,4 @@
 2025-02-15 15:16:00 +0700 - refactor(config): remove feature #393
 2025-02-15 14:50:00 +0700 - perf(core): remove feature #393
 2025-02-17 14:57:00 +0700 - docs(db): add feature #120
+2025-02-17 10:55:00 +0700 - refactor(config): optimize feature #120
