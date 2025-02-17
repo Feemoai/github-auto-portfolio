@@ -45843,3 +45843,5 @@
 2025-02-14 14:15:00 +0700 - feat(ui): update feature #122
 2025-02-15 11:21:00 +0700 - refactor(config): optimize feature #377
 2025-02-15 14:33:00 +0700 - chore(db): add feature #377
+2025-02-17 16:30:00 +0700 - test(ui): handle feature #360
+2025-02-17 13:24:00 +0700 - docs(core): update feature #360
