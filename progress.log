@@ -7475,3 +7475,5 @@
 2025-02-14 14:17:00 +0700 - fix(auth): remove feature #343
 2025-02-14 16:41:00 +0700 - docs(core): remove feature #343
 2025-02-15 11:46:00 +0700 - refactor(core): handle feature #375
+2025-02-17 11:39:00 +0700 - chore(db): remove feature #349
+2025-02-17 11:29:00 +0700 - feat(ui): remove feature #349
