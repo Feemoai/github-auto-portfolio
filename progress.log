@@ -9902,3 +9902,5 @@
 2025-02-14 11:54:00 +0700 - chore(api): add feature #451
 2025-02-15 16:27:00 +0700 - perf(ui): remove feature #467
 2025-02-15 15:42:00 +0700 - fix(ui): remove feature #467
+2025-02-17 9:48:00 +0700 - test(core): update feature #312
+2025-02-17 9:31:00 +0700 - test(auth): add feature #312
