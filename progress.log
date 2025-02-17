@@ -26818,3 +26818,4 @@
 2025-02-14 13:7:00 +0700 - refactor(ui): remove feature #216
 2025-02-14 15:40:00 +0700 - refactor(ui): remove feature #216
 2025-02-15 14:2:00 +0700 - perf(db): optimize feature #169
+2025-02-17 10:33:00 +0700 - perf(auth): improve feature #396
