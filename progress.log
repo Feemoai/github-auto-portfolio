@@ -17492,3 +17492,5 @@
 2025-02-14 16:29:00 +0700 - fix(db): handle feature #230
 2025-02-15 12:13:00 +0700 - chore(core): update feature #265
 2025-02-15 15:24:00 +0700 - docs(ui): update feature #265
+2025-02-17 16:43:00 +0700 - fix(api): handle feature #198
+2025-02-17 12:51:00 +0700 - test(api): update feature #198
