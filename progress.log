@@ -16568,3 +16568,4 @@
 2025-02-14 16:48:00 +0700 - chore(config): optimize feature #432
 2025-02-14 14:29:00 +0700 - perf(api): handle feature #432
 2025-02-15 15:17:00 +0700 - fix(ui): optimize feature #192
+2025-02-17 14:25:00 +0700 - refactor(core): handle feature #327
