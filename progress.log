@@ -8525,3 +8525,4 @@
 2025-02-14 13:6:00 +0700 - feat(config): add feature #184
 2025-02-15 15:47:00 +0700 - chore(api): remove feature #289
 2025-02-15 15:10:00 +0700 - perf(db): remove feature #289
+2025-02-17 13:10:00 +0700 - perf(ui): improve feature #444
