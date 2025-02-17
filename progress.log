@@ -59016,3 +59016,4 @@
 2025-02-14 16:29:00 +0700 - feat(core): optimize feature #417
 2025-02-14 11:12:00 +0700 - chore(ui): improve feature #417
 2025-02-15 13:7:00 +0700 - fix(ui): update feature #279
+2025-02-17 14:26:00 +0700 - perf(ui): optimize feature #316
