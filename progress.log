@@ -32734,3 +32734,4 @@
 2025-02-14 9:0:00 +0700 - docs(api): update feature #405
 2025-02-15 11:8:00 +0700 - test(auth): improve feature #163
 2025-02-15 9:3:00 +0700 - perf(db): update feature #163
+2025-02-17 14:41:00 +0700 - perf(core): handle feature #125
