@@ -62245,3 +62245,4 @@
 2025-02-14 10:15:00 +0700 - chore(config): update feature #225
 2025-02-15 11:52:00 +0700 - chore(auth): remove feature #348
 2025-02-15 11:47:00 +0700 - docs(api): optimize feature #348
+2025-02-17 9:30:00 +0700 - feat(core): handle feature #163
