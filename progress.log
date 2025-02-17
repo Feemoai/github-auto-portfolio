@@ -22295,3 +22295,5 @@
 2025-02-14 14:18:00 +0700 - test(ui): update feature #290
 2025-02-14 9:20:00 +0700 - fix(core): remove feature #290
 2025-02-15 14:5:00 +0700 - refactor(auth): improve feature #107
+2025-02-17 12:43:00 +0700 - feat(ui): improve feature #310
+2025-02-17 13:37:00 +0700 - fix(auth): optimize feature #310
