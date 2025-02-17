@@ -13892,3 +13892,5 @@
 2025-02-14 13:58:00 +0700 - docs(db): remove feature #246
 2025-02-14 10:20:00 +0700 - fix(api): handle feature #246
 2025-02-15 12:6:00 +0700 - fix(auth): update feature #290
+2025-02-17 15:40:00 +0700 - test(config): remove feature #395
+2025-02-17 9:24:00 +0700 - test(api): handle feature #395
