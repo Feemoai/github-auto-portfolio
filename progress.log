@@ -67568,3 +67568,4 @@
 2025-02-14 13:1:00 +0700 - feat(core): improve feature #145
 2025-02-14 13:1:00 +0700 - feat(ui): improve feature #145
 2025-02-15 16:17:00 +0700 - feat(auth): remove feature #285
+2025-02-17 9:20:00 +0700 - fix(db): remove feature #479
