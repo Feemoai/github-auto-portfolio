@@ -40017,3 +40017,5 @@
 2025-02-14 10:13:00 +0700 - fix(core): optimize feature #418
 2025-02-15 15:1:00 +0700 - fix(core): remove feature #395
 2025-02-15 12:43:00 +0700 - test(api): handle feature #395
+2025-02-17 15:23:00 +0700 - perf(config): remove feature #370
+2025-02-17 13:31:00 +0700 - chore(api): improve feature #370
