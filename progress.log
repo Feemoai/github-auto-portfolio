@@ -3222,3 +3222,5 @@
 2025-02-14 16:52:00 +0700 - feat(db): remove feature #280
 2025-02-15 13:18:00 +0700 - refactor(db): handle feature #348
 2025-02-15 15:49:00 +0700 - fix(api): optimize feature #348
+2025-02-17 9:33:00 +0700 - docs(core): optimize feature #467
+2025-02-17 9:27:00 +0700 - docs(api): update feature #467
