@@ -6680,3 +6680,5 @@
 2025-02-14 15:6:00 +0700 - chore(core): add feature #149
 2025-02-14 9:39:00 +0700 - docs(core): update feature #149
 2025-02-15 15:24:00 +0700 - fix(api): update feature #203
+2025-02-17 9:29:00 +0700 - chore(config): optimize feature #451
+2025-02-17 10:28:00 +0700 - perf(core): remove feature #451
