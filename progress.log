@@ -42594,3 +42594,5 @@
 2025-02-14 11:45:00 +0700 - feat(db): handle feature #111
 2025-02-14 15:48:00 +0700 - test(db): handle feature #111
 2025-02-15 9:34:00 +0700 - feat(ui): remove feature #431
+2025-02-17 16:36:00 +0700 - feat(api): optimize feature #376
+2025-02-17 15:8:00 +0700 - feat(api): improve feature #376
