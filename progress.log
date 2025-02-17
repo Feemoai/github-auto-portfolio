@@ -16905,3 +16905,5 @@
 2025-02-14 16:23:00 +0700 - feat(ui): improve feature #297
 2025-02-15 11:16:00 +0700 - chore(ui): handle feature #430
 2025-02-15 10:4:00 +0700 - test(auth): update feature #430
+2025-02-17 11:32:00 +0700 - test(auth): remove feature #434
+2025-02-17 16:26:00 +0700 - feat(core): update feature #434
