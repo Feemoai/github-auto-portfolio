@@ -24963,3 +24963,4 @@
 2025-02-14 12:8:00 +0700 - docs(db): optimize feature #205
 2025-02-14 9:2:00 +0700 - perf(core): optimize feature #205
 2025-02-15 10:45:00 +0700 - fix(db): add feature #483
+2025-02-17 15:34:00 +0700 - fix(core): add feature #270
