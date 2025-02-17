@@ -38992,3 +38992,4 @@
 2025-02-14 13:12:00 +0700 - test(core): handle feature #354
 2025-02-15 11:4:00 +0700 - perf(config): optimize feature #277
 2025-02-15 11:22:00 +0700 - test(db): optimize feature #277
+2025-02-17 16:2:00 +0700 - docs(auth): update feature #498
