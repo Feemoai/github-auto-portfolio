@@ -15860,3 +15860,4 @@
 2025-02-14 12:1:00 +0700 - perf(api): update feature #280
 2025-02-15 15:43:00 +0700 - fix(core): update feature #294
 2025-02-17 15:16:00 +0700 - refactor(config): handle feature #247
+2025-02-17 10:26:00 +0700 - chore(db): handle feature #247
