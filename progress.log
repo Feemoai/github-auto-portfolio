@@ -63759,3 +63759,4 @@
 2025-02-14 9:20:00 +0700 - perf(api): handle feature #470
 2025-02-14 15:2:00 +0700 - test(ui): update feature #470
 2025-02-15 11:23:00 +0700 - refactor(core): update feature #323
+2025-02-17 12:28:00 +0700 - test(core): handle feature #474
