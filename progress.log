@@ -54417,3 +54417,4 @@
 2025-02-14 12:6:00 +0700 - feat(db): improve feature #402
 2025-02-14 9:3:00 +0700 - docs(config): remove feature #402
 2025-02-15 14:2:00 +0700 - fix(auth): optimize feature #485
+2025-02-17 16:59:00 +0700 - test(auth): handle feature #346
