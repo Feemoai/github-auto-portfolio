@@ -14122,3 +14122,4 @@
 2025-02-15 9:26:00 +0700 - refactor(db): add feature #316
 2025-02-17 13:41:00 +0700 - refactor(auth): update feature #488
 2025-02-17 12:51:00 +0700 - fix(api): update feature #488
+2025-02-18 9:7:00 +0700 - test(ui): handle feature #313
