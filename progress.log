@@ -39795,3 +39795,4 @@
 2025-02-15 10:1:00 +0700 - docs(ui): handle feature #259
 2025-02-17 16:8:00 +0700 - feat(api): handle feature #127
 2025-02-18 9:33:00 +0700 - chore(db): handle feature #270
+2025-02-18 14:39:00 +0700 - perf(api): remove feature #270
