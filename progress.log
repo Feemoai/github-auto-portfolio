@@ -40494,3 +40494,4 @@
 2025-02-15 12:43:00 +0700 - perf(auth): update feature #276
 2025-02-17 9:29:00 +0700 - feat(api): update feature #466
 2025-02-17 10:32:00 +0700 - chore(config): handle feature #466
+2025-02-18 12:50:00 +0700 - fix(db): remove feature #113
