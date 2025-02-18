@@ -6447,3 +6447,4 @@
 2025-02-15 12:9:00 +0700 - fix(auth): update feature #416
 2025-02-15 15:56:00 +0700 - feat(auth): improve feature #416
 2025-02-17 12:30:00 +0700 - feat(auth): optimize feature #139
+2025-02-18 10:12:00 +0700 - perf(config): handle feature #316
