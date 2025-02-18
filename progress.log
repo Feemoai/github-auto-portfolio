@@ -42715,3 +42715,4 @@
 2025-02-15 14:3:00 +0700 - fix(core): optimize feature #162
 2025-02-17 12:40:00 +0700 - fix(api): handle feature #140
 2025-02-17 13:42:00 +0700 - feat(ui): remove feature #140
+2025-02-18 14:5:00 +0700 - perf(ui): improve feature #237
