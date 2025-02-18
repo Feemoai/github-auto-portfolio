@@ -36941,3 +36941,4 @@
 2025-02-15 9:14:00 +0700 - feat(core): add feature #145
 2025-02-17 10:43:00 +0700 - test(core): remove feature #435
 2025-02-17 15:25:00 +0700 - fix(config): update feature #435
+2025-02-18 13:35:00 +0700 - perf(config): add feature #247
