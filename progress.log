@@ -42021,3 +42021,5 @@
 2025-02-15 10:59:00 +0700 - fix(core): handle feature #448
 2025-02-15 9:50:00 +0700 - chore(api): remove feature #448
 2025-02-17 9:50:00 +0700 - refactor(auth): remove feature #299
+2025-02-18 12:52:00 +0700 - chore(db): optimize feature #231
+2025-02-18 10:32:00 +0700 - test(config): optimize feature #231
