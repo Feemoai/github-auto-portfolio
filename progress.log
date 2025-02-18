@@ -8871,3 +8871,5 @@
 2025-02-15 12:28:00 +0700 - refactor(api): optimize feature #347
 2025-02-17 10:23:00 +0700 - docs(core): improve feature #195
 2025-02-17 14:54:00 +0700 - perf(auth): optimize feature #195
+2025-02-18 15:0:00 +0700 - fix(auth): add feature #389
+2025-02-18 15:55:00 +0700 - fix(auth): improve feature #389
