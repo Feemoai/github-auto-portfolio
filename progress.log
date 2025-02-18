@@ -24131,3 +24131,4 @@
 2025-02-15 14:22:00 +0700 - feat(config): update feature #267
 2025-02-17 16:55:00 +0700 - perf(api): handle feature #176
 2025-02-17 13:8:00 +0700 - chore(core): handle feature #176
+2025-02-18 16:0:00 +0700 - perf(core): optimize feature #438
