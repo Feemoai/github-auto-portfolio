@@ -8755,3 +8755,4 @@
 2025-02-15 9:8:00 +0700 - fix(api): handle feature #339
 2025-02-17 10:55:00 +0700 - fix(core): optimize feature #269
 2025-02-17 10:55:00 +0700 - docs(ui): handle feature #269
+2025-02-18 12:56:00 +0700 - test(config): add feature #498
