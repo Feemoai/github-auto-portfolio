@@ -26359,3 +26359,5 @@
 2025-02-15 9:35:00 +0700 - chore(auth): optimize feature #288
 2025-02-17 11:15:00 +0700 - fix(auth): improve feature #212
 2025-02-17 11:9:00 +0700 - docs(core): optimize feature #212
+2025-02-18 15:23:00 +0700 - test(core): remove feature #491
+2025-02-18 13:57:00 +0700 - test(api): handle feature #491
