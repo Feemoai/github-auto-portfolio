@@ -38429,3 +38429,4 @@
 2025-02-15 11:30:00 +0700 - perf(ui): add feature #329
 2025-02-17 11:42:00 +0700 - perf(ui): remove feature #266
 2025-02-18 16:56:00 +0700 - perf(core): handle feature #135
+2025-02-18 14:17:00 +0700 - chore(db): handle feature #135
