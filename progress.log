@@ -561,3 +561,4 @@
 2025-02-15 9:49:00 +0700 - fix(core): handle feature #453
 2025-02-17 16:20:00 +0700 - perf(api): update feature #406
 2025-02-18 14:38:00 +0700 - refactor(core): handle feature #142
+2025-02-18 11:29:00 +0700 - test(auth): remove feature #142
