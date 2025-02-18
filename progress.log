@@ -26705,3 +26705,4 @@
 2025-02-15 14:23:00 +0700 - test(auth): update feature #395
 2025-02-15 10:51:00 +0700 - perf(config): optimize feature #395
 2025-02-17 10:33:00 +0700 - fix(core): handle feature #356
+2025-02-18 15:4:00 +0700 - chore(core): handle feature #277
