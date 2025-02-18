@@ -9323,3 +9323,4 @@
 2025-02-14 15:9:00 +0700 - docs(auth): optimize feature #349
 2025-02-15 10:28:00 +0700 - fix(api): remove feature #413
 2025-02-17 13:46:00 +0700 - feat(db): add feature #143
+2025-02-18 14:54:00 +0700 - perf(auth): handle feature #250
