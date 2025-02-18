@@ -46085,3 +46085,4 @@
 2025-02-15 15:43:00 +0700 - fix(ui): remove feature #468
 2025-02-17 11:9:00 +0700 - feat(db): remove feature #161
 2025-02-17 10:12:00 +0700 - fix(db): handle feature #161
+2025-02-18 13:15:00 +0700 - chore(config): improve feature #227
