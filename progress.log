@@ -10805,3 +10805,5 @@
 2025-02-15 10:4:00 +0700 - refactor(ui): remove feature #312
 2025-02-15 16:27:00 +0700 - chore(api): remove feature #312
 2025-02-17 10:29:00 +0700 - feat(config): optimize feature #317
+2025-02-18 15:33:00 +0700 - perf(ui): optimize feature #375
+2025-02-18 16:20:00 +0700 - refactor(core): improve feature #375
