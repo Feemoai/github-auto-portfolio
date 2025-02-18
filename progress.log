@@ -8406,3 +8406,5 @@
 2025-02-15 10:8:00 +0700 - feat(db): update feature #470
 2025-02-15 10:35:00 +0700 - test(api): improve feature #470
 2025-02-17 15:10:00 +0700 - test(auth): add feature #349
+2025-02-18 16:48:00 +0700 - docs(core): remove feature #353
+2025-02-18 9:9:00 +0700 - feat(auth): handle feature #353
