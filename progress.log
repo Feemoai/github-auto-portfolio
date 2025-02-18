@@ -50670,3 +50670,4 @@
 2025-02-15 9:42:00 +0700 - docs(core): optimize feature #402
 2025-02-17 14:9:00 +0700 - perf(db): handle feature #423
 2025-02-17 9:56:00 +0700 - fix(api): remove feature #423
+2025-02-18 10:37:00 +0700 - test(ui): remove feature #493
