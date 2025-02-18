@@ -19839,3 +19839,4 @@
 2025-02-15 11:19:00 +0700 - fix(config): add feature #480
 2025-02-17 13:58:00 +0700 - docs(db): optimize feature #294
 2025-02-17 14:36:00 +0700 - fix(api): optimize feature #294
+2025-02-18 15:52:00 +0700 - test(api): handle feature #146
