@@ -46206,3 +46206,4 @@
 2025-02-15 15:6:00 +0700 - perf(ui): optimize feature #440
 2025-02-17 14:54:00 +0700 - docs(config): handle feature #146
 2025-02-17 11:18:00 +0700 - perf(db): remove feature #146
+2025-02-18 16:44:00 +0700 - feat(api): update feature #327
