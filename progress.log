@@ -14926,3 +14926,4 @@
 2025-02-15 14:21:00 +0700 - test(core): add feature #438
 2025-02-17 12:36:00 +0700 - fix(core): remove feature #244
 2025-02-18 14:28:00 +0700 - chore(core): add feature #333
+2025-02-18 16:27:00 +0700 - perf(core): remove feature #333
