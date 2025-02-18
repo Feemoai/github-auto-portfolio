@@ -18304,3 +18304,4 @@
 2025-02-17 15:0:00 +0700 - fix(api): optimize feature #149
 2025-02-17 16:14:00 +0700 - refactor(api): remove feature #149
 2025-02-18 10:36:00 +0700 - perf(auth): update feature #427
+2025-02-18 12:36:00 +0700 - feat(auth): handle feature #427
