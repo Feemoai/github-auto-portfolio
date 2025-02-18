@@ -11490,3 +11490,5 @@
 2025-02-15 15:26:00 +0700 - perf(db): add feature #317
 2025-02-15 9:2:00 +0700 - perf(config): handle feature #317
 2025-02-17 10:15:00 +0700 - perf(core): improve feature #443
+2025-02-18 13:53:00 +0700 - chore(auth): improve feature #378
+2025-02-18 14:59:00 +0700 - fix(ui): improve feature #378
