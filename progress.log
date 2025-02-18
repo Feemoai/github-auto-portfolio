@@ -17375,3 +17375,4 @@
 2025-02-14 14:33:00 +0700 - fix(core): remove feature #240
 2025-02-15 12:45:00 +0700 - feat(ui): optimize feature #252
 2025-02-17 11:8:00 +0700 - perf(config): improve feature #240
+2025-02-18 14:5:00 +0700 - fix(api): optimize feature #349
