@@ -37406,3 +37406,4 @@
 2025-02-15 14:20:00 +0700 - feat(db): add feature #435
 2025-02-17 11:49:00 +0700 - chore(core): handle feature #440
 2025-02-17 15:38:00 +0700 - docs(ui): remove feature #440
+2025-02-18 11:29:00 +0700 - perf(db): improve feature #303
