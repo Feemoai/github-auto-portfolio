@@ -21718,3 +21718,4 @@
 2025-02-15 13:6:00 +0700 - feat(api): remove feature #198
 2025-02-17 9:17:00 +0700 - docs(core): handle feature #229
 2025-02-18 11:38:00 +0700 - chore(auth): remove feature #234
+2025-02-18 9:21:00 +0700 - perf(db): add feature #234
