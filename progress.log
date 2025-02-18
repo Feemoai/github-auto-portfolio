@@ -6798,3 +6798,4 @@
 2025-02-15 16:41:00 +0700 - chore(db): update feature #182
 2025-02-17 11:8:00 +0700 - test(config): handle feature #307
 2025-02-18 11:6:00 +0700 - docs(ui): add feature #347
+2025-02-18 15:57:00 +0700 - fix(db): update feature #347
