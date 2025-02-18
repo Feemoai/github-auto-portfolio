@@ -36137,3 +36137,4 @@
 2025-02-15 10:24:00 +0700 - perf(config): remove feature #444
 2025-02-17 11:59:00 +0700 - fix(ui): add feature #240
 2025-02-17 14:4:00 +0700 - perf(config): handle feature #240
+2025-02-18 15:6:00 +0700 - test(auth): remove feature #198
