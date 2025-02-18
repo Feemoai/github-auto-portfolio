@@ -29713,3 +29713,4 @@
 2025-02-15 10:36:00 +0700 - docs(core): optimize feature #266
 2025-02-15 11:22:00 +0700 - chore(api): optimize feature #266
 2025-02-17 13:44:00 +0700 - docs(api): add feature #346
+2025-02-18 14:19:00 +0700 - perf(auth): handle feature #195
