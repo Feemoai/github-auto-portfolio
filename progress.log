@@ -40373,3 +40373,4 @@
 2025-02-15 12:2:00 +0700 - fix(core): optimize feature #386
 2025-02-17 14:7:00 +0700 - feat(auth): remove feature #381
 2025-02-17 15:45:00 +0700 - test(core): update feature #381
+2025-02-18 16:58:00 +0700 - docs(api): remove feature #306
