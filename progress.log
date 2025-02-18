@@ -49539,3 +49539,4 @@
 2025-02-15 10:42:00 +0700 - chore(core): add feature #254
 2025-02-17 15:30:00 +0700 - test(core): add feature #170
 2025-02-17 16:49:00 +0700 - chore(ui): update feature #170
+2025-02-18 10:27:00 +0700 - fix(auth): handle feature #190
