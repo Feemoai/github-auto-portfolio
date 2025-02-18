@@ -12184,3 +12184,4 @@
 2025-02-15 15:44:00 +0700 - test(config): remove feature #359
 2025-02-15 15:27:00 +0700 - chore(ui): remove feature #359
 2025-02-17 16:40:00 +0700 - perf(auth): optimize feature #228
+2025-02-18 16:30:00 +0700 - chore(core): remove feature #198
