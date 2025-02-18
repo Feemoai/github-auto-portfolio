@@ -32261,3 +32261,4 @@
 2025-02-17 14:50:00 +0700 - docs(auth): update feature #246
 2025-02-17 15:18:00 +0700 - fix(ui): improve feature #246
 2025-02-18 10:21:00 +0700 - feat(config): handle feature #290
+2025-02-18 16:44:00 +0700 - refactor(api): optimize feature #290
