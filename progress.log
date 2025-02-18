@@ -6094,3 +6094,4 @@
 2025-02-15 15:42:00 +0700 - chore(api): improve feature #407
 2025-02-15 9:48:00 +0700 - perf(db): update feature #407
 2025-02-17 11:23:00 +0700 - perf(auth): optimize feature #123
+2025-02-18 13:4:00 +0700 - chore(config): optimize feature #491
