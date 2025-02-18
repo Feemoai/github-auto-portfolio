@@ -1725,3 +1725,5 @@
 2025-02-15 9:41:00 +0700 - docs(config): remove feature #209
 2025-02-15 16:43:00 +0700 - chore(config): improve feature #209
 2025-02-17 11:8:00 +0700 - fix(auth): add feature #454
+2025-02-18 12:17:00 +0700 - docs(api): add feature #106
+2025-02-18 13:24:00 +0700 - feat(api): improve feature #106
