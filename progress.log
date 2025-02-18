@@ -63061,3 +63061,4 @@
 2025-02-15 13:20:00 +0700 - perf(config): update feature #233
 2025-02-15 15:48:00 +0700 - fix(core): remove feature #233
 2025-02-17 13:32:00 +0700 - perf(core): optimize feature #297
+2025-02-18 15:51:00 +0700 - perf(core): handle feature #257
