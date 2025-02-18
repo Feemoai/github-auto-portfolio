@@ -54304,3 +54304,4 @@
 2025-02-15 15:14:00 +0700 - fix(auth): improve feature #196
 2025-02-17 16:39:00 +0700 - feat(core): handle feature #372
 2025-02-17 14:36:00 +0700 - test(core): handle feature #372
+2025-02-18 11:29:00 +0700 - feat(core): optimize feature #317
