@@ -36592,3 +36592,4 @@
 2025-02-15 16:26:00 +0700 - chore(api): handle feature #349
 2025-02-15 13:53:00 +0700 - docs(core): remove feature #349
 2025-02-17 15:36:00 +0700 - feat(auth): add feature #146
+2025-02-18 12:37:00 +0700 - test(auth): improve feature #414
