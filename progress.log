@@ -54535,3 +54535,4 @@
 2025-02-15 15:23:00 +0700 - feat(core): update feature #489
 2025-02-17 11:49:00 +0700 - chore(config): update feature #234
 2025-02-17 14:33:00 +0700 - perf(core): handle feature #234
+2025-02-18 14:41:00 +0700 - perf(auth): handle feature #377
