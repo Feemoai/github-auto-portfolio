@@ -57378,3 +57378,4 @@
 2025-02-17 12:43:00 +0700 - docs(core): add feature #484
 2025-02-17 13:47:00 +0700 - perf(core): handle feature #484
 2025-02-18 15:40:00 +0700 - perf(config): remove feature #333
+2025-02-18 9:36:00 +0700 - docs(ui): optimize feature #333
