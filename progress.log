@@ -63648,3 +63648,4 @@
 2025-02-17 16:5:00 +0700 - perf(api): add feature #371
 2025-02-17 10:22:00 +0700 - docs(db): handle feature #371
 2025-02-18 12:52:00 +0700 - refactor(db): update feature #442
+2025-02-18 14:11:00 +0700 - fix(api): add feature #442
