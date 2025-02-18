@@ -1029,3 +1029,4 @@
 2025-02-17 15:17:00 +0700 - perf(db): optimize feature #319
 2025-02-17 10:23:00 +0700 - test(core): handle feature #319
 2025-02-18 13:9:00 +0700 - docs(api): optimize feature #108
+2025-02-18 16:16:00 +0700 - perf(auth): improve feature #108
