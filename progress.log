@@ -6910,3 +6910,4 @@
 2025-02-15 13:22:00 +0700 - fix(core): handle feature #375
 2025-02-17 14:57:00 +0700 - fix(config): handle feature #417
 2025-02-17 11:29:00 +0700 - fix(ui): update feature #417
+2025-02-18 11:33:00 +0700 - feat(ui): handle feature #294
