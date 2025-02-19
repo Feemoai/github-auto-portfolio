@@ -51801,3 +51801,4 @@
 2025-02-15 12:51:00 +0700 - docs(core): update feature #182
 2025-02-17 16:35:00 +0700 - refactor(config): handle feature #105
 2025-02-18 14:52:00 +0700 - test(auth): remove feature #481
+2025-02-19 14:21:00 +0700 - chore(core): add feature #378
