@@ -800,3 +800,5 @@
 2025-02-17 13:29:00 +0700 - fix(db): handle feature #442
 2025-02-18 9:11:00 +0700 - chore(core): improve feature #306
 2025-02-18 10:49:00 +0700 - test(ui): remove feature #306
+2025-02-19 16:12:00 +0700 - fix(ui): update feature #444
+2025-02-19 13:52:00 +0700 - perf(auth): update feature #444
