@@ -8295,3 +8295,4 @@
 2025-02-17 10:43:00 +0700 - docs(core): optimize feature #498
 2025-02-18 9:47:00 +0700 - test(auth): add feature #314
 2025-02-18 10:15:00 +0700 - fix(ui): handle feature #314
+2025-02-19 16:8:00 +0700 - feat(api): optimize feature #305
