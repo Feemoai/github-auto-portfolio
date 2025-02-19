@@ -20561,3 +20561,4 @@
 2025-02-17 13:2:00 +0700 - feat(db): handle feature #235
 2025-02-17 10:15:00 +0700 - chore(config): handle feature #235
 2025-02-18 10:46:00 +0700 - docs(auth): add feature #307
+2025-02-19 14:40:00 +0700 - refactor(config): update feature #266
