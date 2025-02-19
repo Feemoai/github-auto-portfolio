@@ -57379,3 +57379,5 @@
 2025-02-17 13:47:00 +0700 - perf(core): handle feature #484
 2025-02-18 15:40:00 +0700 - perf(config): remove feature #333
 2025-02-18 9:36:00 +0700 - docs(ui): optimize feature #333
+2025-02-19 15:48:00 +0700 - chore(auth): update feature #220
+2025-02-19 14:8:00 +0700 - feat(config): add feature #220
