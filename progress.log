@@ -11145,3 +11145,4 @@
 2025-02-18 13:29:00 +0700 - test(ui): optimize feature #302
 2025-02-18 15:27:00 +0700 - fix(core): optimize feature #302
 2025-02-19 12:50:00 +0700 - docs(api): handle feature #208
+2025-02-19 16:52:00 +0700 - test(config): improve feature #208
