@@ -52822,3 +52822,4 @@
 2025-02-17 9:49:00 +0700 - docs(core): remove feature #384
 2025-02-18 15:0:00 +0700 - fix(db): add feature #289
 2025-02-18 16:31:00 +0700 - test(api): improve feature #289
+2025-02-19 13:22:00 +0700 - perf(config): handle feature #144
