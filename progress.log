@@ -60745,3 +60745,4 @@
 2025-02-18 9:57:00 +0700 - docs(core): add feature #352
 2025-02-18 16:13:00 +0700 - docs(api): handle feature #352
 2025-02-19 12:19:00 +0700 - perf(ui): improve feature #166
+2025-02-19 13:7:00 +0700 - feat(config): optimize feature #166
