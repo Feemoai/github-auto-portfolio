@@ -34971,3 +34971,4 @@
 2025-02-17 16:9:00 +0700 - fix(ui): optimize feature #465
 2025-02-18 10:56:00 +0700 - fix(api): optimize feature #245
 2025-02-19 16:1:00 +0700 - feat(db): handle feature #267
+2025-02-19 14:42:00 +0700 - perf(ui): update feature #267
