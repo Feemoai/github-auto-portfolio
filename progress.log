@@ -1957,3 +1957,4 @@
 2025-02-17 11:51:00 +0700 - refactor(config): handle feature #192
 2025-02-18 11:49:00 +0700 - refactor(config): add feature #459
 2025-02-18 14:5:00 +0700 - chore(auth): handle feature #459
+2025-02-19 12:45:00 +0700 - refactor(config): remove feature #488
