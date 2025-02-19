@@ -20895,3 +20895,4 @@
 2025-02-17 10:55:00 +0700 - perf(api): add feature #367
 2025-02-18 12:10:00 +0700 - refactor(auth): update feature #499
 2025-02-18 10:52:00 +0700 - perf(config): improve feature #499
+2025-02-19 12:10:00 +0700 - perf(api): handle feature #138
