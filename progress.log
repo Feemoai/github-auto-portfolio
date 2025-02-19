@@ -50107,3 +50107,4 @@
 2025-02-17 14:8:00 +0700 - test(config): add feature #390
 2025-02-17 11:38:00 +0700 - perf(core): remove feature #390
 2025-02-18 16:49:00 +0700 - feat(auth): update feature #436
+2025-02-19 15:32:00 +0700 - fix(api): optimize feature #435
