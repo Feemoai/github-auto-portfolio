@@ -7248,3 +7248,4 @@
 2025-02-18 11:35:00 +0700 - perf(ui): update feature #423
 2025-02-18 13:22:00 +0700 - docs(core): handle feature #423
 2025-02-19 13:31:00 +0700 - docs(config): handle feature #314
+2025-02-19 11:29:00 +0700 - perf(api): optimize feature #314
