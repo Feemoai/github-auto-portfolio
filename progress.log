@@ -32978,3 +32978,4 @@
 2025-02-17 13:31:00 +0700 - test(core): improve feature #413
 2025-02-18 12:41:00 +0700 - feat(core): handle feature #259
 2025-02-18 15:44:00 +0700 - perf(api): add feature #259
+2025-02-19 12:27:00 +0700 - feat(ui): remove feature #413
