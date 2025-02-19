@@ -16570,3 +16570,4 @@
 2025-02-15 15:17:00 +0700 - fix(ui): optimize feature #192
 2025-02-17 14:25:00 +0700 - refactor(core): handle feature #327
 2025-02-18 15:5:00 +0700 - refactor(api): update feature #367
+2025-02-19 9:30:00 +0700 - perf(ui): add feature #312
