@@ -54762,3 +54762,4 @@
 2025-02-18 15:9:00 +0700 - chore(api): add feature #187
 2025-02-18 11:15:00 +0700 - fix(ui): remove feature #187
 2025-02-19 13:12:00 +0700 - feat(core): remove feature #115
+2025-02-19 15:32:00 +0700 - fix(ui): handle feature #115
