@@ -44350,3 +44350,4 @@
 2025-02-17 13:32:00 +0700 - chore(config): add feature #309
 2025-02-18 16:39:00 +0700 - perf(core): add feature #277
 2025-02-19 12:55:00 +0700 - docs(db): handle feature #339
+2025-02-19 14:12:00 +0700 - chore(core): remove feature #339
