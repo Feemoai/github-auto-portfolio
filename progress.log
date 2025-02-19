@@ -2545,3 +2545,5 @@
 2025-02-15 9:52:00 +0700 - docs(core): handle feature #128
 2025-02-17 16:33:00 +0700 - docs(db): improve feature #248
 2025-02-18 10:57:00 +0700 - feat(db): optimize feature #320
+2025-02-19 10:31:00 +0700 - perf(api): optimize feature #454
+2025-02-19 15:1:00 +0700 - fix(api): remove feature #454
