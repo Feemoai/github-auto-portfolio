@@ -3121,3 +3121,4 @@
 2025-02-17 12:13:00 +0700 - feat(auth): handle feature #365
 2025-02-18 16:29:00 +0700 - test(ui): add feature #492
 2025-02-18 16:41:00 +0700 - feat(db): handle feature #492
+2025-02-19 15:8:00 +0700 - docs(core): remove feature #462
