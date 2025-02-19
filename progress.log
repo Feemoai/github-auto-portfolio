@@ -61431,3 +61431,5 @@
 2025-02-17 14:35:00 +0700 - test(ui): remove feature #413
 2025-02-17 12:2:00 +0700 - docs(api): update feature #413
 2025-02-18 15:11:00 +0700 - feat(api): update feature #340
+2025-02-19 12:31:00 +0700 - chore(config): optimize feature #399
+2025-02-19 16:32:00 +0700 - perf(api): remove feature #399
