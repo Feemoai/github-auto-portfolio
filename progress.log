@@ -39907,3 +39907,4 @@
 2025-02-17 11:14:00 +0700 - fix(ui): remove feature #252
 2025-02-18 11:50:00 +0700 - feat(auth): update feature #136
 2025-02-18 16:13:00 +0700 - docs(auth): optimize feature #136
+2025-02-19 11:58:00 +0700 - test(config): remove feature #437
