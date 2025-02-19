@@ -1031,3 +1031,4 @@
 2025-02-18 13:9:00 +0700 - docs(api): optimize feature #108
 2025-02-18 16:16:00 +0700 - perf(auth): improve feature #108
 2025-02-19 15:12:00 +0700 - perf(config): improve feature #169
+2025-02-19 10:0:00 +0700 - chore(db): handle feature #169
