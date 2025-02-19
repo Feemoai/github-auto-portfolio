@@ -32501,3 +32501,4 @@
 2025-02-18 14:50:00 +0700 - chore(auth): remove feature #250
 2025-02-18 14:2:00 +0700 - refactor(api): improve feature #250
 2025-02-19 13:25:00 +0700 - docs(api): add feature #469
+2025-02-19 9:34:00 +0700 - fix(ui): optimize feature #469
