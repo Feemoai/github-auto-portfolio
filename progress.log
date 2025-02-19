@@ -26591,3 +26591,5 @@
 2025-02-17 14:54:00 +0700 - perf(core): handle feature #102
 2025-02-17 14:28:00 +0700 - docs(db): optimize feature #102
 2025-02-18 14:4:00 +0700 - feat(db): handle feature #372
+2025-02-19 15:35:00 +0700 - feat(core): add feature #245
+2025-02-19 16:28:00 +0700 - test(core): handle feature #245
