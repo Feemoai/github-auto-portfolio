@@ -21490,3 +21490,4 @@
 2025-02-17 9:54:00 +0700 - docs(core): remove feature #308
 2025-02-18 15:25:00 +0700 - chore(auth): handle feature #176
 2025-02-18 9:59:00 +0700 - chore(auth): improve feature #176
+2025-02-19 16:58:00 +0700 - perf(config): improve feature #288
