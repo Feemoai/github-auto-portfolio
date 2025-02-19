@@ -55330,3 +55330,4 @@
 2025-02-17 9:54:00 +0700 - chore(auth): optimize feature #441
 2025-02-18 11:33:00 +0700 - refactor(db): handle feature #386
 2025-02-19 10:40:00 +0700 - feat(auth): remove feature #476
+2025-02-19 16:31:00 +0700 - fix(auth): remove feature #476
