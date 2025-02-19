@@ -47478,3 +47478,4 @@
 2025-02-17 14:31:00 +0700 - feat(config): optimize feature #235
 2025-02-18 13:46:00 +0700 - test(db): remove feature #249
 2025-02-18 12:10:00 +0700 - fix(auth): remove feature #249
+2025-02-19 15:27:00 +0700 - fix(auth): handle feature #147
