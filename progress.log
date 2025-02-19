@@ -35665,3 +35665,4 @@
 2025-02-18 10:6:00 +0700 - feat(db): add feature #348
 2025-02-18 13:26:00 +0700 - refactor(core): handle feature #348
 2025-02-19 10:57:00 +0700 - test(api): remove feature #220
+2025-02-19 11:48:00 +0700 - feat(ui): add feature #220
