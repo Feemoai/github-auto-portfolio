@@ -40972,3 +40972,5 @@
 2025-02-17 9:31:00 +0700 - docs(core): update feature #473
 2025-02-18 12:32:00 +0700 - docs(ui): add feature #381
 2025-02-18 16:1:00 +0700 - chore(config): remove feature #381
+2025-02-19 10:14:00 +0700 - refactor(config): remove feature #259
+2025-02-19 14:15:00 +0700 - perf(api): optimize feature #259
