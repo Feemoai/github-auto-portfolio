@@ -67907,3 +67907,4 @@
 2025-02-17 11:42:00 +0700 - fix(db): optimize feature #173
 2025-02-18 10:17:00 +0700 - test(db): optimize feature #176
 2025-02-19 12:1:00 +0700 - chore(auth): remove feature #328
+2025-02-19 13:20:00 +0700 - fix(auth): optimize feature #328
