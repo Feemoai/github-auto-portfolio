@@ -6912,3 +6912,4 @@
 2025-02-17 11:29:00 +0700 - fix(ui): update feature #417
 2025-02-18 11:33:00 +0700 - feat(ui): handle feature #294
 2025-02-18 16:33:00 +0700 - test(auth): improve feature #294
+2025-02-19 13:29:00 +0700 - perf(auth): remove feature #363
