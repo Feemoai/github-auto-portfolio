@@ -15979,3 +15979,4 @@
 2025-02-17 14:37:00 +0700 - docs(api): improve feature #215
 2025-02-18 13:32:00 +0700 - docs(auth): remove feature #343
 2025-02-18 9:39:00 +0700 - perf(core): improve feature #343
+2025-02-19 14:16:00 +0700 - perf(config): add feature #377
