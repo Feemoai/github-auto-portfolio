@@ -52474,3 +52474,5 @@
 2025-02-15 12:5:00 +0700 - test(core): update feature #103
 2025-02-17 13:5:00 +0700 - docs(core): handle feature #348
 2025-02-18 12:16:00 +0700 - test(ui): update feature #170
+2025-02-19 14:25:00 +0700 - test(core): handle feature #147
+2025-02-19 15:56:00 +0700 - chore(api): optimize feature #147
