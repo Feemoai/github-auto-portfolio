@@ -35209,3 +35209,4 @@
 2025-02-15 13:8:00 +0700 - docs(ui): optimize feature #318
 2025-02-17 14:46:00 +0700 - fix(api): remove feature #357
 2025-02-18 10:32:00 +0700 - perf(api): handle feature #218
+2025-02-19 11:43:00 +0700 - perf(ui): remove feature #167
