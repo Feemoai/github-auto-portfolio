@@ -40023,3 +40023,4 @@
 2025-02-18 9:16:00 +0700 - fix(auth): remove feature #328
 2025-02-19 11:59:00 +0700 - docs(auth): remove feature #387
 2025-02-19 12:2:00 +0700 - refactor(ui): optimize feature #387
+2025-02-20 14:29:00 +0700 - fix(db): add feature #331
