@@ -19371,3 +19371,4 @@
 2025-02-18 16:49:00 +0700 - docs(ui): update feature #438
 2025-02-19 16:50:00 +0700 - fix(api): optimize feature #161
 2025-02-19 12:4:00 +0700 - test(api): remove feature #161
+2025-02-20 16:51:00 +0700 - fix(db): handle feature #335
