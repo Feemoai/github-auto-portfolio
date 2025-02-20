@@ -41560,3 +41560,4 @@
 2025-02-18 11:44:00 +0700 - refactor(config): update feature #363
 2025-02-19 11:47:00 +0700 - refactor(api): handle feature #280
 2025-02-20 16:43:00 +0700 - chore(db): update feature #490
+2025-02-20 11:2:00 +0700 - fix(core): update feature #490
