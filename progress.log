@@ -53968,3 +53968,4 @@
 2025-02-18 13:40:00 +0700 - fix(ui): add feature #175
 2025-02-18 9:51:00 +0700 - refactor(db): update feature #175
 2025-02-19 9:0:00 +0700 - refactor(auth): remove feature #356
+2025-02-20 10:19:00 +0700 - perf(ui): remove feature #383
