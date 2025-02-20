@@ -7715,3 +7715,4 @@
 2025-02-18 16:47:00 +0700 - refactor(auth): remove feature #401
 2025-02-18 13:1:00 +0700 - docs(ui): optimize feature #401
 2025-02-19 12:11:00 +0700 - fix(core): update feature #460
+2025-02-20 11:51:00 +0700 - chore(api): optimize feature #485
