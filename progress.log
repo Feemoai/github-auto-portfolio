@@ -43776,3 +43776,5 @@
 2025-02-18 13:8:00 +0700 - test(api): improve feature #283
 2025-02-19 10:30:00 +0700 - feat(api): add feature #341
 2025-02-19 9:28:00 +0700 - perf(auth): remove feature #341
+2025-02-20 11:7:00 +0700 - test(core): remove feature #437
+2025-02-20 12:16:00 +0700 - refactor(api): handle feature #437
