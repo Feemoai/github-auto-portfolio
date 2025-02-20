@@ -62371,3 +62371,4 @@
 2025-02-19 15:14:00 +0700 - docs(ui): update feature #171
 2025-02-19 11:13:00 +0700 - chore(auth): optimize feature #171
 2025-02-20 10:17:00 +0700 - fix(core): handle feature #464
+2025-02-20 14:40:00 +0700 - feat(db): remove feature #464
