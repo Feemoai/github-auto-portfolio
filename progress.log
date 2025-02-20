@@ -1151,3 +1151,4 @@
 2025-02-18 10:13:00 +0700 - fix(db): optimize feature #291
 2025-02-19 13:12:00 +0700 - feat(config): handle feature #255
 2025-02-19 16:25:00 +0700 - feat(core): optimize feature #255
+2025-02-20 12:27:00 +0700 - perf(config): handle feature #336
