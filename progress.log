@@ -13205,3 +13205,4 @@
 2025-02-18 11:42:00 +0700 - docs(db): add feature #231
 2025-02-19 9:11:00 +0700 - fix(auth): add feature #273
 2025-02-19 14:43:00 +0700 - docs(auth): handle feature #273
+2025-02-20 9:1:00 +0700 - test(api): remove feature #225
