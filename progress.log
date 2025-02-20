@@ -9567,3 +9567,4 @@
 2025-02-18 15:24:00 +0700 - fix(config): handle feature #432
 2025-02-19 14:47:00 +0700 - fix(api): remove feature #154
 2025-02-19 13:4:00 +0700 - fix(core): remove feature #154
+2025-02-20 15:53:00 +0700 - feat(auth): improve feature #359
