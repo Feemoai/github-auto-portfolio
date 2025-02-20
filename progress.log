@@ -26707,3 +26707,5 @@
 2025-02-17 10:33:00 +0700 - fix(core): handle feature #356
 2025-02-18 15:4:00 +0700 - chore(core): handle feature #277
 2025-02-19 12:35:00 +0700 - perf(db): update feature #167
+2025-02-20 16:30:00 +0700 - perf(api): handle feature #303
+2025-02-20 13:17:00 +0700 - test(ui): handle feature #303
