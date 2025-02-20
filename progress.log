@@ -39230,3 +39230,4 @@
 2025-02-17 14:47:00 +0700 - chore(core): update feature #224
 2025-02-18 9:45:00 +0700 - chore(db): remove feature #326
 2025-02-19 13:41:00 +0700 - fix(auth): optimize feature #116
+2025-02-20 9:46:00 +0700 - perf(config): add feature #267
