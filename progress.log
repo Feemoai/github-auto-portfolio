@@ -2196,3 +2196,4 @@
 2025-02-18 10:25:00 +0700 - perf(api): optimize feature #153
 2025-02-19 16:28:00 +0700 - docs(api): optimize feature #162
 2025-02-19 11:2:00 +0700 - docs(api): remove feature #162
+2025-02-20 11:42:00 +0700 - refactor(db): add feature #139
