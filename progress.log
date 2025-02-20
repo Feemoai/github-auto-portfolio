@@ -5525,3 +5525,5 @@
 2025-02-17 16:4:00 +0700 - refactor(ui): optimize feature #312
 2025-02-18 10:8:00 +0700 - feat(ui): handle feature #386
 2025-02-19 16:39:00 +0700 - feat(db): add feature #426
+2025-02-20 15:0:00 +0700 - chore(db): add feature #229
+2025-02-20 13:10:00 +0700 - refactor(ui): remove feature #229
