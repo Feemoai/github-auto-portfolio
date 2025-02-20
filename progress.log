@@ -11958,3 +11958,4 @@
 2025-02-18 16:4:00 +0700 - test(api): add feature #259
 2025-02-19 16:46:00 +0700 - perf(ui): remove feature #264
 2025-02-19 11:33:00 +0700 - perf(db): update feature #264
+2025-02-20 12:42:00 +0700 - test(ui): handle feature #192
