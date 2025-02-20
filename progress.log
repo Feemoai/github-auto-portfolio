@@ -38770,3 +38770,4 @@
 2025-02-18 16:4:00 +0700 - chore(ui): add feature #323
 2025-02-19 15:12:00 +0700 - fix(config): update feature #312
 2025-02-20 13:22:00 +0700 - docs(config): improve feature #413
+2025-02-20 16:59:00 +0700 - fix(auth): handle feature #413
