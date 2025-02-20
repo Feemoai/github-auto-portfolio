@@ -32617,3 +32617,5 @@
 2025-02-18 10:59:00 +0700 - docs(config): handle feature #164
 2025-02-19 16:55:00 +0700 - chore(ui): improve feature #309
 2025-02-19 12:41:00 +0700 - test(ui): remove feature #309
+2025-02-20 14:57:00 +0700 - chore(ui): update feature #181
+2025-02-20 15:0:00 +0700 - test(auth): optimize feature #181
