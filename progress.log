@@ -44561,3 +44561,5 @@
 2025-02-17 15:37:00 +0700 - perf(ui): handle feature #197
 2025-02-18 14:52:00 +0700 - perf(ui): handle feature #324
 2025-02-19 15:3:00 +0700 - perf(core): improve feature #150
+2025-02-20 11:42:00 +0700 - perf(config): add feature #307
+2025-02-20 16:32:00 +0700 - test(core): improve feature #307
