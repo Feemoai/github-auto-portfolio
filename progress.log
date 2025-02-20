@@ -9441,3 +9441,4 @@
 2025-02-18 14:23:00 +0700 - feat(api): update feature #351
 2025-02-19 10:31:00 +0700 - docs(config): handle feature #333
 2025-02-19 15:31:00 +0700 - docs(ui): remove feature #333
+2025-02-20 16:48:00 +0700 - perf(auth): optimize feature #209
