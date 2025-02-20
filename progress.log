@@ -31353,3 +31353,4 @@
 2025-02-18 12:27:00 +0700 - feat(ui): improve feature #306
 2025-02-19 12:39:00 +0700 - docs(core): optimize feature #279
 2025-02-20 9:13:00 +0700 - chore(auth): optimize feature #237
+2025-02-20 10:22:00 +0700 - chore(ui): handle feature #237
