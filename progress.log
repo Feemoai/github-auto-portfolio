@@ -802,3 +802,4 @@
 2025-02-18 10:49:00 +0700 - test(ui): remove feature #306
 2025-02-19 16:12:00 +0700 - fix(ui): update feature #444
 2025-02-19 13:52:00 +0700 - perf(auth): update feature #444
+2025-02-20 9:3:00 +0700 - fix(api): remove feature #423
