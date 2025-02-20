@@ -15037,3 +15037,4 @@
 2025-02-18 14:41:00 +0700 - feat(core): handle feature #234
 2025-02-19 15:59:00 +0700 - chore(api): add feature #123
 2025-02-19 9:35:00 +0700 - perf(auth): optimize feature #123
+2025-02-20 10:15:00 +0700 - refactor(auth): remove feature #362
