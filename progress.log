@@ -33792,3 +33792,4 @@
 2025-02-18 15:31:00 +0700 - perf(core): handle feature #147
 2025-02-19 9:56:00 +0700 - refactor(core): handle feature #374
 2025-02-20 9:54:00 +0700 - chore(core): optimize feature #411
+2025-02-20 11:23:00 +0700 - test(api): improve feature #411
