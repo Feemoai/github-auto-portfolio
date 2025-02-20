@@ -3461,3 +3461,4 @@
 2025-02-18 12:46:00 +0700 - feat(core): improve feature #403
 2025-02-19 14:36:00 +0700 - perf(config): handle feature #379
 2025-02-19 12:16:00 +0700 - docs(api): add feature #379
+2025-02-20 12:10:00 +0700 - refactor(core): remove feature #271
