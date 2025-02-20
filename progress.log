@@ -17028,3 +17028,4 @@
 2025-02-18 16:23:00 +0700 - chore(core): handle feature #190
 2025-02-18 11:34:00 +0700 - perf(ui): remove feature #190
 2025-02-19 12:32:00 +0700 - test(ui): update feature #308
+2025-02-20 14:51:00 +0700 - fix(db): update feature #356
