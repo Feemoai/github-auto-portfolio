@@ -60064,3 +60064,4 @@
 2025-02-18 12:5:00 +0700 - test(db): remove feature #177
 2025-02-18 9:26:00 +0700 - test(auth): add feature #177
 2025-02-19 11:40:00 +0700 - feat(api): optimize feature #494
+2025-02-20 10:29:00 +0700 - chore(api): handle feature #176
