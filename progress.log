@@ -12300,3 +12300,4 @@
 2025-02-18 10:17:00 +0700 - chore(config): update feature #131
 2025-02-19 9:29:00 +0700 - docs(auth): optimize feature #135
 2025-02-19 16:38:00 +0700 - feat(config): add feature #135
+2025-02-20 12:34:00 +0700 - perf(auth): remove feature #412
