@@ -8061,3 +8061,4 @@
 2025-02-17 9:39:00 +0700 - test(api): handle feature #128
 2025-02-18 10:37:00 +0700 - test(core): update feature #254
 2025-02-19 10:58:00 +0700 - refactor(api): improve feature #288
+2025-02-20 9:7:00 +0700 - fix(config): update feature #380
