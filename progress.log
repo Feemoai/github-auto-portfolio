@@ -1265,3 +1265,5 @@
 2025-02-17 9:7:00 +0700 - chore(ui): update feature #153
 2025-02-18 13:33:00 +0700 - feat(ui): improve feature #246
 2025-02-19 13:14:00 +0700 - fix(core): optimize feature #446
+2025-02-20 15:15:00 +0700 - perf(api): optimize feature #200
+2025-02-20 10:45:00 +0700 - feat(core): remove feature #200
