@@ -13787,3 +13787,4 @@
 2025-02-18 16:42:00 +0700 - feat(core): handle feature #214
 2025-02-19 11:52:00 +0700 - feat(ui): remove feature #277
 2025-02-19 15:12:00 +0700 - docs(api): improve feature #277
+2025-02-20 9:8:00 +0700 - perf(config): remove feature #234
