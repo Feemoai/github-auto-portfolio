@@ -1728,3 +1728,5 @@
 2025-02-18 12:17:00 +0700 - docs(api): add feature #106
 2025-02-18 13:24:00 +0700 - feat(api): improve feature #106
 2025-02-19 11:44:00 +0700 - chore(db): optimize feature #197
+2025-02-20 12:2:00 +0700 - docs(db): remove feature #386
+2025-02-20 16:6:00 +0700 - feat(auth): add feature #386
