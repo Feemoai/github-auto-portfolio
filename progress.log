@@ -6684,3 +6684,4 @@
 2025-02-17 10:28:00 +0700 - perf(core): remove feature #451
 2025-02-18 11:41:00 +0700 - refactor(config): remove feature #490
 2025-02-19 11:2:00 +0700 - fix(db): remove feature #109
+2025-02-20 10:38:00 +0700 - test(db): remove feature #489
