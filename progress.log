@@ -41209,3 +41209,4 @@
 2025-02-18 11:53:00 +0700 - feat(core): add feature #243
 2025-02-19 14:9:00 +0700 - fix(auth): update feature #242
 2025-02-19 14:11:00 +0700 - fix(core): update feature #242
+2025-02-20 10:48:00 +0700 - perf(config): optimize feature #121
