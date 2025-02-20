@@ -4734,3 +4734,4 @@
 2025-02-18 12:54:00 +0700 - refactor(db): handle feature #234
 2025-02-19 13:5:00 +0700 - fix(core): optimize feature #262
 2025-02-19 11:18:00 +0700 - refactor(auth): add feature #262
+2025-02-20 16:35:00 +0700 - perf(api): add feature #365
