@@ -46452,3 +46452,4 @@
 2025-02-18 13:19:00 +0700 - fix(auth): improve feature #152
 2025-02-19 12:23:00 +0700 - test(config): optimize feature #415
 2025-02-20 16:45:00 +0700 - feat(core): improve feature #199
+2025-02-20 14:35:00 +0700 - feat(auth): remove feature #199
