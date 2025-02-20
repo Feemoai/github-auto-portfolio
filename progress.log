@@ -65958,3 +65958,5 @@
 2025-02-18 12:3:00 +0700 - feat(config): handle feature #371
 2025-02-18 11:15:00 +0700 - feat(api): update feature #371
 2025-02-19 11:49:00 +0700 - chore(ui): optimize feature #279
+2025-02-20 14:5:00 +0700 - refactor(ui): handle feature #327
+2025-02-20 9:12:00 +0700 - feat(config): handle feature #327
