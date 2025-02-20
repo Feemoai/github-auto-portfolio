@@ -6339,3 +6339,4 @@
 2025-02-19 10:56:00 +0700 - chore(db): remove feature #445
 2025-02-19 12:24:00 +0700 - perf(db): remove feature #445
 2025-02-20 15:40:00 +0700 - chore(ui): add feature #132
+2025-02-20 12:44:00 +0700 - refactor(ui): handle feature #132
