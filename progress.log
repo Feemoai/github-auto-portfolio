@@ -40376,3 +40376,4 @@
 2025-02-18 16:58:00 +0700 - docs(api): remove feature #306
 2025-02-18 13:39:00 +0700 - fix(db): handle feature #306
 2025-02-19 14:34:00 +0700 - perf(db): update feature #331
+2025-02-20 11:7:00 +0700 - fix(ui): update feature #273
