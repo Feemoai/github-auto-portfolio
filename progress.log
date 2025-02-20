@@ -3919,3 +3919,4 @@
 2025-02-18 10:28:00 +0700 - fix(core): add feature #190
 2025-02-19 11:59:00 +0700 - perf(config): improve feature #231
 2025-02-19 10:36:00 +0700 - fix(config): optimize feature #231
+2025-02-20 10:45:00 +0700 - perf(auth): remove feature #246
