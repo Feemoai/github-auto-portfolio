@@ -9211,3 +9211,4 @@
 2025-02-18 16:22:00 +0700 - fix(ui): handle feature #447
 2025-02-19 13:41:00 +0700 - feat(config): optimize feature #435
 2025-02-19 11:1:00 +0700 - fix(api): optimize feature #435
+2025-02-20 10:31:00 +0700 - fix(core): improve feature #464
