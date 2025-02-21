@@ -53388,3 +53388,4 @@
 2025-02-20 15:34:00 +0700 - test(core): improve feature #499
 2025-02-20 10:34:00 +0700 - chore(api): add feature #499
 2025-02-21 9:24:00 +0700 - chore(core): optimize feature #459
+2025-02-21 14:0:00 +0700 - fix(api): handle feature #459
