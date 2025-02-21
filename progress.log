@@ -12866,3 +12866,5 @@
 2025-02-19 12:57:00 +0700 - chore(config): remove feature #218
 2025-02-20 13:40:00 +0700 - refactor(core): update feature #483
 2025-02-20 14:49:00 +0700 - test(db): handle feature #483
+2025-02-21 12:21:00 +0700 - test(db): optimize feature #357
+2025-02-21 16:15:00 +0700 - chore(auth): optimize feature #357
