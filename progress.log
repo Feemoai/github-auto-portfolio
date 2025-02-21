@@ -63767,3 +63767,4 @@
 2025-02-19 11:23:00 +0700 - docs(api): add feature #455
 2025-02-20 14:14:00 +0700 - docs(auth): remove feature #144
 2025-02-20 9:26:00 +0700 - test(config): improve feature #144
+2025-02-21 12:10:00 +0700 - chore(core): remove feature #118
