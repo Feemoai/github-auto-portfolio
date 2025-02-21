@@ -45849,3 +45849,4 @@
 2025-02-18 9:1:00 +0700 - docs(api): handle feature #252
 2025-02-19 9:23:00 +0700 - perf(api): add feature #212
 2025-02-20 14:34:00 +0700 - docs(db): improve feature #412
+2025-02-21 9:14:00 +0700 - feat(core): remove feature #442
