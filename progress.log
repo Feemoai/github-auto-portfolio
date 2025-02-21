@@ -1033,3 +1033,5 @@
 2025-02-19 15:12:00 +0700 - perf(config): improve feature #169
 2025-02-19 10:0:00 +0700 - chore(db): handle feature #169
 2025-02-20 12:45:00 +0700 - chore(db): add feature #409
+2025-02-21 10:35:00 +0700 - perf(core): add feature #296
+2025-02-21 10:8:00 +0700 - docs(api): handle feature #296
