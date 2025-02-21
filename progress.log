@@ -1852,3 +1852,5 @@
 2025-02-19 9:35:00 +0700 - test(config): improve feature #211
 2025-02-20 11:7:00 +0700 - feat(config): optimize feature #497
 2025-02-20 13:45:00 +0700 - feat(ui): add feature #497
+2025-02-21 13:49:00 +0700 - fix(api): remove feature #330
+2025-02-21 9:36:00 +0700 - perf(core): add feature #330
