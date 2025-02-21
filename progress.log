@@ -10922,3 +10922,4 @@
 2025-02-19 11:55:00 +0700 - perf(auth): add feature #352
 2025-02-20 16:34:00 +0700 - test(auth): add feature #414
 2025-02-20 14:1:00 +0700 - test(db): handle feature #414
+2025-02-21 11:28:00 +0700 - perf(api): remove feature #400
