@@ -15982,3 +15982,5 @@
 2025-02-19 14:16:00 +0700 - perf(config): add feature #377
 2025-02-20 16:32:00 +0700 - refactor(config): improve feature #208
 2025-02-20 15:42:00 +0700 - docs(api): add feature #208
+2025-02-21 10:56:00 +0700 - refactor(core): optimize feature #280
+2025-02-21 14:59:00 +0700 - perf(core): handle feature #280
