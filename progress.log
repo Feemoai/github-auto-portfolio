@@ -38432,3 +38432,4 @@
 2025-02-18 14:17:00 +0700 - chore(db): handle feature #135
 2025-02-19 12:17:00 +0700 - test(api): handle feature #307
 2025-02-20 16:33:00 +0700 - test(ui): remove feature #130
+2025-02-21 12:16:00 +0700 - chore(core): remove feature #374
