@@ -6451,3 +6451,4 @@
 2025-02-19 10:36:00 +0700 - docs(config): update feature #229
 2025-02-20 11:46:00 +0700 - docs(core): add feature #148
 2025-02-21 14:29:00 +0700 - docs(config): remove feature #103
+2025-02-21 12:50:00 +0700 - perf(core): remove feature #103
