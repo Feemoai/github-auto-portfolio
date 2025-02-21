@@ -29598,3 +29598,5 @@
 2025-02-19 16:46:00 +0700 - test(ui): handle feature #242
 2025-02-20 14:1:00 +0700 - test(db): optimize feature #358
 2025-02-20 16:43:00 +0700 - feat(config): remove feature #358
+2025-02-21 13:49:00 +0700 - perf(core): optimize feature #370
+2025-02-21 16:29:00 +0700 - test(api): optimize feature #370
