@@ -918,3 +918,4 @@
 2025-02-19 9:15:00 +0700 - refactor(config): add feature #466
 2025-02-19 16:50:00 +0700 - chore(db): remove feature #466
 2025-02-20 14:15:00 +0700 - chore(db): update feature #373
+2025-02-21 9:37:00 +0700 - feat(auth): optimize feature #346
