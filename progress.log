@@ -4034,3 +4034,5 @@
 2025-02-18 9:23:00 +0700 - fix(core): update feature #463
 2025-02-19 16:56:00 +0700 - fix(core): improve feature #202
 2025-02-20 11:15:00 +0700 - docs(ui): handle feature #483
+2025-02-21 13:18:00 +0700 - fix(ui): handle feature #492
+2025-02-21 9:37:00 +0700 - refactor(api): remove feature #492
