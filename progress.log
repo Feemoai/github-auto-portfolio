@@ -35905,3 +35905,5 @@
 2025-02-19 15:0:00 +0700 - chore(core): handle feature #197
 2025-02-20 15:8:00 +0700 - docs(auth): remove feature #100
 2025-02-20 16:6:00 +0700 - perf(ui): handle feature #100
+2025-02-21 16:16:00 +0700 - perf(ui): handle feature #489
+2025-02-21 11:40:00 +0700 - chore(auth): update feature #489
