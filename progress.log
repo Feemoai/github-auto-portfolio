@@ -47362,3 +47362,4 @@
 2025-02-19 13:17:00 +0700 - test(config): remove feature #423
 2025-02-19 16:20:00 +0700 - docs(db): add feature #423
 2025-02-20 9:7:00 +0700 - test(db): optimize feature #121
+2025-02-21 16:4:00 +0700 - perf(api): optimize feature #147
