@@ -5528,3 +5528,4 @@
 2025-02-20 15:0:00 +0700 - chore(db): add feature #229
 2025-02-20 13:10:00 +0700 - refactor(ui): remove feature #229
 2025-02-21 10:46:00 +0700 - fix(db): update feature #413
+2025-02-21 14:53:00 +0700 - test(config): handle feature #413
