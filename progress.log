@@ -8182,3 +8182,5 @@
 2025-02-19 15:13:00 +0700 - feat(api): handle feature #274
 2025-02-20 16:48:00 +0700 - docs(api): improve feature #285
 2025-02-20 14:5:00 +0700 - perf(api): improve feature #285
+2025-02-21 12:19:00 +0700 - perf(config): update feature #368
+2025-02-21 9:51:00 +0700 - feat(ui): optimize feature #368
