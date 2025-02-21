@@ -66191,3 +66191,4 @@
 2025-02-20 13:17:00 +0700 - chore(auth): optimize feature #361
 2025-02-20 16:15:00 +0700 - perf(config): remove feature #361
 2025-02-21 10:22:00 +0700 - feat(auth): add feature #232
+2025-02-21 15:8:00 +0700 - test(api): handle feature #232
