@@ -57150,3 +57150,4 @@
 2025-02-19 12:9:00 +0700 - chore(ui): update feature #462
 2025-02-20 10:6:00 +0700 - feat(ui): remove feature #318
 2025-02-20 16:5:00 +0700 - refactor(db): improve feature #318
+2025-02-21 13:32:00 +0700 - perf(ui): handle feature #475
