@@ -1731,3 +1731,4 @@
 2025-02-20 12:2:00 +0700 - docs(db): remove feature #386
 2025-02-20 16:6:00 +0700 - feat(auth): add feature #386
 2025-02-21 16:33:00 +0700 - test(auth): add feature #204
+2025-02-21 15:22:00 +0700 - perf(auth): handle feature #204
