@@ -4381,3 +4381,4 @@
 2025-02-19 11:22:00 +0700 - test(db): remove feature #464
 2025-02-20 11:12:00 +0700 - perf(db): remove feature #451
 2025-02-20 13:57:00 +0700 - perf(core): improve feature #451
+2025-02-21 14:44:00 +0700 - refactor(auth): remove feature #339
