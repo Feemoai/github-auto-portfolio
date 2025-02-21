@@ -5863,3 +5863,4 @@
 2025-02-19 14:54:00 +0700 - fix(auth): optimize feature #103
 2025-02-20 11:28:00 +0700 - fix(api): handle feature #403
 2025-02-20 9:9:00 +0700 - refactor(config): handle feature #403
+2025-02-21 15:39:00 +0700 - test(api): optimize feature #482
