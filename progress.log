@@ -1382,3 +1382,4 @@
 2025-02-20 9:18:00 +0700 - refactor(db): handle feature #336
 2025-02-20 12:5:00 +0700 - refactor(ui): add feature #336
 2025-02-21 15:0:00 +0700 - refactor(db): add feature #460
+2025-02-21 16:53:00 +0700 - fix(core): update feature #460
