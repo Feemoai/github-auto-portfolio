@@ -29371,3 +29371,4 @@
 2025-02-19 11:50:00 +0700 - feat(api): optimize feature #383
 2025-02-20 13:45:00 +0700 - refactor(db): add feature #456
 2025-02-21 14:28:00 +0700 - chore(db): handle feature #480
+2025-02-21 12:17:00 +0700 - fix(config): optimize feature #480
