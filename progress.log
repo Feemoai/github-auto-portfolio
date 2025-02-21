@@ -26594,3 +26594,4 @@
 2025-02-19 15:35:00 +0700 - feat(core): add feature #245
 2025-02-19 16:28:00 +0700 - test(core): handle feature #245
 2025-02-20 13:2:00 +0700 - docs(config): update feature #475
+2025-02-21 15:48:00 +0700 - perf(config): handle feature #425
