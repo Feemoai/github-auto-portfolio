@@ -8992,3 +8992,5 @@
 2025-02-18 16:20:00 +0700 - refactor(core): remove feature #228
 2025-02-19 11:12:00 +0700 - refactor(config): update feature #391
 2025-02-20 10:42:00 +0700 - feat(api): handle feature #247
+2025-02-21 15:39:00 +0700 - chore(config): add feature #387
+2025-02-21 16:31:00 +0700 - refactor(api): optimize feature #387
