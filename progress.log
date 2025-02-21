@@ -51686,3 +51686,5 @@
 2025-02-19 12:25:00 +0700 - perf(api): handle feature #232
 2025-02-20 16:21:00 +0700 - docs(core): update feature #206
 2025-02-20 11:35:00 +0700 - fix(api): update feature #206
+2025-02-21 11:31:00 +0700 - feat(core): remove feature #477
+2025-02-21 15:50:00 +0700 - fix(db): handle feature #477
