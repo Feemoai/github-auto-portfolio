@@ -50443,3 +50443,4 @@
 2025-02-19 16:39:00 +0700 - feat(core): optimize feature #183
 2025-02-19 16:13:00 +0700 - docs(core): optimize feature #183
 2025-02-20 16:4:00 +0700 - test(api): handle feature #205
+2025-02-21 11:33:00 +0700 - perf(config): remove feature #305
