@@ -5076,3 +5076,4 @@
 2025-02-19 14:40:00 +0700 - feat(config): handle feature #310
 2025-02-20 16:42:00 +0700 - fix(core): update feature #382
 2025-02-20 9:23:00 +0700 - feat(core): improve feature #382
+2025-02-21 10:2:00 +0700 - test(config): remove feature #435
