@@ -62018,3 +62018,5 @@
 2025-02-19 15:7:00 +0700 - test(auth): optimize feature #444
 2025-02-19 14:22:00 +0700 - feat(ui): update feature #444
 2025-02-20 14:47:00 +0700 - perf(db): improve feature #304
+2025-02-21 9:16:00 +0700 - feat(core): optimize feature #489
+2025-02-21 12:53:00 +0700 - chore(api): optimize feature #489
