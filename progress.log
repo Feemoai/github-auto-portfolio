@@ -54309,3 +54309,4 @@
 2025-02-20 16:13:00 +0700 - feat(api): improve feature #273
 2025-02-20 13:54:00 +0700 - chore(auth): optimize feature #273
 2025-02-21 14:34:00 +0700 - perf(api): remove feature #149
+2025-02-21 12:42:00 +0700 - refactor(core): optimize feature #149
