@@ -68262,3 +68262,4 @@
 2025-02-19 13:20:00 +0700 - docs(db): update feature #299
 2025-02-20 16:17:00 +0700 - chore(config): optimize feature #145
 2025-02-20 14:26:00 +0700 - docs(ui): optimize feature #145
+2025-02-21 10:43:00 +0700 - fix(db): handle feature #160
