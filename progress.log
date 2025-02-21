@@ -2668,3 +2668,4 @@
 2025-02-19 13:34:00 +0700 - refactor(api): handle feature #312
 2025-02-19 10:7:00 +0700 - feat(config): handle feature #312
 2025-02-20 9:11:00 +0700 - docs(auth): optimize feature #147
+2025-02-21 16:50:00 +0700 - test(api): remove feature #397
