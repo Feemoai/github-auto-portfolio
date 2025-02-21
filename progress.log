@@ -20214,3 +20214,4 @@
 2025-02-19 13:8:00 +0700 - chore(config): optimize feature #179
 2025-02-20 13:56:00 +0700 - refactor(db): improve feature #316
 2025-02-20 16:0:00 +0700 - fix(db): optimize feature #316
+2025-02-21 15:24:00 +0700 - perf(auth): update feature #231
