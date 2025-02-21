@@ -19843,3 +19843,5 @@
 2025-02-19 11:59:00 +0700 - test(api): handle feature #284
 2025-02-19 16:58:00 +0700 - chore(auth): improve feature #284
 2025-02-20 16:10:00 +0700 - feat(config): handle feature #384
+2025-02-21 11:54:00 +0700 - feat(config): add feature #469
+2025-02-21 16:10:00 +0700 - chore(api): improve feature #469
