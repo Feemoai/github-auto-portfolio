@@ -29137,3 +29137,4 @@
 2025-02-20 12:27:00 +0700 - test(core): add feature #304
 2025-02-20 14:48:00 +0700 - test(config): remove feature #304
 2025-02-21 13:54:00 +0700 - chore(core): remove feature #261
+2025-02-21 9:9:00 +0700 - perf(core): remove feature #261
