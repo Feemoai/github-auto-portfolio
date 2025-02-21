@@ -15155,3 +15155,4 @@
 2025-02-19 11:2:00 +0700 - feat(auth): remove feature #232
 2025-02-20 15:56:00 +0700 - perf(core): update feature #261
 2025-02-21 10:28:00 +0700 - fix(auth): remove feature #425
+2025-02-21 16:40:00 +0700 - fix(auth): add feature #425
