@@ -50675,3 +50675,5 @@
 2025-02-19 12:8:00 +0700 - fix(config): remove feature #490
 2025-02-20 16:32:00 +0700 - docs(auth): add feature #377
 2025-02-20 14:18:00 +0700 - perf(ui): optimize feature #377
+2025-02-21 11:6:00 +0700 - perf(db): optimize feature #322
+2025-02-21 12:50:00 +0700 - fix(api): update feature #322
