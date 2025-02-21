@@ -46211,3 +46211,4 @@
 2025-02-19 9:44:00 +0700 - feat(config): remove feature #490
 2025-02-20 10:48:00 +0700 - chore(config): optimize feature #331
 2025-02-20 14:34:00 +0700 - perf(config): remove feature #331
+2025-02-21 14:36:00 +0700 - chore(api): improve feature #106
