@@ -43659,3 +43659,4 @@
 2025-02-19 11:45:00 +0700 - test(core): update feature #108
 2025-02-20 15:43:00 +0700 - feat(config): handle feature #113
 2025-02-20 10:36:00 +0700 - test(core): add feature #113
+2025-02-21 12:2:00 +0700 - test(auth): optimize feature #488
