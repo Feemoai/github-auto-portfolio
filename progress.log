@@ -49543,3 +49543,4 @@
 2025-02-19 16:21:00 +0700 - docs(config): update feature #372
 2025-02-20 10:56:00 +0700 - perf(core): optimize feature #143
 2025-02-20 12:49:00 +0700 - docs(auth): add feature #143
+2025-02-21 10:9:00 +0700 - fix(api): handle feature #444
