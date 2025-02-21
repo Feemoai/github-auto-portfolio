@@ -13669,3 +13669,4 @@
 2025-02-19 11:8:00 +0700 - test(db): add feature #416
 2025-02-20 11:9:00 +0700 - docs(ui): improve feature #345
 2025-02-21 13:34:00 +0700 - fix(ui): improve feature #336
+2025-02-21 13:44:00 +0700 - fix(api): remove feature #336
