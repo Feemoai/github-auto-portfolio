@@ -42026,3 +42026,4 @@
 2025-02-19 12:26:00 +0700 - refactor(api): add feature #449
 2025-02-20 9:19:00 +0700 - test(ui): remove feature #172
 2025-02-21 13:35:00 +0700 - chore(config): improve feature #382
+2025-02-21 9:26:00 +0700 - test(core): handle feature #382
