@@ -7139,3 +7139,5 @@
 2025-02-18 15:16:00 +0700 - docs(auth): update feature #254
 2025-02-19 14:2:00 +0700 - test(auth): update feature #131
 2025-02-20 12:1:00 +0700 - refactor(auth): handle feature #330
+2025-02-21 12:18:00 +0700 - perf(core): remove feature #262
+2025-02-21 14:47:00 +0700 - fix(auth): remove feature #262
