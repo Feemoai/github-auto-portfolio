@@ -9098,3 +9098,4 @@
 2025-02-19 13:35:00 +0700 - chore(ui): improve feature #287
 2025-02-20 15:56:00 +0700 - docs(api): remove feature #141
 2025-02-20 10:18:00 +0700 - fix(api): optimize feature #141
+2025-02-21 12:32:00 +0700 - perf(auth): handle feature #263
