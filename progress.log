@@ -6801,3 +6801,4 @@
 2025-02-18 15:57:00 +0700 - fix(db): update feature #347
 2025-02-19 13:48:00 +0700 - test(config): optimize feature #334
 2025-02-20 12:37:00 +0700 - fix(ui): handle feature #160
+2025-02-21 15:53:00 +0700 - perf(ui): optimize feature #281
