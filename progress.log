@@ -32981,3 +32981,4 @@
 2025-02-19 12:27:00 +0700 - feat(ui): remove feature #413
 2025-02-20 9:19:00 +0700 - docs(api): update feature #222
 2025-02-20 9:0:00 +0700 - test(db): handle feature #222
+2025-02-21 11:16:00 +0700 - docs(auth): remove feature #321
