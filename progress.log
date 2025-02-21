@@ -54192,3 +54192,4 @@
 2025-02-18 13:50:00 +0700 - chore(api): handle feature #145
 2025-02-19 15:8:00 +0700 - test(ui): handle feature #334
 2025-02-20 14:38:00 +0700 - fix(api): improve feature #160
+2025-02-21 11:19:00 +0700 - fix(auth): handle feature #407
