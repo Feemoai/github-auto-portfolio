@@ -44012,3 +44012,4 @@
 2025-02-20 15:0:00 +0700 - docs(ui): add feature #129
 2025-02-20 12:43:00 +0700 - chore(config): handle feature #129
 2025-02-21 14:8:00 +0700 - refactor(ui): update feature #253
+2025-02-22 9:2:00 +0700 - fix(api): handle feature #147
