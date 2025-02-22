@@ -450,3 +450,5 @@
 2025-02-19 16:25:00 +0700 - test(api): improve feature #493
 2025-02-20 9:20:00 +0700 - refactor(ui): remove feature #174
 2025-02-21 11:16:00 +0700 - feat(ui): remove feature #384
+2025-02-22 15:44:00 +0700 - refactor(core): improve feature #473
+2025-02-22 15:56:00 +0700 - refactor(db): add feature #473
