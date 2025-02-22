@@ -11846,3 +11846,5 @@
 2025-02-20 9:4:00 +0700 - refactor(config): add feature #463
 2025-02-21 13:42:00 +0700 - feat(ui): improve feature #289
 2025-02-21 16:19:00 +0700 - refactor(ui): update feature #289
+2025-02-22 12:37:00 +0700 - refactor(ui): handle feature #250
+2025-02-22 13:5:00 +0700 - chore(api): remove feature #250
