@@ -54766,3 +54766,5 @@
 2025-02-20 15:27:00 +0700 - test(config): optimize feature #424
 2025-02-20 14:22:00 +0700 - chore(core): add feature #424
 2025-02-21 16:48:00 +0700 - fix(ui): optimize feature #416
+2025-02-22 16:7:00 +0700 - perf(core): optimize feature #278
+2025-02-22 16:58:00 +0700 - test(ui): optimize feature #278
