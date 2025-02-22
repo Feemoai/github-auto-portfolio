@@ -28461,3 +28461,4 @@
 2025-02-20 15:54:00 +0700 - feat(config): handle feature #358
 2025-02-21 9:13:00 +0700 - perf(db): remove feature #218
 2025-02-21 15:36:00 +0700 - fix(auth): optimize feature #218
+2025-02-22 16:25:00 +0700 - fix(db): remove feature #317
