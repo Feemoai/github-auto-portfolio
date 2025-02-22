@@ -59949,3 +59949,4 @@
 2025-02-20 12:34:00 +0700 - test(config): handle feature #203
 2025-02-21 9:15:00 +0700 - refactor(api): handle feature #146
 2025-02-21 13:6:00 +0700 - feat(ui): improve feature #146
+2025-02-22 11:34:00 +0700 - chore(core): remove feature #110
