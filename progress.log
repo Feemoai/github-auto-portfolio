@@ -23214,3 +23214,4 @@
 2025-02-21 11:56:00 +0700 - perf(ui): optimize feature #149
 2025-02-21 14:45:00 +0700 - test(config): update feature #149
 2025-02-22 12:59:00 +0700 - fix(db): optimize feature #221
+2025-02-22 13:25:00 +0700 - docs(core): add feature #221
