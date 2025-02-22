@@ -2549,3 +2549,4 @@
 2025-02-19 15:1:00 +0700 - fix(api): remove feature #454
 2025-02-20 15:48:00 +0700 - fix(core): handle feature #114
 2025-02-21 9:58:00 +0700 - test(api): update feature #381
+2025-02-22 15:54:00 +0700 - test(config): add feature #330
