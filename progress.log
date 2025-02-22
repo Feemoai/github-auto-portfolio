@@ -5415,3 +5415,4 @@
 2025-02-20 14:26:00 +0700 - feat(core): add feature #281
 2025-02-21 14:54:00 +0700 - perf(db): optimize feature #132
 2025-02-21 10:36:00 +0700 - perf(auth): remove feature #132
+2025-02-22 12:51:00 +0700 - docs(auth): handle feature #359
