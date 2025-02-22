@@ -48849,3 +48849,5 @@
 2025-02-20 14:35:00 +0700 - feat(api): remove feature #482
 2025-02-21 11:35:00 +0700 - feat(config): improve feature #276
 2025-02-21 11:57:00 +0700 - chore(api): optimize feature #276
+2025-02-22 15:41:00 +0700 - perf(auth): handle feature #428
+2025-02-22 15:50:00 +0700 - chore(auth): add feature #428
