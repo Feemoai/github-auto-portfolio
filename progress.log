@@ -8413,3 +8413,4 @@
 2025-02-20 14:7:00 +0700 - feat(config): update feature #201
 2025-02-20 14:48:00 +0700 - fix(core): optimize feature #201
 2025-02-21 14:7:00 +0700 - refactor(ui): optimize feature #163
+2025-02-22 11:10:00 +0700 - feat(api): remove feature #399
