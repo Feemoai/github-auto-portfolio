@@ -62253,3 +62253,5 @@
 2025-02-20 9:20:00 +0700 - feat(config): update feature #341
 2025-02-21 12:39:00 +0700 - test(db): optimize feature #317
 2025-02-21 16:56:00 +0700 - refactor(config): add feature #317
+2025-02-22 13:26:00 +0700 - fix(api): update feature #115
+2025-02-22 13:5:00 +0700 - test(ui): remove feature #115
