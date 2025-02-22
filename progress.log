@@ -1614,3 +1614,5 @@
 2025-02-20 9:17:00 +0700 - perf(db): remove feature #157
 2025-02-20 15:27:00 +0700 - perf(ui): handle feature #157
 2025-02-21 14:11:00 +0700 - test(core): remove feature #309
+2025-02-22 10:23:00 +0700 - fix(config): update feature #131
+2025-02-22 9:1:00 +0700 - test(db): remove feature #131
