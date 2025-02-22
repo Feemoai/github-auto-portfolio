@@ -45154,3 +45154,4 @@
 2025-02-20 15:11:00 +0700 - fix(db): remove feature #495
 2025-02-21 11:23:00 +0700 - refactor(db): remove feature #177
 2025-02-21 11:12:00 +0700 - docs(ui): add feature #177
+2025-02-22 15:36:00 +0700 - test(core): handle feature #370
