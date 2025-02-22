@@ -53504,3 +53504,4 @@
 2025-02-20 14:13:00 +0700 - feat(ui): add feature #256
 2025-02-20 9:5:00 +0700 - docs(core): update feature #256
 2025-02-21 13:47:00 +0700 - test(core): handle feature #358
+2025-02-22 16:12:00 +0700 - chore(api): optimize feature #257
