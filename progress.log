@@ -3347,3 +3347,4 @@
 2025-02-21 15:50:00 +0700 - feat(config): remove feature #177
 2025-02-21 16:40:00 +0700 - chore(ui): remove feature #177
 2025-02-22 10:1:00 +0700 - test(auth): optimize feature #314
+2025-02-22 13:15:00 +0700 - perf(config): add feature #314
