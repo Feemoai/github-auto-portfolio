@@ -64236,3 +64236,4 @@
 2025-02-20 12:18:00 +0700 - docs(ui): optimize feature #345
 2025-02-21 9:17:00 +0700 - fix(config): improve feature #113
 2025-02-21 10:43:00 +0700 - test(core): remove feature #113
+2025-02-22 9:30:00 +0700 - perf(core): improve feature #491
