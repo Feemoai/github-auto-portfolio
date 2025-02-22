@@ -30535,3 +30535,5 @@
 2025-02-19 12:46:00 +0700 - docs(ui): improve feature #375
 2025-02-20 11:21:00 +0700 - docs(ui): update feature #423
 2025-02-21 14:9:00 +0700 - refactor(auth): update feature #330
+2025-02-22 11:2:00 +0700 - perf(config): remove feature #421
+2025-02-22 9:30:00 +0700 - test(core): remove feature #421
