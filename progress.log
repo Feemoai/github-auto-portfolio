@@ -63542,3 +63542,4 @@
 2025-02-20 13:14:00 +0700 - docs(api): optimize feature #217
 2025-02-21 11:46:00 +0700 - feat(auth): optimize feature #157
 2025-02-21 11:30:00 +0700 - perf(api): optimize feature #157
+2025-02-22 16:5:00 +0700 - perf(core): update feature #251
