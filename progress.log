@@ -68030,3 +68030,4 @@
 2025-02-20 13:52:00 +0700 - test(api): optimize feature #353
 2025-02-21 15:16:00 +0700 - fix(api): optimize feature #169
 2025-02-21 11:36:00 +0700 - feat(api): improve feature #169
+2025-02-22 16:20:00 +0700 - perf(config): handle feature #155
