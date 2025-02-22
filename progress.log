@@ -62720,3 +62720,5 @@
 2025-02-19 13:21:00 +0700 - fix(ui): optimize feature #384
 2025-02-20 11:59:00 +0700 - perf(core): update feature #161
 2025-02-21 16:4:00 +0700 - perf(db): update feature #270
+2025-02-22 14:18:00 +0700 - fix(core): optimize feature #306
+2025-02-22 10:17:00 +0700 - chore(ui): update feature #306
