@@ -31913,3 +31913,4 @@
 2025-02-20 12:22:00 +0700 - test(core): improve feature #415
 2025-02-21 16:44:00 +0700 - test(core): add feature #436
 2025-02-21 14:0:00 +0700 - chore(core): update feature #436
+2025-02-22 10:20:00 +0700 - perf(db): optimize feature #186
