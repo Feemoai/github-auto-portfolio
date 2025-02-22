@@ -6453,3 +6453,4 @@
 2025-02-21 14:29:00 +0700 - docs(config): remove feature #103
 2025-02-21 12:50:00 +0700 - perf(core): remove feature #103
 2025-02-22 16:34:00 +0700 - test(api): handle feature #102
+2025-02-22 9:45:00 +0700 - fix(auth): remove feature #102
