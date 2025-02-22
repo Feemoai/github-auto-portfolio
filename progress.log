@@ -19253,3 +19253,4 @@
 2025-02-19 13:21:00 +0700 - test(ui): handle feature #109
 2025-02-20 10:39:00 +0700 - perf(api): handle feature #305
 2025-02-21 16:34:00 +0700 - perf(db): improve feature #115
+2025-02-22 14:9:00 +0700 - fix(db): improve feature #158
