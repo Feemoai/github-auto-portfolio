@@ -63421,3 +63421,4 @@
 2025-02-20 10:37:00 +0700 - docs(ui): remove feature #267
 2025-02-20 13:18:00 +0700 - perf(ui): remove feature #267
 2025-02-21 14:9:00 +0700 - perf(config): update feature #423
+2025-02-22 9:43:00 +0700 - refactor(config): optimize feature #460
