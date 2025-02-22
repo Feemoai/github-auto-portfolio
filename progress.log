@@ -38317,3 +38317,4 @@
 2025-02-20 12:46:00 +0700 - fix(ui): add feature #198
 2025-02-21 13:24:00 +0700 - chore(core): handle feature #314
 2025-02-21 15:43:00 +0700 - chore(api): handle feature #314
+2025-02-22 12:39:00 +0700 - fix(config): optimize feature #180
