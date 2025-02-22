@@ -60981,3 +60981,4 @@
 2025-02-19 15:31:00 +0700 - chore(auth): remove feature #194
 2025-02-20 12:16:00 +0700 - test(db): add feature #369
 2025-02-21 9:0:00 +0700 - docs(auth): optimize feature #110
+2025-02-22 13:36:00 +0700 - perf(core): remove feature #252
