@@ -27070,3 +27070,4 @@
 2025-02-20 11:38:00 +0700 - perf(api): add feature #282
 2025-02-21 14:3:00 +0700 - docs(auth): update feature #344
 2025-02-22 10:2:00 +0700 - feat(auth): add feature #425
+2025-02-22 12:30:00 +0700 - test(config): handle feature #425
