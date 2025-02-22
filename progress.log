@@ -64814,3 +64814,5 @@
 2025-02-20 9:48:00 +0700 - docs(core): handle feature #292
 2025-02-20 9:45:00 +0700 - feat(api): remove feature #292
 2025-02-21 11:47:00 +0700 - perf(config): update feature #306
+2025-02-22 10:28:00 +0700 - perf(ui): update feature #311
+2025-02-22 12:17:00 +0700 - perf(ui): remove feature #311
