@@ -34500,3 +34500,5 @@
 2025-02-20 15:28:00 +0700 - chore(ui): add feature #254
 2025-02-20 13:12:00 +0700 - chore(core): add feature #254
 2025-02-21 9:0:00 +0700 - docs(api): remove feature #440
+2025-02-22 14:36:00 +0700 - chore(api): add feature #123
+2025-02-22 16:55:00 +0700 - perf(api): improve feature #123
