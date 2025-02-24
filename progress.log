@@ -6805,3 +6805,4 @@
 2025-02-22 15:57:00 +0700 - fix(config): improve feature #448
 2025-02-22 11:21:00 +0700 - docs(ui): update feature #448
 2025-02-24 16:25:00 +0700 - perf(config): add feature #127
+2025-02-24 13:50:00 +0700 - fix(ui): handle feature #127
