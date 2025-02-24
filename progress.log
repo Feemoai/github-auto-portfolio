@@ -19139,3 +19139,4 @@
 2025-02-21 15:15:00 +0700 - fix(core): handle feature #350
 2025-02-22 14:20:00 +0700 - chore(db): add feature #203
 2025-02-22 14:32:00 +0700 - feat(api): handle feature #203
+2025-02-24 16:6:00 +0700 - perf(ui): handle feature #312
