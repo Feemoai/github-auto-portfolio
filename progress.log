@@ -23550,3 +23550,4 @@
 2025-02-20 11:50:00 +0700 - perf(core): remove feature #387
 2025-02-21 10:12:00 +0700 - refactor(db): add feature #394
 2025-02-22 10:50:00 +0700 - refactor(api): handle feature #473
+2025-02-24 10:1:00 +0700 - docs(config): add feature #303
