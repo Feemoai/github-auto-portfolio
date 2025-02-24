@@ -55102,3 +55102,4 @@
 2025-02-21 15:41:00 +0700 - perf(ui): add feature #304
 2025-02-21 11:44:00 +0700 - chore(auth): remove feature #304
 2025-02-22 13:49:00 +0700 - fix(config): improve feature #103
+2025-02-24 15:38:00 +0700 - chore(core): handle feature #198
