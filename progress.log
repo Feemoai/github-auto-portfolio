@@ -10251,3 +10251,4 @@
 2025-02-21 9:12:00 +0700 - feat(core): optimize feature #220
 2025-02-22 10:4:00 +0700 - feat(db): update feature #423
 2025-02-22 12:41:00 +0700 - perf(api): improve feature #423
+2025-02-24 9:59:00 +0700 - docs(config): handle feature #180
