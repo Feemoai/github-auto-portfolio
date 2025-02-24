@@ -37861,3 +37861,5 @@
 2025-02-21 12:56:00 +0700 - feat(auth): remove feature #103
 2025-02-22 12:59:00 +0700 - test(auth): improve feature #149
 2025-02-22 12:32:00 +0700 - docs(db): update feature #149
+2025-02-24 15:31:00 +0700 - perf(api): remove feature #436
+2025-02-24 12:37:00 +0700 - fix(core): handle feature #436
