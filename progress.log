@@ -49079,3 +49079,4 @@
 2025-02-21 16:11:00 +0700 - chore(core): optimize feature #266
 2025-02-21 9:7:00 +0700 - test(config): remove feature #266
 2025-02-22 11:24:00 +0700 - test(db): add feature #447
+2025-02-24 16:52:00 +0700 - perf(api): optimize feature #191
