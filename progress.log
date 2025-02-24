@@ -7031,3 +7031,4 @@
 2025-02-21 14:11:00 +0700 - chore(db): update feature #165
 2025-02-21 11:36:00 +0700 - chore(core): improve feature #165
 2025-02-22 12:53:00 +0700 - fix(ui): handle feature #179
+2025-02-24 12:1:00 +0700 - refactor(auth): remove feature #231
