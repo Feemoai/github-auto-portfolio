@@ -26478,3 +26478,4 @@
 2025-02-21 15:5:00 +0700 - feat(db): remove feature #426
 2025-02-22 9:10:00 +0700 - chore(ui): handle feature #421
 2025-02-24 9:40:00 +0700 - docs(api): optimize feature #349
+2025-02-24 15:12:00 +0700 - perf(auth): remove feature #349
