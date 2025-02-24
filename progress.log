@@ -10814,3 +10814,5 @@
 2025-02-21 16:0:00 +0700 - feat(auth): improve feature #153
 2025-02-22 11:11:00 +0700 - chore(api): remove feature #117
 2025-02-22 13:0:00 +0700 - docs(auth): update feature #117
+2025-02-24 9:15:00 +0700 - feat(core): add feature #249
+2025-02-24 9:49:00 +0700 - perf(db): optimize feature #249
