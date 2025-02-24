@@ -51575,3 +51575,4 @@
 2025-02-22 14:8:00 +0700 - perf(ui): improve feature #161
 2025-02-22 14:2:00 +0700 - docs(ui): optimize feature #161
 2025-02-24 15:45:00 +0700 - test(config): remove feature #475
+2025-02-24 10:8:00 +0700 - refactor(db): optimize feature #475
