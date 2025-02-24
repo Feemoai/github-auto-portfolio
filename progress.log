@@ -4039,3 +4039,4 @@
 2025-02-22 16:43:00 +0700 - perf(auth): remove feature #248
 2025-02-22 15:41:00 +0700 - fix(config): optimize feature #248
 2025-02-24 9:19:00 +0700 - chore(ui): update feature #431
+2025-02-24 10:0:00 +0700 - chore(api): add feature #431
