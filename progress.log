@@ -43436,3 +43436,4 @@
 2025-02-22 11:42:00 +0700 - fix(auth): add feature #306
 2025-02-22 11:55:00 +0700 - chore(db): handle feature #306
 2025-02-24 15:54:00 +0700 - docs(config): handle feature #328
+2025-02-24 11:7:00 +0700 - test(core): improve feature #328
