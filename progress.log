@@ -65045,3 +65045,4 @@
 2025-02-21 12:48:00 +0700 - refactor(config): handle feature #104
 2025-02-22 14:6:00 +0700 - feat(ui): add feature #156
 2025-02-24 15:24:00 +0700 - fix(auth): optimize feature #384
+2025-02-24 15:33:00 +0700 - perf(ui): handle feature #384
