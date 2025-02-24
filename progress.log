@@ -45974,3 +45974,4 @@
 2025-02-22 11:55:00 +0700 - refactor(ui): handle feature #184
 2025-02-22 10:14:00 +0700 - feat(ui): handle feature #184
 2025-02-24 13:43:00 +0700 - test(db): remove feature #250
+2025-02-24 12:31:00 +0700 - fix(api): optimize feature #250
