@@ -13671,3 +13671,4 @@
 2025-02-21 13:34:00 +0700 - fix(ui): improve feature #336
 2025-02-21 13:44:00 +0700 - fix(api): remove feature #336
 2025-02-22 11:32:00 +0700 - fix(db): remove feature #338
+2025-02-24 11:28:00 +0700 - feat(auth): update feature #402
