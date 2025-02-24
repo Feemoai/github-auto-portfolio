@@ -51689,3 +51689,4 @@
 2025-02-21 11:31:00 +0700 - feat(core): remove feature #477
 2025-02-21 15:50:00 +0700 - fix(db): handle feature #477
 2025-02-22 15:9:00 +0700 - perf(ui): handle feature #231
+2025-02-24 11:26:00 +0700 - feat(core): add feature #246
