@@ -40617,3 +40617,5 @@
 2025-02-20 16:16:00 +0700 - chore(ui): update feature #341
 2025-02-21 9:17:00 +0700 - perf(auth): remove feature #343
 2025-02-22 16:38:00 +0700 - perf(auth): update feature #441
+2025-02-24 12:43:00 +0700 - fix(db): update feature #144
+2025-02-24 9:15:00 +0700 - chore(config): handle feature #144
