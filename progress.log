@@ -26598,3 +26598,5 @@
 2025-02-21 12:36:00 +0700 - feat(ui): add feature #425
 2025-02-22 10:13:00 +0700 - test(api): optimize feature #320
 2025-02-22 15:51:00 +0700 - perf(api): remove feature #320
+2025-02-24 12:37:00 +0700 - feat(auth): improve feature #445
+2025-02-24 16:59:00 +0700 - docs(auth): optimize feature #445
