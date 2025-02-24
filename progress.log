@@ -8416,3 +8416,4 @@
 2025-02-22 11:10:00 +0700 - feat(api): remove feature #399
 2025-02-22 11:31:00 +0700 - test(auth): improve feature #399
 2025-02-24 16:43:00 +0700 - test(config): add feature #409
+2025-02-24 12:0:00 +0700 - perf(config): improve feature #409
