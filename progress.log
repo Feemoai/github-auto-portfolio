@@ -44244,3 +44244,4 @@
 2025-02-21 16:2:00 +0700 - perf(db): improve feature #401
 2025-02-22 15:41:00 +0700 - docs(auth): add feature #158
 2025-02-22 14:42:00 +0700 - refactor(api): remove feature #158
+2025-02-24 16:5:00 +0700 - fix(api): optimize feature #331
