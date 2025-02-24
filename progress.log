@@ -49322,3 +49322,4 @@
 2025-02-21 16:49:00 +0700 - fix(api): handle feature #262
 2025-02-22 15:36:00 +0700 - refactor(db): handle feature #219
 2025-02-22 11:29:00 +0700 - test(config): handle feature #219
+2025-02-24 9:54:00 +0700 - feat(ui): add feature #165
