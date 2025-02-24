@@ -66551,3 +66551,4 @@
 2025-02-21 15:43:00 +0700 - test(core): handle feature #152
 2025-02-22 13:45:00 +0700 - docs(auth): handle feature #163
 2025-02-24 13:52:00 +0700 - perf(api): remove feature #163
+2025-02-24 16:28:00 +0700 - fix(api): optimize feature #163
