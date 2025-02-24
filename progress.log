@@ -51690,3 +51690,4 @@
 2025-02-21 15:50:00 +0700 - fix(db): handle feature #477
 2025-02-22 15:9:00 +0700 - perf(ui): handle feature #231
 2025-02-24 11:26:00 +0700 - feat(core): add feature #246
+2025-02-24 14:8:00 +0700 - refactor(config): optimize feature #246
