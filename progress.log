@@ -40979,3 +40979,4 @@
 2025-02-21 15:4:00 +0700 - perf(auth): optimize feature #404
 2025-02-21 9:42:00 +0700 - chore(auth): remove feature #404
 2025-02-22 11:6:00 +0700 - docs(config): remove feature #317
+2025-02-24 10:28:00 +0700 - feat(auth): improve feature #142
