@@ -17731,3 +17731,5 @@
 2025-02-20 15:41:00 +0700 - feat(api): update feature #275
 2025-02-21 10:37:00 +0700 - test(config): improve feature #467
 2025-02-22 12:0:00 +0700 - refactor(api): handle feature #447
+2025-02-24 11:43:00 +0700 - fix(ui): optimize feature #379
+2025-02-24 13:56:00 +0700 - feat(auth): optimize feature #379
