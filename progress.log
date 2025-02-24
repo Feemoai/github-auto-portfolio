@@ -48272,3 +48272,4 @@
 2025-02-22 9:29:00 +0700 - chore(api): remove feature #438
 2025-02-22 9:18:00 +0700 - test(api): add feature #438
 2025-02-24 16:56:00 +0700 - perf(ui): add feature #497
+2025-02-24 11:48:00 +0700 - test(core): improve feature #497
