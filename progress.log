@@ -2080,3 +2080,4 @@
 2025-02-21 10:17:00 +0700 - test(db): optimize feature #485
 2025-02-21 10:29:00 +0700 - perf(core): optimize feature #485
 2025-02-22 14:52:00 +0700 - feat(auth): optimize feature #330
+2025-02-24 12:54:00 +0700 - fix(core): optimize feature #110
