@@ -52827,3 +52827,5 @@
 2025-02-20 12:34:00 +0700 - fix(config): remove feature #374
 2025-02-21 13:32:00 +0700 - chore(core): handle feature #144
 2025-02-22 16:41:00 +0700 - chore(ui): add feature #374
+2025-02-24 14:57:00 +0700 - docs(auth): handle feature #345
+2025-02-24 15:31:00 +0700 - feat(api): handle feature #345
