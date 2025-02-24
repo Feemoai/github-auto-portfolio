@@ -45853,3 +45853,4 @@
 2025-02-21 11:6:00 +0700 - docs(api): handle feature #442
 2025-02-22 10:14:00 +0700 - fix(ui): add feature #195
 2025-02-24 11:21:00 +0700 - perf(db): add feature #347
+2025-02-24 13:31:00 +0700 - test(ui): update feature #347
