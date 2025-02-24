@@ -3799,3 +3799,4 @@
 2025-02-20 16:12:00 +0700 - docs(auth): remove feature #402
 2025-02-21 15:33:00 +0700 - feat(db): update feature #452
 2025-02-22 14:42:00 +0700 - fix(db): remove feature #156
+2025-02-24 9:48:00 +0700 - chore(auth): add feature #154
