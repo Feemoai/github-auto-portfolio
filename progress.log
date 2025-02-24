@@ -10027,3 +10027,4 @@
 2025-02-21 10:7:00 +0700 - docs(ui): improve feature #181
 2025-02-22 13:19:00 +0700 - fix(db): remove feature #369
 2025-02-22 9:17:00 +0700 - refactor(ui): optimize feature #369
+2025-02-24 16:48:00 +0700 - refactor(config): add feature #195
