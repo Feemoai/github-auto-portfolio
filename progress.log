@@ -38434,3 +38434,4 @@
 2025-02-20 16:33:00 +0700 - test(ui): remove feature #130
 2025-02-21 12:16:00 +0700 - chore(core): remove feature #374
 2025-02-22 10:56:00 +0700 - fix(config): improve feature #229
+2025-02-24 11:42:00 +0700 - refactor(config): update feature #410
