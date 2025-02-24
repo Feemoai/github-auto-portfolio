@@ -224,3 +224,4 @@
 2025-02-21 12:29:00 +0700 - chore(core): handle feature #423
 2025-02-22 12:56:00 +0700 - refactor(api): remove feature #151
 2025-02-22 9:52:00 +0700 - chore(auth): handle feature #151
+2025-02-24 13:47:00 +0700 - fix(api): remove feature #146
