@@ -59366,3 +59366,4 @@
 2025-02-21 15:56:00 +0700 - perf(db): update feature #184
 2025-02-22 16:51:00 +0700 - docs(core): remove feature #202
 2025-02-22 12:22:00 +0700 - chore(core): improve feature #202
+2025-02-24 12:10:00 +0700 - test(auth): remove feature #300
