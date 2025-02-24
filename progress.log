@@ -50678,3 +50678,4 @@
 2025-02-21 11:6:00 +0700 - perf(db): optimize feature #322
 2025-02-21 12:50:00 +0700 - fix(api): update feature #322
 2025-02-22 9:54:00 +0700 - fix(api): optimize feature #364
+2025-02-24 12:9:00 +0700 - fix(ui): handle feature #230
