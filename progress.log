@@ -29843,3 +29843,4 @@
 2025-02-21 9:55:00 +0700 - docs(config): remove feature #230
 2025-02-21 14:10:00 +0700 - chore(ui): add feature #230
 2025-02-22 15:37:00 +0700 - refactor(auth): optimize feature #137
+2025-02-24 12:11:00 +0700 - refactor(db): handle feature #372
