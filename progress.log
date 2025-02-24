@@ -41330,3 +41330,4 @@
 2025-02-21 11:7:00 +0700 - fix(config): remove feature #262
 2025-02-21 16:10:00 +0700 - feat(core): optimize feature #262
 2025-02-22 10:51:00 +0700 - fix(auth): handle feature #134
+2025-02-24 16:56:00 +0700 - perf(core): add feature #441
