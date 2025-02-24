@@ -2788,3 +2788,4 @@
 2025-02-21 11:34:00 +0700 - fix(config): improve feature #376
 2025-02-22 15:42:00 +0700 - docs(core): remove feature #471
 2025-02-22 11:57:00 +0700 - test(auth): optimize feature #471
+2025-02-24 13:47:00 +0700 - feat(config): improve feature #434
