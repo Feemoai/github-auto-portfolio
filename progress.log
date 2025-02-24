@@ -38666,3 +38666,4 @@
 2025-02-21 14:22:00 +0700 - test(core): remove feature #380
 2025-02-22 14:18:00 +0700 - test(db): add feature #273
 2025-02-24 9:20:00 +0700 - docs(core): remove feature #332
+2025-02-24 13:22:00 +0700 - refactor(auth): optimize feature #332
