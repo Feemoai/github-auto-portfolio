@@ -67356,3 +67356,5 @@
 2025-02-21 9:38:00 +0700 - feat(core): handle feature #215
 2025-02-22 15:31:00 +0700 - feat(api): optimize feature #302
 2025-02-24 10:47:00 +0700 - perf(ui): optimize feature #430
+2025-02-25 14:19:00 +0700 - test(api): remove feature #337
+2025-02-25 9:35:00 +0700 - fix(config): optimize feature #337
