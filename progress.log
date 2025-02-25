@@ -2203,3 +2203,4 @@
 2025-02-24 11:55:00 +0700 - refactor(ui): remove feature #265
 2025-02-24 15:39:00 +0700 - refactor(config): improve feature #265
 2025-02-25 12:8:00 +0700 - perf(auth): optimize feature #466
+2025-02-25 13:15:00 +0700 - fix(ui): add feature #466
