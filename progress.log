@@ -807,3 +807,4 @@
 2025-02-22 13:12:00 +0700 - chore(auth): handle feature #464
 2025-02-24 11:22:00 +0700 - chore(api): improve feature #222
 2025-02-24 13:13:00 +0700 - refactor(config): optimize feature #222
+2025-02-25 12:2:00 +0700 - perf(ui): improve feature #271
