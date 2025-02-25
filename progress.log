@@ -60753,3 +60753,4 @@
 2025-02-22 14:45:00 +0700 - fix(config): update feature #424
 2025-02-24 11:33:00 +0700 - test(auth): remove feature #296
 2025-02-24 14:20:00 +0700 - docs(api): remove feature #296
+2025-02-25 11:9:00 +0700 - fix(config): handle feature #454
