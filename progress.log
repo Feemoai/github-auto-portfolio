@@ -12645,3 +12645,5 @@
 2025-02-22 10:11:00 +0700 - fix(auth): add feature #345
 2025-02-24 9:8:00 +0700 - fix(db): add feature #343
 2025-02-24 12:9:00 +0700 - feat(config): optimize feature #343
+2025-02-25 13:26:00 +0700 - feat(ui): add feature #229
+2025-02-25 15:59:00 +0700 - perf(db): handle feature #229
