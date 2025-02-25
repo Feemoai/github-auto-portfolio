@@ -39350,3 +39350,5 @@
 2025-02-21 9:20:00 +0700 - docs(core): add feature #207
 2025-02-22 11:25:00 +0700 - feat(api): handle feature #297
 2025-02-24 12:8:00 +0700 - feat(ui): optimize feature #226
+2025-02-25 10:10:00 +0700 - perf(core): optimize feature #389
+2025-02-25 15:20:00 +0700 - test(ui): optimize feature #389
