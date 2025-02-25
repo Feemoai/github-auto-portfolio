@@ -453,3 +453,4 @@
 2025-02-22 15:44:00 +0700 - refactor(core): improve feature #473
 2025-02-22 15:56:00 +0700 - refactor(db): add feature #473
 2025-02-24 9:6:00 +0700 - docs(api): remove feature #419
+2025-02-25 12:6:00 +0700 - docs(config): handle feature #498
