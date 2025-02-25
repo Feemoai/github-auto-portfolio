@@ -43896,3 +43896,4 @@
 2025-02-24 13:10:00 +0700 - chore(db): improve feature #253
 2025-02-24 16:37:00 +0700 - chore(api): update feature #253
 2025-02-25 13:35:00 +0700 - docs(core): add feature #349
+2025-02-25 14:15:00 +0700 - test(api): handle feature #349
