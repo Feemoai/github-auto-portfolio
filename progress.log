@@ -10140,3 +10140,4 @@
 2025-02-22 13:1:00 +0700 - fix(core): optimize feature #440
 2025-02-24 11:11:00 +0700 - chore(db): handle feature #253
 2025-02-25 9:8:00 +0700 - perf(db): handle feature #299
+2025-02-25 15:25:00 +0700 - refactor(ui): handle feature #299
