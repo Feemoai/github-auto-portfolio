@@ -42149,3 +42149,4 @@
 2025-02-22 11:30:00 +0700 - docs(ui): improve feature #495
 2025-02-24 13:4:00 +0700 - refactor(api): update feature #330
 2025-02-24 11:27:00 +0700 - test(config): remove feature #330
+2025-02-25 12:45:00 +0700 - perf(ui): handle feature #107
