@@ -19968,3 +19968,5 @@
 2025-02-22 12:2:00 +0700 - perf(ui): remove feature #165
 2025-02-24 10:43:00 +0700 - fix(db): update feature #433
 2025-02-24 10:50:00 +0700 - chore(config): handle feature #433
+2025-02-25 12:47:00 +0700 - fix(config): optimize feature #492
+2025-02-25 12:12:00 +0700 - test(api): remove feature #492
