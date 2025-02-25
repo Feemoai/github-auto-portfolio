@@ -52944,3 +52944,4 @@
 2025-02-24 11:12:00 +0700 - perf(auth): handle feature #251
 2025-02-24 16:29:00 +0700 - fix(db): optimize feature #251
 2025-02-25 16:22:00 +0700 - test(config): remove feature #373
+2025-02-25 10:20:00 +0700 - docs(core): update feature #373
