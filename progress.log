@@ -62135,3 +62135,4 @@
 2025-02-22 12:56:00 +0700 - chore(ui): optimize feature #471
 2025-02-22 15:0:00 +0700 - test(auth): handle feature #471
 2025-02-24 15:38:00 +0700 - perf(config): handle feature #468
+2025-02-25 16:32:00 +0700 - fix(api): remove feature #437
