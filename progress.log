@@ -25323,3 +25323,4 @@
 2025-02-22 16:28:00 +0700 - test(auth): add feature #167
 2025-02-24 10:13:00 +0700 - feat(config): improve feature #482
 2025-02-24 16:11:00 +0700 - fix(ui): remove feature #482
+2025-02-25 16:9:00 +0700 - fix(core): remove feature #224
