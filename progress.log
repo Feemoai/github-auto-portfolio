@@ -62256,3 +62256,4 @@
 2025-02-22 13:26:00 +0700 - fix(api): update feature #115
 2025-02-22 13:5:00 +0700 - test(ui): remove feature #115
 2025-02-24 13:38:00 +0700 - docs(db): update feature #472
+2025-02-25 10:40:00 +0700 - feat(ui): handle feature #214
