@@ -8655,3 +8655,5 @@
 2025-02-21 9:6:00 +0700 - docs(auth): update feature #148
 2025-02-22 13:59:00 +0700 - fix(db): improve feature #400
 2025-02-24 12:59:00 +0700 - test(db): update feature #271
+2025-02-25 14:7:00 +0700 - refactor(config): handle feature #245
+2025-02-25 9:42:00 +0700 - refactor(ui): optimize feature #245
