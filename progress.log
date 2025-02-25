@@ -567,3 +567,5 @@
 2025-02-21 9:45:00 +0700 - test(auth): handle feature #228
 2025-02-22 16:18:00 +0700 - test(api): improve feature #212
 2025-02-24 16:51:00 +0700 - perf(config): update feature #250
+2025-02-25 12:52:00 +0700 - fix(core): improve feature #448
+2025-02-25 11:15:00 +0700 - docs(api): handle feature #448
