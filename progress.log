@@ -20218,3 +20218,4 @@
 2025-02-22 16:25:00 +0700 - test(db): improve feature #134
 2025-02-22 16:15:00 +0700 - perf(core): remove feature #134
 2025-02-24 15:10:00 +0700 - chore(ui): optimize feature #187
+2025-02-25 9:21:00 +0700 - perf(ui): remove feature #209
