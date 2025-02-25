@@ -54545,3 +54545,4 @@
 2025-02-22 16:9:00 +0700 - test(core): add feature #147
 2025-02-24 15:29:00 +0700 - test(ui): improve feature #435
 2025-02-24 10:45:00 +0700 - refactor(db): add feature #435
+2025-02-25 14:36:00 +0700 - refactor(db): remove feature #254
