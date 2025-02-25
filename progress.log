@@ -10693,3 +10693,4 @@
 2025-02-22 16:55:00 +0700 - fix(db): add feature #301
 2025-02-24 12:22:00 +0700 - chore(core): optimize feature #181
 2025-02-24 16:51:00 +0700 - fix(auth): remove feature #181
+2025-02-25 9:3:00 +0700 - test(core): update feature #304
