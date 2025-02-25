@@ -2672,3 +2672,4 @@
 2025-02-22 16:10:00 +0700 - feat(ui): handle feature #401
 2025-02-24 16:14:00 +0700 - docs(auth): remove feature #379
 2025-02-24 10:0:00 +0700 - chore(core): optimize feature #379
+2025-02-25 9:53:00 +0700 - refactor(api): optimize feature #281
