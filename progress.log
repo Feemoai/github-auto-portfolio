@@ -23551,3 +23551,5 @@
 2025-02-21 10:12:00 +0700 - refactor(db): add feature #394
 2025-02-22 10:50:00 +0700 - refactor(api): handle feature #473
 2025-02-24 10:1:00 +0700 - docs(config): add feature #303
+2025-02-25 9:22:00 +0700 - feat(ui): add feature #318
+2025-02-25 10:53:00 +0700 - chore(core): optimize feature #318
