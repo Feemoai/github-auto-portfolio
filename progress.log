@@ -48388,3 +48388,4 @@
 2025-02-22 16:32:00 +0700 - docs(auth): remove feature #443
 2025-02-24 9:47:00 +0700 - feat(api): add feature #307
 2025-02-24 14:43:00 +0700 - docs(config): handle feature #307
+2025-02-25 16:33:00 +0700 - feat(auth): handle feature #216
