@@ -10926,3 +10926,4 @@
 2025-02-22 11:49:00 +0700 - feat(ui): improve feature #443
 2025-02-22 12:42:00 +0700 - feat(core): remove feature #443
 2025-02-24 14:55:00 +0700 - perf(auth): remove feature #134
+2025-02-25 9:39:00 +0700 - fix(db): remove feature #233
