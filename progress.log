@@ -20095,3 +20095,5 @@
 2025-02-22 9:0:00 +0700 - feat(ui): improve feature #163
 2025-02-24 15:0:00 +0700 - chore(auth): remove feature #391
 2025-02-24 14:17:00 +0700 - chore(core): handle feature #391
+2025-02-25 16:0:00 +0700 - perf(core): remove feature #423
+2025-02-25 16:32:00 +0700 - perf(db): improve feature #423
