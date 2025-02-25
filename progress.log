@@ -23216,3 +23216,4 @@
 2025-02-22 12:59:00 +0700 - fix(db): optimize feature #221
 2025-02-22 13:25:00 +0700 - docs(core): add feature #221
 2025-02-24 15:38:00 +0700 - perf(api): optimize feature #303
+2025-02-25 16:31:00 +0700 - fix(db): handle feature #463
