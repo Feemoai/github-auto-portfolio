@@ -55686,3 +55686,4 @@
 2025-02-22 9:48:00 +0700 - refactor(auth): update feature #218
 2025-02-24 10:28:00 +0700 - refactor(core): update feature #475
 2025-02-24 16:49:00 +0700 - chore(auth): add feature #475
+2025-02-25 9:48:00 +0700 - fix(core): handle feature #124
