@@ -18437,3 +18437,4 @@
 2025-02-22 16:43:00 +0700 - perf(core): add feature #144
 2025-02-24 9:33:00 +0700 - fix(core): handle feature #429
 2025-02-24 14:8:00 +0700 - chore(ui): handle feature #429
+2025-02-25 11:44:00 +0700 - chore(auth): improve feature #330
