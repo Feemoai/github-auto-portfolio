@@ -9691,3 +9691,4 @@
 2025-02-22 10:58:00 +0700 - feat(core): improve feature #269
 2025-02-24 15:40:00 +0700 - chore(auth): handle feature #463
 2025-02-24 15:26:00 +0700 - feat(core): optimize feature #463
+2025-02-25 9:6:00 +0700 - chore(api): remove feature #278
