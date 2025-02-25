@@ -5869,3 +5869,4 @@
 2025-02-24 12:35:00 +0700 - feat(db): remove feature #372
 2025-02-24 13:18:00 +0700 - test(db): optimize feature #372
 2025-02-25 10:10:00 +0700 - refactor(core): update feature #330
+2025-02-25 15:7:00 +0700 - perf(config): update feature #330
