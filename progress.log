@@ -3233,3 +3233,4 @@
 2025-02-22 16:56:00 +0700 - docs(auth): update feature #497
 2025-02-24 14:17:00 +0700 - feat(config): remove feature #265
 2025-02-25 9:1:00 +0700 - refactor(core): add feature #249
+2025-02-25 11:4:00 +0700 - fix(ui): optimize feature #249
