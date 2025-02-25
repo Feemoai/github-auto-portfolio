@@ -32507,3 +32507,4 @@
 2025-02-21 14:30:00 +0700 - refactor(config): improve feature #166
 2025-02-22 16:15:00 +0700 - perf(api): add feature #339
 2025-02-24 12:23:00 +0700 - fix(api): add feature #365
+2025-02-25 10:48:00 +0700 - fix(db): handle feature #404
