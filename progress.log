@@ -1271,3 +1271,4 @@
 2025-02-21 11:29:00 +0700 - chore(config): update feature #399
 2025-02-22 13:54:00 +0700 - test(auth): optimize feature #397
 2025-02-24 14:42:00 +0700 - docs(db): optimize feature #354
+2025-02-25 13:13:00 +0700 - feat(db): add feature #333
