@@ -27892,3 +27892,4 @@
 2025-02-24 13:39:00 +0700 - fix(ui): optimize feature #394
 2025-02-24 13:47:00 +0700 - feat(ui): optimize feature #394
 2025-02-25 13:23:00 +0700 - perf(ui): remove feature #495
+2025-02-25 14:51:00 +0700 - refactor(auth): handle feature #495
