@@ -6806,3 +6806,4 @@
 2025-02-22 11:21:00 +0700 - docs(ui): update feature #448
 2025-02-24 16:25:00 +0700 - perf(config): add feature #127
 2025-02-24 13:50:00 +0700 - fix(ui): handle feature #127
+2025-02-25 13:51:00 +0700 - feat(ui): remove feature #312
