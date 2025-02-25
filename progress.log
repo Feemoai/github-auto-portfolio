@@ -15044,3 +15044,4 @@
 2025-02-22 9:21:00 +0700 - perf(db): add feature #185
 2025-02-22 14:10:00 +0700 - perf(ui): optimize feature #185
 2025-02-24 9:3:00 +0700 - fix(config): remove feature #351
+2025-02-25 12:52:00 +0700 - test(db): remove feature #312
