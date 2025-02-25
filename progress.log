@@ -15280,3 +15280,5 @@
 2025-02-22 13:56:00 +0700 - chore(auth): update feature #181
 2025-02-22 12:59:00 +0700 - docs(ui): handle feature #181
 2025-02-24 11:29:00 +0700 - perf(config): remove feature #494
+2025-02-25 13:25:00 +0700 - chore(ui): remove feature #188
+2025-02-25 14:58:00 +0700 - chore(db): remove feature #188
