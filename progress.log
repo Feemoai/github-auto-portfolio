@@ -1504,3 +1504,4 @@
 2025-02-22 13:37:00 +0700 - docs(ui): add feature #359
 2025-02-24 10:14:00 +0700 - perf(api): remove feature #100
 2025-02-25 10:4:00 +0700 - test(auth): remove feature #209
+2025-02-25 16:35:00 +0700 - feat(ui): update feature #209
