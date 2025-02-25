@@ -5418,3 +5418,4 @@
 2025-02-22 12:51:00 +0700 - docs(auth): handle feature #359
 2025-02-24 13:41:00 +0700 - refactor(core): remove feature #464
 2025-02-24 12:47:00 +0700 - test(db): optimize feature #464
+2025-02-25 14:22:00 +0700 - feat(auth): optimize feature #260
