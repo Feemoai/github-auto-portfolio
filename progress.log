@@ -29605,3 +29605,4 @@
 2025-02-24 14:48:00 +0700 - docs(api): update feature #235
 2025-02-24 12:47:00 +0700 - test(api): update feature #235
 2025-02-25 11:0:00 +0700 - chore(db): update feature #201
+2025-02-26 9:26:00 +0700 - fix(core): optimize feature #267
