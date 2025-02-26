@@ -15522,3 +15522,4 @@
 2025-02-22 15:30:00 +0700 - fix(ui): handle feature #447
 2025-02-24 13:17:00 +0700 - docs(config): optimize feature #187
 2025-02-25 11:50:00 +0700 - feat(ui): remove feature #456
+2025-02-26 11:43:00 +0700 - feat(api): remove feature #392
