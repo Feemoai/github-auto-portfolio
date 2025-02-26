@@ -4742,3 +4742,4 @@
 2025-02-24 15:26:00 +0700 - chore(core): remove feature #425
 2025-02-25 14:26:00 +0700 - perf(config): remove feature #175
 2025-02-25 14:27:00 +0700 - test(db): add feature #175
+2025-02-26 9:5:00 +0700 - fix(core): optimize feature #315
