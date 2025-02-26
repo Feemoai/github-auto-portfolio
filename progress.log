@@ -23107,3 +23107,4 @@
 2025-02-24 9:48:00 +0700 - test(db): optimize feature #287
 2025-02-24 13:49:00 +0700 - fix(core): add feature #287
 2025-02-25 16:48:00 +0700 - refactor(core): update feature #328
+2025-02-26 15:36:00 +0700 - fix(db): add feature #447
