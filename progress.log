@@ -16106,3 +16106,5 @@
 2025-02-24 14:12:00 +0700 - test(core): update feature #350
 2025-02-25 16:48:00 +0700 - refactor(api): handle feature #443
 2025-02-25 10:31:00 +0700 - feat(config): handle feature #443
+2025-02-26 14:10:00 +0700 - perf(api): optimize feature #265
+2025-02-26 13:49:00 +0700 - refactor(config): handle feature #265
