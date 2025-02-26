@@ -40506,3 +40506,4 @@
 2025-02-25 15:28:00 +0700 - chore(api): add feature #123
 2025-02-25 15:50:00 +0700 - test(config): remove feature #123
 2025-02-26 11:22:00 +0700 - perf(config): improve feature #396
+2025-02-26 12:7:00 +0700 - fix(db): remove feature #396
