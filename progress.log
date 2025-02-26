@@ -47932,3 +47932,4 @@
 2025-02-24 12:36:00 +0700 - test(ui): remove feature #192
 2025-02-24 15:11:00 +0700 - fix(auth): handle feature #192
 2025-02-25 14:36:00 +0700 - docs(auth): update feature #257
+2025-02-26 12:5:00 +0700 - docs(config): remove feature #482
