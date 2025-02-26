@@ -11850,3 +11850,4 @@
 2025-02-22 13:5:00 +0700 - chore(api): remove feature #250
 2025-02-24 12:23:00 +0700 - test(auth): optimize feature #166
 2025-02-25 13:51:00 +0700 - fix(ui): optimize feature #248
+2025-02-26 15:29:00 +0700 - perf(config): remove feature #466
