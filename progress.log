@@ -339,3 +339,5 @@
 2025-02-24 15:24:00 +0700 - docs(config): optimize feature #303
 2025-02-24 13:26:00 +0700 - perf(auth): handle feature #303
 2025-02-25 10:58:00 +0700 - docs(ui): add feature #291
+2025-02-26 15:43:00 +0700 - chore(db): optimize feature #195
+2025-02-26 15:17:00 +0700 - chore(ui): update feature #195
