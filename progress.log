@@ -35337,3 +35337,4 @@
 2025-02-24 12:13:00 +0700 - test(ui): handle feature #463
 2025-02-24 10:12:00 +0700 - docs(api): remove feature #463
 2025-02-25 16:22:00 +0700 - perf(api): remove feature #326
+2025-02-26 11:30:00 +0700 - chore(db): handle feature #316
