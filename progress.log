@@ -1619,3 +1619,4 @@
 2025-02-24 13:59:00 +0700 - fix(api): remove feature #105
 2025-02-25 9:14:00 +0700 - feat(config): handle feature #100
 2025-02-25 11:18:00 +0700 - feat(auth): optimize feature #100
+2025-02-26 11:50:00 +0700 - fix(ui): handle feature #209
