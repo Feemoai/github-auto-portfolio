@@ -39593,3 +39593,4 @@
 2025-02-24 15:42:00 +0700 - test(api): update feature #195
 2025-02-25 10:26:00 +0700 - fix(ui): update feature #115
 2025-02-25 10:19:00 +0700 - perf(core): update feature #115
+2025-02-26 15:44:00 +0700 - test(core): handle feature #160
