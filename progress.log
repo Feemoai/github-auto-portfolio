@@ -30659,3 +30659,4 @@
 2025-02-24 14:45:00 +0700 - perf(core): update feature #117
 2025-02-24 15:42:00 +0700 - test(config): improve feature #117
 2025-02-25 11:29:00 +0700 - fix(api): handle feature #251
+2025-02-26 9:33:00 +0700 - docs(core): optimize feature #409
