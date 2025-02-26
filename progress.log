@@ -5644,3 +5644,5 @@
 2025-02-22 12:33:00 +0700 - fix(auth): update feature #408
 2025-02-24 15:28:00 +0700 - feat(ui): add feature #293
 2025-02-25 11:22:00 +0700 - test(core): remove feature #276
+2025-02-26 9:29:00 +0700 - perf(core): optimize feature #122
+2025-02-26 15:21:00 +0700 - test(core): optimize feature #122
