@@ -14132,3 +14132,4 @@
 2025-02-25 14:55:00 +0700 - feat(core): add feature #371
 2025-02-25 15:51:00 +0700 - fix(db): improve feature #371
 2025-02-26 14:12:00 +0700 - perf(db): optimize feature #189
+2025-02-26 11:6:00 +0700 - feat(ui): remove feature #189
