@@ -38096,3 +38096,4 @@
 2025-02-24 9:15:00 +0700 - fix(config): remove feature #362
 2025-02-24 15:14:00 +0700 - fix(auth): remove feature #362
 2025-02-25 14:25:00 +0700 - chore(config): optimize feature #295
+2025-02-26 10:9:00 +0700 - fix(auth): handle feature #420
