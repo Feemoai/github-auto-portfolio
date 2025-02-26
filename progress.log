@@ -43073,3 +43073,4 @@
 2025-02-24 10:44:00 +0700 - refactor(core): update feature #258
 2025-02-25 16:12:00 +0700 - feat(auth): improve feature #488
 2025-02-25 10:47:00 +0700 - refactor(db): optimize feature #488
+2025-02-26 14:40:00 +0700 - refactor(ui): remove feature #367
