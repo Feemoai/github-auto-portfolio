@@ -5420,3 +5420,4 @@
 2025-02-24 12:47:00 +0700 - test(db): optimize feature #464
 2025-02-25 14:22:00 +0700 - feat(auth): optimize feature #260
 2025-02-25 16:55:00 +0700 - docs(auth): update feature #260
+2025-02-26 10:11:00 +0700 - refactor(auth): remove feature #446
