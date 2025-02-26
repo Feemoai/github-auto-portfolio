@@ -65629,3 +65629,4 @@
 2025-02-24 14:17:00 +0700 - perf(api): remove feature #323
 2025-02-25 12:56:00 +0700 - perf(ui): improve feature #350
 2025-02-25 13:59:00 +0700 - chore(db): handle feature #350
+2025-02-26 9:5:00 +0700 - test(api): handle feature #271
