@@ -32988,3 +32988,4 @@
 2025-02-24 11:32:00 +0700 - fix(api): optimize feature #189
 2025-02-25 13:17:00 +0700 - docs(core): add feature #371
 2025-02-26 14:6:00 +0700 - test(config): improve feature #329
+2025-02-26 16:20:00 +0700 - test(ui): handle feature #329
