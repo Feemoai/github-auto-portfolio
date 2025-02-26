@@ -8190,3 +8190,5 @@
 2025-02-24 14:28:00 +0700 - docs(ui): improve feature #213
 2025-02-25 15:52:00 +0700 - chore(api): remove feature #336
 2025-02-25 16:45:00 +0700 - perf(db): add feature #336
+2025-02-26 12:21:00 +0700 - refactor(auth): remove feature #150
+2025-02-26 16:22:00 +0700 - docs(config): optimize feature #150
