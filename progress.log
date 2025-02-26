@@ -42150,3 +42150,5 @@
 2025-02-24 13:4:00 +0700 - refactor(api): update feature #330
 2025-02-24 11:27:00 +0700 - test(config): remove feature #330
 2025-02-25 12:45:00 +0700 - perf(ui): handle feature #107
+2025-02-26 14:2:00 +0700 - perf(core): remove feature #421
+2025-02-26 9:15:00 +0700 - feat(auth): handle feature #421
