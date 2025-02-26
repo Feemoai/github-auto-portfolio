@@ -6918,3 +6918,4 @@
 2025-02-22 12:13:00 +0700 - perf(db): remove feature #143
 2025-02-24 15:2:00 +0700 - chore(auth): optimize feature #286
 2025-02-25 13:5:00 +0700 - docs(auth): improve feature #398
+2025-02-26 15:44:00 +0700 - refactor(core): handle feature #355
