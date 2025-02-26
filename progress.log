@@ -25325,3 +25325,4 @@
 2025-02-24 16:11:00 +0700 - fix(ui): remove feature #482
 2025-02-25 16:9:00 +0700 - fix(core): remove feature #224
 2025-02-25 10:0:00 +0700 - perf(db): handle feature #224
+2025-02-26 13:45:00 +0700 - fix(auth): improve feature #290
