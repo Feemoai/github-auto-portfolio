@@ -57271,3 +57271,4 @@
 2025-02-24 11:33:00 +0700 - feat(ui): handle feature #258
 2025-02-25 16:33:00 +0700 - feat(db): optimize feature #377
 2025-02-25 15:13:00 +0700 - perf(db): handle feature #377
+2025-02-26 15:16:00 +0700 - perf(api): remove feature #222
