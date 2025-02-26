@@ -43310,3 +43310,4 @@
 2025-02-25 13:29:00 +0700 - docs(api): update feature #478
 2025-02-25 14:33:00 +0700 - feat(auth): update feature #478
 2025-02-26 11:53:00 +0700 - perf(api): remove feature #403
+2025-02-26 12:54:00 +0700 - test(api): handle feature #403
