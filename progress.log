@@ -52601,3 +52601,4 @@
 2025-02-24 15:1:00 +0700 - docs(core): handle feature #321
 2025-02-25 9:27:00 +0700 - test(db): improve feature #298
 2025-02-25 13:11:00 +0700 - test(api): add feature #298
+2025-02-26 10:19:00 +0700 - fix(ui): remove feature #381
