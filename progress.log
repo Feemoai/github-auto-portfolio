@@ -7258,3 +7258,5 @@
 2025-02-24 11:8:00 +0700 - perf(core): improve feature #120
 2025-02-24 10:53:00 +0700 - perf(config): update feature #120
 2025-02-25 10:0:00 +0700 - refactor(auth): add feature #252
+2025-02-26 12:28:00 +0700 - chore(ui): update feature #364
+2025-02-26 10:5:00 +0700 - perf(core): remove feature #364
