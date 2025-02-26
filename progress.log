@@ -36714,3 +36714,4 @@
 2025-02-24 14:28:00 +0700 - fix(auth): update feature #345
 2025-02-25 9:56:00 +0700 - fix(ui): remove feature #349
 2025-02-25 15:29:00 +0700 - refactor(auth): optimize feature #349
+2025-02-26 16:14:00 +0700 - feat(ui): remove feature #432
