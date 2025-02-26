@@ -18312,3 +18312,4 @@
 2025-02-22 11:52:00 +0700 - feat(auth): update feature #420
 2025-02-24 10:24:00 +0700 - fix(ui): add feature #428
 2025-02-25 12:27:00 +0700 - refactor(db): optimize feature #109
+2025-02-26 11:12:00 +0700 - docs(core): add feature #326
