@@ -33564,3 +33564,4 @@
 2025-02-24 15:33:00 +0700 - chore(auth): optimize feature #266
 2025-02-25 16:51:00 +0700 - feat(core): update feature #462
 2025-02-25 16:38:00 +0700 - chore(config): update feature #462
+2025-02-26 11:4:00 +0700 - perf(api): optimize feature #412
