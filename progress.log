@@ -49436,3 +49436,4 @@
 2025-02-24 9:16:00 +0700 - fix(core): add feature #484
 2025-02-25 13:21:00 +0700 - test(auth): remove feature #385
 2025-02-25 10:52:00 +0700 - refactor(db): remove feature #385
+2025-02-26 11:38:00 +0700 - feat(auth): update feature #266
