@@ -14708,3 +14708,4 @@
 2025-02-24 15:2:00 +0700 - docs(db): improve feature #201
 2025-02-25 15:59:00 +0700 - feat(ui): add feature #355
 2025-02-25 16:12:00 +0700 - chore(config): optimize feature #355
+2025-02-26 15:19:00 +0700 - fix(core): remove feature #378
