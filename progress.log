@@ -65852,3 +65852,4 @@
 2025-02-24 12:19:00 +0700 - fix(core): handle feature #214
 2025-02-25 11:15:00 +0700 - fix(auth): remove feature #300
 2025-02-25 12:8:00 +0700 - docs(ui): remove feature #300
+2025-02-26 15:2:00 +0700 - feat(core): handle feature #258
