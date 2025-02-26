@@ -12414,3 +12414,4 @@
 2025-02-24 14:22:00 +0700 - docs(ui): update feature #192
 2025-02-24 11:46:00 +0700 - feat(ui): improve feature #192
 2025-02-25 15:52:00 +0700 - perf(auth): handle feature #352
+2025-02-26 14:28:00 +0700 - perf(api): handle feature #356
