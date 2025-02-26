@@ -38208,3 +38208,4 @@
 2025-02-24 12:15:00 +0700 - chore(auth): remove feature #449
 2025-02-25 11:49:00 +0700 - test(core): optimize feature #343
 2025-02-25 15:46:00 +0700 - test(api): handle feature #343
+2025-02-26 16:14:00 +0700 - docs(auth): optimize feature #490
