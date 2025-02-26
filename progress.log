@@ -8068,3 +8068,4 @@
 2025-02-24 13:44:00 +0700 - docs(db): handle feature #359
 2025-02-25 15:36:00 +0700 - feat(db): optimize feature #293
 2025-02-25 11:50:00 +0700 - perf(db): update feature #293
+2025-02-26 16:59:00 +0700 - feat(api): add feature #392
