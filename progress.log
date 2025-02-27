@@ -66319,3 +66319,4 @@
 2025-02-25 16:58:00 +0700 - refactor(db): remove feature #290
 2025-02-26 15:22:00 +0700 - refactor(ui): improve feature #324
 2025-02-26 12:8:00 +0700 - refactor(core): improve feature #324
+2025-02-27 12:5:00 +0700 - test(core): handle feature #184
