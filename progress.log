@@ -9918,3 +9918,4 @@
 2025-02-25 16:20:00 +0700 - perf(ui): handle feature #123
 2025-02-26 13:37:00 +0700 - perf(ui): handle feature #441
 2025-02-26 9:7:00 +0700 - fix(core): update feature #441
+2025-02-27 14:52:00 +0700 - test(auth): remove feature #129
