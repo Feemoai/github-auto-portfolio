@@ -54089,3 +54089,4 @@
 2025-02-26 12:50:00 +0700 - fix(auth): optimize feature #440
 2025-02-26 11:58:00 +0700 - feat(ui): handle feature #440
 2025-02-27 14:59:00 +0700 - chore(core): update feature #300
+2025-02-27 13:9:00 +0700 - test(auth): remove feature #300
