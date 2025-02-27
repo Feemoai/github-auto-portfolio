@@ -30886,3 +30886,5 @@
 2025-02-25 12:29:00 +0700 - fix(ui): improve feature #492
 2025-02-26 13:46:00 +0700 - docs(auth): handle feature #420
 2025-02-26 13:16:00 +0700 - perf(db): remove feature #420
+2025-02-27 10:39:00 +0700 - docs(core): handle feature #491
+2025-02-27 12:48:00 +0700 - chore(config): handle feature #491
