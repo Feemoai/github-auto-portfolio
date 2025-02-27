@@ -64125,3 +64125,4 @@
 2025-02-25 15:20:00 +0700 - perf(config): update feature #372
 2025-02-26 9:24:00 +0700 - docs(config): remove feature #418
 2025-02-26 12:44:00 +0700 - chore(core): add feature #418
+2025-02-27 11:48:00 +0700 - fix(api): remove feature #472
