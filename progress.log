@@ -60184,3 +60184,4 @@
 2025-02-25 11:35:00 +0700 - feat(core): optimize feature #197
 2025-02-26 16:46:00 +0700 - test(ui): optimize feature #188
 2025-02-26 14:19:00 +0700 - perf(core): remove feature #188
+2025-02-27 14:19:00 +0700 - fix(api): update feature #162
