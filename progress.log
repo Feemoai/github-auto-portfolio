@@ -37756,3 +37756,4 @@
 2025-02-25 12:10:00 +0700 - feat(ui): remove feature #408
 2025-02-26 14:36:00 +0700 - feat(auth): add feature #384
 2025-02-26 13:50:00 +0700 - docs(api): update feature #384
+2025-02-27 16:46:00 +0700 - test(auth): handle feature #494
