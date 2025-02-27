@@ -42034,3 +42034,4 @@
 2025-02-25 16:25:00 +0700 - feat(auth): optimize feature #213
 2025-02-25 14:41:00 +0700 - feat(auth): add feature #213
 2025-02-26 15:10:00 +0700 - perf(core): optimize feature #103
+2025-02-27 15:39:00 +0700 - feat(api): handle feature #475
