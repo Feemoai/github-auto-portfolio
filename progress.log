@@ -37302,3 +37302,4 @@
 2025-02-25 11:36:00 +0700 - test(ui): add feature #145
 2025-02-26 12:50:00 +0700 - test(config): optimize feature #459
 2025-02-26 9:59:00 +0700 - perf(api): handle feature #459
+2025-02-27 10:14:00 +0700 - docs(config): handle feature #226
