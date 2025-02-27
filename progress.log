@@ -34036,3 +34036,4 @@
 2025-02-25 11:47:00 +0700 - fix(ui): optimize feature #222
 2025-02-26 16:33:00 +0700 - chore(api): handle feature #376
 2025-02-26 15:31:00 +0700 - fix(api): add feature #376
+2025-02-27 16:43:00 +0700 - refactor(ui): add feature #361
