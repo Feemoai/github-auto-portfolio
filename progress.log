@@ -61909,3 +61909,4 @@
 2025-02-25 9:44:00 +0700 - test(ui): improve feature #452
 2025-02-26 14:1:00 +0700 - test(ui): improve feature #413
 2025-02-26 15:12:00 +0700 - refactor(ui): remove feature #413
+2025-02-27 11:49:00 +0700 - fix(core): optimize feature #204
