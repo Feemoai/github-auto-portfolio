@@ -926,3 +926,4 @@
 2025-02-25 16:47:00 +0700 - test(db): add feature #118
 2025-02-26 16:2:00 +0700 - test(api): handle feature #304
 2025-02-26 9:15:00 +0700 - fix(api): update feature #304
+2025-02-27 12:31:00 +0700 - test(api): remove feature #289
