@@ -46100,3 +46100,5 @@
 2025-02-25 9:23:00 +0700 - test(db): add feature #482
 2025-02-26 14:59:00 +0700 - test(auth): add feature #369
 2025-02-26 14:22:00 +0700 - refactor(config): improve feature #369
+2025-02-27 9:7:00 +0700 - test(ui): remove feature #474
+2025-02-27 15:18:00 +0700 - feat(core): update feature #474
