@@ -20796,3 +20796,5 @@
 2025-02-25 9:23:00 +0700 - test(db): handle feature #208
 2025-02-26 12:49:00 +0700 - test(ui): improve feature #455
 2025-02-26 10:39:00 +0700 - test(api): handle feature #455
+2025-02-27 12:30:00 +0700 - fix(ui): optimize feature #480
+2025-02-27 13:3:00 +0700 - docs(core): remove feature #480
