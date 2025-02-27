@@ -15643,3 +15643,4 @@
 2025-02-25 12:34:00 +0700 - docs(config): optimize feature #262
 2025-02-26 16:42:00 +0700 - docs(core): add feature #300
 2025-02-26 16:43:00 +0700 - test(auth): optimize feature #300
+2025-02-27 16:27:00 +0700 - fix(api): improve feature #314
