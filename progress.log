@@ -42152,3 +42152,4 @@
 2025-02-25 12:45:00 +0700 - perf(ui): handle feature #107
 2025-02-26 14:2:00 +0700 - perf(core): remove feature #421
 2025-02-26 9:15:00 +0700 - feat(auth): handle feature #421
+2025-02-27 11:22:00 +0700 - perf(api): remove feature #321
