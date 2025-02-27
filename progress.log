@@ -49326,3 +49326,4 @@
 2025-02-25 15:43:00 +0700 - chore(auth): handle feature #246
 2025-02-25 14:40:00 +0700 - feat(config): remove feature #246
 2025-02-26 9:18:00 +0700 - perf(auth): optimize feature #241
+2025-02-27 16:42:00 +0700 - fix(ui): improve feature #244
