@@ -21256,3 +21256,4 @@
 2025-02-24 13:20:00 +0700 - fix(db): update feature #171
 2025-02-25 11:31:00 +0700 - chore(core): optimize feature #373
 2025-02-26 9:21:00 +0700 - perf(auth): optimize feature #420
+2025-02-27 14:40:00 +0700 - fix(api): remove feature #440
