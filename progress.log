@@ -12195,3 +12195,4 @@
 2025-02-25 9:23:00 +0700 - fix(core): handle feature #382
 2025-02-26 15:37:00 +0700 - refactor(db): update feature #256
 2025-02-26 11:0:00 +0700 - test(db): add feature #256
+2025-02-27 14:29:00 +0700 - chore(auth): update feature #232
