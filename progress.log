@@ -62847,3 +62847,4 @@
 2025-02-26 9:4:00 +0700 - test(ui): remove feature #374
 2025-02-26 10:45:00 +0700 - feat(db): add feature #374
 2025-02-27 13:18:00 +0700 - perf(core): add feature #366
+2025-02-27 15:44:00 +0700 - perf(config): handle feature #366
