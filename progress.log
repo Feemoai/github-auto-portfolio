@@ -25094,3 +25094,4 @@
 2025-02-24 16:5:00 +0700 - docs(config): handle feature #117
 2025-02-25 10:29:00 +0700 - perf(core): optimize feature #337
 2025-02-26 16:38:00 +0700 - fix(auth): update feature #462
+2025-02-27 15:42:00 +0700 - feat(auth): remove feature #369
