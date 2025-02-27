@@ -48618,3 +48618,4 @@
 2025-02-24 15:48:00 +0700 - perf(auth): update feature #432
 2025-02-25 10:10:00 +0700 - test(auth): optimize feature #135
 2025-02-26 16:14:00 +0700 - fix(core): update feature #379
+2025-02-27 13:0:00 +0700 - chore(config): handle feature #176
