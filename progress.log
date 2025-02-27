@@ -29846,3 +29846,4 @@
 2025-02-24 12:11:00 +0700 - refactor(db): handle feature #372
 2025-02-25 14:48:00 +0700 - feat(core): remove feature #400
 2025-02-26 14:13:00 +0700 - feat(api): remove feature #280
+2025-02-27 12:25:00 +0700 - docs(config): handle feature #382
