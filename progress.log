@@ -1041,3 +1041,5 @@
 2025-02-25 15:23:00 +0700 - refactor(config): add feature #292
 2025-02-26 13:3:00 +0700 - feat(auth): add feature #115
 2025-02-26 14:30:00 +0700 - perf(db): handle feature #115
+2025-02-27 15:55:00 +0700 - perf(ui): add feature #395
+2025-02-27 15:27:00 +0700 - chore(ui): update feature #395
