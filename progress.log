@@ -5423,3 +5423,4 @@
 2025-02-26 10:11:00 +0700 - refactor(auth): remove feature #446
 2025-02-26 12:14:00 +0700 - feat(auth): optimize feature #446
 2025-02-27 15:56:00 +0700 - refactor(auth): remove feature #343
+2025-02-27 15:34:00 +0700 - fix(core): update feature #343
