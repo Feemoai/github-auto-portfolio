@@ -12308,3 +12308,4 @@
 2025-02-25 13:13:00 +0700 - chore(config): add feature #332
 2025-02-26 14:28:00 +0700 - fix(api): remove feature #327
 2025-02-26 12:58:00 +0700 - fix(db): add feature #327
+2025-02-27 16:18:00 +0700 - perf(db): remove feature #386
