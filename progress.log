@@ -7488,3 +7488,4 @@
 2025-02-25 15:50:00 +0700 - feat(ui): add feature #347
 2025-02-25 15:17:00 +0700 - test(ui): add feature #347
 2025-02-26 11:18:00 +0700 - docs(auth): improve feature #236
+2025-02-27 9:51:00 +0700 - perf(core): handle feature #392
