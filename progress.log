@@ -39005,3 +39005,4 @@
 2025-02-26 10:36:00 +0700 - chore(api): handle feature #244
 2025-02-26 11:4:00 +0700 - docs(ui): optimize feature #244
 2025-02-27 9:49:00 +0700 - docs(auth): optimize feature #298
+2025-02-27 16:50:00 +0700 - perf(core): improve feature #298
