@@ -7723,3 +7723,5 @@
 2025-02-25 13:24:00 +0700 - refactor(api): update feature #140
 2025-02-26 16:23:00 +0700 - perf(auth): remove feature #288
 2025-02-26 13:41:00 +0700 - refactor(config): improve feature #288
+2025-02-27 15:6:00 +0700 - chore(api): optimize feature #442
+2025-02-27 12:37:00 +0700 - perf(auth): optimize feature #442
