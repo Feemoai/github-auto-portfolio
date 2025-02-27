@@ -57970,3 +57970,4 @@
 2025-02-25 12:59:00 +0700 - docs(api): improve feature #183
 2025-02-26 9:23:00 +0700 - chore(core): optimize feature #273
 2025-02-26 15:51:00 +0700 - chore(ui): optimize feature #273
+2025-02-27 12:25:00 +0700 - test(api): handle feature #395
