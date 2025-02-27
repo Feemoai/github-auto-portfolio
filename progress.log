@@ -64470,3 +64470,4 @@
 2025-02-25 15:14:00 +0700 - test(api): improve feature #344
 2025-02-26 15:41:00 +0700 - chore(api): optimize feature #257
 2025-02-27 14:52:00 +0700 - test(api): improve feature #375
+2025-02-27 12:13:00 +0700 - fix(core): handle feature #375
