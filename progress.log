@@ -13445,3 +13445,5 @@
 2025-02-25 15:6:00 +0700 - feat(config): improve feature #101
 2025-02-25 11:21:00 +0700 - perf(api): remove feature #101
 2025-02-26 13:34:00 +0700 - feat(db): optimize feature #375
+2025-02-27 10:17:00 +0700 - chore(core): improve feature #361
+2025-02-27 16:44:00 +0700 - chore(ui): add feature #361
