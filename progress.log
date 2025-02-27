@@ -11966,3 +11966,5 @@
 2025-02-25 11:59:00 +0700 - feat(api): add feature #361
 2025-02-26 9:54:00 +0700 - fix(api): handle feature #468
 2025-02-26 9:20:00 +0700 - fix(core): remove feature #468
+2025-02-27 13:20:00 +0700 - fix(auth): optimize feature #398
+2025-02-27 12:2:00 +0700 - perf(core): improve feature #398
