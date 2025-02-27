@@ -43554,3 +43554,4 @@
 2025-02-24 10:51:00 +0700 - test(auth): optimize feature #278
 2025-02-25 14:12:00 +0700 - fix(core): remove feature #177
 2025-02-26 16:2:00 +0700 - perf(config): optimize feature #238
+2025-02-27 12:7:00 +0700 - docs(config): remove feature #447
