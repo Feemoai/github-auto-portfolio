@@ -21732,3 +21732,4 @@
 2025-02-26 9:1:00 +0700 - docs(core): update feature #130
 2025-02-26 13:19:00 +0700 - docs(config): improve feature #130
 2025-02-27 12:4:00 +0700 - docs(db): add feature #201
+2025-02-27 16:33:00 +0700 - fix(db): optimize feature #201
