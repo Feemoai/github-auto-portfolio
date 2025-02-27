@@ -36716,3 +36716,4 @@
 2025-02-25 15:29:00 +0700 - refactor(auth): optimize feature #349
 2025-02-26 16:14:00 +0700 - feat(ui): remove feature #432
 2025-02-27 12:28:00 +0700 - docs(core): improve feature #351
+2025-02-27 14:32:00 +0700 - feat(core): handle feature #351
