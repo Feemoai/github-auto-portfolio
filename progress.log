@@ -10359,3 +10359,4 @@
 2025-02-25 15:16:00 +0700 - feat(api): add feature #162
 2025-02-25 10:31:00 +0700 - fix(auth): handle feature #162
 2025-02-26 9:26:00 +0700 - perf(auth): improve feature #133
+2025-02-27 12:19:00 +0700 - fix(api): update feature #434
