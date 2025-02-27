@@ -63073,3 +63073,4 @@
 2025-02-25 15:28:00 +0700 - perf(core): handle feature #235
 2025-02-26 16:5:00 +0700 - fix(api): optimize feature #171
 2025-02-27 14:26:00 +0700 - chore(config): improve feature #299
+2025-02-27 14:8:00 +0700 - chore(ui): optimize feature #299
