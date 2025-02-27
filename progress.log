@@ -43555,3 +43555,4 @@
 2025-02-25 14:12:00 +0700 - fix(core): remove feature #177
 2025-02-26 16:2:00 +0700 - perf(config): optimize feature #238
 2025-02-27 12:7:00 +0700 - docs(config): remove feature #447
+2025-02-27 13:34:00 +0700 - feat(api): improve feature #447
