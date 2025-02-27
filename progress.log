@@ -28350,3 +28350,5 @@
 2025-02-25 9:8:00 +0700 - perf(auth): optimize feature #419
 2025-02-26 16:38:00 +0700 - perf(auth): handle feature #469
 2025-02-26 11:0:00 +0700 - feat(core): improve feature #469
+2025-02-27 12:57:00 +0700 - test(auth): update feature #302
+2025-02-27 9:45:00 +0700 - chore(core): optimize feature #302
