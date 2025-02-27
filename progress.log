@@ -8304,3 +8304,4 @@
 2025-02-25 11:49:00 +0700 - docs(ui): remove feature #175
 2025-02-25 11:46:00 +0700 - test(api): remove feature #175
 2025-02-26 9:28:00 +0700 - feat(db): add feature #354
+2025-02-27 10:32:00 +0700 - chore(core): optimize feature #274
