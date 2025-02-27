@@ -60634,3 +60634,5 @@
 2025-02-25 13:12:00 +0700 - fix(ui): optimize feature #238
 2025-02-26 13:47:00 +0700 - fix(auth): handle feature #260
 2025-02-26 10:23:00 +0700 - chore(auth): remove feature #260
+2025-02-27 11:52:00 +0700 - docs(core): remove feature #348
+2025-02-27 14:18:00 +0700 - fix(api): optimize feature #348
