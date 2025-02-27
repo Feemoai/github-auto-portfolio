@@ -49084,3 +49084,4 @@
 2025-02-25 16:13:00 +0700 - test(core): add feature #189
 2025-02-26 16:17:00 +0700 - chore(core): optimize feature #434
 2025-02-26 15:11:00 +0700 - chore(ui): handle feature #434
+2025-02-27 16:41:00 +0700 - perf(ui): add feature #142
