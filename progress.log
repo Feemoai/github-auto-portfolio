@@ -3469,3 +3469,4 @@
 2025-02-25 16:42:00 +0700 - docs(auth): update feature #403
 2025-02-25 16:47:00 +0700 - test(api): optimize feature #403
 2025-02-26 14:32:00 +0700 - perf(auth): handle feature #461
+2025-02-27 16:0:00 +0700 - fix(auth): update feature #147
