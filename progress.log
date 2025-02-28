@@ -50005,3 +50005,4 @@
 2025-02-26 16:4:00 +0700 - fix(api): update feature #379
 2025-02-27 10:6:00 +0700 - chore(config): update feature #104
 2025-02-28 12:14:00 +0700 - refactor(api): handle feature #402
+2025-02-28 12:56:00 +0700 - chore(auth): optimize feature #402
