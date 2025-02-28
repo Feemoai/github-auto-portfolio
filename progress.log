@@ -7956,3 +7956,5 @@
 2025-02-25 11:9:00 +0700 - test(api): add feature #186
 2025-02-26 13:24:00 +0700 - feat(ui): improve feature #463
 2025-02-27 16:16:00 +0700 - chore(ui): add feature #368
+2025-02-28 14:14:00 +0700 - feat(config): handle feature #357
+2025-02-28 14:29:00 +0700 - feat(db): update feature #357
