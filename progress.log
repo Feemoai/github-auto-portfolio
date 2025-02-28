@@ -40509,3 +40509,4 @@
 2025-02-26 12:7:00 +0700 - fix(db): remove feature #396
 2025-02-27 16:59:00 +0700 - perf(config): improve feature #195
 2025-02-27 11:10:00 +0700 - perf(auth): handle feature #195
+2025-02-28 9:46:00 +0700 - test(auth): remove feature #380
