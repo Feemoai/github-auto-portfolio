@@ -53752,3 +53752,4 @@
 2025-02-27 9:52:00 +0700 - test(ui): handle feature #446
 2025-02-27 11:43:00 +0700 - perf(auth): update feature #446
 2025-02-28 11:51:00 +0700 - perf(ui): remove feature #220
+2025-02-28 9:47:00 +0700 - chore(ui): improve feature #220
