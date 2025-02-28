@@ -12310,3 +12310,4 @@
 2025-02-26 12:58:00 +0700 - fix(db): add feature #327
 2025-02-27 16:18:00 +0700 - perf(db): remove feature #386
 2025-02-27 15:52:00 +0700 - fix(auth): add feature #386
+2025-02-28 16:9:00 +0700 - chore(auth): remove feature #246
