@@ -4745,3 +4745,4 @@
 2025-02-26 9:5:00 +0700 - fix(core): optimize feature #315
 2025-02-27 12:30:00 +0700 - test(api): handle feature #485
 2025-02-27 12:24:00 +0700 - test(config): add feature #485
+2025-02-28 15:53:00 +0700 - feat(api): update feature #483
