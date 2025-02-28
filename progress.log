@@ -65169,3 +65169,4 @@
 2025-02-25 16:17:00 +0700 - fix(ui): update feature #322
 2025-02-26 15:43:00 +0700 - chore(api): add feature #370
 2025-02-27 14:41:00 +0700 - perf(core): improve feature #161
+2025-02-28 9:20:00 +0700 - feat(ui): remove feature #215
