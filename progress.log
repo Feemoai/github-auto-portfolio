@@ -56260,3 +56260,5 @@
 2025-02-26 16:27:00 +0700 - feat(ui): handle feature #441
 2025-02-27 16:34:00 +0700 - feat(auth): optimize feature #430
 2025-02-27 11:11:00 +0700 - perf(core): add feature #430
+2025-02-28 10:17:00 +0700 - fix(core): remove feature #493
+2025-02-28 13:50:00 +0700 - test(auth): handle feature #493
