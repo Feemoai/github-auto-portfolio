@@ -22655,3 +22655,4 @@
 2025-02-26 16:27:00 +0700 - docs(ui): handle feature #138
 2025-02-26 9:3:00 +0700 - feat(config): optimize feature #138
 2025-02-27 15:45:00 +0700 - perf(ui): handle feature #489
+2025-02-28 9:10:00 +0700 - feat(api): optimize feature #244
