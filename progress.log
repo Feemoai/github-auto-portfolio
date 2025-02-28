@@ -6349,3 +6349,4 @@
 2025-02-26 11:10:00 +0700 - perf(db): update feature #153
 2025-02-27 14:27:00 +0700 - fix(db): handle feature #295
 2025-02-27 11:2:00 +0700 - chore(core): add feature #295
+2025-02-28 12:7:00 +0700 - test(auth): update feature #312
