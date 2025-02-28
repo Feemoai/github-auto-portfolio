@@ -8659,3 +8659,5 @@
 2025-02-25 9:42:00 +0700 - refactor(ui): optimize feature #245
 2025-02-26 12:36:00 +0700 - docs(db): optimize feature #184
 2025-02-27 15:11:00 +0700 - chore(api): update feature #172
+2025-02-28 12:14:00 +0700 - test(core): handle feature #304
+2025-02-28 12:53:00 +0700 - docs(api): handle feature #304
