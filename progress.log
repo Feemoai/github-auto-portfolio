@@ -36150,3 +36150,5 @@
 2025-02-25 15:30:00 +0700 - test(auth): handle feature #481
 2025-02-26 14:7:00 +0700 - refactor(api): add feature #376
 2025-02-27 15:31:00 +0700 - test(config): optimize feature #326
+2025-02-28 12:48:00 +0700 - perf(api): update feature #400
+2025-02-28 16:37:00 +0700 - fix(core): handle feature #400
