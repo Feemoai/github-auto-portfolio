@@ -55576,3 +55576,4 @@
 2025-02-26 10:7:00 +0700 - fix(ui): remove feature #334
 2025-02-27 14:5:00 +0700 - perf(ui): handle feature #140
 2025-02-27 14:16:00 +0700 - docs(core): remove feature #140
+2025-02-28 13:28:00 +0700 - perf(config): handle feature #385
