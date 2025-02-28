@@ -40862,3 +40862,4 @@
 2025-02-25 10:58:00 +0700 - fix(config): update feature #465
 2025-02-26 16:52:00 +0700 - perf(ui): improve feature #235
 2025-02-27 9:59:00 +0700 - perf(db): add feature #111
+2025-02-28 10:28:00 +0700 - fix(db): remove feature #296
