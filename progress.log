@@ -50684,3 +50684,4 @@
 2025-02-26 10:1:00 +0700 - fix(config): handle feature #146
 2025-02-27 14:6:00 +0700 - fix(db): improve feature #200
 2025-02-27 14:47:00 +0700 - test(ui): add feature #200
+2025-02-28 15:45:00 +0700 - docs(core): update feature #374
