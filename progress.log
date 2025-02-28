@@ -4391,3 +4391,5 @@
 2025-02-25 13:31:00 +0700 - feat(db): improve feature #223
 2025-02-26 14:5:00 +0700 - perf(ui): handle feature #141
 2025-02-27 9:32:00 +0700 - refactor(config): handle feature #400
+2025-02-28 11:6:00 +0700 - test(core): optimize feature #283
+2025-02-28 12:1:00 +0700 - fix(config): remove feature #283
