@@ -14477,3 +14477,4 @@
 2025-02-26 13:5:00 +0700 - refactor(core): remove feature #235
 2025-02-26 9:52:00 +0700 - chore(auth): remove feature #235
 2025-02-27 9:18:00 +0700 - perf(core): update feature #265
+2025-02-28 12:58:00 +0700 - refactor(api): handle feature #266
