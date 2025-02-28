@@ -20099,3 +20099,4 @@
 2025-02-25 16:32:00 +0700 - perf(db): improve feature #423
 2025-02-26 11:11:00 +0700 - test(ui): handle feature #208
 2025-02-27 11:50:00 +0700 - feat(core): update feature #482
+2025-02-28 16:25:00 +0700 - refactor(core): remove feature #174
