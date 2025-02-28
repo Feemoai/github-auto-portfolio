@@ -32391,3 +32391,5 @@
 2025-02-26 10:48:00 +0700 - test(core): update feature #127
 2025-02-27 13:13:00 +0700 - chore(api): remove feature #368
 2025-02-27 12:7:00 +0700 - perf(config): handle feature #368
+2025-02-28 10:10:00 +0700 - perf(api): optimize feature #341
+2025-02-28 11:37:00 +0700 - refactor(auth): improve feature #341
