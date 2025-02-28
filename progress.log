@@ -113,3 +113,5 @@
 2025-02-26 12:0:00 +0700 - perf(config): handle feature #103
 2025-02-26 12:38:00 +0700 - perf(auth): add feature #103
 2025-02-27 10:15:00 +0700 - test(config): optimize feature #235
+2025-02-28 16:1:00 +0700 - test(ui): handle feature #212
+2025-02-28 12:57:00 +0700 - docs(ui): optimize feature #212
