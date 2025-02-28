@@ -35560,3 +35560,4 @@
 2025-02-26 11:0:00 +0700 - refactor(config): handle feature #245
 2025-02-27 13:55:00 +0700 - feat(api): update feature #220
 2025-02-28 11:51:00 +0700 - feat(api): remove feature #465
+2025-02-28 9:15:00 +0700 - fix(api): remove feature #465
