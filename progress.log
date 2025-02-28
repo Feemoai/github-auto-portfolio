@@ -28126,3 +28126,4 @@
 2025-02-27 12:20:00 +0700 - test(auth): optimize feature #441
 2025-02-27 10:27:00 +0700 - fix(auth): improve feature #441
 2025-02-28 14:32:00 +0700 - test(ui): handle feature #246
+2025-02-28 9:39:00 +0700 - docs(core): remove feature #246
