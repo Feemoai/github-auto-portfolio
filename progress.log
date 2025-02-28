@@ -3698,3 +3698,4 @@
 2025-02-27 12:27:00 +0700 - feat(ui): handle feature #412
 2025-02-27 14:28:00 +0700 - docs(auth): optimize feature #412
 2025-02-28 10:19:00 +0700 - perf(auth): remove feature #155
+2025-02-28 11:15:00 +0700 - chore(core): update feature #155
