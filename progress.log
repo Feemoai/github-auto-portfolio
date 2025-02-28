@@ -21025,3 +21025,4 @@
 2025-02-26 16:54:00 +0700 - refactor(api): optimize feature #300
 2025-02-27 12:3:00 +0700 - feat(db): remove feature #481
 2025-02-27 13:22:00 +0700 - refactor(api): remove feature #481
+2025-02-28 13:38:00 +0700 - perf(db): improve feature #294
