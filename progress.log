@@ -41336,3 +41336,4 @@
 2025-02-26 11:32:00 +0700 - chore(core): add feature #101
 2025-02-27 15:23:00 +0700 - chore(db): handle feature #231
 2025-02-27 14:12:00 +0700 - chore(db): handle feature #231
+2025-02-28 16:48:00 +0700 - fix(config): handle feature #139
