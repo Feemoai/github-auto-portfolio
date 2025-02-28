@@ -51581,3 +51581,4 @@
 2025-02-27 11:22:00 +0700 - docs(db): optimize feature #305
 2025-02-27 13:44:00 +0700 - docs(api): optimize feature #305
 2025-02-28 14:46:00 +0700 - test(db): update feature #253
+2025-02-28 13:3:00 +0700 - fix(core): handle feature #253
