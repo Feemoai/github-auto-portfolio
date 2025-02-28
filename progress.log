@@ -36266,3 +36266,4 @@
 2025-02-25 14:20:00 +0700 - test(db): improve feature #439
 2025-02-26 10:7:00 +0700 - test(auth): update feature #308
 2025-02-27 13:33:00 +0700 - fix(api): remove feature #309
+2025-02-28 16:55:00 +0700 - chore(auth): handle feature #350
