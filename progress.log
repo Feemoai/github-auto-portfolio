@@ -30088,3 +30088,4 @@
 2025-02-26 12:26:00 +0700 - docs(api): handle feature #324
 2025-02-27 9:55:00 +0700 - docs(db): remove feature #351
 2025-02-28 15:18:00 +0700 - perf(api): add feature #377
+2025-02-28 16:12:00 +0700 - chore(ui): improve feature #377
