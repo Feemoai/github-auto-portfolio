@@ -35451,3 +35451,4 @@
 2025-02-26 9:22:00 +0700 - feat(config): remove feature #442
 2025-02-27 11:25:00 +0700 - fix(config): remove feature #277
 2025-02-27 15:2:00 +0700 - docs(ui): add feature #277
+2025-02-28 12:7:00 +0700 - perf(ui): optimize feature #293
