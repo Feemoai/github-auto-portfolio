@@ -49440,3 +49440,4 @@
 2025-02-26 14:16:00 +0700 - fix(db): add feature #266
 2025-02-27 13:55:00 +0700 - test(ui): remove feature #348
 2025-02-27 14:47:00 +0700 - perf(ui): add feature #348
+2025-02-28 11:31:00 +0700 - perf(api): handle feature #112
