@@ -66898,3 +66898,4 @@
 2025-02-27 15:24:00 +0700 - docs(config): add feature #231
 2025-02-27 16:26:00 +0700 - docs(api): remove feature #231
 2025-02-28 15:30:00 +0700 - perf(auth): add feature #195
+2025-03-01 9:2:00 +0700 - feat(config): optimize feature #268
