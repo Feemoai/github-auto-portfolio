@@ -8072,3 +8072,4 @@
 2025-02-27 15:47:00 +0700 - refactor(core): add feature #468
 2025-02-27 13:18:00 +0700 - refactor(ui): handle feature #468
 2025-02-28 12:50:00 +0700 - refactor(api): add feature #165
+2025-03-01 12:37:00 +0700 - chore(api): remove feature #380
