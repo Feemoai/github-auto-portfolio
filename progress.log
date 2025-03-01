@@ -8540,3 +8540,4 @@
 2025-02-26 13:23:00 +0700 - test(config): improve feature #279
 2025-02-27 14:12:00 +0700 - feat(api): handle feature #466
 2025-02-28 12:44:00 +0700 - refactor(config): improve feature #488
+2025-03-01 9:56:00 +0700 - perf(core): remove feature #311
