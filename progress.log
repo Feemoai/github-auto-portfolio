@@ -4975,3 +4975,4 @@
 2025-02-26 9:41:00 +0700 - chore(db): add feature #111
 2025-02-27 13:35:00 +0700 - test(api): optimize feature #474
 2025-02-28 16:48:00 +0700 - docs(api): remove feature #479
+2025-03-01 9:49:00 +0700 - docs(auth): add feature #403
