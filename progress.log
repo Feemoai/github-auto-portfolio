@@ -2325,3 +2325,4 @@
 2025-02-27 13:8:00 +0700 - chore(core): update feature #260
 2025-02-28 14:48:00 +0700 - refactor(config): remove feature #461
 2025-02-28 10:53:00 +0700 - chore(db): optimize feature #461
+2025-03-01 9:58:00 +0700 - docs(auth): remove feature #365
