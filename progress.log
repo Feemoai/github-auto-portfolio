@@ -54091,3 +54091,4 @@
 2025-02-27 14:59:00 +0700 - chore(core): update feature #300
 2025-02-27 13:9:00 +0700 - test(auth): remove feature #300
 2025-02-28 14:38:00 +0700 - perf(db): optimize feature #440
+2025-03-01 15:25:00 +0700 - chore(auth): remove feature #288
