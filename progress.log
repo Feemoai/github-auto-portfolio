@@ -35561,3 +35561,4 @@
 2025-02-27 13:55:00 +0700 - feat(api): update feature #220
 2025-02-28 11:51:00 +0700 - feat(api): remove feature #465
 2025-02-28 9:15:00 +0700 - fix(api): remove feature #465
+2025-03-01 9:47:00 +0700 - perf(ui): remove feature #308
