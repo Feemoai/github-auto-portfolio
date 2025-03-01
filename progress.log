@@ -61444,3 +61444,4 @@
 2025-02-27 14:19:00 +0700 - test(config): add feature #341
 2025-02-28 10:51:00 +0700 - perf(config): optimize feature #422
 2025-02-28 12:26:00 +0700 - perf(config): handle feature #422
+2025-03-01 12:25:00 +0700 - perf(api): remove feature #484
