@@ -3699,3 +3699,4 @@
 2025-02-27 14:28:00 +0700 - docs(auth): optimize feature #412
 2025-02-28 10:19:00 +0700 - perf(auth): remove feature #155
 2025-02-28 11:15:00 +0700 - chore(core): update feature #155
+2025-03-01 16:40:00 +0700 - refactor(ui): add feature #340
