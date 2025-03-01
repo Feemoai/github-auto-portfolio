@@ -28471,3 +28471,4 @@
 2025-02-27 13:37:00 +0700 - docs(core): remove feature #191
 2025-02-28 11:21:00 +0700 - chore(core): handle feature #436
 2025-02-28 12:55:00 +0700 - perf(core): add feature #436
+2025-03-01 11:0:00 +0700 - test(ui): handle feature #108
