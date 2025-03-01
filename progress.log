@@ -2208,3 +2208,4 @@
 2025-02-26 15:41:00 +0700 - perf(core): update feature #366
 2025-02-27 13:40:00 +0700 - refactor(api): handle feature #459
 2025-02-28 10:55:00 +0700 - fix(config): add feature #209
+2025-03-01 12:30:00 +0700 - fix(core): optimize feature #226
