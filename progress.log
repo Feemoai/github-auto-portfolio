@@ -3930,3 +3930,4 @@
 2025-02-27 12:32:00 +0700 - feat(ui): add feature #239
 2025-02-28 16:18:00 +0700 - perf(ui): improve feature #305
 2025-02-28 9:28:00 +0700 - chore(api): handle feature #305
+2025-03-01 13:4:00 +0700 - docs(db): remove feature #418
