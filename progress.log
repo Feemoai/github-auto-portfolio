@@ -2440,3 +2440,4 @@
 2025-02-26 11:41:00 +0700 - perf(config): optimize feature #489
 2025-02-27 16:46:00 +0700 - refactor(ui): update feature #110
 2025-02-28 12:13:00 +0700 - refactor(core): handle feature #190
+2025-03-01 11:23:00 +0700 - docs(config): remove feature #307
