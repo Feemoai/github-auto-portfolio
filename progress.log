@@ -39809,3 +39809,4 @@
 2025-02-27 9:53:00 +0700 - test(core): handle feature #340
 2025-02-28 11:19:00 +0700 - docs(api): update feature #458
 2025-02-28 11:31:00 +0700 - refactor(core): optimize feature #458
+2025-03-01 11:54:00 +0700 - fix(core): handle feature #313
