@@ -15759,3 +15759,4 @@
 2025-02-27 14:2:00 +0700 - chore(core): optimize feature #332
 2025-02-28 10:14:00 +0700 - feat(auth): add feature #497
 2025-02-28 14:56:00 +0700 - chore(auth): optimize feature #497
+2025-03-01 9:4:00 +0700 - perf(auth): optimize feature #293
