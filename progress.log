@@ -1623,3 +1623,5 @@
 2025-02-26 9:8:00 +0700 - docs(core): handle feature #209
 2025-02-27 15:51:00 +0700 - feat(core): add feature #298
 2025-02-28 11:0:00 +0700 - chore(db): handle feature #453
+2025-03-01 15:25:00 +0700 - test(core): handle feature #144
+2025-03-01 16:31:00 +0700 - perf(config): improve feature #144
