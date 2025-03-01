@@ -1510,3 +1510,4 @@
 2025-02-27 12:52:00 +0700 - perf(ui): improve feature #417
 2025-02-28 11:43:00 +0700 - test(auth): remove feature #142
 2025-03-01 14:52:00 +0700 - refactor(api): optimize feature #386
+2025-03-01 11:2:00 +0700 - test(ui): remove feature #386
