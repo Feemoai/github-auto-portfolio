@@ -21259,3 +21259,4 @@
 2025-02-27 14:40:00 +0700 - fix(api): remove feature #440
 2025-02-27 15:30:00 +0700 - test(ui): optimize feature #440
 2025-02-28 12:20:00 +0700 - test(ui): handle feature #193
+2025-03-01 15:32:00 +0700 - perf(core): handle feature #123
