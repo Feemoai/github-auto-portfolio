@@ -14136,3 +14136,4 @@
 2025-02-27 13:6:00 +0700 - fix(api): update feature #387
 2025-02-28 12:50:00 +0700 - test(ui): update feature #260
 2025-03-01 13:28:00 +0700 - test(ui): remove feature #323
+2025-03-01 9:31:00 +0700 - fix(db): optimize feature #323
