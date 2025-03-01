@@ -46345,3 +46345,4 @@
 2025-02-28 11:55:00 +0700 - docs(core): remove feature #157
 2025-02-28 12:34:00 +0700 - feat(ui): optimize feature #157
 2025-03-01 14:56:00 +0700 - feat(core): improve feature #272
+2025-03-01 12:40:00 +0700 - test(auth): remove feature #272
