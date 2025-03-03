@@ -7728,3 +7728,4 @@
 2025-02-28 13:31:00 +0700 - refactor(config): optimize feature #389
 2025-03-01 14:45:00 +0700 - docs(api): update feature #413
 2025-03-01 11:25:00 +0700 - perf(api): remove feature #413
+2025-03-03 12:24:00 +0700 - test(auth): add feature #363
