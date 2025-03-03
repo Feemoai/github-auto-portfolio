@@ -13563,3 +13563,4 @@
 2025-02-28 14:6:00 +0700 - feat(config): add feature #201
 2025-03-01 13:3:00 +0700 - chore(core): handle feature #421
 2025-03-01 9:50:00 +0700 - perf(db): handle feature #421
+2025-03-03 16:43:00 +0700 - perf(ui): add feature #470
