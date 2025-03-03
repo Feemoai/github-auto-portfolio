@@ -50687,3 +50687,5 @@
 2025-02-28 15:45:00 +0700 - docs(core): update feature #374
 2025-02-28 16:6:00 +0700 - chore(auth): handle feature #374
 2025-03-01 9:27:00 +0700 - feat(ui): remove feature #482
+2025-03-03 13:49:00 +0700 - feat(core): add feature #242
+2025-03-03 16:44:00 +0700 - docs(core): remove feature #242
