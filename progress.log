@@ -46463,3 +46463,4 @@
 2025-02-27 10:56:00 +0700 - refactor(api): update feature #240
 2025-02-28 9:20:00 +0700 - perf(ui): remove feature #349
 2025-03-01 16:27:00 +0700 - refactor(config): handle feature #290
+2025-03-03 9:36:00 +0700 - docs(core): optimize feature #358
