@@ -11506,3 +11506,4 @@
 2025-02-28 9:40:00 +0700 - docs(core): optimize feature #341
 2025-03-01 16:26:00 +0700 - fix(core): optimize feature #243
 2025-03-01 13:34:00 +0700 - perf(api): optimize feature #243
+2025-03-03 14:9:00 +0700 - perf(core): optimize feature #194
