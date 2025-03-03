@@ -41688,3 +41688,4 @@
 2025-03-01 9:18:00 +0700 - feat(config): improve feature #226
 2025-03-01 11:30:00 +0700 - fix(db): handle feature #226
 2025-03-03 14:57:00 +0700 - fix(core): improve feature #214
+2025-03-03 9:30:00 +0700 - refactor(ui): handle feature #214
