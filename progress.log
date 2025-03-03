@@ -61219,3 +61219,4 @@
 2025-02-28 12:50:00 +0700 - fix(core): handle feature #322
 2025-03-01 15:27:00 +0700 - refactor(config): improve feature #305
 2025-03-01 9:24:00 +0700 - refactor(api): add feature #305
+2025-03-03 14:43:00 +0700 - feat(ui): add feature #253
