@@ -8197,3 +8197,4 @@
 2025-02-28 15:42:00 +0700 - feat(core): handle feature #414
 2025-03-01 16:9:00 +0700 - test(auth): add feature #293
 2025-03-01 15:49:00 +0700 - fix(api): improve feature #293
+2025-03-03 12:31:00 +0700 - fix(ui): improve feature #183
