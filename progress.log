@@ -8425,3 +8425,4 @@
 2025-02-28 15:45:00 +0700 - test(db): update feature #327
 2025-03-01 13:40:00 +0700 - feat(core): remove feature #207
 2025-03-03 15:22:00 +0700 - test(db): optimize feature #123
+2025-03-03 14:36:00 +0700 - fix(core): handle feature #123
