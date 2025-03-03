@@ -6463,3 +6463,4 @@
 2025-02-28 15:36:00 +0700 - perf(api): add feature #307
 2025-03-01 16:11:00 +0700 - fix(core): handle feature #416
 2025-03-01 9:20:00 +0700 - feat(auth): handle feature #416
+2025-03-03 9:6:00 +0700 - feat(config): remove feature #364
