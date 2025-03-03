@@ -33339,3 +33339,5 @@
 2025-02-28 16:26:00 +0700 - chore(ui): update feature #334
 2025-03-01 13:29:00 +0700 - feat(ui): update feature #480
 2025-03-01 14:43:00 +0700 - fix(core): optimize feature #480
+2025-03-03 11:14:00 +0700 - chore(db): optimize feature #223
+2025-03-03 15:16:00 +0700 - test(ui): add feature #223
