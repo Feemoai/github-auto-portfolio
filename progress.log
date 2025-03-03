@@ -63078,3 +63078,4 @@
 2025-02-28 11:25:00 +0700 - feat(auth): add feature #311
 2025-03-01 12:54:00 +0700 - perf(db): improve feature #253
 2025-03-01 16:16:00 +0700 - docs(api): add feature #253
+2025-03-03 9:27:00 +0700 - chore(api): handle feature #427
