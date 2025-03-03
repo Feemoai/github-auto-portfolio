@@ -49555,3 +49555,4 @@
 2025-02-27 9:40:00 +0700 - test(api): update feature #443
 2025-02-28 15:46:00 +0700 - fix(core): improve feature #436
 2025-03-01 13:40:00 +0700 - fix(config): optimize feature #122
+2025-03-03 15:49:00 +0700 - docs(config): handle feature #387
