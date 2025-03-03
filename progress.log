@@ -4160,3 +4160,4 @@
 2025-02-28 12:47:00 +0700 - perf(api): remove feature #117
 2025-03-01 16:43:00 +0700 - refactor(db): add feature #277
 2025-03-01 15:46:00 +0700 - refactor(config): add feature #277
+2025-03-03 11:33:00 +0700 - fix(auth): handle feature #341
