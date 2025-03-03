@@ -12088,3 +12088,4 @@
 2025-02-28 11:47:00 +0700 - test(config): handle feature #273
 2025-03-01 14:5:00 +0700 - docs(api): remove feature #367
 2025-03-03 10:22:00 +0700 - feat(ui): improve feature #285
+2025-03-03 14:31:00 +0700 - test(ui): remove feature #285
