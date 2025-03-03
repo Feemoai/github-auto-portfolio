@@ -14824,3 +14824,4 @@
 2025-02-28 14:11:00 +0700 - feat(ui): update feature #347
 2025-03-01 11:6:00 +0700 - test(config): update feature #153
 2025-03-03 13:56:00 +0700 - refactor(core): add feature #121
+2025-03-03 12:39:00 +0700 - test(config): handle feature #121
