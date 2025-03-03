@@ -28015,3 +28015,5 @@
 2025-02-27 16:46:00 +0700 - docs(api): remove feature #411
 2025-02-28 14:9:00 +0700 - perf(config): add feature #353
 2025-03-01 16:35:00 +0700 - feat(ui): add feature #145
+2025-03-03 14:10:00 +0700 - feat(api): optimize feature #254
+2025-03-03 10:21:00 +0700 - fix(ui): optimize feature #254
