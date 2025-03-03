@@ -50122,3 +50122,4 @@
 2025-02-27 9:17:00 +0700 - test(config): remove feature #189
 2025-02-28 13:50:00 +0700 - perf(api): improve feature #196
 2025-03-01 12:42:00 +0700 - perf(api): optimize feature #469
+2025-03-03 10:48:00 +0700 - fix(api): optimize feature #385
