@@ -9700,3 +9700,4 @@
 2025-02-28 12:25:00 +0700 - docs(auth): add feature #117
 2025-03-01 14:34:00 +0700 - docs(config): remove feature #140
 2025-03-01 15:6:00 +0700 - refactor(api): update feature #140
+2025-03-03 13:43:00 +0700 - fix(api): optimize feature #374
