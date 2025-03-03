@@ -61671,3 +61671,4 @@
 2025-02-28 12:50:00 +0700 - docs(core): optimize feature #105
 2025-03-01 16:58:00 +0700 - feat(api): handle feature #300
 2025-03-03 12:16:00 +0700 - feat(core): handle feature #116
+2025-03-03 13:11:00 +0700 - fix(auth): handle feature #116
