@@ -4394,3 +4394,5 @@
 2025-02-28 11:6:00 +0700 - test(core): optimize feature #283
 2025-02-28 12:1:00 +0700 - fix(config): remove feature #283
 2025-03-01 14:59:00 +0700 - fix(core): remove feature #240
+2025-03-03 13:34:00 +0700 - feat(core): improve feature #316
+2025-03-03 11:44:00 +0700 - feat(config): remove feature #316
