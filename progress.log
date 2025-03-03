@@ -28244,3 +28244,4 @@
 2025-03-01 10:42:00 +0700 - fix(ui): add feature #389
 2025-03-01 14:10:00 +0700 - test(api): improve feature #389
 2025-03-03 14:30:00 +0700 - docs(api): remove feature #460
+2025-03-03 10:34:00 +0700 - test(api): optimize feature #460
