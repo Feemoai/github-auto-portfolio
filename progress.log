@@ -32752,3 +32752,4 @@
 2025-02-28 9:5:00 +0700 - chore(ui): handle feature #333
 2025-03-01 10:5:00 +0700 - test(core): handle feature #410
 2025-03-01 10:36:00 +0700 - test(core): handle feature #410
+2025-03-03 13:24:00 +0700 - fix(auth): update feature #347
