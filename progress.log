@@ -1865,3 +1865,5 @@
 2025-03-01 14:48:00 +0700 - feat(config): optimize feature #137
 2025-03-03 9:6:00 +0700 - refactor(config): optimize feature #352
 2025-03-03 13:38:00 +0700 - perf(ui): optimize feature #352
+2025-03-04 9:29:00 +0700 - test(config): update feature #388
+2025-03-04 9:14:00 +0700 - fix(ui): add feature #388
