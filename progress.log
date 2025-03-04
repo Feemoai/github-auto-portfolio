@@ -1626,3 +1626,4 @@
 2025-03-01 15:25:00 +0700 - test(core): handle feature #144
 2025-03-01 16:31:00 +0700 - perf(config): improve feature #144
 2025-03-03 16:27:00 +0700 - fix(auth): remove feature #283
+2025-03-04 10:44:00 +0700 - docs(config): add feature #499
