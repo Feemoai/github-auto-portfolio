@@ -18319,3 +18319,4 @@
 2025-03-01 16:45:00 +0700 - test(core): optimize feature #363
 2025-03-03 10:38:00 +0700 - refactor(core): remove feature #268
 2025-03-03 14:32:00 +0700 - fix(ui): improve feature #268
+2025-03-04 14:54:00 +0700 - feat(db): update feature #387
