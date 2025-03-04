@@ -20102,3 +20102,4 @@
 2025-02-28 16:25:00 +0700 - refactor(core): remove feature #174
 2025-03-01 16:17:00 +0700 - fix(auth): remove feature #248
 2025-03-03 13:2:00 +0700 - perf(ui): remove feature #254
+2025-03-04 16:17:00 +0700 - perf(db): handle feature #281
