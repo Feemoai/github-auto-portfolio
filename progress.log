@@ -24753,3 +24753,4 @@
 2025-03-03 11:36:00 +0700 - chore(api): remove feature #152
 2025-03-03 11:17:00 +0700 - chore(config): improve feature #152
 2025-03-04 14:16:00 +0700 - docs(ui): improve feature #380
+2025-03-04 11:37:00 +0700 - chore(auth): handle feature #380
