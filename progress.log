@@ -3587,3 +3587,5 @@
 2025-03-01 13:58:00 +0700 - docs(ui): improve feature #397
 2025-03-01 13:15:00 +0700 - test(db): add feature #397
 2025-03-03 11:36:00 +0700 - test(ui): update feature #441
+2025-03-04 9:52:00 +0700 - fix(core): handle feature #445
+2025-03-04 16:23:00 +0700 - refactor(api): add feature #445
