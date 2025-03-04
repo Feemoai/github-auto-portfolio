@@ -15053,3 +15053,4 @@
 2025-03-01 12:5:00 +0700 - docs(auth): handle feature #233
 2025-03-01 13:54:00 +0700 - test(core): update feature #233
 2025-03-03 16:11:00 +0700 - perf(auth): add feature #371
+2025-03-04 16:38:00 +0700 - feat(auth): improve feature #483
