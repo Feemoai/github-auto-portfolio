@@ -10474,3 +10474,4 @@
 2025-03-01 12:28:00 +0700 - test(db): update feature #487
 2025-03-01 15:42:00 +0700 - docs(auth): handle feature #487
 2025-03-03 13:48:00 +0700 - docs(core): improve feature #255
+2025-03-04 14:41:00 +0700 - feat(auth): remove feature #420
