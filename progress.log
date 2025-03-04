@@ -55695,3 +55695,5 @@
 2025-03-01 13:21:00 +0700 - test(db): remove feature #244
 2025-03-03 10:0:00 +0700 - perf(core): add feature #364
 2025-03-03 10:24:00 +0700 - test(ui): remove feature #364
+2025-03-04 12:28:00 +0700 - docs(auth): improve feature #394
+2025-03-04 9:48:00 +0700 - fix(config): add feature #394
