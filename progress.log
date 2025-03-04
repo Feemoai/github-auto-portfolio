@@ -44578,3 +44578,5 @@
 2025-03-01 14:38:00 +0700 - docs(auth): remove feature #451
 2025-03-01 14:44:00 +0700 - refactor(db): handle feature #451
 2025-03-03 16:46:00 +0700 - refactor(db): remove feature #255
+2025-03-04 9:46:00 +0700 - refactor(api): optimize feature #412
+2025-03-04 11:42:00 +0700 - test(core): handle feature #412
