@@ -1512,3 +1512,4 @@
 2025-03-01 14:52:00 +0700 - refactor(api): optimize feature #386
 2025-03-01 11:2:00 +0700 - test(ui): remove feature #386
 2025-03-03 11:21:00 +0700 - fix(core): update feature #413
+2025-03-04 14:44:00 +0700 - docs(auth): update feature #458
