@@ -5877,3 +5877,4 @@
 2025-03-01 12:15:00 +0700 - fix(db): improve feature #146
 2025-03-01 9:21:00 +0700 - test(core): optimize feature #146
 2025-03-03 15:8:00 +0700 - test(api): update feature #218
+2025-03-04 14:20:00 +0700 - test(config): optimize feature #381
