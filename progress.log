@@ -10587,3 +10587,4 @@
 2025-03-01 15:47:00 +0700 - test(core): remove feature #120
 2025-03-03 11:34:00 +0700 - test(ui): add feature #447
 2025-03-03 15:59:00 +0700 - feat(core): handle feature #447
+2025-03-04 10:24:00 +0700 - fix(config): remove feature #359
