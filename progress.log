@@ -15877,3 +15877,4 @@
 2025-03-01 16:57:00 +0700 - test(core): optimize feature #204
 2025-03-03 15:27:00 +0700 - docs(api): update feature #134
 2025-03-03 16:34:00 +0700 - fix(config): optimize feature #134
+2025-03-04 14:33:00 +0700 - perf(core): add feature #282
