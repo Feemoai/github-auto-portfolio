@@ -58793,3 +58793,4 @@
 2025-03-01 16:20:00 +0700 - docs(config): improve feature #273
 2025-03-01 9:19:00 +0700 - test(api): optimize feature #273
 2025-03-03 10:28:00 +0700 - docs(ui): add feature #185
+2025-03-04 15:11:00 +0700 - perf(api): optimize feature #274
