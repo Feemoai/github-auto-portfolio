@@ -5542,3 +5542,5 @@
 2025-03-01 16:8:00 +0700 - docs(auth): remove feature #288
 2025-03-03 16:12:00 +0700 - test(config): add feature #278
 2025-03-03 14:57:00 +0700 - refactor(ui): remove feature #278
+2025-03-04 9:14:00 +0700 - feat(auth): optimize feature #130
+2025-03-04 11:13:00 +0700 - docs(auth): handle feature #130
