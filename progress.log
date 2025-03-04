@@ -6698,3 +6698,4 @@
 2025-03-01 15:59:00 +0700 - feat(db): handle feature #369
 2025-03-03 13:32:00 +0700 - docs(config): update feature #247
 2025-03-03 11:47:00 +0700 - refactor(auth): update feature #247
+2025-03-04 14:7:00 +0700 - test(api): update feature #217
