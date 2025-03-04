@@ -6354,3 +6354,4 @@
 2025-03-03 10:16:00 +0700 - docs(auth): optimize feature #151
 2025-03-03 14:8:00 +0700 - chore(auth): remove feature #151
 2025-03-04 12:13:00 +0700 - test(config): handle feature #304
+2025-03-04 9:26:00 +0700 - test(core): update feature #304
