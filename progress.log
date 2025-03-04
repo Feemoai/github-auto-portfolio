@@ -32754,3 +32754,4 @@
 2025-03-01 10:36:00 +0700 - test(core): handle feature #410
 2025-03-03 13:24:00 +0700 - fix(auth): update feature #347
 2025-03-03 14:2:00 +0700 - test(db): optimize feature #347
+2025-03-04 11:6:00 +0700 - fix(ui): handle feature #494
