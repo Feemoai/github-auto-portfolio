@@ -53070,3 +53070,4 @@
 2025-03-01 13:14:00 +0700 - refactor(db): add feature #152
 2025-03-01 9:0:00 +0700 - test(core): update feature #152
 2025-03-03 10:31:00 +0700 - feat(core): optimize feature #200
+2025-03-04 10:27:00 +0700 - perf(ui): handle feature #108
