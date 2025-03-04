@@ -41341,3 +41341,4 @@
 2025-03-01 12:21:00 +0700 - test(ui): update feature #425
 2025-03-03 12:52:00 +0700 - test(ui): add feature #495
 2025-03-04 16:18:00 +0700 - test(db): handle feature #284
+2025-03-04 13:34:00 +0700 - fix(core): remove feature #284
