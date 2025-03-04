@@ -68163,3 +68163,4 @@
 2025-03-01 15:51:00 +0700 - fix(core): handle feature #448
 2025-03-03 14:19:00 +0700 - fix(db): optimize feature #262
 2025-03-03 13:35:00 +0700 - chore(db): optimize feature #262
+2025-03-04 15:14:00 +0700 - perf(config): optimize feature #294
