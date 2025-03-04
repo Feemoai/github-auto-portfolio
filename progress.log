@@ -47717,3 +47717,4 @@
 2025-02-28 10:13:00 +0700 - feat(core): improve feature #152
 2025-03-01 11:9:00 +0700 - chore(core): remove feature #450
 2025-03-03 14:8:00 +0700 - chore(core): add feature #107
+2025-03-04 16:39:00 +0700 - perf(api): remove feature #187
