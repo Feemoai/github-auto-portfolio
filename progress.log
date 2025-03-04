@@ -4163,3 +4163,4 @@
 2025-03-03 11:33:00 +0700 - fix(auth): handle feature #341
 2025-03-03 9:22:00 +0700 - fix(config): improve feature #341
 2025-03-04 15:20:00 +0700 - docs(config): add feature #179
+2025-03-04 11:35:00 +0700 - feat(core): update feature #179
