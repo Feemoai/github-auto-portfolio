@@ -15649,3 +15649,4 @@
 2025-03-01 11:15:00 +0700 - perf(db): improve feature #231
 2025-03-03 11:55:00 +0700 - chore(core): handle feature #337
 2025-03-03 10:8:00 +0700 - perf(config): handle feature #337
+2025-03-04 15:11:00 +0700 - test(api): optimize feature #344
