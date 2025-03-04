@@ -35456,3 +35456,4 @@
 2025-03-01 12:31:00 +0700 - perf(ui): improve feature #327
 2025-03-03 10:19:00 +0700 - perf(db): improve feature #358
 2025-03-04 9:44:00 +0700 - feat(auth): add feature #183
+2025-03-04 14:1:00 +0700 - fix(ui): optimize feature #183
