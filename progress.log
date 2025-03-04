@@ -36722,3 +36722,4 @@
 2025-03-01 9:39:00 +0700 - perf(ui): optimize feature #222
 2025-03-03 15:54:00 +0700 - docs(auth): handle feature #418
 2025-03-03 12:7:00 +0700 - perf(db): remove feature #418
+2025-03-04 12:52:00 +0700 - feat(core): add feature #211
