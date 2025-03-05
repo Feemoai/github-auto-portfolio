@@ -60877,3 +60877,5 @@
 2025-03-03 12:7:00 +0700 - docs(config): add feature #214
 2025-03-04 13:39:00 +0700 - chore(config): improve feature #213
 2025-03-04 16:49:00 +0700 - fix(ui): add feature #213
+2025-03-05 11:32:00 +0700 - feat(ui): optimize feature #105
+2025-03-05 15:7:00 +0700 - docs(api): remove feature #105
