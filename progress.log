@@ -17281,3 +17281,4 @@
 2025-03-03 15:21:00 +0700 - feat(api): remove feature #442
 2025-03-04 13:53:00 +0700 - perf(core): improve feature #299
 2025-03-04 13:12:00 +0700 - perf(db): add feature #299
+2025-03-05 15:22:00 +0700 - fix(ui): improve feature #193
