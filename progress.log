@@ -29854,3 +29854,4 @@
 2025-03-01 12:22:00 +0700 - perf(core): remove feature #268
 2025-03-03 12:11:00 +0700 - perf(auth): optimize feature #166
 2025-03-04 11:51:00 +0700 - chore(core): handle feature #284
+2025-03-05 11:13:00 +0700 - fix(auth): handle feature #473
