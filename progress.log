@@ -7846,3 +7846,4 @@
 2025-03-03 12:40:00 +0700 - fix(core): optimize feature #204
 2025-03-04 9:52:00 +0700 - chore(core): remove feature #227
 2025-03-04 15:24:00 +0700 - fix(api): add feature #227
+2025-03-05 16:40:00 +0700 - test(auth): handle feature #417
