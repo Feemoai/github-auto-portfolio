@@ -53282,3 +53282,4 @@
 2025-03-03 15:12:00 +0700 - test(ui): update feature #226
 2025-03-04 9:11:00 +0700 - docs(ui): add feature #377
 2025-03-04 11:40:00 +0700 - feat(config): remove feature #377
+2025-03-05 15:41:00 +0700 - perf(core): handle feature #412
