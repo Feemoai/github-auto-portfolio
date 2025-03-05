@@ -8200,3 +8200,4 @@
 2025-03-03 12:31:00 +0700 - fix(ui): improve feature #183
 2025-03-04 12:23:00 +0700 - perf(db): optimize feature #168
 2025-03-04 10:18:00 +0700 - perf(api): remove feature #168
+2025-03-05 13:59:00 +0700 - docs(auth): improve feature #267
