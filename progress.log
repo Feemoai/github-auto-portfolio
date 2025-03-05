@@ -5203,3 +5203,4 @@
 2025-03-04 16:48:00 +0700 - feat(db): remove feature #488
 2025-03-04 12:10:00 +0700 - docs(config): improve feature #488
 2025-03-05 15:39:00 +0700 - refactor(db): handle feature #398
+2025-03-05 15:15:00 +0700 - chore(auth): remove feature #398
