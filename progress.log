@@ -40870,3 +40870,4 @@
 2025-03-04 11:20:00 +0700 - feat(auth): add feature #199
 2025-03-04 12:28:00 +0700 - test(auth): optimize feature #199
 2025-03-05 9:0:00 +0700 - perf(config): update feature #476
+2025-03-05 9:0:00 +0700 - chore(core): remove feature #476
