@@ -4165,3 +4165,4 @@
 2025-03-04 15:20:00 +0700 - docs(config): add feature #179
 2025-03-04 11:35:00 +0700 - feat(core): update feature #179
 2025-03-05 15:7:00 +0700 - chore(api): remove feature #316
+2025-03-05 14:23:00 +0700 - chore(db): optimize feature #316
