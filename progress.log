@@ -12879,3 +12879,4 @@
 2025-03-03 15:51:00 +0700 - perf(auth): remove feature #301
 2025-03-04 16:57:00 +0700 - feat(config): remove feature #150
 2025-03-04 14:21:00 +0700 - chore(db): improve feature #150
+2025-03-05 10:25:00 +0700 - fix(config): add feature #488
