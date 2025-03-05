@@ -10589,3 +10589,4 @@
 2025-03-03 15:59:00 +0700 - feat(core): handle feature #447
 2025-03-04 10:24:00 +0700 - fix(config): remove feature #359
 2025-03-05 9:52:00 +0700 - feat(config): handle feature #370
+2025-03-05 13:33:00 +0700 - docs(api): optimize feature #370
