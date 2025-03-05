@@ -48745,3 +48745,4 @@
 2025-03-03 14:36:00 +0700 - fix(config): improve feature #360
 2025-03-04 12:39:00 +0700 - perf(core): update feature #310
 2025-03-04 15:16:00 +0700 - docs(auth): improve feature #310
+2025-03-05 11:30:00 +0700 - test(auth): handle feature #458
