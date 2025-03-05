@@ -4860,3 +4860,4 @@
 2025-03-03 12:25:00 +0700 - perf(db): optimize feature #271
 2025-03-04 10:9:00 +0700 - refactor(auth): update feature #187
 2025-03-05 14:22:00 +0700 - docs(auth): update feature #382
+2025-03-05 16:47:00 +0700 - feat(core): handle feature #382
