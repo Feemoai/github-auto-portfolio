@@ -57747,3 +57747,5 @@
 2025-03-03 12:29:00 +0700 - fix(ui): update feature #232
 2025-03-04 12:15:00 +0700 - fix(db): update feature #435
 2025-03-04 9:31:00 +0700 - perf(auth): update feature #435
+2025-03-05 13:27:00 +0700 - fix(config): update feature #266
+2025-03-05 10:32:00 +0700 - test(ui): handle feature #266
