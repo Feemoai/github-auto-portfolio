@@ -28247,3 +28247,4 @@
 2025-03-03 10:34:00 +0700 - test(api): optimize feature #460
 2025-03-04 14:19:00 +0700 - perf(db): optimize feature #157
 2025-03-05 10:49:00 +0700 - fix(core): remove feature #297
+2025-03-05 12:58:00 +0700 - test(ui): handle feature #297
