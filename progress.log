@@ -26725,3 +26725,4 @@
 2025-03-01 16:47:00 +0700 - docs(core): remove feature #233
 2025-03-03 16:6:00 +0700 - perf(core): add feature #363
 2025-03-04 13:24:00 +0700 - perf(auth): optimize feature #123
+2025-03-05 10:5:00 +0700 - feat(auth): handle feature #315
