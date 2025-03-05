@@ -28358,3 +28358,4 @@
 2025-03-03 14:24:00 +0700 - chore(config): improve feature #490
 2025-03-04 10:31:00 +0700 - chore(ui): improve feature #396
 2025-03-04 15:18:00 +0700 - fix(core): optimize feature #396
+2025-03-05 11:32:00 +0700 - test(config): handle feature #391
