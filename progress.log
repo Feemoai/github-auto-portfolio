@@ -24865,3 +24865,4 @@
 2025-03-01 14:22:00 +0700 - perf(core): optimize feature #332
 2025-03-03 14:38:00 +0700 - feat(config): improve feature #364
 2025-03-04 13:57:00 +0700 - chore(config): handle feature #142
+2025-03-05 16:54:00 +0700 - fix(api): handle feature #122
