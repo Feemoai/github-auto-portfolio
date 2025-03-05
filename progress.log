@@ -66903,3 +66903,4 @@
 2025-03-03 16:15:00 +0700 - chore(config): remove feature #188
 2025-03-04 11:45:00 +0700 - fix(api): update feature #205
 2025-03-04 10:15:00 +0700 - perf(ui): optimize feature #205
+2025-03-05 10:7:00 +0700 - feat(config): handle feature #173
