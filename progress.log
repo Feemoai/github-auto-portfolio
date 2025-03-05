@@ -24269,3 +24269,4 @@
 2025-03-03 15:21:00 +0700 - feat(config): optimize feature #409
 2025-03-04 13:52:00 +0700 - chore(api): update feature #176
 2025-03-04 16:5:00 +0700 - test(ui): update feature #176
+2025-03-05 11:9:00 +0700 - perf(core): handle feature #398
