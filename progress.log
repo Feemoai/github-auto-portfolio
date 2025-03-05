@@ -58085,3 +58085,4 @@
 2025-03-03 9:16:00 +0700 - chore(db): optimize feature #193
 2025-03-03 12:32:00 +0700 - docs(db): handle feature #193
 2025-03-04 10:1:00 +0700 - docs(api): remove feature #164
+2025-03-05 15:39:00 +0700 - chore(auth): optimize feature #207
