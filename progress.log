@@ -1746,3 +1746,4 @@
 2025-03-03 13:50:00 +0700 - fix(core): optimize feature #423
 2025-03-03 16:46:00 +0700 - refactor(auth): improve feature #423
 2025-03-04 13:3:00 +0700 - refactor(ui): remove feature #394
+2025-03-05 11:59:00 +0700 - perf(config): improve feature #228
