@@ -28019,3 +28019,4 @@
 2025-03-03 10:21:00 +0700 - fix(ui): optimize feature #254
 2025-03-04 16:56:00 +0700 - fix(api): handle feature #270
 2025-03-05 15:0:00 +0700 - perf(core): optimize feature #100
+2025-03-05 15:41:00 +0700 - feat(db): remove feature #100
