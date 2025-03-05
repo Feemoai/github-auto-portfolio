@@ -119,3 +119,5 @@
 2025-03-03 10:29:00 +0700 - chore(auth): handle feature #320
 2025-03-03 13:27:00 +0700 - feat(api): improve feature #320
 2025-03-04 13:7:00 +0700 - test(auth): remove feature #257
+2025-03-05 11:55:00 +0700 - test(core): optimize feature #367
+2025-03-05 16:34:00 +0700 - feat(config): update feature #367
