@@ -17045,3 +17045,4 @@
 2025-03-03 11:34:00 +0700 - perf(db): remove feature #328
 2025-03-04 10:51:00 +0700 - fix(config): remove feature #109
 2025-03-05 15:26:00 +0700 - feat(config): remove feature #476
+2025-03-06 12:2:00 +0700 - refactor(auth): remove feature #360
