@@ -51363,3 +51363,5 @@
 2025-03-04 16:46:00 +0700 - docs(api): remove feature #406
 2025-03-04 16:3:00 +0700 - chore(api): handle feature #406
 2025-03-05 14:25:00 +0700 - chore(auth): handle feature #391
+2025-03-06 11:12:00 +0700 - perf(core): handle feature #392
+2025-03-06 15:42:00 +0700 - perf(db): improve feature #392
