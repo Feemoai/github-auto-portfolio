@@ -3244,3 +3244,5 @@
 2025-03-04 11:36:00 +0700 - refactor(ui): remove feature #333
 2025-03-04 14:1:00 +0700 - docs(api): add feature #333
 2025-03-05 9:40:00 +0700 - feat(api): update feature #253
+2025-03-06 13:17:00 +0700 - docs(config): update feature #363
+2025-03-06 12:51:00 +0700 - perf(core): improve feature #363
