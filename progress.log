@@ -30894,3 +30894,4 @@
 2025-03-04 10:27:00 +0700 - docs(core): optimize feature #169
 2025-03-05 12:52:00 +0700 - fix(core): remove feature #358
 2025-03-05 16:2:00 +0700 - feat(db): improve feature #358
+2025-03-06 15:19:00 +0700 - perf(auth): optimize feature #246
