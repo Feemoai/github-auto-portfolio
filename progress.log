@@ -44475,3 +44475,4 @@
 2025-03-03 13:7:00 +0700 - perf(auth): add feature #382
 2025-03-04 15:56:00 +0700 - perf(ui): remove feature #204
 2025-03-05 15:1:00 +0700 - chore(api): optimize feature #240
+2025-03-06 13:25:00 +0700 - fix(db): optimize feature #444
