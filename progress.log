@@ -34880,3 +34880,4 @@
 2025-03-05 11:19:00 +0700 - feat(auth): add feature #231
 2025-03-05 12:4:00 +0700 - feat(api): remove feature #231
 2025-03-06 11:12:00 +0700 - refactor(ui): update feature #325
+2025-03-06 9:47:00 +0700 - perf(config): handle feature #325
