@@ -16478,3 +16478,4 @@
 2025-03-04 9:1:00 +0700 - perf(db): remove feature #219
 2025-03-05 12:4:00 +0700 - fix(db): update feature #328
 2025-03-05 12:9:00 +0700 - test(db): handle feature #328
+2025-03-06 13:43:00 +0700 - fix(db): remove feature #494
