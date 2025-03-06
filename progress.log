@@ -19509,3 +19509,4 @@
 2025-03-04 12:1:00 +0700 - docs(ui): add feature #439
 2025-03-05 9:34:00 +0700 - docs(core): remove feature #208
 2025-03-05 11:28:00 +0700 - refactor(api): optimize feature #208
+2025-03-06 15:23:00 +0700 - refactor(db): remove feature #343
