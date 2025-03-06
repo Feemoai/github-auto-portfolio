@@ -8429,3 +8429,5 @@
 2025-03-04 14:12:00 +0700 - perf(auth): optimize feature #261
 2025-03-04 12:9:00 +0700 - test(auth): optimize feature #261
 2025-03-05 10:6:00 +0700 - feat(auth): update feature #444
+2025-03-06 15:8:00 +0700 - refactor(config): update feature #377
+2025-03-06 11:23:00 +0700 - chore(db): optimize feature #377
