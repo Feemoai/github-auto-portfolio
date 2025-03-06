@@ -6119,3 +6119,4 @@
 2025-03-05 13:56:00 +0700 - refactor(api): update feature #470
 2025-03-05 13:52:00 +0700 - chore(auth): handle feature #470
 2025-03-06 9:2:00 +0700 - chore(config): optimize feature #478
+2025-03-06 12:25:00 +0700 - fix(core): update feature #478
