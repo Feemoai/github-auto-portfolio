@@ -21739,3 +21739,4 @@
 2025-03-04 9:20:00 +0700 - docs(config): improve feature #496
 2025-03-05 16:55:00 +0700 - perf(auth): add feature #158
 2025-03-05 13:27:00 +0700 - perf(api): handle feature #158
+2025-03-06 15:13:00 +0700 - docs(ui): remove feature #367
