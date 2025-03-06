@@ -27086,3 +27086,4 @@
 2025-03-04 9:26:00 +0700 - fix(api): add feature #246
 2025-03-05 10:14:00 +0700 - test(ui): update feature #318
 2025-03-05 12:32:00 +0700 - feat(ui): add feature #318
+2025-03-06 10:23:00 +0700 - fix(core): handle feature #447
