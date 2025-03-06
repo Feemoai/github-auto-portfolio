@@ -16589,3 +16589,4 @@
 2025-03-04 12:5:00 +0700 - test(api): remove feature #188
 2025-03-04 12:29:00 +0700 - perf(auth): handle feature #188
 2025-03-05 11:36:00 +0700 - docs(core): remove feature #312
+2025-03-06 11:25:00 +0700 - chore(config): remove feature #118
