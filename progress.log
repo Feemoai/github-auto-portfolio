@@ -50459,3 +50459,4 @@
 2025-03-04 16:45:00 +0700 - perf(db): optimize feature #390
 2025-03-04 15:23:00 +0700 - feat(core): optimize feature #390
 2025-03-05 15:46:00 +0700 - feat(auth): update feature #108
+2025-03-06 14:27:00 +0700 - fix(api): optimize feature #139
