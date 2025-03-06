@@ -15412,3 +15412,5 @@
 2025-03-03 11:22:00 +0700 - test(ui): update feature #141
 2025-03-04 14:11:00 +0700 - refactor(config): handle feature #387
 2025-03-05 16:31:00 +0700 - fix(db): improve feature #424
+2025-03-06 13:0:00 +0700 - chore(config): improve feature #237
+2025-03-06 12:42:00 +0700 - chore(core): remove feature #237
