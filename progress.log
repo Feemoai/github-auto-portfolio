@@ -37429,3 +37429,4 @@
 2025-03-05 14:5:00 +0700 - docs(api): remove feature #235
 2025-03-05 15:48:00 +0700 - fix(config): optimize feature #235
 2025-03-06 14:59:00 +0700 - feat(db): handle feature #414
+2025-03-06 13:2:00 +0700 - perf(core): update feature #414
