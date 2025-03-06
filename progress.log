@@ -12765,3 +12765,4 @@
 2025-03-05 15:47:00 +0700 - chore(core): add feature #107
 2025-03-05 12:2:00 +0700 - docs(db): update feature #107
 2025-03-06 9:9:00 +0700 - feat(config): improve feature #350
+2025-03-06 11:41:00 +0700 - test(core): remove feature #350
