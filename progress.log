@@ -29973,3 +29973,4 @@
 2025-03-05 12:29:00 +0700 - test(ui): handle feature #326
 2025-03-05 10:28:00 +0700 - perf(db): optimize feature #326
 2025-03-06 14:28:00 +0700 - feat(db): handle feature #132
+2025-03-06 12:24:00 +0700 - perf(api): update feature #132
