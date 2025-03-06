@@ -62269,3 +62269,5 @@
 2025-03-04 9:19:00 +0700 - feat(db): handle feature #284
 2025-03-05 13:16:00 +0700 - test(config): optimize feature #121
 2025-03-05 15:22:00 +0700 - refactor(core): improve feature #121
+2025-03-06 14:0:00 +0700 - fix(ui): add feature #228
+2025-03-06 10:13:00 +0700 - refactor(ui): handle feature #228
