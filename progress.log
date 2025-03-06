@@ -1052,3 +1052,4 @@
 2025-03-04 9:51:00 +0700 - fix(ui): remove feature #437
 2025-03-05 13:11:00 +0700 - fix(core): optimize feature #373
 2025-03-05 16:1:00 +0700 - chore(auth): add feature #373
+2025-03-06 16:43:00 +0700 - perf(db): improve feature #219
