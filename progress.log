@@ -16243,3 +16243,4 @@
 2025-03-04 11:22:00 +0700 - chore(db): improve feature #362
 2025-03-05 14:50:00 +0700 - chore(db): handle feature #376
 2025-03-05 9:31:00 +0700 - refactor(api): optimize feature #376
+2025-03-06 13:51:00 +0700 - fix(core): update feature #196
