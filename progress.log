@@ -1053,3 +1053,4 @@
 2025-03-05 13:11:00 +0700 - fix(core): optimize feature #373
 2025-03-05 16:1:00 +0700 - chore(auth): add feature #373
 2025-03-06 16:43:00 +0700 - perf(db): improve feature #219
+2025-03-06 15:57:00 +0700 - docs(db): optimize feature #219
