@@ -33236,3 +33236,4 @@
 2025-03-05 11:45:00 +0700 - chore(config): add feature #171
 2025-03-05 14:11:00 +0700 - test(db): update feature #171
 2025-03-06 10:14:00 +0700 - fix(api): update feature #295
+2025-03-06 16:52:00 +0700 - feat(api): handle feature #295
