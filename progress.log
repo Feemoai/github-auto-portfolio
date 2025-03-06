@@ -582,3 +582,4 @@
 2025-03-04 12:33:00 +0700 - perf(api): remove feature #366
 2025-03-05 10:11:00 +0700 - feat(api): add feature #480
 2025-03-06 11:20:00 +0700 - perf(config): optimize feature #465
+2025-03-06 11:40:00 +0700 - feat(core): add feature #465
