@@ -31710,3 +31710,4 @@
 2025-03-05 11:17:00 +0700 - fix(core): update feature #217
 2025-03-05 11:29:00 +0700 - test(auth): improve feature #217
 2025-03-06 10:38:00 +0700 - chore(api): optimize feature #169
+2025-03-06 15:54:00 +0700 - chore(auth): optimize feature #169
