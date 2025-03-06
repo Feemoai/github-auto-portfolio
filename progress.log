@@ -22894,3 +22894,4 @@
 2025-03-05 15:30:00 +0700 - chore(config): remove feature #353
 2025-03-05 15:10:00 +0700 - perf(auth): optimize feature #353
 2025-03-06 10:17:00 +0700 - test(api): remove feature #344
+2025-03-06 11:10:00 +0700 - perf(api): improve feature #344
