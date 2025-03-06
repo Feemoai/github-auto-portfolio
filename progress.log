@@ -10039,3 +10039,4 @@
 2025-03-04 9:15:00 +0700 - perf(config): optimize feature #219
 2025-03-05 16:2:00 +0700 - docs(auth): update feature #347
 2025-03-05 10:47:00 +0700 - test(api): handle feature #347
+2025-03-06 14:10:00 +0700 - feat(config): handle feature #315
