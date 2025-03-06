@@ -38107,3 +38107,4 @@
 2025-03-04 10:16:00 +0700 - test(api): remove feature #463
 2025-03-04 10:32:00 +0700 - docs(ui): add feature #463
 2025-03-05 14:20:00 +0700 - chore(config): handle feature #179
+2025-03-06 9:48:00 +0700 - fix(db): remove feature #101
