@@ -40991,3 +40991,4 @@
 2025-03-04 14:37:00 +0700 - docs(config): optimize feature #237
 2025-03-04 16:5:00 +0700 - test(core): add feature #237
 2025-03-05 16:11:00 +0700 - perf(db): handle feature #430
+2025-03-06 10:21:00 +0700 - feat(core): optimize feature #391
