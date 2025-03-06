@@ -34400,3 +34400,4 @@
 2025-03-04 9:12:00 +0700 - test(auth): improve feature #342
 2025-03-05 15:25:00 +0700 - perf(auth): improve feature #156
 2025-03-05 14:58:00 +0700 - perf(core): add feature #156
+2025-03-06 10:59:00 +0700 - refactor(config): remove feature #437
