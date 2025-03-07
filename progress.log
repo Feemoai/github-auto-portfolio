@@ -8777,3 +8777,4 @@
 2025-03-05 11:22:00 +0700 - feat(api): add feature #455
 2025-03-06 12:14:00 +0700 - feat(core): improve feature #276
 2025-03-06 12:44:00 +0700 - perf(auth): remove feature #276
+2025-03-07 10:42:00 +0700 - test(ui): optimize feature #106
