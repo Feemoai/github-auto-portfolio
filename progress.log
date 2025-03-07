@@ -5656,3 +5656,4 @@
 2025-03-05 12:3:00 +0700 - chore(auth): improve feature #302
 2025-03-06 9:18:00 +0700 - feat(api): update feature #307
 2025-03-06 16:19:00 +0700 - docs(auth): improve feature #307
+2025-03-07 15:5:00 +0700 - fix(core): handle feature #333
