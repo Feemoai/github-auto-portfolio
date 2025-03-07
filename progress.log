@@ -33237,3 +33237,5 @@
 2025-03-05 14:11:00 +0700 - test(db): update feature #171
 2025-03-06 10:14:00 +0700 - fix(api): update feature #295
 2025-03-06 16:52:00 +0700 - feat(api): handle feature #295
+2025-03-07 11:5:00 +0700 - test(db): remove feature #126
+2025-03-07 16:42:00 +0700 - feat(ui): remove feature #126
