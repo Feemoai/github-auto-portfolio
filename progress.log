@@ -31929,3 +31929,4 @@
 2025-03-05 9:58:00 +0700 - feat(api): remove feature #217
 2025-03-06 9:30:00 +0700 - chore(auth): remove feature #339
 2025-03-06 9:9:00 +0700 - test(db): add feature #339
+2025-03-07 12:12:00 +0700 - chore(db): optimize feature #134
