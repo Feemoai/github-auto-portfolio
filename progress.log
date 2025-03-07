@@ -42971,3 +42971,4 @@
 2025-03-04 14:3:00 +0700 - docs(api): remove feature #152
 2025-03-05 11:57:00 +0700 - perf(api): add feature #169
 2025-03-06 12:0:00 +0700 - refactor(auth): remove feature #111
+2025-03-07 12:46:00 +0700 - chore(api): handle feature #336
