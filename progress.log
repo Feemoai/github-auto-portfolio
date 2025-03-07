@@ -6358,3 +6358,4 @@
 2025-03-05 9:19:00 +0700 - refactor(core): handle feature #341
 2025-03-06 15:18:00 +0700 - feat(ui): update feature #234
 2025-03-07 10:16:00 +0700 - chore(ui): update feature #400
+2025-03-07 9:50:00 +0700 - perf(config): remove feature #400
