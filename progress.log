@@ -23567,3 +23567,4 @@
 2025-03-06 13:21:00 +0700 - chore(config): optimize feature #365
 2025-03-06 14:35:00 +0700 - perf(core): remove feature #365
 2025-03-07 12:21:00 +0700 - docs(api): handle feature #256
+2025-03-07 11:58:00 +0700 - fix(core): remove feature #256
