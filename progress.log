@@ -36388,3 +36388,4 @@
 2025-03-05 12:24:00 +0700 - docs(core): optimize feature #163
 2025-03-05 12:56:00 +0700 - test(db): add feature #163
 2025-03-06 10:14:00 +0700 - test(db): improve feature #380
+2025-03-07 16:16:00 +0700 - fix(db): update feature #310
