@@ -27330,3 +27330,4 @@
 2025-03-05 15:37:00 +0700 - feat(core): update feature #169
 2025-03-06 14:50:00 +0700 - fix(db): remove feature #328
 2025-03-06 9:28:00 +0700 - perf(auth): improve feature #328
+2025-03-07 15:17:00 +0700 - test(core): optimize feature #106
