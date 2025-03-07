@@ -38221,3 +38221,4 @@
 2025-03-05 13:28:00 +0700 - docs(db): optimize feature #475
 2025-03-06 9:40:00 +0700 - perf(config): optimize feature #104
 2025-03-06 13:36:00 +0700 - fix(db): add feature #104
+2025-03-07 15:21:00 +0700 - test(core): handle feature #182
