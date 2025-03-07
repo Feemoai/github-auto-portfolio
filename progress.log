@@ -7499,3 +7499,4 @@
 2025-03-05 11:18:00 +0700 - perf(auth): add feature #430
 2025-03-05 13:37:00 +0700 - docs(api): remove feature #430
 2025-03-06 16:11:00 +0700 - feat(config): remove feature #498
+2025-03-07 11:52:00 +0700 - fix(ui): improve feature #489
