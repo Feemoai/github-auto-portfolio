@@ -27088,3 +27088,4 @@
 2025-03-05 12:32:00 +0700 - feat(ui): add feature #318
 2025-03-06 10:23:00 +0700 - fix(core): handle feature #447
 2025-03-07 14:58:00 +0700 - refactor(ui): update feature #476
+2025-03-07 15:23:00 +0700 - refactor(config): improve feature #476
