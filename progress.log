@@ -122,3 +122,4 @@
 2025-03-05 11:55:00 +0700 - test(core): optimize feature #367
 2025-03-05 16:34:00 +0700 - feat(config): update feature #367
 2025-03-06 14:30:00 +0700 - chore(db): update feature #149
+2025-03-07 9:50:00 +0700 - perf(ui): remove feature #447
