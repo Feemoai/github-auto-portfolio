@@ -1399,3 +1399,4 @@
 2025-03-05 9:33:00 +0700 - refactor(config): handle feature #463
 2025-03-05 14:12:00 +0700 - refactor(db): add feature #463
 2025-03-06 10:29:00 +0700 - perf(db): improve feature #418
+2025-03-07 11:46:00 +0700 - docs(ui): improve feature #376
