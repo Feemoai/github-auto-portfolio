@@ -1283,3 +1283,5 @@
 2025-03-05 16:23:00 +0700 - refactor(config): add feature #221
 2025-03-06 13:8:00 +0700 - feat(config): handle feature #136
 2025-03-06 14:10:00 +0700 - test(config): remove feature #136
+2025-03-07 14:37:00 +0700 - fix(db): remove feature #378
+2025-03-07 15:19:00 +0700 - fix(config): add feature #378
