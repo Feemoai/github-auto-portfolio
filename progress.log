@@ -30208,3 +30208,4 @@
 2025-03-06 16:49:00 +0700 - docs(db): improve feature #480
 2025-03-06 14:6:00 +0700 - fix(config): remove feature #480
 2025-03-07 9:41:00 +0700 - feat(ui): handle feature #313
+2025-03-07 16:16:00 +0700 - test(core): handle feature #313
