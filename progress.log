@@ -55586,3 +55586,4 @@
 2025-03-05 10:27:00 +0700 - fix(api): add feature #473
 2025-03-05 12:12:00 +0700 - chore(api): remove feature #473
 2025-03-06 10:45:00 +0700 - test(auth): optimize feature #328
+2025-03-07 14:10:00 +0700 - perf(api): optimize feature #210
