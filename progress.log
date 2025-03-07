@@ -32400,3 +32400,5 @@
 2025-03-05 16:4:00 +0700 - chore(core): add feature #388
 2025-03-06 14:53:00 +0700 - test(ui): remove feature #428
 2025-03-06 10:6:00 +0700 - refactor(config): handle feature #428
+2025-03-07 11:31:00 +0700 - refactor(db): add feature #106
+2025-03-07 9:30:00 +0700 - docs(ui): handle feature #106
