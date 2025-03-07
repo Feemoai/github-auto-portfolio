@@ -24388,3 +24388,4 @@
 2025-03-05 10:7:00 +0700 - fix(auth): handle feature #485
 2025-03-06 15:43:00 +0700 - docs(auth): update feature #363
 2025-03-06 12:2:00 +0700 - test(config): improve feature #363
+2025-03-07 14:48:00 +0700 - fix(core): optimize feature #149
