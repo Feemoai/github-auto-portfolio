@@ -35807,3 +35807,4 @@
 2025-03-05 16:13:00 +0700 - docs(api): optimize feature #345
 2025-03-06 13:56:00 +0700 - feat(api): remove feature #158
 2025-03-06 13:34:00 +0700 - docs(ui): optimize feature #158
+2025-03-07 10:9:00 +0700 - fix(config): remove feature #378
