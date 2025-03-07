@@ -28703,3 +28703,4 @@
 2025-03-05 12:5:00 +0700 - fix(core): update feature #239
 2025-03-06 15:37:00 +0700 - feat(db): improve feature #216
 2025-03-06 16:26:00 +0700 - perf(config): handle feature #216
+2025-03-07 15:10:00 +0700 - fix(core): remove feature #307
