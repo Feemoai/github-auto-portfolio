@@ -64481,3 +64481,4 @@
 2025-03-05 10:41:00 +0700 - docs(db): optimize feature #367
 2025-03-05 13:40:00 +0700 - docs(core): remove feature #367
 2025-03-06 15:56:00 +0700 - perf(auth): remove feature #386
+2025-03-07 12:31:00 +0700 - test(config): handle feature #471
