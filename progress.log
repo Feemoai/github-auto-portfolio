@@ -4863,3 +4863,4 @@
 2025-03-05 16:47:00 +0700 - feat(core): handle feature #382
 2025-03-06 15:58:00 +0700 - test(config): handle feature #465
 2025-03-06 9:0:00 +0700 - feat(api): handle feature #465
+2025-03-07 13:8:00 +0700 - perf(api): remove feature #461
