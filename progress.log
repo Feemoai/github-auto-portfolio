@@ -16817,3 +16817,4 @@
 2025-03-06 15:51:00 +0700 - refactor(core): handle feature #266
 2025-03-07 9:18:00 +0700 - refactor(ui): optimize feature #100
 2025-03-07 13:40:00 +0700 - feat(api): remove feature #100
+2025-03-08 11:38:00 +0700 - fix(api): optimize feature #327
