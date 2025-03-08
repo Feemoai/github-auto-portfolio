@@ -15416,3 +15416,5 @@
 2025-03-06 12:42:00 +0700 - chore(core): remove feature #237
 2025-03-07 14:42:00 +0700 - refactor(config): add feature #436
 2025-03-07 11:43:00 +0700 - perf(auth): add feature #436
+2025-03-08 16:27:00 +0700 - perf(api): optimize feature #420
+2025-03-08 13:27:00 +0700 - docs(auth): update feature #420
