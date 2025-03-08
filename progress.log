@@ -44585,3 +44585,4 @@
 2025-03-06 12:50:00 +0700 - docs(db): handle feature #488
 2025-03-07 16:7:00 +0700 - test(db): optimize feature #459
 2025-03-07 10:29:00 +0700 - feat(core): add feature #459
+2025-03-08 13:47:00 +0700 - perf(core): handle feature #299
