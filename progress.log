@@ -13917,3 +13917,5 @@
 2025-03-05 13:28:00 +0700 - perf(core): update feature #498
 2025-03-06 15:20:00 +0700 - fix(core): improve feature #141
 2025-03-07 13:36:00 +0700 - test(core): add feature #288
+2025-03-08 9:22:00 +0700 - fix(ui): add feature #383
+2025-03-08 9:33:00 +0700 - test(db): update feature #383
