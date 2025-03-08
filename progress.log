@@ -8778,3 +8778,4 @@
 2025-03-06 12:14:00 +0700 - feat(core): improve feature #276
 2025-03-06 12:44:00 +0700 - perf(auth): remove feature #276
 2025-03-07 10:42:00 +0700 - test(ui): optimize feature #106
+2025-03-08 16:54:00 +0700 - perf(db): handle feature #199
