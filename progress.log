@@ -55819,3 +55819,4 @@
 2025-03-06 16:39:00 +0700 - chore(config): remove feature #443
 2025-03-07 11:48:00 +0700 - fix(ui): improve feature #175
 2025-03-07 12:23:00 +0700 - test(ui): update feature #175
+2025-03-08 11:17:00 +0700 - docs(core): handle feature #359
