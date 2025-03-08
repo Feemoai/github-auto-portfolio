@@ -1751,3 +1751,4 @@
 2025-03-06 14:59:00 +0700 - fix(api): add feature #104
 2025-03-06 9:23:00 +0700 - fix(db): improve feature #104
 2025-03-07 16:11:00 +0700 - fix(api): handle feature #146
+2025-03-08 15:19:00 +0700 - feat(auth): handle feature #454
