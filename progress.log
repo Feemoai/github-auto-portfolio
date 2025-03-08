@@ -1982,3 +1982,4 @@
 2025-03-07 11:8:00 +0700 - perf(api): remove feature #171
 2025-03-07 14:29:00 +0700 - test(config): improve feature #171
 2025-03-08 13:38:00 +0700 - chore(ui): improve feature #464
+2025-03-08 14:51:00 +0700 - fix(core): optimize feature #464
