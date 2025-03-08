@@ -47498,3 +47498,4 @@
 2025-03-07 15:32:00 +0700 - chore(api): handle feature #465
 2025-03-07 9:12:00 +0700 - fix(config): add feature #465
 2025-03-08 11:39:00 +0700 - fix(config): optimize feature #329
+2025-03-08 9:11:00 +0700 - test(auth): optimize feature #329
