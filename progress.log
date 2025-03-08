@@ -53876,3 +53876,4 @@
 2025-03-06 10:44:00 +0700 - feat(ui): remove feature #170
 2025-03-06 15:48:00 +0700 - feat(config): handle feature #170
 2025-03-07 11:52:00 +0700 - fix(api): remove feature #342
+2025-03-08 12:56:00 +0700 - test(core): update feature #300
