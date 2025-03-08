@@ -1400,3 +1400,5 @@
 2025-03-05 14:12:00 +0700 - refactor(db): add feature #463
 2025-03-06 10:29:00 +0700 - perf(db): improve feature #418
 2025-03-07 11:46:00 +0700 - docs(ui): improve feature #376
+2025-03-08 12:29:00 +0700 - perf(auth): handle feature #470
+2025-03-08 12:57:00 +0700 - chore(auth): optimize feature #470
