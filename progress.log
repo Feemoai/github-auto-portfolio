@@ -8898,3 +8898,4 @@
 2025-03-06 12:4:00 +0700 - test(db): update feature #102
 2025-03-07 16:26:00 +0700 - test(api): optimize feature #467
 2025-03-08 12:23:00 +0700 - fix(config): remove feature #387
+2025-03-08 14:0:00 +0700 - perf(api): add feature #387
