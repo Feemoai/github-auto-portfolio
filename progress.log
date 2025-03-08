@@ -7501,3 +7501,4 @@
 2025-03-06 16:11:00 +0700 - feat(config): remove feature #498
 2025-03-07 11:52:00 +0700 - fix(ui): improve feature #489
 2025-03-08 12:26:00 +0700 - chore(config): update feature #250
+2025-03-08 11:37:00 +0700 - fix(core): handle feature #250
