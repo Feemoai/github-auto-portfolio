@@ -44829,3 +44829,4 @@
 2025-03-06 13:10:00 +0700 - chore(api): remove feature #148
 2025-03-07 11:1:00 +0700 - refactor(ui): handle feature #311
 2025-03-07 11:36:00 +0700 - feat(api): improve feature #311
+2025-03-08 11:16:00 +0700 - refactor(db): optimize feature #125
