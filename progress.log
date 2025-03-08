@@ -32285,3 +32285,4 @@
 2025-03-06 10:28:00 +0700 - chore(config): update feature #272
 2025-03-07 9:46:00 +0700 - perf(api): optimize feature #416
 2025-03-08 12:42:00 +0700 - docs(api): update feature #101
+2025-03-08 12:48:00 +0700 - perf(core): remove feature #101
