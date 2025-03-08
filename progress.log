@@ -5999,3 +5999,4 @@
 2025-03-05 15:44:00 +0700 - feat(core): handle feature #244
 2025-03-06 14:35:00 +0700 - fix(core): remove feature #241
 2025-03-07 12:21:00 +0700 - fix(auth): optimize feature #221
+2025-03-08 10:55:00 +0700 - fix(api): add feature #280
