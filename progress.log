@@ -6122,3 +6122,5 @@
 2025-03-06 12:25:00 +0700 - fix(core): update feature #478
 2025-03-07 13:29:00 +0700 - refactor(core): update feature #280
 2025-03-07 12:19:00 +0700 - docs(api): optimize feature #280
+2025-03-08 11:41:00 +0700 - chore(core): update feature #421
+2025-03-08 12:50:00 +0700 - perf(config): remove feature #421
