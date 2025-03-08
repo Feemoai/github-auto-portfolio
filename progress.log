@@ -3247,3 +3247,4 @@
 2025-03-06 13:17:00 +0700 - docs(config): update feature #363
 2025-03-06 12:51:00 +0700 - perf(core): improve feature #363
 2025-03-07 11:10:00 +0700 - fix(auth): handle feature #120
+2025-03-08 13:22:00 +0700 - docs(config): remove feature #287
