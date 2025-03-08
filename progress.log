@@ -47946,3 +47946,4 @@
 2025-03-06 10:5:00 +0700 - perf(db): remove feature #141
 2025-03-06 15:26:00 +0700 - docs(config): improve feature #141
 2025-03-07 13:20:00 +0700 - perf(core): remove feature #446
+2025-03-08 15:47:00 +0700 - fix(config): optimize feature #321
