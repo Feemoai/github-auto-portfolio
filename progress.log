@@ -23450,3 +23450,5 @@
 2025-03-06 11:16:00 +0700 - fix(auth): remove feature #357
 2025-03-06 10:28:00 +0700 - docs(ui): remove feature #357
 2025-03-07 14:59:00 +0700 - test(api): add feature #173
+2025-03-08 9:10:00 +0700 - test(ui): handle feature #425
+2025-03-08 10:19:00 +0700 - docs(ui): remove feature #425
