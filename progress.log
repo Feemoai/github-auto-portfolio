@@ -64019,3 +64019,4 @@
 2025-03-06 9:33:00 +0700 - docs(db): remove feature #300
 2025-03-07 12:12:00 +0700 - feat(api): handle feature #291
 2025-03-07 16:1:00 +0700 - docs(db): improve feature #291
+2025-03-08 10:33:00 +0700 - fix(db): handle feature #480
