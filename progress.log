@@ -9820,3 +9820,4 @@
 2025-03-06 16:56:00 +0700 - test(core): handle feature #409
 2025-03-07 12:39:00 +0700 - chore(api): handle feature #498
 2025-03-08 13:39:00 +0700 - test(core): optimize feature #412
+2025-03-08 14:12:00 +0700 - feat(core): remove feature #412
