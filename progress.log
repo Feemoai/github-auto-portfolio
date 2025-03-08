@@ -60196,3 +60196,4 @@
 2025-03-06 14:11:00 +0700 - feat(api): handle feature #392
 2025-03-07 16:8:00 +0700 - feat(config): remove feature #268
 2025-03-07 12:9:00 +0700 - perf(db): update feature #268
+2025-03-08 14:18:00 +0700 - fix(config): handle feature #329
