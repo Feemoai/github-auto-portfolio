@@ -7045,3 +7045,4 @@
 2025-03-05 10:8:00 +0700 - fix(ui): handle feature #128
 2025-03-06 16:11:00 +0700 - feat(config): improve feature #262
 2025-03-07 14:54:00 +0700 - feat(db): add feature #113
+2025-03-08 14:5:00 +0700 - perf(auth): add feature #372
