@@ -45870,3 +45870,4 @@
 2025-03-06 9:35:00 +0700 - feat(core): add feature #493
 2025-03-07 11:22:00 +0700 - feat(auth): remove feature #139
 2025-03-07 15:50:00 +0700 - test(core): handle feature #139
+2025-03-08 10:2:00 +0700 - perf(core): improve feature #469
