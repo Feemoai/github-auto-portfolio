@@ -34517,3 +34517,4 @@
 2025-03-06 15:59:00 +0700 - test(core): improve feature #165
 2025-03-06 16:58:00 +0700 - docs(ui): update feature #165
 2025-03-07 9:48:00 +0700 - chore(ui): update feature #498
+2025-03-08 10:58:00 +0700 - perf(core): handle feature #166
