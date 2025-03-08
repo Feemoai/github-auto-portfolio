@@ -30439,3 +30439,4 @@
 2025-03-06 10:7:00 +0700 - feat(db): add feature #144
 2025-03-06 11:2:00 +0700 - perf(ui): handle feature #144
 2025-03-07 12:54:00 +0700 - test(db): handle feature #398
+2025-03-08 16:45:00 +0700 - fix(api): handle feature #414
