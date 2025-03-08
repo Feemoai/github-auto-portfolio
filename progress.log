@@ -62150,3 +62150,4 @@
 2025-03-06 16:58:00 +0700 - feat(ui): handle feature #193
 2025-03-07 9:8:00 +0700 - feat(auth): handle feature #361
 2025-03-07 9:59:00 +0700 - docs(config): improve feature #361
+2025-03-08 16:29:00 +0700 - test(api): handle feature #364
