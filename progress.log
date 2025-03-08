@@ -50462,3 +50462,4 @@
 2025-03-06 14:27:00 +0700 - fix(api): optimize feature #139
 2025-03-07 9:23:00 +0700 - refactor(auth): optimize feature #348
 2025-03-07 12:6:00 +0700 - fix(ui): update feature #348
+2025-03-08 10:4:00 +0700 - fix(core): add feature #353
