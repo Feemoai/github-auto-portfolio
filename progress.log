@@ -822,3 +822,4 @@
 2025-03-06 13:43:00 +0700 - feat(core): remove feature #128
 2025-03-07 10:21:00 +0700 - chore(core): handle feature #142
 2025-03-07 12:37:00 +0700 - chore(config): add feature #142
+2025-03-08 16:50:00 +0700 - chore(auth): add feature #176
