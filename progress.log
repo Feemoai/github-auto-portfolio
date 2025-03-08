@@ -29620,3 +29620,4 @@
 2025-03-06 15:58:00 +0700 - chore(auth): improve feature #456
 2025-03-07 16:4:00 +0700 - perf(core): add feature #394
 2025-03-07 13:57:00 +0700 - test(api): optimize feature #394
+2025-03-08 11:3:00 +0700 - fix(auth): improve feature #347
