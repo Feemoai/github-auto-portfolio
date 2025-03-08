@@ -15176,3 +15176,4 @@
 2025-03-07 15:47:00 +0700 - feat(db): update feature #383
 2025-03-07 14:2:00 +0700 - test(ui): remove feature #383
 2025-03-08 10:45:00 +0700 - fix(auth): optimize feature #330
+2025-03-08 10:17:00 +0700 - fix(ui): update feature #330
