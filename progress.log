@@ -39817,3 +39817,4 @@
 2025-03-06 13:17:00 +0700 - refactor(ui): add feature #298
 2025-03-06 15:57:00 +0700 - refactor(config): remove feature #298
 2025-03-07 10:51:00 +0700 - feat(auth): handle feature #340
+2025-03-08 13:4:00 +0700 - fix(ui): handle feature #294
