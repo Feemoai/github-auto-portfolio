@@ -49675,3 +49675,5 @@
 2025-03-06 13:8:00 +0700 - test(core): update feature #121
 2025-03-07 16:29:00 +0700 - test(core): remove feature #144
 2025-03-07 12:26:00 +0700 - feat(db): remove feature #144
+2025-03-08 15:11:00 +0700 - fix(db): remove feature #454
+2025-03-08 13:24:00 +0700 - test(db): remove feature #454
