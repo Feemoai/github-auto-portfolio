@@ -25341,3 +25341,4 @@
 2025-03-07 11:43:00 +0700 - docs(auth): handle feature #423
 2025-03-07 15:39:00 +0700 - perf(config): optimize feature #423
 2025-03-08 11:7:00 +0700 - perf(api): improve feature #339
+2025-03-08 12:1:00 +0700 - fix(core): remove feature #339
