@@ -17398,3 +17398,4 @@
 2025-03-06 9:48:00 +0700 - docs(core): improve feature #284
 2025-03-07 16:21:00 +0700 - perf(db): optimize feature #254
 2025-03-07 13:53:00 +0700 - docs(auth): improve feature #254
+2025-03-08 16:2:00 +0700 - fix(db): remove feature #219
