@@ -9707,3 +9707,5 @@
 2025-03-06 11:42:00 +0700 - feat(api): add feature #266
 2025-03-06 14:12:00 +0700 - test(ui): add feature #266
 2025-03-07 11:24:00 +0700 - test(ui): update feature #293
+2025-03-08 10:18:00 +0700 - perf(api): handle feature #496
+2025-03-08 16:54:00 +0700 - feat(core): add feature #496
