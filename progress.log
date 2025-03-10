@@ -4404,3 +4404,4 @@
 2025-03-07 10:49:00 +0700 - refactor(core): update feature #171
 2025-03-08 12:9:00 +0700 - refactor(config): update feature #141
 2025-03-10 10:50:00 +0700 - feat(api): improve feature #379
+2025-03-10 10:51:00 +0700 - docs(auth): remove feature #379
