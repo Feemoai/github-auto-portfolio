@@ -24391,3 +24391,4 @@
 2025-03-07 14:48:00 +0700 - fix(core): optimize feature #149
 2025-03-07 12:49:00 +0700 - fix(auth): update feature #149
 2025-03-08 13:41:00 +0700 - fix(db): update feature #378
+2025-03-10 15:27:00 +0700 - fix(ui): optimize feature #333
