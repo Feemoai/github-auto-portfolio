@@ -7387,3 +7387,4 @@
 2025-03-08 13:1:00 +0700 - chore(api): remove feature #236
 2025-03-08 16:1:00 +0700 - fix(auth): improve feature #236
 2025-03-10 9:3:00 +0700 - chore(db): add feature #344
+2025-03-10 12:19:00 +0700 - feat(auth): add feature #344
