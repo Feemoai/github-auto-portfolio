@@ -2218,3 +2218,4 @@
 2025-03-07 12:0:00 +0700 - fix(api): optimize feature #133
 2025-03-08 14:15:00 +0700 - feat(db): improve feature #225
 2025-03-08 14:58:00 +0700 - refactor(config): remove feature #225
+2025-03-10 10:17:00 +0700 - feat(ui): add feature #424
