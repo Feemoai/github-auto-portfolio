@@ -12547,3 +12547,4 @@
 2025-03-07 16:33:00 +0700 - refactor(api): optimize feature #357
 2025-03-08 15:5:00 +0700 - fix(auth): handle feature #223
 2025-03-08 15:29:00 +0700 - perf(core): improve feature #223
+2025-03-10 14:40:00 +0700 - chore(config): handle feature #412
