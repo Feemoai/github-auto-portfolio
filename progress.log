@@ -8084,3 +8084,5 @@
 2025-03-07 10:12:00 +0700 - test(config): update feature #403
 2025-03-08 14:44:00 +0700 - test(core): update feature #447
 2025-03-08 10:56:00 +0700 - docs(config): remove feature #447
+2025-03-10 15:48:00 +0700 - feat(ui): remove feature #240
+2025-03-10 11:52:00 +0700 - docs(config): remove feature #240
