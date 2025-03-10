@@ -1983,3 +1983,5 @@
 2025-03-07 14:29:00 +0700 - test(config): improve feature #171
 2025-03-08 13:38:00 +0700 - chore(ui): improve feature #464
 2025-03-08 14:51:00 +0700 - fix(core): optimize feature #464
+2025-03-10 9:25:00 +0700 - test(auth): improve feature #244
+2025-03-10 10:59:00 +0700 - refactor(auth): handle feature #244
