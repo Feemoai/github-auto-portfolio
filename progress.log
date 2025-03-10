@@ -11170,3 +11170,4 @@
 2025-03-07 15:58:00 +0700 - test(core): optimize feature #320
 2025-03-08 13:20:00 +0700 - fix(ui): handle feature #295
 2025-03-08 11:57:00 +0700 - docs(core): update feature #295
+2025-03-10 12:9:00 +0700 - chore(db): optimize feature #305
