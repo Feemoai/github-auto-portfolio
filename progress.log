@@ -37878,3 +37878,4 @@
 2025-03-07 16:58:00 +0700 - feat(api): optimize feature #182
 2025-03-08 13:59:00 +0700 - test(api): remove feature #383
 2025-03-08 13:14:00 +0700 - docs(auth): add feature #383
+2025-03-10 16:48:00 +0700 - feat(core): remove feature #303
