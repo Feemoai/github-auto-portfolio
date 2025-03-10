@@ -29392,3 +29392,4 @@
 2025-03-07 9:40:00 +0700 - chore(core): optimize feature #494
 2025-03-07 12:5:00 +0700 - docs(core): remove feature #494
 2025-03-08 14:45:00 +0700 - docs(config): improve feature #191
+2025-03-10 9:58:00 +0700 - perf(ui): optimize feature #112
