@@ -31136,3 +31136,5 @@
 2025-03-07 10:31:00 +0700 - feat(auth): update feature #486
 2025-03-08 11:51:00 +0700 - refactor(auth): add feature #270
 2025-03-08 10:22:00 +0700 - perf(ui): optimize feature #270
+2025-03-10 15:19:00 +0700 - perf(db): remove feature #369
+2025-03-10 13:45:00 +0700 - feat(auth): remove feature #369
