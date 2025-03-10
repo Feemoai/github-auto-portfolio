@@ -11283,3 +11283,4 @@
 2025-03-07 9:33:00 +0700 - chore(ui): optimize feature #406
 2025-03-08 12:42:00 +0700 - fix(db): handle feature #267
 2025-03-08 9:59:00 +0700 - perf(ui): improve feature #267
+2025-03-10 15:41:00 +0700 - perf(ui): add feature #102
