@@ -47384,3 +47384,4 @@
 2025-03-08 12:58:00 +0700 - chore(ui): handle feature #497
 2025-03-08 13:2:00 +0700 - fix(db): improve feature #497
 2025-03-10 14:35:00 +0700 - chore(core): handle feature #144
+2025-03-10 14:57:00 +0700 - fix(ui): remove feature #144
