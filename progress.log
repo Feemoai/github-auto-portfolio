@@ -50696,3 +50696,5 @@
 2025-03-06 15:42:00 +0700 - docs(db): optimize feature #329
 2025-03-07 11:18:00 +0700 - docs(ui): improve feature #137
 2025-03-08 14:39:00 +0700 - refactor(auth): handle feature #200
+2025-03-10 15:51:00 +0700 - chore(core): remove feature #194
+2025-03-10 15:9:00 +0700 - test(ui): handle feature #194
