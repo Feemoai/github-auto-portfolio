@@ -68623,3 +68623,4 @@
 2025-03-07 15:43:00 +0700 - chore(api): remove feature #356
 2025-03-07 12:44:00 +0700 - test(ui): remove feature #356
 2025-03-08 9:59:00 +0700 - test(core): improve feature #332
+2025-03-10 10:23:00 +0700 - fix(core): remove feature #378
