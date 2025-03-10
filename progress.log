@@ -6934,3 +6934,4 @@
 2025-03-08 13:1:00 +0700 - perf(db): handle feature #126
 2025-03-08 16:58:00 +0700 - fix(db): remove feature #126
 2025-03-10 16:15:00 +0700 - feat(core): handle feature #212
+2025-03-10 12:18:00 +0700 - fix(ui): update feature #212
