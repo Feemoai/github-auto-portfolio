@@ -44945,3 +44945,4 @@
 2025-03-06 10:22:00 +0700 - chore(ui): remove feature #278
 2025-03-07 10:11:00 +0700 - fix(db): add feature #399
 2025-03-08 11:51:00 +0700 - perf(db): optimize feature #286
+2025-03-10 15:14:00 +0700 - chore(db): improve feature #493
