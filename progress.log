@@ -8205,3 +8205,4 @@
 2025-03-06 15:50:00 +0700 - test(api): remove feature #282
 2025-03-07 10:36:00 +0700 - feat(api): improve feature #333
 2025-03-08 9:27:00 +0700 - docs(auth): remove feature #213
+2025-03-10 15:34:00 +0700 - perf(core): remove feature #137
