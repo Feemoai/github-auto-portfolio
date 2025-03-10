@@ -6360,3 +6360,4 @@
 2025-03-07 10:16:00 +0700 - chore(ui): update feature #400
 2025-03-07 9:50:00 +0700 - perf(config): remove feature #400
 2025-03-08 14:6:00 +0700 - fix(auth): optimize feature #336
+2025-03-10 9:20:00 +0700 - test(core): update feature #278
