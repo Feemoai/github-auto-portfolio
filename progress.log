@@ -10042,3 +10042,4 @@
 2025-03-06 14:10:00 +0700 - feat(config): handle feature #315
 2025-03-07 14:9:00 +0700 - chore(ui): add feature #284
 2025-03-08 16:23:00 +0700 - chore(db): remove feature #499
+2025-03-10 13:54:00 +0700 - docs(auth): improve feature #383
