@@ -20589,3 +20589,4 @@
 2025-03-07 16:47:00 +0700 - fix(core): handle feature #397
 2025-03-07 11:18:00 +0700 - perf(ui): update feature #397
 2025-03-08 10:6:00 +0700 - perf(api): improve feature #284
+2025-03-10 15:14:00 +0700 - feat(core): add feature #484
