@@ -42860,3 +42860,4 @@
 2025-03-07 15:47:00 +0700 - test(db): remove feature #435
 2025-03-08 9:20:00 +0700 - fix(auth): optimize feature #220
 2025-03-08 9:39:00 +0700 - perf(auth): optimize feature #220
+2025-03-10 9:16:00 +0700 - refactor(ui): optimize feature #298
