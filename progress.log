@@ -37991,3 +37991,5 @@
 2025-03-07 16:44:00 +0700 - fix(auth): optimize feature #213
 2025-03-07 16:7:00 +0700 - chore(core): update feature #213
 2025-03-08 16:42:00 +0700 - test(ui): optimize feature #215
+2025-03-10 9:49:00 +0700 - test(ui): optimize feature #243
+2025-03-10 11:43:00 +0700 - test(api): handle feature #243
