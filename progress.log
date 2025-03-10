@@ -20233,3 +20233,4 @@
 2025-03-07 14:56:00 +0700 - fix(core): optimize feature #452
 2025-03-08 12:4:00 +0700 - docs(ui): optimize feature #318
 2025-03-10 14:21:00 +0700 - perf(ui): add feature #370
+2025-03-10 14:41:00 +0700 - refactor(core): remove feature #370
