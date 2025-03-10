@@ -6471,3 +6471,5 @@
 2025-03-07 12:54:00 +0700 - feat(db): improve feature #298
 2025-03-07 11:43:00 +0700 - docs(config): optimize feature #298
 2025-03-08 16:40:00 +0700 - test(core): add feature #193
+2025-03-10 14:32:00 +0700 - refactor(core): handle feature #482
+2025-03-10 12:51:00 +0700 - docs(ui): improve feature #482
