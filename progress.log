@@ -61565,3 +61565,4 @@
 2025-03-07 12:17:00 +0700 - test(core): remove feature #286
 2025-03-08 11:24:00 +0700 - perf(core): add feature #491
 2025-03-08 9:39:00 +0700 - test(config): update feature #491
+2025-03-10 9:18:00 +0700 - fix(core): improve feature #110
