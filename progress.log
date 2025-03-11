@@ -12097,3 +12097,4 @@
 2025-03-08 16:54:00 +0700 - docs(api): improve feature #418
 2025-03-10 14:41:00 +0700 - chore(api): optimize feature #117
 2025-03-10 16:48:00 +0700 - fix(ui): optimize feature #117
+2025-03-11 13:57:00 +0700 - fix(core): handle feature #140
