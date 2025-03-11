@@ -65301,3 +65301,4 @@
 2025-03-08 12:22:00 +0700 - fix(core): add feature #207
 2025-03-10 12:45:00 +0700 - fix(ui): handle feature #369
 2025-03-10 14:20:00 +0700 - test(auth): add feature #369
+2025-03-11 16:8:00 +0700 - test(config): handle feature #217
