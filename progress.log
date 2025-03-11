@@ -37993,3 +37993,5 @@
 2025-03-08 16:42:00 +0700 - test(ui): optimize feature #215
 2025-03-10 9:49:00 +0700 - test(ui): optimize feature #243
 2025-03-10 11:43:00 +0700 - test(api): handle feature #243
+2025-03-11 14:9:00 +0700 - chore(db): optimize feature #410
+2025-03-11 10:38:00 +0700 - fix(api): improve feature #410
