@@ -3037,3 +3037,5 @@
 2025-03-08 11:12:00 +0700 - refactor(auth): update feature #471
 2025-03-10 15:27:00 +0700 - feat(config): remove feature #438
 2025-03-10 15:15:00 +0700 - test(config): improve feature #438
+2025-03-11 12:46:00 +0700 - feat(config): optimize feature #228
+2025-03-11 11:20:00 +0700 - test(core): remove feature #228
