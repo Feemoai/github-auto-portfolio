@@ -4171,3 +4171,4 @@
 2025-03-08 15:20:00 +0700 - docs(core): improve feature #377
 2025-03-10 11:48:00 +0700 - perf(auth): add feature #164
 2025-03-10 16:55:00 +0700 - test(db): add feature #164
+2025-03-11 9:10:00 +0700 - fix(core): handle feature #484
