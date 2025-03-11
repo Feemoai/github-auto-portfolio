@@ -2221,3 +2221,4 @@
 2025-03-10 10:17:00 +0700 - feat(ui): add feature #424
 2025-03-10 15:2:00 +0700 - fix(auth): handle feature #424
 2025-03-11 12:16:00 +0700 - perf(config): remove feature #294
+2025-03-11 13:31:00 +0700 - refactor(auth): update feature #294
