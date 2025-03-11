@@ -42745,3 +42745,4 @@
 2025-03-10 14:18:00 +0700 - refactor(ui): optimize feature #336
 2025-03-10 11:17:00 +0700 - refactor(core): optimize feature #336
 2025-03-11 14:54:00 +0700 - perf(api): remove feature #394
+2025-03-11 9:49:00 +0700 - feat(core): remove feature #394
