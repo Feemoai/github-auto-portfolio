@@ -11754,3 +11754,4 @@
 2025-03-08 14:25:00 +0700 - refactor(ui): add feature #119
 2025-03-08 12:56:00 +0700 - fix(auth): add feature #119
 2025-03-10 10:50:00 +0700 - perf(ui): handle feature #311
+2025-03-11 11:6:00 +0700 - perf(ui): improve feature #390
