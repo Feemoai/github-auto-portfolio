@@ -35928,3 +35928,5 @@
 2025-03-08 16:32:00 +0700 - feat(api): add feature #393
 2025-03-10 16:0:00 +0700 - docs(core): improve feature #244
 2025-03-10 12:35:00 +0700 - perf(ui): update feature #244
+2025-03-11 11:9:00 +0700 - chore(config): update feature #196
+2025-03-11 16:32:00 +0700 - docs(config): handle feature #196
