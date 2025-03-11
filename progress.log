@@ -48518,3 +48518,4 @@
 2025-03-07 11:5:00 +0700 - refactor(api): improve feature #235
 2025-03-08 15:45:00 +0700 - chore(auth): handle feature #291
 2025-03-10 16:20:00 +0700 - feat(auth): handle feature #363
+2025-03-11 16:3:00 +0700 - fix(core): remove feature #314
