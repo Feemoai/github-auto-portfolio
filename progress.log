@@ -60533,3 +60533,4 @@
 2025-03-08 9:41:00 +0700 - docs(config): remove feature #289
 2025-03-10 9:36:00 +0700 - chore(db): remove feature #250
 2025-03-10 9:6:00 +0700 - perf(db): optimize feature #250
+2025-03-11 16:43:00 +0700 - fix(api): handle feature #169
