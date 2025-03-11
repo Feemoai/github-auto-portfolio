@@ -31598,3 +31598,4 @@
 2025-03-08 16:13:00 +0700 - perf(ui): update feature #297
 2025-03-10 13:51:00 +0700 - test(core): improve feature #363
 2025-03-11 10:35:00 +0700 - perf(core): improve feature #268
+2025-03-11 11:42:00 +0700 - feat(auth): handle feature #268
