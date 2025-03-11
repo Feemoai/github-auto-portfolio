@@ -32641,3 +32641,5 @@
 2025-03-08 12:55:00 +0700 - chore(core): optimize feature #271
 2025-03-08 9:36:00 +0700 - refactor(config): optimize feature #271
 2025-03-10 12:50:00 +0700 - docs(auth): handle feature #107
+2025-03-11 13:13:00 +0700 - chore(auth): remove feature #389
+2025-03-11 12:39:00 +0700 - refactor(core): remove feature #389
