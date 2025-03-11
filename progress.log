@@ -11981,3 +11981,4 @@
 2025-03-08 11:32:00 +0700 - test(core): update feature #273
 2025-03-10 9:47:00 +0700 - fix(config): add feature #216
 2025-03-10 15:57:00 +0700 - refactor(config): handle feature #216
+2025-03-11 16:14:00 +0700 - docs(ui): optimize feature #319
