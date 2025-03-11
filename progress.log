@@ -19986,3 +19986,5 @@
 2025-03-08 11:9:00 +0700 - test(ui): add feature #299
 2025-03-08 15:32:00 +0700 - test(core): add feature #299
 2025-03-10 9:9:00 +0700 - chore(api): optimize feature #399
+2025-03-11 12:5:00 +0700 - fix(auth): remove feature #395
+2025-03-11 13:5:00 +0700 - chore(db): update feature #395
