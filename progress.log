@@ -38226,3 +38226,4 @@
 2025-03-08 15:56:00 +0700 - test(config): remove feature #397
 2025-03-10 9:9:00 +0700 - feat(api): remove feature #211
 2025-03-10 10:47:00 +0700 - fix(auth): improve feature #211
+2025-03-11 10:25:00 +0700 - fix(api): handle feature #478
