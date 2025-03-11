@@ -38339,3 +38339,4 @@
 2025-03-07 9:55:00 +0700 - chore(config): remove feature #191
 2025-03-08 9:14:00 +0700 - chore(config): optimize feature #248
 2025-03-10 14:47:00 +0700 - perf(db): add feature #155
+2025-03-11 15:59:00 +0700 - fix(ui): remove feature #302
