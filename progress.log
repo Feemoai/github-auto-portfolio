@@ -12886,3 +12886,4 @@
 2025-03-10 14:49:00 +0700 - feat(core): handle feature #242
 2025-03-10 14:59:00 +0700 - fix(ui): add feature #242
 2025-03-11 11:32:00 +0700 - perf(config): handle feature #114
+2025-03-11 11:21:00 +0700 - feat(auth): remove feature #114
