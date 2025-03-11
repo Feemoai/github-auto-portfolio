@@ -65182,3 +65182,4 @@
 2025-03-08 16:2:00 +0700 - feat(api): remove feature #119
 2025-03-10 15:26:00 +0700 - docs(db): improve feature #122
 2025-03-10 11:20:00 +0700 - chore(config): add feature #122
+2025-03-11 13:10:00 +0700 - fix(ui): handle feature #299
