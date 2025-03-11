@@ -11173,3 +11173,4 @@
 2025-03-10 12:9:00 +0700 - chore(db): optimize feature #305
 2025-03-10 13:27:00 +0700 - perf(db): optimize feature #305
 2025-03-11 16:37:00 +0700 - fix(config): add feature #230
+2025-03-11 11:49:00 +0700 - perf(config): remove feature #230
