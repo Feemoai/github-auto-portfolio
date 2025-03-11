@@ -6591,3 +6591,4 @@
 2025-03-08 11:19:00 +0700 - refactor(auth): update feature #217
 2025-03-10 9:25:00 +0700 - test(api): improve feature #488
 2025-03-11 16:23:00 +0700 - docs(api): remove feature #383
+2025-03-11 16:7:00 +0700 - test(core): remove feature #383
