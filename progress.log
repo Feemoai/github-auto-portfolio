@@ -4643,3 +4643,5 @@
 2025-03-08 11:10:00 +0700 - chore(core): update feature #389
 2025-03-10 10:24:00 +0700 - test(api): add feature #120
 2025-03-10 10:16:00 +0700 - fix(config): improve feature #120
+2025-03-11 12:53:00 +0700 - docs(config): remove feature #390
+2025-03-11 10:14:00 +0700 - test(core): optimize feature #390
