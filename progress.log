@@ -10486,3 +10486,4 @@
 2025-03-10 13:25:00 +0700 - test(db): optimize feature #111
 2025-03-11 10:48:00 +0700 - feat(core): add feature #487
 2025-03-11 9:23:00 +0700 - perf(config): remove feature #487
+2025-03-12 13:37:00 +0700 - test(api): optimize feature #256
