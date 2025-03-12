@@ -2924,3 +2924,5 @@
 2025-03-08 11:23:00 +0700 - perf(api): update feature #481
 2025-03-10 9:9:00 +0700 - fix(ui): add feature #329
 2025-03-11 9:38:00 +0700 - fix(core): handle feature #439
+2025-03-12 15:48:00 +0700 - perf(ui): improve feature #361
+2025-03-12 15:0:00 +0700 - refactor(db): improve feature #361
