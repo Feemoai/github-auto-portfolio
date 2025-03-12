@@ -17523,3 +17523,4 @@
 2025-03-10 9:50:00 +0700 - feat(auth): improve feature #358
 2025-03-11 9:12:00 +0700 - chore(api): handle feature #467
 2025-03-11 12:31:00 +0700 - feat(auth): optimize feature #467
+2025-03-12 11:2:00 +0700 - perf(db): add feature #320
