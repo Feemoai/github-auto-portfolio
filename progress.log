@@ -5439,3 +5439,4 @@
 2025-03-10 15:20:00 +0700 - fix(core): add feature #219
 2025-03-11 10:45:00 +0700 - chore(config): optimize feature #330
 2025-03-11 14:28:00 +0700 - fix(config): optimize feature #330
+2025-03-12 16:28:00 +0700 - test(core): handle feature #225
