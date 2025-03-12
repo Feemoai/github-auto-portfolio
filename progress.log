@@ -45287,3 +45287,4 @@
 2025-03-10 9:5:00 +0700 - test(auth): remove feature #377
 2025-03-10 11:26:00 +0700 - chore(db): optimize feature #377
 2025-03-11 10:55:00 +0700 - docs(ui): improve feature #410
+2025-03-12 9:9:00 +0700 - fix(core): update feature #299
