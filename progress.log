@@ -48178,3 +48178,4 @@
 2025-03-11 10:38:00 +0700 - docs(core): optimize feature #301
 2025-03-11 10:10:00 +0700 - perf(core): handle feature #301
 2025-03-12 9:43:00 +0700 - perf(api): optimize feature #482
+2025-03-12 9:10:00 +0700 - fix(auth): handle feature #482
