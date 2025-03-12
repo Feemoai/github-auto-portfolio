@@ -47387,3 +47387,4 @@
 2025-03-10 14:57:00 +0700 - fix(ui): remove feature #144
 2025-03-11 13:33:00 +0700 - fix(ui): remove feature #355
 2025-03-11 15:54:00 +0700 - refactor(ui): optimize feature #355
+2025-03-12 13:59:00 +0700 - feat(api): remove feature #344
