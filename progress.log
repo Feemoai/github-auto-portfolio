@@ -15063,3 +15063,4 @@
 2025-03-10 12:34:00 +0700 - fix(core): add feature #314
 2025-03-11 9:28:00 +0700 - refactor(db): handle feature #359
 2025-03-11 10:38:00 +0700 - feat(config): optimize feature #359
+2025-03-12 15:49:00 +0700 - fix(core): optimize feature #132
