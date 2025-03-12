@@ -50354,3 +50354,4 @@
 2025-03-10 16:38:00 +0700 - test(core): add feature #377
 2025-03-11 13:28:00 +0700 - docs(ui): handle feature #246
 2025-03-12 13:12:00 +0700 - test(ui): remove feature #461
+2025-03-12 12:36:00 +0700 - feat(auth): optimize feature #461
