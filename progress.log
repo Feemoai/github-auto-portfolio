@@ -12434,3 +12434,4 @@
 2025-03-10 12:33:00 +0700 - refactor(api): optimize feature #302
 2025-03-10 12:44:00 +0700 - refactor(db): optimize feature #302
 2025-03-11 14:30:00 +0700 - fix(core): update feature #142
+2025-03-12 9:47:00 +0700 - fix(auth): handle feature #481
