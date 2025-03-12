@@ -6004,3 +6004,5 @@
 2025-03-10 12:23:00 +0700 - test(api): add feature #103
 2025-03-11 11:20:00 +0700 - fix(config): handle feature #269
 2025-03-11 11:51:00 +0700 - refactor(ui): improve feature #269
+2025-03-12 11:51:00 +0700 - chore(ui): optimize feature #267
+2025-03-12 11:36:00 +0700 - feat(ui): add feature #267
