@@ -37662,3 +37662,5 @@
 2025-03-10 10:32:00 +0700 - test(auth): add feature #469
 2025-03-11 9:10:00 +0700 - test(ui): handle feature #364
 2025-03-11 9:14:00 +0700 - fix(api): optimize feature #364
+2025-03-12 15:34:00 +0700 - perf(db): optimize feature #100
+2025-03-12 14:15:00 +0700 - fix(config): improve feature #100
