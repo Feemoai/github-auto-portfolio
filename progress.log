@@ -1176,3 +1176,4 @@
 2025-03-10 14:50:00 +0700 - fix(core): improve feature #336
 2025-03-11 16:3:00 +0700 - test(api): handle feature #304
 2025-03-12 12:5:00 +0700 - test(config): handle feature #294
+2025-03-12 15:38:00 +0700 - docs(ui): remove feature #294
