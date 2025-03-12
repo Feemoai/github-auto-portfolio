@@ -63205,3 +63205,4 @@
 2025-03-10 16:54:00 +0700 - fix(api): optimize feature #399
 2025-03-10 16:46:00 +0700 - refactor(auth): update feature #399
 2025-03-11 12:50:00 +0700 - refactor(api): optimize feature #399
+2025-03-12 13:29:00 +0700 - perf(core): remove feature #465
