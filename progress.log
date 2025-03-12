@@ -39369,3 +39369,4 @@
 2025-03-10 16:34:00 +0700 - test(core): handle feature #330
 2025-03-11 13:36:00 +0700 - chore(api): update feature #198
 2025-03-12 13:32:00 +0700 - docs(db): update feature #151
+2025-03-12 13:7:00 +0700 - fix(ui): remove feature #151
