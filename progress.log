@@ -65068,3 +65068,4 @@
 2025-03-10 15:54:00 +0700 - chore(core): add feature #158
 2025-03-11 11:15:00 +0700 - perf(db): optimize feature #172
 2025-03-11 16:15:00 +0700 - perf(db): handle feature #172
+2025-03-12 13:38:00 +0700 - feat(auth): remove feature #220
