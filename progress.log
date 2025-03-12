@@ -38909,3 +38909,4 @@
 2025-03-10 16:8:00 +0700 - test(db): remove feature #125
 2025-03-11 15:17:00 +0700 - docs(config): add feature #228
 2025-03-11 13:38:00 +0700 - docs(api): optimize feature #228
+2025-03-12 16:11:00 +0700 - chore(auth): handle feature #320
