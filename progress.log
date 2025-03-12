@@ -20592,3 +20592,4 @@
 2025-03-10 15:14:00 +0700 - feat(core): add feature #484
 2025-03-11 11:55:00 +0700 - fix(auth): improve feature #482
 2025-03-12 16:35:00 +0700 - feat(db): add feature #452
+2025-03-12 16:41:00 +0700 - test(api): handle feature #452
