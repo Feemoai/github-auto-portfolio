@@ -23341,3 +23341,4 @@
 2025-03-10 15:21:00 +0700 - perf(ui): improve feature #266
 2025-03-10 14:25:00 +0700 - chore(config): handle feature #266
 2025-03-11 10:4:00 +0700 - fix(core): remove feature #295
+2025-03-12 10:6:00 +0700 - fix(api): optimize feature #347
