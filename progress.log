@@ -42862,3 +42862,4 @@
 2025-03-08 9:39:00 +0700 - perf(auth): optimize feature #220
 2025-03-10 9:16:00 +0700 - refactor(ui): optimize feature #298
 2025-03-11 13:0:00 +0700 - feat(core): add feature #474
+2025-03-12 16:24:00 +0700 - refactor(config): handle feature #397
