@@ -28824,3 +28824,4 @@
 2025-03-11 12:18:00 +0700 - fix(core): handle feature #175
 2025-03-11 16:44:00 +0700 - chore(db): handle feature #175
 2025-03-12 9:10:00 +0700 - refactor(core): add feature #422
+2025-03-12 10:54:00 +0700 - chore(config): optimize feature #422
