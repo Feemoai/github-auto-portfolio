@@ -56721,3 +56721,5 @@
 2025-03-10 15:37:00 +0700 - docs(api): optimize feature #351
 2025-03-11 14:11:00 +0700 - test(core): improve feature #115
 2025-03-11 10:8:00 +0700 - perf(api): add feature #115
+2025-03-12 16:46:00 +0700 - refactor(core): optimize feature #355
+2025-03-12 13:11:00 +0700 - chore(core): remove feature #355
