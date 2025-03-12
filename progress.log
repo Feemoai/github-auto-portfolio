@@ -7625,3 +7625,5 @@
 2025-03-10 11:30:00 +0700 - fix(ui): improve feature #181
 2025-03-10 13:44:00 +0700 - feat(core): optimize feature #181
 2025-03-11 11:23:00 +0700 - feat(auth): optimize feature #480
+2025-03-12 10:17:00 +0700 - test(ui): optimize feature #380
+2025-03-12 12:54:00 +0700 - perf(ui): add feature #380
