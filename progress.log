@@ -6936,3 +6936,4 @@
 2025-03-10 16:15:00 +0700 - feat(core): handle feature #212
 2025-03-10 12:18:00 +0700 - fix(ui): update feature #212
 2025-03-11 9:5:00 +0700 - chore(api): remove feature #442
+2025-03-12 11:9:00 +0700 - test(api): update feature #309
