@@ -16008,3 +16008,4 @@
 2025-03-10 15:52:00 +0700 - docs(core): add feature #411
 2025-03-11 14:40:00 +0700 - feat(core): improve feature #161
 2025-03-11 11:14:00 +0700 - fix(auth): update feature #161
+2025-03-12 16:28:00 +0700 - perf(ui): handle feature #220
