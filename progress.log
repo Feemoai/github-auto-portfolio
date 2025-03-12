@@ -3145,3 +3145,4 @@
 2025-03-10 9:25:00 +0700 - refactor(api): optimize feature #159
 2025-03-11 9:29:00 +0700 - chore(db): remove feature #128
 2025-03-11 12:28:00 +0700 - docs(config): add feature #128
+2025-03-12 10:48:00 +0700 - perf(ui): remove feature #259
