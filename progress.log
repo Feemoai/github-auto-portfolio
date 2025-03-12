@@ -24394,3 +24394,4 @@
 2025-03-10 15:27:00 +0700 - fix(ui): optimize feature #333
 2025-03-11 16:59:00 +0700 - docs(api): add feature #499
 2025-03-12 9:48:00 +0700 - chore(core): add feature #352
+2025-03-12 10:4:00 +0700 - test(api): update feature #352
