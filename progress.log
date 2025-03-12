@@ -31376,3 +31376,4 @@
 2025-03-08 14:1:00 +0700 - docs(ui): improve feature #218
 2025-03-10 13:0:00 +0700 - perf(config): optimize feature #207
 2025-03-11 9:49:00 +0700 - docs(auth): handle feature #164
+2025-03-12 16:17:00 +0700 - perf(config): remove feature #493
