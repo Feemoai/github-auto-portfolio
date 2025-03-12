@@ -38114,3 +38114,4 @@
 2025-03-10 9:43:00 +0700 - docs(config): add feature #470
 2025-03-11 13:10:00 +0700 - feat(db): handle feature #223
 2025-03-11 10:28:00 +0700 - test(ui): remove feature #223
+2025-03-12 13:41:00 +0700 - fix(core): remove feature #327
