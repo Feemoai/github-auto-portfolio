@@ -41117,3 +41117,5 @@
 2025-03-10 16:51:00 +0700 - feat(config): remove feature #458
 2025-03-11 10:17:00 +0700 - feat(ui): optimize feature #272
 2025-03-11 9:34:00 +0700 - test(auth): remove feature #272
+2025-03-12 9:58:00 +0700 - chore(ui): remove feature #380
+2025-03-12 14:8:00 +0700 - fix(db): update feature #380
