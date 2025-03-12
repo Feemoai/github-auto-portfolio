@@ -31140,3 +31140,4 @@
 2025-03-10 13:45:00 +0700 - feat(auth): remove feature #369
 2025-03-11 10:50:00 +0700 - chore(core): handle feature #324
 2025-03-11 15:46:00 +0700 - perf(core): remove feature #324
+2025-03-12 13:55:00 +0700 - test(config): optimize feature #293
