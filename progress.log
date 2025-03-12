@@ -12323,3 +12323,4 @@
 2025-03-08 15:5:00 +0700 - fix(db): add feature #342
 2025-03-10 11:35:00 +0700 - feat(api): optimize feature #324
 2025-03-11 12:52:00 +0700 - feat(db): update feature #498
+2025-03-12 12:51:00 +0700 - fix(config): handle feature #366
