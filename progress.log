@@ -41470,3 +41470,5 @@
 2025-03-10 9:39:00 +0700 - test(core): handle feature #137
 2025-03-11 9:11:00 +0700 - perf(ui): update feature #142
 2025-03-11 16:42:00 +0700 - perf(auth): update feature #142
+2025-03-12 13:45:00 +0700 - feat(db): remove feature #126
+2025-03-12 10:27:00 +0700 - perf(db): remove feature #126
