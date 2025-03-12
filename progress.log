@@ -7743,3 +7743,4 @@
 2025-03-10 12:6:00 +0700 - perf(db): remove feature #494
 2025-03-10 10:54:00 +0700 - fix(core): handle feature #494
 2025-03-11 15:37:00 +0700 - test(core): improve feature #408
+2025-03-12 12:14:00 +0700 - test(ui): update feature #256
