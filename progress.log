@@ -20810,3 +20810,4 @@
 2025-03-10 13:50:00 +0700 - test(ui): add feature #281
 2025-03-10 14:57:00 +0700 - fix(auth): update feature #281
 2025-03-11 13:4:00 +0700 - refactor(api): improve feature #297
+2025-03-12 15:51:00 +0700 - chore(core): handle feature #397
