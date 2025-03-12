@@ -3822,3 +3822,5 @@
 2025-03-10 12:49:00 +0700 - refactor(db): add feature #107
 2025-03-11 13:10:00 +0700 - feat(core): improve feature #350
 2025-03-11 15:17:00 +0700 - fix(ui): optimize feature #350
+2025-03-12 10:14:00 +0700 - fix(auth): optimize feature #157
+2025-03-12 15:14:00 +0700 - feat(config): improve feature #157
