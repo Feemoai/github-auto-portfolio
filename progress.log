@@ -29395,3 +29395,4 @@
 2025-03-10 9:58:00 +0700 - perf(ui): optimize feature #112
 2025-03-11 10:12:00 +0700 - chore(config): optimize feature #405
 2025-03-12 12:47:00 +0700 - docs(config): add feature #231
+2025-03-12 12:4:00 +0700 - feat(api): remove feature #231
