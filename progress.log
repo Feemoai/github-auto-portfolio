@@ -12773,3 +12773,4 @@
 2025-03-10 16:25:00 +0700 - refactor(core): optimize feature #236
 2025-03-10 14:35:00 +0700 - perf(core): improve feature #236
 2025-03-11 9:43:00 +0700 - refactor(auth): improve feature #401
+2025-03-12 9:14:00 +0700 - fix(core): improve feature #375
