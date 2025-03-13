@@ -4174,3 +4174,4 @@
 2025-03-11 9:10:00 +0700 - fix(core): handle feature #484
 2025-03-12 16:47:00 +0700 - fix(ui): update feature #414
 2025-03-12 14:18:00 +0700 - feat(config): update feature #414
+2025-03-13 16:0:00 +0700 - feat(db): handle feature #143
