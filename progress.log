@@ -1988,3 +1988,4 @@
 2025-03-11 9:6:00 +0700 - fix(config): remove feature #106
 2025-03-11 12:12:00 +0700 - fix(config): remove feature #106
 2025-03-12 13:23:00 +0700 - perf(api): add feature #488
+2025-03-13 13:51:00 +0700 - perf(ui): add feature #347
