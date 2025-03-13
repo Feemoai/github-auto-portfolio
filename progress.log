@@ -8555,3 +8555,4 @@
 2025-03-12 16:8:00 +0700 - perf(core): optimize feature #347
 2025-03-12 9:12:00 +0700 - test(ui): remove feature #347
 2025-03-13 9:35:00 +0700 - refactor(ui): optimize feature #453
+2025-03-13 12:2:00 +0700 - fix(core): improve feature #453
