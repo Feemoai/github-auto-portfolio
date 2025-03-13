@@ -57759,3 +57759,4 @@
 2025-03-12 15:37:00 +0700 - fix(db): add feature #291
 2025-03-12 14:8:00 +0700 - chore(core): handle feature #291
 2025-03-13 13:6:00 +0700 - perf(ui): add feature #328
+2025-03-13 10:22:00 +0700 - fix(auth): update feature #328
