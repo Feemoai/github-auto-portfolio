@@ -16935,3 +16935,5 @@
 2025-03-10 14:33:00 +0700 - refactor(ui): improve feature #259
 2025-03-11 9:38:00 +0700 - test(api): update feature #141
 2025-03-12 14:39:00 +0700 - test(ui): handle feature #386
+2025-03-13 13:38:00 +0700 - perf(ui): update feature #132
+2025-03-13 9:20:00 +0700 - refactor(config): add feature #132
