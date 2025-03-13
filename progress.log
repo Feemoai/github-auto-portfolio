@@ -21637,3 +21637,4 @@
 2025-03-11 16:13:00 +0700 - test(core): add feature #189
 2025-03-12 15:23:00 +0700 - docs(ui): remove feature #404
 2025-03-12 10:33:00 +0700 - perf(core): handle feature #404
+2025-03-13 9:32:00 +0700 - feat(api): optimize feature #469
