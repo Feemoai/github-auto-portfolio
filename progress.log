@@ -1876,3 +1876,4 @@
 2025-03-11 11:22:00 +0700 - feat(auth): remove feature #464
 2025-03-12 9:21:00 +0700 - chore(ui): optimize feature #185
 2025-03-12 14:18:00 +0700 - feat(ui): handle feature #185
+2025-03-13 9:2:00 +0700 - fix(api): handle feature #292
