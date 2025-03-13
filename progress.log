@@ -42510,3 +42510,4 @@
 2025-03-11 16:7:00 +0700 - chore(auth): optimize feature #375
 2025-03-12 9:54:00 +0700 - docs(core): optimize feature #345
 2025-03-12 9:49:00 +0700 - perf(auth): optimize feature #345
+2025-03-13 10:30:00 +0700 - perf(db): handle feature #278
