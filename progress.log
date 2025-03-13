@@ -61233,3 +61233,5 @@
 2025-03-11 12:22:00 +0700 - fix(core): add feature #316
 2025-03-12 10:54:00 +0700 - chore(ui): improve feature #151
 2025-03-12 11:7:00 +0700 - docs(config): handle feature #151
+2025-03-13 13:57:00 +0700 - fix(core): remove feature #141
+2025-03-13 14:31:00 +0700 - fix(db): optimize feature #141
