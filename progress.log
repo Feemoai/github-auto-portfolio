@@ -52504,3 +52504,4 @@
 2025-03-12 14:17:00 +0700 - feat(auth): update feature #301
 2025-03-12 15:13:00 +0700 - fix(db): update feature #301
 2025-03-13 12:43:00 +0700 - refactor(auth): remove feature #248
+2025-03-13 13:23:00 +0700 - perf(auth): optimize feature #248
