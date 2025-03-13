@@ -24765,3 +24765,4 @@
 2025-03-10 10:11:00 +0700 - fix(api): handle feature #252
 2025-03-11 12:57:00 +0700 - chore(config): remove feature #445
 2025-03-12 12:12:00 +0700 - docs(api): update feature #204
+2025-03-13 9:14:00 +0700 - feat(auth): remove feature #249
