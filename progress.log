@@ -12888,3 +12888,4 @@
 2025-03-11 11:32:00 +0700 - perf(config): handle feature #114
 2025-03-11 11:21:00 +0700 - feat(auth): remove feature #114
 2025-03-12 12:23:00 +0700 - test(api): update feature #355
+2025-03-13 10:11:00 +0700 - feat(ui): remove feature #118
