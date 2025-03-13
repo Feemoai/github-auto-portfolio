@@ -8323,3 +8323,4 @@
 2025-03-11 11:11:00 +0700 - refactor(core): handle feature #392
 2025-03-12 13:44:00 +0700 - perf(config): handle feature #215
 2025-03-12 14:30:00 +0700 - perf(config): handle feature #215
+2025-03-13 9:47:00 +0700 - refactor(ui): optimize feature #385
