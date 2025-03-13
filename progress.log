@@ -130,3 +130,5 @@
 2025-03-10 16:8:00 +0700 - chore(db): add feature #332
 2025-03-11 11:56:00 +0700 - feat(db): add feature #435
 2025-03-12 13:40:00 +0700 - perf(db): update feature #496
+2025-03-13 12:36:00 +0700 - docs(core): add feature #262
+2025-03-13 15:20:00 +0700 - test(core): optimize feature #262
