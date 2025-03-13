@@ -14955,3 +14955,4 @@
 2025-03-11 10:35:00 +0700 - fix(ui): update feature #406
 2025-03-11 16:14:00 +0700 - test(db): optimize feature #406
 2025-03-12 11:49:00 +0700 - test(config): update feature #467
+2025-03-13 13:20:00 +0700 - feat(core): add feature #477
