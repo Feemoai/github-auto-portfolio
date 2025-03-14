@@ -33008,3 +33008,4 @@
 2025-03-12 12:11:00 +0700 - feat(config): remove feature #274
 2025-03-13 14:45:00 +0700 - feat(db): optimize feature #203
 2025-03-14 16:30:00 +0700 - refactor(config): handle feature #370
+2025-03-14 15:27:00 +0700 - refactor(ui): optimize feature #370
