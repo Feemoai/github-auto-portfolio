@@ -3946,3 +3946,4 @@
 2025-03-12 16:36:00 +0700 - fix(auth): update feature #384
 2025-03-13 9:47:00 +0700 - docs(db): optimize feature #154
 2025-03-14 13:5:00 +0700 - chore(db): optimize feature #269
+2025-03-14 10:25:00 +0700 - perf(config): handle feature #269
