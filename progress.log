@@ -25467,3 +25467,4 @@
 2025-03-12 10:29:00 +0700 - feat(db): add feature #240
 2025-03-13 14:13:00 +0700 - fix(api): update feature #305
 2025-03-13 14:14:00 +0700 - test(ui): add feature #305
+2025-03-14 13:14:00 +0700 - chore(db): remove feature #403
