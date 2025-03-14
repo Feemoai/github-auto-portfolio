@@ -62982,3 +62982,4 @@
 2025-03-12 15:23:00 +0700 - docs(core): add feature #425
 2025-03-13 16:23:00 +0700 - chore(db): improve feature #133
 2025-03-13 13:39:00 +0700 - perf(auth): update feature #133
+2025-03-14 10:51:00 +0700 - fix(ui): improve feature #477
