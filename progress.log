@@ -37666,3 +37666,4 @@
 2025-03-12 14:15:00 +0700 - fix(config): improve feature #100
 2025-03-13 9:28:00 +0700 - fix(ui): remove feature #209
 2025-03-13 9:42:00 +0700 - perf(db): handle feature #209
+2025-03-14 10:54:00 +0700 - fix(core): optimize feature #336
