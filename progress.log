@@ -44148,3 +44148,4 @@
 2025-03-12 12:33:00 +0700 - fix(api): improve feature #399
 2025-03-13 9:56:00 +0700 - chore(core): remove feature #428
 2025-03-14 10:30:00 +0700 - chore(config): handle feature #360
+2025-03-14 14:30:00 +0700 - fix(ui): add feature #360
