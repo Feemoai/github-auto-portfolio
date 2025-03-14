@@ -30105,3 +30105,4 @@
 2025-03-11 9:29:00 +0700 - test(core): handle feature #260
 2025-03-12 15:57:00 +0700 - perf(config): update feature #306
 2025-03-13 9:13:00 +0700 - docs(auth): handle feature #265
+2025-03-14 11:16:00 +0700 - chore(api): optimize feature #449
