@@ -58929,3 +58929,5 @@
 2025-03-12 14:39:00 +0700 - test(db): optimize feature #149
 2025-03-13 12:36:00 +0700 - docs(ui): handle feature #445
 2025-03-13 15:8:00 +0700 - docs(api): add feature #445
+2025-03-14 10:45:00 +0700 - feat(core): remove feature #493
+2025-03-14 15:50:00 +0700 - docs(db): add feature #493
