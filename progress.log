@@ -62400,3 +62400,4 @@
 2025-03-12 13:47:00 +0700 - perf(ui): update feature #446
 2025-03-13 9:30:00 +0700 - chore(auth): optimize feature #247
 2025-03-13 16:44:00 +0700 - test(api): update feature #247
+2025-03-14 11:40:00 +0700 - fix(ui): handle feature #494
