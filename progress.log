@@ -8212,3 +8212,4 @@
 2025-03-12 12:12:00 +0700 - test(api): optimize feature #427
 2025-03-13 11:5:00 +0700 - perf(core): remove feature #368
 2025-03-13 14:58:00 +0700 - feat(db): optimize feature #368
+2025-03-14 16:2:00 +0700 - docs(config): remove feature #230
