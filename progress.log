@@ -1409,3 +1409,4 @@
 2025-03-12 10:32:00 +0700 - perf(db): handle feature #171
 2025-03-13 11:30:00 +0700 - docs(db): add feature #385
 2025-03-13 16:35:00 +0700 - chore(api): update feature #385
+2025-03-14 12:16:00 +0700 - feat(config): handle feature #122
