@@ -35127,3 +35127,4 @@
 2025-03-12 10:43:00 +0700 - feat(config): update feature #352
 2025-03-12 14:19:00 +0700 - fix(auth): handle feature #352
 2025-03-13 16:23:00 +0700 - chore(auth): improve feature #395
+2025-03-14 14:51:00 +0700 - feat(auth): optimize feature #223
