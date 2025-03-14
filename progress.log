@@ -17058,3 +17058,4 @@
 2025-03-13 10:48:00 +0700 - chore(auth): add feature #432
 2025-03-13 16:45:00 +0700 - test(db): update feature #432
 2025-03-14 14:45:00 +0700 - fix(auth): add feature #244
+2025-03-14 14:30:00 +0700 - docs(core): handle feature #244
