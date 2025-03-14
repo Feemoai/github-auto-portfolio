@@ -60892,3 +60892,4 @@
 2025-03-12 12:9:00 +0700 - perf(api): handle feature #143
 2025-03-12 16:58:00 +0700 - test(config): handle feature #143
 2025-03-13 11:15:00 +0700 - chore(api): update feature #287
+2025-03-14 12:9:00 +0700 - fix(config): handle feature #272
