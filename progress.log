@@ -4761,3 +4761,4 @@
 2025-03-11 11:32:00 +0700 - refactor(db): remove feature #494
 2025-03-12 15:17:00 +0700 - chore(core): handle feature #421
 2025-03-13 10:56:00 +0700 - chore(db): remove feature #285
+2025-03-14 11:26:00 +0700 - feat(db): optimize feature #291
