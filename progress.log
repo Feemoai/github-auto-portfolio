@@ -6827,3 +6827,4 @@
 2025-03-12 9:27:00 +0700 - docs(config): remove feature #373
 2025-03-13 9:1:00 +0700 - test(core): remove feature #251
 2025-03-14 14:23:00 +0700 - fix(config): update feature #439
+2025-03-14 12:36:00 +0700 - perf(api): remove feature #439
