@@ -65071,3 +65071,4 @@
 2025-03-12 13:38:00 +0700 - feat(auth): remove feature #220
 2025-03-13 11:59:00 +0700 - perf(db): remove feature #338
 2025-03-13 10:35:00 +0700 - chore(api): add feature #338
+2025-03-14 14:45:00 +0700 - docs(config): handle feature #346
