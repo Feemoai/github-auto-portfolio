@@ -829,3 +829,4 @@
 2025-03-12 10:16:00 +0700 - docs(core): remove feature #474
 2025-03-13 13:17:00 +0700 - chore(db): remove feature #229
 2025-03-13 13:36:00 +0700 - chore(ui): improve feature #229
+2025-03-14 12:26:00 +0700 - chore(auth): handle feature #468
