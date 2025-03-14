@@ -27574,3 +27574,4 @@
 2025-03-11 16:33:00 +0700 - perf(config): optimize feature #472
 2025-03-12 11:14:00 +0700 - fix(api): improve feature #329
 2025-03-13 13:14:00 +0700 - feat(api): remove feature #229
+2025-03-14 14:36:00 +0700 - test(core): remove feature #246
