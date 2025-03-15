@@ -1760,3 +1760,4 @@
 2025-03-13 15:30:00 +0700 - feat(core): remove feature #313
 2025-03-14 14:20:00 +0700 - docs(api): add feature #388
 2025-03-14 16:54:00 +0700 - perf(auth): improve feature #388
+2025-03-15 16:27:00 +0700 - perf(db): optimize feature #429
