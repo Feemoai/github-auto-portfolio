@@ -59631,3 +59631,4 @@
 2025-03-13 14:23:00 +0700 - chore(core): optimize feature #297
 2025-03-14 12:48:00 +0700 - refactor(auth): remove feature #168
 2025-03-14 13:45:00 +0700 - fix(db): improve feature #168
+2025-03-15 10:55:00 +0700 - test(core): remove feature #482
