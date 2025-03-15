@@ -12102,3 +12102,4 @@
 2025-03-13 12:1:00 +0700 - perf(config): remove feature #124
 2025-03-14 10:7:00 +0700 - fix(core): improve feature #366
 2025-03-15 11:57:00 +0700 - docs(core): remove feature #484
+2025-03-15 16:16:00 +0700 - perf(config): handle feature #484
