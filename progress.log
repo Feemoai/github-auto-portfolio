@@ -6247,3 +6247,4 @@
 2025-03-12 16:28:00 +0700 - feat(auth): remove feature #263
 2025-03-13 9:47:00 +0700 - docs(core): add feature #476
 2025-03-14 15:10:00 +0700 - test(auth): improve feature #229
+2025-03-15 9:28:00 +0700 - fix(api): update feature #379
