@@ -19520,3 +19520,5 @@
 2025-03-13 15:40:00 +0700 - perf(db): improve feature #486
 2025-03-14 10:40:00 +0700 - refactor(config): improve feature #320
 2025-03-14 14:49:00 +0700 - fix(auth): handle feature #320
+2025-03-15 9:32:00 +0700 - refactor(api): optimize feature #471
+2025-03-15 13:28:00 +0700 - docs(api): remove feature #471
