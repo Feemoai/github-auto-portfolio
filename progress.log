@@ -66103,3 +66103,4 @@
 2025-03-14 15:27:00 +0700 - fix(core): add feature #378
 2025-03-14 11:23:00 +0700 - fix(api): optimize feature #378
 2025-03-15 12:34:00 +0700 - test(core): optimize feature #369
+2025-03-15 13:58:00 +0700 - feat(ui): handle feature #369
