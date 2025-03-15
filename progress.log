@@ -45638,3 +45638,4 @@
 2025-03-13 14:36:00 +0700 - feat(core): optimize feature #175
 2025-03-13 11:53:00 +0700 - docs(api): remove feature #175
 2025-03-14 10:48:00 +0700 - fix(db): update feature #271
+2025-03-15 12:14:00 +0700 - test(auth): remove feature #411
