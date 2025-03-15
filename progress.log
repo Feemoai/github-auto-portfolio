@@ -38118,3 +38118,4 @@
 2025-03-13 13:57:00 +0700 - chore(core): handle feature #493
 2025-03-14 13:56:00 +0700 - test(api): optimize feature #258
 2025-03-15 15:48:00 +0700 - docs(core): optimize feature #201
+2025-03-15 11:14:00 +0700 - fix(ui): remove feature #201
