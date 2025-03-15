@@ -17407,3 +17407,5 @@
 2025-03-13 16:41:00 +0700 - docs(core): improve feature #463
 2025-03-14 12:57:00 +0700 - refactor(ui): optimize feature #229
 2025-03-14 15:30:00 +0700 - test(core): remove feature #229
+2025-03-15 15:34:00 +0700 - feat(core): optimize feature #179
+2025-03-15 15:43:00 +0700 - perf(config): remove feature #179
