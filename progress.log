@@ -20926,3 +20926,5 @@
 2025-03-12 15:23:00 +0700 - docs(config): add feature #427
 2025-03-13 16:36:00 +0700 - chore(db): handle feature #176
 2025-03-14 11:7:00 +0700 - feat(core): optimize feature #491
+2025-03-15 16:56:00 +0700 - fix(ui): remove feature #300
+2025-03-15 12:59:00 +0700 - docs(auth): handle feature #300
