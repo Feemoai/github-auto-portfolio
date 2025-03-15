@@ -31033,3 +31033,5 @@
 2025-03-13 10:28:00 +0700 - feat(core): update feature #223
 2025-03-13 9:50:00 +0700 - docs(ui): remove feature #223
 2025-03-14 14:41:00 +0700 - perf(core): add feature #218
+2025-03-15 16:29:00 +0700 - fix(core): handle feature #453
+2025-03-15 15:3:00 +0700 - docs(ui): optimize feature #453
