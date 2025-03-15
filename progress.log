@@ -14728,3 +14728,4 @@
 2025-03-13 9:1:00 +0700 - feat(core): improve feature #145
 2025-03-14 13:54:00 +0700 - test(core): handle feature #292
 2025-03-14 9:56:00 +0700 - docs(api): remove feature #292
+2025-03-15 12:41:00 +0700 - feat(config): optimize feature #270
