@@ -47049,3 +47049,5 @@
 2025-03-12 13:47:00 +0700 - docs(db): handle feature #445
 2025-03-13 11:55:00 +0700 - fix(api): update feature #117
 2025-03-14 10:16:00 +0700 - fix(auth): remove feature #434
+2025-03-15 12:4:00 +0700 - feat(core): optimize feature #248
+2025-03-15 14:47:00 +0700 - test(core): update feature #248
