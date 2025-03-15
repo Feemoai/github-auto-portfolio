@@ -15304,3 +15304,4 @@
 2025-03-13 14:19:00 +0700 - feat(db): remove feature #105
 2025-03-14 15:51:00 +0700 - fix(core): remove feature #125
 2025-03-14 15:46:00 +0700 - refactor(auth): remove feature #125
+2025-03-15 10:1:00 +0700 - test(ui): improve feature #442
