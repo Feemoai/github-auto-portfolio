@@ -4873,3 +4873,4 @@
 2025-03-13 11:25:00 +0700 - feat(config): optimize feature #435
 2025-03-14 10:18:00 +0700 - refactor(auth): remove feature #278
 2025-03-14 10:45:00 +0700 - perf(auth): improve feature #278
+2025-03-15 14:44:00 +0700 - docs(core): improve feature #368
