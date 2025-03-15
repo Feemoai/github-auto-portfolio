@@ -55246,3 +55246,4 @@
 2025-03-14 16:16:00 +0700 - perf(db): add feature #222
 2025-03-14 14:49:00 +0700 - docs(config): optimize feature #222
 2025-03-15 15:24:00 +0700 - perf(config): handle feature #410
+2025-03-15 15:21:00 +0700 - perf(core): remove feature #410
