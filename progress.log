@@ -23578,3 +23578,4 @@
 2025-03-13 14:6:00 +0700 - perf(ui): optimize feature #186
 2025-03-13 16:22:00 +0700 - perf(core): remove feature #186
 2025-03-14 9:18:00 +0700 - docs(api): add feature #478
+2025-03-15 14:31:00 +0700 - chore(db): optimize feature #185
