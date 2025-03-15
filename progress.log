@@ -1991,3 +1991,4 @@
 2025-03-13 13:51:00 +0700 - perf(ui): add feature #347
 2025-03-13 10:21:00 +0700 - test(core): optimize feature #347
 2025-03-14 11:29:00 +0700 - feat(api): optimize feature #374
+2025-03-15 15:22:00 +0700 - perf(auth): handle feature #497
