@@ -27575,3 +27575,4 @@
 2025-03-12 11:14:00 +0700 - fix(api): improve feature #329
 2025-03-13 13:14:00 +0700 - feat(api): remove feature #229
 2025-03-14 14:36:00 +0700 - test(core): remove feature #246
+2025-03-15 10:24:00 +0700 - docs(api): handle feature #228
