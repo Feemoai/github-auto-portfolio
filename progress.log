@@ -61010,3 +61010,4 @@
 2025-03-13 12:17:00 +0700 - test(core): improve feature #262
 2025-03-14 9:52:00 +0700 - chore(ui): update feature #303
 2025-03-14 13:59:00 +0700 - perf(config): optimize feature #303
+2025-03-15 15:12:00 +0700 - perf(api): update feature #487
