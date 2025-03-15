@@ -63093,3 +63093,4 @@
 2025-03-13 14:11:00 +0700 - perf(ui): handle feature #261
 2025-03-14 12:42:00 +0700 - test(db): add feature #343
 2025-03-14 9:26:00 +0700 - refactor(auth): handle feature #343
+2025-03-15 14:2:00 +0700 - refactor(api): remove feature #245
