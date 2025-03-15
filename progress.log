@@ -13466,3 +13466,4 @@
 2025-03-13 11:16:00 +0700 - perf(config): add feature #405
 2025-03-13 12:46:00 +0700 - docs(api): optimize feature #405
 2025-03-14 13:38:00 +0700 - chore(db): optimize feature #258
+2025-03-15 13:49:00 +0700 - fix(ui): handle feature #474
