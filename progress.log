@@ -23239,3 +23239,4 @@
 2025-03-12 16:17:00 +0700 - perf(core): optimize feature #436
 2025-03-13 9:31:00 +0700 - docs(db): optimize feature #279
 2025-03-14 12:35:00 +0700 - refactor(config): improve feature #414
+2025-03-15 16:35:00 +0700 - refactor(auth): remove feature #402
