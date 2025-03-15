@@ -37554,3 +37554,4 @@
 2025-03-13 10:51:00 +0700 - feat(ui): optimize feature #407
 2025-03-14 9:40:00 +0700 - feat(auth): remove feature #449
 2025-03-14 16:54:00 +0700 - fix(api): add feature #449
+2025-03-15 14:7:00 +0700 - fix(ui): handle feature #492
