@@ -1412,3 +1412,4 @@
 2025-03-14 12:16:00 +0700 - feat(config): handle feature #122
 2025-03-14 13:54:00 +0700 - feat(db): add feature #122
 2025-03-15 16:9:00 +0700 - docs(db): improve feature #294
+2025-03-15 10:30:00 +0700 - perf(ui): optimize feature #294
