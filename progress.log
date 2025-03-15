@@ -5893,3 +5893,4 @@
 2025-03-14 16:24:00 +0700 - refactor(ui): handle feature #101
 2025-03-14 14:32:00 +0700 - refactor(ui): handle feature #101
 2025-03-15 11:27:00 +0700 - fix(core): update feature #487
+2025-03-15 9:2:00 +0700 - perf(ui): handle feature #487
