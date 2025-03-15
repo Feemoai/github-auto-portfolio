@@ -49104,3 +49104,5 @@
 2025-03-13 10:1:00 +0700 - fix(api): remove feature #194
 2025-03-13 11:35:00 +0700 - docs(core): add feature #194
 2025-03-14 9:0:00 +0700 - perf(db): remove feature #310
+2025-03-15 11:12:00 +0700 - docs(core): add feature #279
+2025-03-15 12:1:00 +0700 - perf(config): improve feature #279
