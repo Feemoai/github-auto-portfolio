@@ -28489,3 +28489,4 @@
 2025-03-13 13:51:00 +0700 - feat(auth): add feature #379
 2025-03-14 14:45:00 +0700 - test(config): improve feature #441
 2025-03-14 11:17:00 +0700 - docs(db): optimize feature #441
+2025-03-15 13:47:00 +0700 - feat(config): handle feature #372
