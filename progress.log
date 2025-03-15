@@ -65654,3 +65654,4 @@
 2025-03-14 11:52:00 +0700 - test(core): improve feature #226
 2025-03-14 11:14:00 +0700 - perf(ui): optimize feature #226
 2025-03-15 15:4:00 +0700 - fix(ui): handle feature #325
+2025-03-15 12:58:00 +0700 - perf(config): update feature #325
