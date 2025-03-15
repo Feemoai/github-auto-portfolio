@@ -38690,3 +38690,4 @@
 2025-03-13 14:59:00 +0700 - refactor(ui): remove feature #287
 2025-03-13 14:13:00 +0700 - fix(db): remove feature #287
 2025-03-14 9:32:00 +0700 - test(config): improve feature #445
+2025-03-15 12:51:00 +0700 - fix(core): add feature #137
