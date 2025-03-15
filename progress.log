@@ -27343,3 +27343,4 @@
 2025-03-14 16:2:00 +0700 - fix(db): add feature #316
 2025-03-14 14:56:00 +0700 - chore(core): update feature #316
 2025-03-15 14:33:00 +0700 - fix(ui): add feature #377
+2025-03-15 15:12:00 +0700 - docs(auth): handle feature #377
