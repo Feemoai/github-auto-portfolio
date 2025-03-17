@@ -135,3 +135,4 @@
 2025-03-14 11:15:00 +0700 - refactor(db): improve feature #181
 2025-03-14 9:24:00 +0700 - fix(api): remove feature #181
 2025-03-15 15:54:00 +0700 - perf(db): optimize feature #331
+2025-03-17 9:30:00 +0700 - perf(core): update feature #361
