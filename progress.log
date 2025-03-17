@@ -40054,3 +40054,4 @@
 2025-03-13 14:36:00 +0700 - perf(ui): add feature #213
 2025-03-14 15:43:00 +0700 - chore(auth): remove feature #260
 2025-03-15 11:25:00 +0700 - docs(core): handle feature #301
+2025-03-17 15:22:00 +0700 - fix(auth): handle feature #291
