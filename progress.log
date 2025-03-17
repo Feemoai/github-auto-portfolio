@@ -62985,3 +62985,4 @@
 2025-03-14 10:51:00 +0700 - fix(ui): improve feature #477
 2025-03-15 12:30:00 +0700 - fix(ui): remove feature #228
 2025-03-15 11:56:00 +0700 - docs(api): handle feature #228
+2025-03-17 11:46:00 +0700 - test(ui): handle feature #400
