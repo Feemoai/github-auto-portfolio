@@ -3046,3 +3046,4 @@
 2025-03-14 10:0:00 +0700 - test(ui): handle feature #212
 2025-03-14 16:11:00 +0700 - perf(core): update feature #212
 2025-03-15 10:0:00 +0700 - perf(core): optimize feature #371
+2025-03-17 13:14:00 +0700 - chore(db): optimize feature #484
