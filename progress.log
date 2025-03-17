@@ -44489,3 +44489,4 @@
 2025-03-14 15:18:00 +0700 - refactor(api): remove feature #237
 2025-03-15 15:15:00 +0700 - perf(db): add feature #100
 2025-03-15 13:14:00 +0700 - fix(auth): remove feature #100
+2025-03-17 12:17:00 +0700 - docs(auth): update feature #287
