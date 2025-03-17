@@ -47848,3 +47848,4 @@
 2025-03-13 14:48:00 +0700 - docs(db): handle feature #407
 2025-03-14 11:35:00 +0700 - perf(ui): optimize feature #284
 2025-03-15 12:52:00 +0700 - perf(core): add feature #429
+2025-03-17 9:20:00 +0700 - feat(api): optimize feature #471
