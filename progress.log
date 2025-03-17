@@ -14494,3 +14494,4 @@
 2025-03-14 15:56:00 +0700 - test(ui): handle feature #277
 2025-03-15 9:22:00 +0700 - docs(api): update feature #181
 2025-03-15 12:48:00 +0700 - test(auth): improve feature #181
+2025-03-17 14:24:00 +0700 - fix(db): add feature #406
