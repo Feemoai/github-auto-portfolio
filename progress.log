@@ -20709,3 +20709,4 @@
 2025-03-13 9:33:00 +0700 - feat(ui): update feature #261
 2025-03-14 16:22:00 +0700 - test(config): update feature #124
 2025-03-15 15:56:00 +0700 - fix(core): handle feature #261
+2025-03-17 16:10:00 +0700 - chore(db): add feature #478
