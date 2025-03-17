@@ -45640,3 +45640,5 @@
 2025-03-14 10:48:00 +0700 - fix(db): update feature #271
 2025-03-15 12:14:00 +0700 - test(auth): remove feature #411
 2025-03-15 11:23:00 +0700 - feat(auth): improve feature #411
+2025-03-17 15:20:00 +0700 - fix(db): optimize feature #207
+2025-03-17 14:15:00 +0700 - chore(api): optimize feature #207
