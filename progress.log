@@ -29628,3 +29628,4 @@
 2025-03-13 9:40:00 +0700 - fix(auth): update feature #387
 2025-03-14 13:36:00 +0700 - fix(config): handle feature #144
 2025-03-15 15:33:00 +0700 - test(auth): handle feature #188
+2025-03-17 10:11:00 +0700 - feat(config): remove feature #289
