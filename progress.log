@@ -6250,3 +6250,4 @@
 2025-03-15 9:28:00 +0700 - fix(api): update feature #379
 2025-03-15 14:3:00 +0700 - feat(config): handle feature #379
 2025-03-17 11:41:00 +0700 - test(db): update feature #247
+2025-03-17 9:34:00 +0700 - test(core): improve feature #247
