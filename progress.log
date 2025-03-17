@@ -47275,3 +47275,4 @@
 2025-03-13 12:15:00 +0700 - docs(core): optimize feature #389
 2025-03-14 12:27:00 +0700 - feat(api): remove feature #403
 2025-03-15 12:15:00 +0700 - docs(config): improve feature #260
+2025-03-17 12:57:00 +0700 - fix(core): handle feature #416
