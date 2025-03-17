@@ -47393,3 +47393,4 @@
 2025-03-14 11:37:00 +0700 - feat(core): add feature #320
 2025-03-14 9:7:00 +0700 - perf(config): add feature #320
 2025-03-15 15:4:00 +0700 - fix(db): optimize feature #443
+2025-03-17 11:32:00 +0700 - fix(core): remove feature #308
