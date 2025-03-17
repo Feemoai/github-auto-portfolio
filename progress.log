@@ -54901,3 +54901,4 @@
 2025-03-14 12:52:00 +0700 - perf(ui): improve feature #409
 2025-03-15 12:30:00 +0700 - refactor(core): remove feature #233
 2025-03-15 14:51:00 +0700 - docs(auth): handle feature #233
+2025-03-17 11:18:00 +0700 - feat(auth): remove feature #334
