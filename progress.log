@@ -46589,3 +46589,4 @@
 2025-03-14 10:38:00 +0700 - feat(db): improve feature #491
 2025-03-15 14:7:00 +0700 - feat(db): remove feature #380
 2025-03-15 13:30:00 +0700 - feat(core): optimize feature #380
+2025-03-17 9:34:00 +0700 - chore(auth): remove feature #269
