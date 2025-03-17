@@ -31824,3 +31824,4 @@
 2025-03-14 15:26:00 +0700 - test(db): add feature #306
 2025-03-14 9:55:00 +0700 - feat(core): update feature #306
 2025-03-15 12:17:00 +0700 - refactor(config): remove feature #281
+2025-03-17 10:56:00 +0700 - feat(core): optimize feature #266
