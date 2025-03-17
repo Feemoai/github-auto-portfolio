@@ -36738,3 +36738,5 @@
 2025-03-14 14:35:00 +0700 - chore(config): add feature #180
 2025-03-15 13:38:00 +0700 - perf(core): handle feature #492
 2025-03-15 13:46:00 +0700 - fix(core): add feature #492
+2025-03-17 12:1:00 +0700 - docs(ui): remove feature #241
+2025-03-17 14:13:00 +0700 - test(db): improve feature #241
