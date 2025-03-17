@@ -16134,3 +16134,4 @@
 2025-03-14 13:4:00 +0700 - chore(db): handle feature #449
 2025-03-14 12:41:00 +0700 - docs(api): remove feature #449
 2025-03-15 11:10:00 +0700 - perf(config): handle feature #371
+2025-03-17 10:42:00 +0700 - fix(ui): handle feature #194
