@@ -16374,3 +16374,4 @@
 2025-03-14 13:49:00 +0700 - perf(api): handle feature #219
 2025-03-14 13:54:00 +0700 - refactor(auth): remove feature #219
 2025-03-15 14:19:00 +0700 - docs(core): optimize feature #200
+2025-03-17 16:18:00 +0700 - refactor(auth): optimize feature #329
