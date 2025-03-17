@@ -42868,3 +42868,4 @@
 2025-03-14 16:6:00 +0700 - feat(ui): remove feature #287
 2025-03-14 15:25:00 +0700 - perf(db): add feature #287
 2025-03-15 13:46:00 +0700 - test(ui): add feature #421
+2025-03-17 13:51:00 +0700 - refactor(config): handle feature #326
