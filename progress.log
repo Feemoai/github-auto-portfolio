@@ -12555,3 +12555,5 @@
 2025-03-13 11:20:00 +0700 - perf(core): remove feature #386
 2025-03-14 15:27:00 +0700 - test(api): add feature #216
 2025-03-15 10:48:00 +0700 - fix(auth): handle feature #214
+2025-03-17 11:52:00 +0700 - test(ui): optimize feature #493
+2025-03-17 13:36:00 +0700 - docs(config): update feature #493
