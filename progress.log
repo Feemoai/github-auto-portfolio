@@ -12217,3 +12217,4 @@
 2025-03-14 11:8:00 +0700 - perf(api): add feature #286
 2025-03-15 13:41:00 +0700 - chore(ui): add feature #303
 2025-03-15 14:52:00 +0700 - fix(auth): handle feature #303
+2025-03-17 14:56:00 +0700 - docs(auth): improve feature #450
