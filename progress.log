@@ -44597,3 +44597,4 @@
 2025-03-14 9:59:00 +0700 - docs(api): handle feature #220
 2025-03-14 14:57:00 +0700 - test(auth): optimize feature #220
 2025-03-15 9:21:00 +0700 - test(api): handle feature #388
+2025-03-17 13:0:00 +0700 - feat(db): add feature #365
