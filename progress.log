@@ -50139,3 +50139,4 @@
 2025-03-14 10:20:00 +0700 - test(api): remove feature #224
 2025-03-15 12:7:00 +0700 - docs(api): remove feature #149
 2025-03-15 14:59:00 +0700 - perf(ui): improve feature #149
+2025-03-17 16:11:00 +0700 - perf(db): optimize feature #418
