@@ -64030,3 +64030,4 @@
 2025-03-14 15:47:00 +0700 - docs(config): update feature #467
 2025-03-15 10:53:00 +0700 - fix(core): optimize feature #329
 2025-03-17 12:39:00 +0700 - chore(api): handle feature #320
+2025-03-17 16:10:00 +0700 - perf(core): handle feature #320
