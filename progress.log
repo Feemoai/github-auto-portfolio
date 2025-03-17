@@ -13238,3 +13238,4 @@
 2025-03-14 16:27:00 +0700 - perf(ui): add feature #340
 2025-03-14 16:7:00 +0700 - docs(core): update feature #340
 2025-03-15 15:2:00 +0700 - feat(db): remove feature #161
+2025-03-17 13:54:00 +0700 - feat(auth): optimize feature #474
