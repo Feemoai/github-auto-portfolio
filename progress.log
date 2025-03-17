@@ -31382,3 +31382,5 @@
 2025-03-14 14:52:00 +0700 - perf(core): handle feature #144
 2025-03-14 16:24:00 +0700 - fix(config): remove feature #144
 2025-03-15 13:25:00 +0700 - perf(db): optimize feature #217
+2025-03-17 16:39:00 +0700 - test(api): handle feature #483
+2025-03-17 10:36:00 +0700 - test(auth): remove feature #483
