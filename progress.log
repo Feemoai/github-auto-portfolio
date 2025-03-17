@@ -20817,3 +20817,4 @@
 2025-03-14 14:9:00 +0700 - perf(db): optimize feature #460
 2025-03-15 16:10:00 +0700 - test(ui): add feature #468
 2025-03-17 9:37:00 +0700 - refactor(auth): update feature #142
+2025-03-17 13:34:00 +0700 - fix(api): optimize feature #142
