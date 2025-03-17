@@ -55483,3 +55483,4 @@
 2025-03-15 15:18:00 +0700 - fix(db): optimize feature #323
 2025-03-15 13:6:00 +0700 - perf(api): handle feature #323
 2025-03-17 10:3:00 +0700 - fix(auth): optimize feature #387
+2025-03-17 10:59:00 +0700 - perf(config): add feature #387
