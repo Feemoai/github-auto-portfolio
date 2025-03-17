@@ -4412,3 +4412,4 @@
 2025-03-14 11:19:00 +0700 - test(core): remove feature #134
 2025-03-15 11:3:00 +0700 - test(db): add feature #389
 2025-03-15 11:27:00 +0700 - docs(config): optimize feature #389
+2025-03-17 12:40:00 +0700 - feat(auth): update feature #189
