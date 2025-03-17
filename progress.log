@@ -56952,3 +56952,4 @@
 2025-03-14 16:28:00 +0700 - perf(db): optimize feature #344
 2025-03-14 11:55:00 +0700 - perf(ui): remove feature #344
 2025-03-15 10:5:00 +0700 - docs(core): improve feature #252
+2025-03-17 10:2:00 +0700 - chore(core): handle feature #131
