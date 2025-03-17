@@ -39827,3 +39827,5 @@
 2025-03-13 9:13:00 +0700 - fix(ui): optimize feature #379
 2025-03-14 15:51:00 +0700 - test(ui): handle feature #347
 2025-03-15 14:34:00 +0700 - docs(config): handle feature #299
+2025-03-17 13:2:00 +0700 - feat(api): improve feature #417
+2025-03-17 14:0:00 +0700 - fix(api): add feature #417
