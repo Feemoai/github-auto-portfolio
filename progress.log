@@ -60656,3 +60656,4 @@
 2025-03-14 11:1:00 +0700 - feat(ui): handle feature #199
 2025-03-14 12:21:00 +0700 - feat(auth): add feature #199
 2025-03-15 10:31:00 +0700 - perf(auth): update feature #455
+2025-03-17 11:58:00 +0700 - chore(core): handle feature #389
