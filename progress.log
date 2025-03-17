@@ -47159,3 +47159,4 @@
 2025-03-14 13:19:00 +0700 - refactor(core): handle feature #465
 2025-03-14 14:30:00 +0700 - docs(auth): improve feature #465
 2025-03-15 9:34:00 +0700 - chore(config): remove feature #448
+2025-03-17 16:20:00 +0700 - perf(ui): remove feature #373
