@@ -29517,3 +29517,4 @@
 2025-03-14 10:37:00 +0700 - refactor(db): update feature #379
 2025-03-14 15:49:00 +0700 - chore(config): optimize feature #379
 2025-03-15 15:5:00 +0700 - perf(config): add feature #174
+2025-03-17 10:56:00 +0700 - fix(ui): handle feature #429
