@@ -21045,3 +21045,4 @@
 2025-03-14 12:1:00 +0700 - chore(core): update feature #361
 2025-03-15 13:55:00 +0700 - chore(api): remove feature #224
 2025-03-15 13:22:00 +0700 - perf(ui): handle feature #224
+2025-03-17 13:48:00 +0700 - perf(ui): optimize feature #368
