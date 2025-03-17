@@ -45511,3 +45511,4 @@
 2025-03-14 14:21:00 +0700 - test(db): add feature #281
 2025-03-15 11:6:00 +0700 - feat(auth): remove feature #405
 2025-03-17 10:13:00 +0700 - test(config): optimize feature #402
+2025-03-17 14:8:00 +0700 - chore(auth): optimize feature #402
