@@ -41828,3 +41828,4 @@
 2025-03-14 14:58:00 +0700 - docs(api): remove feature #117
 2025-03-14 14:17:00 +0700 - test(core): improve feature #117
 2025-03-15 11:54:00 +0700 - fix(core): improve feature #459
+2025-03-17 12:46:00 +0700 - feat(auth): handle feature #348
