@@ -37779,3 +37779,4 @@
 2025-03-15 13:44:00 +0700 - feat(db): handle feature #124
 2025-03-17 13:11:00 +0700 - feat(api): optimize feature #275
 2025-03-17 12:16:00 +0700 - feat(auth): remove feature #275
+2025-03-18 13:36:00 +0700 - perf(core): update feature #499
