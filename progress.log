@@ -57878,3 +57878,4 @@
 2025-03-15 10:45:00 +0700 - fix(core): optimize feature #296
 2025-03-17 12:51:00 +0700 - docs(config): improve feature #202
 2025-03-17 10:38:00 +0700 - feat(api): optimize feature #202
+2025-03-18 10:35:00 +0700 - perf(auth): handle feature #409
