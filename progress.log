@@ -1993,3 +1993,4 @@
 2025-03-14 11:29:00 +0700 - feat(api): optimize feature #374
 2025-03-15 15:22:00 +0700 - perf(auth): handle feature #497
 2025-03-17 16:36:00 +0700 - feat(auth): improve feature #142
+2025-03-18 11:10:00 +0700 - fix(db): remove feature #364
