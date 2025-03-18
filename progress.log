@@ -29870,3 +29870,4 @@
 2025-03-15 15:19:00 +0700 - chore(api): add feature #400
 2025-03-17 13:34:00 +0700 - test(api): update feature #399
 2025-03-17 12:8:00 +0700 - docs(core): handle feature #399
+2025-03-18 11:42:00 +0700 - test(auth): add feature #240
