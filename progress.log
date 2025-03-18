@@ -49686,3 +49686,5 @@
 2025-03-15 9:8:00 +0700 - fix(core): update feature #225
 2025-03-17 15:55:00 +0700 - perf(config): improve feature #378
 2025-03-17 10:39:00 +0700 - perf(ui): add feature #378
+2025-03-18 11:53:00 +0700 - fix(ui): remove feature #388
+2025-03-18 14:32:00 +0700 - chore(db): handle feature #388
