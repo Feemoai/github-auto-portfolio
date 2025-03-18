@@ -12893,3 +12893,4 @@
 2025-03-14 10:23:00 +0700 - fix(config): improve feature #132
 2025-03-15 9:30:00 +0700 - chore(db): remove feature #269
 2025-03-17 14:8:00 +0700 - chore(config): improve feature #141
+2025-03-18 13:0:00 +0700 - test(config): handle feature #254
