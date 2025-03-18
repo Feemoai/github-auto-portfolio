@@ -12778,3 +12778,4 @@
 2025-03-14 9:11:00 +0700 - feat(db): remove feature #441
 2025-03-15 9:35:00 +0700 - refactor(config): optimize feature #262
 2025-03-17 13:10:00 +0700 - perf(ui): optimize feature #253
+2025-03-18 15:53:00 +0700 - perf(core): remove feature #271
