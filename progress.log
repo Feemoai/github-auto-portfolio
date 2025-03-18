@@ -19171,3 +19171,4 @@
 2025-03-15 11:20:00 +0700 - perf(core): add feature #339
 2025-03-17 14:52:00 +0700 - fix(auth): handle feature #352
 2025-03-17 14:41:00 +0700 - perf(db): handle feature #352
+2025-03-18 13:47:00 +0700 - feat(core): improve feature #332
