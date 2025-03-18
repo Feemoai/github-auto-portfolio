@@ -21046,3 +21046,5 @@
 2025-03-15 13:55:00 +0700 - chore(api): remove feature #224
 2025-03-15 13:22:00 +0700 - perf(ui): handle feature #224
 2025-03-17 13:48:00 +0700 - perf(ui): optimize feature #368
+2025-03-18 16:55:00 +0700 - refactor(auth): remove feature #369
+2025-03-18 15:42:00 +0700 - feat(config): handle feature #369
