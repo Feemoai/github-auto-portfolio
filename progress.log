@@ -38121,3 +38121,5 @@
 2025-03-15 11:14:00 +0700 - fix(ui): remove feature #201
 2025-03-17 10:17:00 +0700 - docs(auth): handle feature #430
 2025-03-17 13:45:00 +0700 - refactor(db): improve feature #430
+2025-03-18 10:2:00 +0700 - chore(core): remove feature #371
+2025-03-18 13:51:00 +0700 - feat(ui): handle feature #371
