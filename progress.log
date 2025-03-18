@@ -7983,3 +7983,4 @@
 2025-03-15 9:3:00 +0700 - fix(api): improve feature #281
 2025-03-17 12:18:00 +0700 - fix(ui): optimize feature #190
 2025-03-17 15:12:00 +0700 - refactor(db): update feature #190
+2025-03-18 12:20:00 +0700 - docs(auth): add feature #392
