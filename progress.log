@@ -64264,3 +64264,5 @@
 2025-03-15 15:0:00 +0700 - test(core): remove feature #343
 2025-03-15 13:59:00 +0700 - perf(core): add feature #343
 2025-03-17 14:16:00 +0700 - fix(api): optimize feature #386
+2025-03-18 16:34:00 +0700 - perf(auth): update feature #428
+2025-03-18 10:15:00 +0700 - perf(core): add feature #428
