@@ -17760,3 +17760,4 @@
 2025-03-15 10:2:00 +0700 - chore(db): optimize feature #396
 2025-03-17 15:6:00 +0700 - feat(db): remove feature #408
 2025-03-17 11:38:00 +0700 - test(auth): handle feature #408
+2025-03-18 9:15:00 +0700 - fix(config): handle feature #210
