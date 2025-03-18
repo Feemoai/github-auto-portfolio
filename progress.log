@@ -10165,3 +10165,4 @@
 2025-03-14 14:24:00 +0700 - docs(ui): improve feature #313
 2025-03-15 11:57:00 +0700 - fix(core): remove feature #436
 2025-03-17 9:48:00 +0700 - docs(core): remove feature #146
+2025-03-18 14:16:00 +0700 - test(auth): remove feature #277
