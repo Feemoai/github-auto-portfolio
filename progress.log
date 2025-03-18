@@ -40770,3 +40770,4 @@
 2025-03-15 11:9:00 +0700 - docs(auth): handle feature #164
 2025-03-17 16:47:00 +0700 - perf(auth): optimize feature #458
 2025-03-17 15:34:00 +0700 - docs(auth): handle feature #458
+2025-03-18 12:11:00 +0700 - fix(ui): handle feature #295
