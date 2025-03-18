@@ -951,3 +951,5 @@
 2025-03-14 14:33:00 +0700 - perf(core): update feature #385
 2025-03-15 14:43:00 +0700 - docs(db): improve feature #313
 2025-03-17 9:40:00 +0700 - test(ui): update feature #176
+2025-03-18 15:21:00 +0700 - feat(core): remove feature #414
+2025-03-18 9:2:00 +0700 - fix(auth): optimize feature #414
