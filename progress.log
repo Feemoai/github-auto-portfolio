@@ -10380,3 +10380,5 @@
 2025-03-14 16:21:00 +0700 - refactor(db): remove feature #227
 2025-03-15 16:18:00 +0700 - refactor(ui): add feature #296
 2025-03-17 15:17:00 +0700 - docs(core): improve feature #401
+2025-03-18 13:12:00 +0700 - docs(config): add feature #272
+2025-03-18 11:27:00 +0700 - chore(config): improve feature #272
