@@ -65767,3 +65767,4 @@
 2025-03-15 14:49:00 +0700 - test(db): optimize feature #150
 2025-03-17 9:24:00 +0700 - test(db): optimize feature #394
 2025-03-17 12:21:00 +0700 - fix(config): update feature #394
+2025-03-18 10:16:00 +0700 - perf(core): remove feature #331
