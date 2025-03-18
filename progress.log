@@ -4651,3 +4651,5 @@
 2025-03-14 10:26:00 +0700 - chore(core): update feature #361
 2025-03-15 15:54:00 +0700 - docs(ui): update feature #426
 2025-03-17 16:54:00 +0700 - refactor(config): handle feature #408
+2025-03-18 10:25:00 +0700 - docs(auth): improve feature #372
+2025-03-18 12:41:00 +0700 - fix(api): optimize feature #372
