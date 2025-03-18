@@ -1882,3 +1882,5 @@
 2025-03-15 12:52:00 +0700 - feat(ui): handle feature #288
 2025-03-17 14:9:00 +0700 - feat(config): handle feature #347
 2025-03-17 10:4:00 +0700 - fix(auth): improve feature #347
+2025-03-18 16:19:00 +0700 - perf(db): improve feature #321
+2025-03-18 10:44:00 +0700 - test(api): add feature #321
