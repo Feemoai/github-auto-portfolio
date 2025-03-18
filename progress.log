@@ -38916,3 +38916,5 @@
 2025-03-14 13:35:00 +0700 - test(core): add feature #470
 2025-03-15 15:18:00 +0700 - docs(core): remove feature #344
 2025-03-17 10:12:00 +0700 - feat(db): remove feature #298
+2025-03-18 11:13:00 +0700 - refactor(config): improve feature #360
+2025-03-18 12:5:00 +0700 - test(config): update feature #360
