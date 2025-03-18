@@ -40057,3 +40057,4 @@
 2025-03-17 15:22:00 +0700 - fix(auth): handle feature #291
 2025-03-17 10:7:00 +0700 - feat(api): add feature #291
 2025-03-18 12:37:00 +0700 - test(db): handle feature #313
+2025-03-18 10:45:00 +0700 - fix(core): update feature #313
