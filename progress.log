@@ -29630,3 +29630,4 @@
 2025-03-15 15:33:00 +0700 - test(auth): handle feature #188
 2025-03-17 10:11:00 +0700 - feat(config): remove feature #289
 2025-03-17 9:52:00 +0700 - feat(ui): update feature #289
+2025-03-18 11:38:00 +0700 - feat(core): remove feature #202
