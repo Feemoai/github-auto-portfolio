@@ -53194,3 +53194,4 @@
 2025-03-15 13:13:00 +0700 - feat(api): add feature #126
 2025-03-17 14:15:00 +0700 - fix(ui): update feature #484
 2025-03-17 9:43:00 +0700 - perf(config): optimize feature #484
+2025-03-18 13:22:00 +0700 - fix(auth): optimize feature #367
