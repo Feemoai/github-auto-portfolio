@@ -16492,3 +16492,4 @@
 2025-03-15 12:10:00 +0700 - feat(core): update feature #160
 2025-03-15 13:45:00 +0700 - fix(auth): handle feature #160
 2025-03-17 10:42:00 +0700 - test(core): update feature #337
+2025-03-18 14:31:00 +0700 - perf(core): add feature #412
