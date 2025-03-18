@@ -28830,3 +28830,5 @@
 2025-03-15 12:6:00 +0700 - docs(core): handle feature #373
 2025-03-17 10:6:00 +0700 - chore(core): optimize feature #348
 2025-03-17 11:52:00 +0700 - feat(config): optimize feature #348
+2025-03-18 10:46:00 +0700 - perf(ui): remove feature #121
+2025-03-18 16:1:00 +0700 - perf(core): improve feature #121
