@@ -41124,3 +41124,5 @@
 2025-03-15 14:19:00 +0700 - docs(api): optimize feature #199
 2025-03-17 11:4:00 +0700 - test(api): add feature #407
 2025-03-17 10:15:00 +0700 - perf(auth): remove feature #407
+2025-03-18 10:19:00 +0700 - chore(db): optimize feature #362
+2025-03-18 13:1:00 +0700 - test(config): add feature #362
