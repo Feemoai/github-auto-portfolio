@@ -14385,3 +14385,4 @@
 2025-03-15 10:6:00 +0700 - docs(core): add feature #326
 2025-03-15 14:14:00 +0700 - test(ui): handle feature #326
 2025-03-17 12:46:00 +0700 - feat(core): add feature #414
+2025-03-18 9:41:00 +0700 - fix(config): handle feature #248
