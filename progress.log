@@ -2113,3 +2113,5 @@
 2025-03-15 15:19:00 +0700 - perf(db): handle feature #132
 2025-03-17 9:49:00 +0700 - feat(core): add feature #190
 2025-03-17 14:37:00 +0700 - perf(ui): handle feature #190
+2025-03-18 11:46:00 +0700 - refactor(db): add feature #255
+2025-03-18 11:4:00 +0700 - feat(api): remove feature #255
