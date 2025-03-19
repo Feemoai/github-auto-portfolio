@@ -21528,3 +21528,4 @@
 2025-03-17 15:23:00 +0700 - docs(config): update feature #347
 2025-03-18 16:45:00 +0700 - fix(api): handle feature #143
 2025-03-18 10:10:00 +0700 - refactor(auth): update feature #143
+2025-03-19 16:13:00 +0700 - chore(auth): optimize feature #161
