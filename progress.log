@@ -42176,3 +42176,4 @@
 2025-03-17 14:23:00 +0700 - test(auth): improve feature #377
 2025-03-17 16:58:00 +0700 - chore(auth): add feature #377
 2025-03-18 9:27:00 +0700 - refactor(auth): handle feature #228
+2025-03-19 13:13:00 +0700 - fix(core): handle feature #407
