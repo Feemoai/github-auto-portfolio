@@ -1183,3 +1183,5 @@
 2025-03-17 13:23:00 +0700 - perf(db): update feature #200
 2025-03-17 12:18:00 +0700 - docs(auth): add feature #200
 2025-03-18 9:31:00 +0700 - docs(api): remove feature #324
+2025-03-19 13:30:00 +0700 - fix(db): optimize feature #339
+2025-03-19 15:52:00 +0700 - docs(api): optimize feature #339
