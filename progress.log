@@ -37097,3 +37097,4 @@
 2025-03-17 9:26:00 +0700 - refactor(core): optimize feature #483
 2025-03-18 10:39:00 +0700 - refactor(ui): add feature #403
 2025-03-19 11:48:00 +0700 - feat(ui): add feature #319
+2025-03-19 11:22:00 +0700 - refactor(db): handle feature #319
