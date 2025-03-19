@@ -46826,3 +46826,4 @@
 2025-03-17 10:0:00 +0700 - fix(db): add feature #268
 2025-03-18 15:14:00 +0700 - test(db): update feature #272
 2025-03-19 16:36:00 +0700 - docs(auth): add feature #106
+2025-03-19 9:36:00 +0700 - perf(core): remove feature #106
