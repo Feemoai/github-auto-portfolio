@@ -23243,3 +23243,4 @@
 2025-03-15 14:41:00 +0700 - chore(auth): update feature #402
 2025-03-17 9:52:00 +0700 - docs(db): optimize feature #351
 2025-03-18 12:3:00 +0700 - fix(api): update feature #496
+2025-03-19 16:22:00 +0700 - fix(api): handle feature #100
