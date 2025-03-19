@@ -47627,3 +47627,5 @@
 2025-03-15 12:41:00 +0700 - perf(auth): update feature #435
 2025-03-17 9:33:00 +0700 - perf(config): update feature #442
 2025-03-18 11:45:00 +0700 - test(core): update feature #463
+2025-03-19 13:23:00 +0700 - refactor(core): improve feature #343
+2025-03-19 9:9:00 +0700 - refactor(auth): optimize feature #343
