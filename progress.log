@@ -1069,3 +1069,4 @@
 2025-03-17 15:57:00 +0700 - docs(config): improve feature #458
 2025-03-18 12:9:00 +0700 - chore(api): add feature #357
 2025-03-18 14:52:00 +0700 - perf(ui): add feature #357
+2025-03-19 10:49:00 +0700 - fix(auth): add feature #186
