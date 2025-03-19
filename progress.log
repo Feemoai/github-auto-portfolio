@@ -366,3 +366,4 @@
 2025-03-17 12:24:00 +0700 - feat(config): handle feature #361
 2025-03-18 11:21:00 +0700 - test(api): improve feature #193
 2025-03-18 11:30:00 +0700 - fix(auth): remove feature #193
+2025-03-19 13:18:00 +0700 - fix(auth): improve feature #191
