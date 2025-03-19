@@ -19876,3 +19876,5 @@
 2025-03-17 15:51:00 +0700 - chore(config): optimize feature #132
 2025-03-18 12:23:00 +0700 - chore(auth): improve feature #303
 2025-03-18 13:10:00 +0700 - fix(config): optimize feature #303
+2025-03-19 12:30:00 +0700 - feat(auth): optimize feature #354
+2025-03-19 11:48:00 +0700 - fix(config): handle feature #354
