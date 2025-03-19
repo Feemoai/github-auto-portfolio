@@ -10843,3 +10843,4 @@
 2025-03-17 16:29:00 +0700 - test(config): add feature #112
 2025-03-18 9:59:00 +0700 - perf(auth): remove feature #295
 2025-03-18 9:6:00 +0700 - fix(core): optimize feature #295
+2025-03-19 11:20:00 +0700 - feat(ui): remove feature #368
