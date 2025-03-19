@@ -4878,3 +4878,5 @@
 2025-03-17 11:38:00 +0700 - docs(auth): remove feature #301
 2025-03-18 15:38:00 +0700 - fix(config): add feature #301
 2025-03-18 11:28:00 +0700 - docs(auth): optimize feature #301
+2025-03-19 12:13:00 +0700 - test(api): handle feature #194
+2025-03-19 15:50:00 +0700 - chore(api): add feature #194
