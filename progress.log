@@ -39617,3 +39617,5 @@
 2025-03-17 10:22:00 +0700 - refactor(db): handle feature #178
 2025-03-18 12:50:00 +0700 - test(core): add feature #442
 2025-03-18 9:2:00 +0700 - test(auth): improve feature #442
+2025-03-19 15:45:00 +0700 - docs(config): handle feature #440
+2025-03-19 11:19:00 +0700 - docs(core): optimize feature #440
