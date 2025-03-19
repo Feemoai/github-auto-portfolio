@@ -22216,3 +22216,4 @@
 2025-03-18 13:13:00 +0700 - test(ui): update feature #387
 2025-03-18 13:16:00 +0700 - chore(core): remove feature #387
 2025-03-19 14:16:00 +0700 - fix(core): handle feature #480
+2025-03-19 15:59:00 +0700 - fix(api): handle feature #480
