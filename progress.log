@@ -20124,3 +20124,4 @@
 2025-03-17 14:52:00 +0700 - feat(core): update feature #477
 2025-03-18 11:51:00 +0700 - fix(db): handle feature #194
 2025-03-19 9:23:00 +0700 - refactor(ui): remove feature #308
+2025-03-19 12:51:00 +0700 - refactor(core): optimize feature #308
