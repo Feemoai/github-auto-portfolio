@@ -20364,3 +20364,4 @@
 2025-03-17 15:36:00 +0700 - fix(api): update feature #493
 2025-03-17 10:3:00 +0700 - feat(core): improve feature #493
 2025-03-18 10:20:00 +0700 - feat(ui): remove feature #441
+2025-03-19 16:24:00 +0700 - fix(auth): optimize feature #475
