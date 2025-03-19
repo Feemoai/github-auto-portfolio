@@ -10723,3 +10723,4 @@
 2025-03-17 9:9:00 +0700 - chore(ui): optimize feature #364
 2025-03-18 11:27:00 +0700 - feat(config): improve feature #476
 2025-03-18 13:14:00 +0700 - perf(core): handle feature #476
+2025-03-19 9:38:00 +0700 - perf(config): add feature #213
