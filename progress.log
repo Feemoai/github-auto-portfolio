@@ -55717,3 +55717,4 @@
 2025-03-17 12:14:00 +0700 - docs(core): add feature #327
 2025-03-17 15:42:00 +0700 - chore(api): remove feature #327
 2025-03-18 14:0:00 +0700 - docs(ui): remove feature #365
+2025-03-19 16:52:00 +0700 - perf(core): handle feature #156
