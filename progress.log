@@ -57995,3 +57995,4 @@
 2025-03-17 11:15:00 +0700 - refactor(auth): update feature #231
 2025-03-18 16:8:00 +0700 - docs(config): handle feature #277
 2025-03-19 13:40:00 +0700 - docs(db): handle feature #379
+2025-03-19 11:36:00 +0700 - fix(auth): optimize feature #379
