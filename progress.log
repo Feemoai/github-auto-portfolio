@@ -67606,3 +67606,4 @@
 2025-03-17 16:58:00 +0700 - docs(config): optimize feature #327
 2025-03-18 11:37:00 +0700 - test(config): optimize feature #382
 2025-03-18 9:46:00 +0700 - fix(db): optimize feature #382
+2025-03-19 15:27:00 +0700 - fix(ui): update feature #291
