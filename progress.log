@@ -46484,3 +46484,4 @@
 2025-03-17 10:5:00 +0700 - test(config): handle feature #290
 2025-03-18 9:24:00 +0700 - test(api): update feature #393
 2025-03-19 12:8:00 +0700 - chore(core): handle feature #424
+2025-03-19 10:31:00 +0700 - fix(db): remove feature #424
