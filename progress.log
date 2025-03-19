@@ -47278,3 +47278,4 @@
 2025-03-17 12:57:00 +0700 - fix(core): handle feature #416
 2025-03-17 12:26:00 +0700 - test(db): remove feature #416
 2025-03-18 14:29:00 +0700 - test(auth): add feature #416
+2025-03-19 11:8:00 +0700 - feat(api): remove feature #380
