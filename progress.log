@@ -27465,3 +27465,5 @@
 2025-03-15 15:19:00 +0700 - docs(auth): add feature #222
 2025-03-17 16:39:00 +0700 - feat(ui): improve feature #470
 2025-03-18 12:30:00 +0700 - test(config): add feature #460
+2025-03-19 15:4:00 +0700 - chore(api): add feature #241
+2025-03-19 15:23:00 +0700 - fix(ui): handle feature #241
