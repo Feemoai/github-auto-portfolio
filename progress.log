@@ -22910,3 +22910,4 @@
 2025-03-17 15:47:00 +0700 - refactor(db): update feature #339
 2025-03-17 10:30:00 +0700 - fix(core): optimize feature #339
 2025-03-18 13:37:00 +0700 - feat(api): improve feature #243
+2025-03-19 14:59:00 +0700 - fix(core): remove feature #361
