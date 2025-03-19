@@ -13934,3 +13934,4 @@
 2025-03-17 13:46:00 +0700 - feat(ui): improve feature #478
 2025-03-18 9:44:00 +0700 - docs(api): handle feature #392
 2025-03-18 10:28:00 +0700 - refactor(api): improve feature #392
+2025-03-19 14:40:00 +0700 - fix(db): handle feature #263
