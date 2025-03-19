@@ -137,3 +137,5 @@
 2025-03-15 15:54:00 +0700 - perf(db): optimize feature #331
 2025-03-17 9:30:00 +0700 - perf(core): update feature #361
 2025-03-18 10:19:00 +0700 - feat(api): update feature #376
+2025-03-19 11:57:00 +0700 - feat(ui): remove feature #310
+2025-03-19 16:25:00 +0700 - chore(auth): optimize feature #310
