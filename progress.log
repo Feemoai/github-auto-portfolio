@@ -32179,3 +32179,4 @@
 2025-03-18 11:7:00 +0700 - perf(ui): remove feature #241
 2025-03-19 14:16:00 +0700 - perf(api): optimize feature #188
 2025-03-19 9:45:00 +0700 - docs(config): update feature #188
+2025-03-20 12:48:00 +0700 - fix(auth): remove feature #370
