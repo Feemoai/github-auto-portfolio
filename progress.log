@@ -34531,3 +34531,4 @@
 2025-03-18 12:34:00 +0700 - feat(ui): optimize feature #371
 2025-03-19 13:53:00 +0700 - feat(core): optimize feature #207
 2025-03-19 11:56:00 +0700 - perf(db): optimize feature #207
+2025-03-20 13:47:00 +0700 - test(config): handle feature #384
