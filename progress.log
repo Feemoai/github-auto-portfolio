@@ -3380,3 +3380,4 @@
 2025-03-18 15:52:00 +0700 - test(core): remove feature #166
 2025-03-19 14:40:00 +0700 - chore(config): handle feature #308
 2025-03-20 11:51:00 +0700 - test(core): remove feature #236
+2025-03-20 12:51:00 +0700 - refactor(config): improve feature #236
