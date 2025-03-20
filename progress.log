@@ -48300,3 +48300,4 @@
 2025-03-18 10:0:00 +0700 - fix(db): update feature #418
 2025-03-19 16:7:00 +0700 - chore(db): remove feature #363
 2025-03-19 16:27:00 +0700 - fix(ui): handle feature #363
+2025-03-20 15:37:00 +0700 - chore(api): add feature #494
