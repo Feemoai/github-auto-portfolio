@@ -34298,3 +34298,4 @@
 2025-03-18 12:10:00 +0700 - feat(core): handle feature #230
 2025-03-19 14:47:00 +0700 - test(config): update feature #369
 2025-03-19 9:50:00 +0700 - refactor(config): improve feature #369
+2025-03-20 10:19:00 +0700 - refactor(config): remove feature #416
