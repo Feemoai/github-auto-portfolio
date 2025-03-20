@@ -39264,3 +39264,5 @@
 2025-03-17 12:47:00 +0700 - docs(auth): improve feature #447
 2025-03-18 13:23:00 +0700 - fix(core): handle feature #454
 2025-03-19 14:58:00 +0700 - fix(ui): add feature #477
+2025-03-20 15:41:00 +0700 - perf(db): optimize feature #201
+2025-03-20 11:30:00 +0700 - perf(db): remove feature #201
