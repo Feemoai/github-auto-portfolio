@@ -26511,3 +26511,4 @@
 2025-03-19 9:24:00 +0700 - test(api): update feature #343
 2025-03-19 14:44:00 +0700 - perf(auth): remove feature #343
 2025-03-20 16:42:00 +0700 - feat(core): remove feature #421
+2025-03-20 14:4:00 +0700 - fix(config): optimize feature #421
