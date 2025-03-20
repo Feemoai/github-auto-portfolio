@@ -7516,3 +7516,4 @@
 2025-03-17 15:39:00 +0700 - docs(core): update feature #277
 2025-03-18 12:22:00 +0700 - chore(api): add feature #469
 2025-03-19 14:52:00 +0700 - fix(auth): optimize feature #485
+2025-03-20 16:56:00 +0700 - fix(ui): optimize feature #395
