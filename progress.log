@@ -9946,3 +9946,4 @@
 2025-03-18 9:38:00 +0700 - feat(db): remove feature #269
 2025-03-19 11:39:00 +0700 - feat(config): handle feature #295
 2025-03-20 15:47:00 +0700 - fix(api): improve feature #336
+2025-03-20 13:21:00 +0700 - docs(ui): optimize feature #336
