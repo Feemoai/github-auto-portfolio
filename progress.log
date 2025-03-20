@@ -64967,3 +64967,5 @@
 2025-03-18 15:54:00 +0700 - docs(ui): improve feature #108
 2025-03-18 12:2:00 +0700 - refactor(core): handle feature #108
 2025-03-19 12:59:00 +0700 - test(auth): remove feature #274
+2025-03-20 15:8:00 +0700 - docs(core): remove feature #307
+2025-03-20 9:1:00 +0700 - chore(api): handle feature #307
