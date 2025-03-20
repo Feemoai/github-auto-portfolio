@@ -9366,3 +9366,4 @@
 2025-03-18 15:40:00 +0700 - perf(auth): remove feature #347
 2025-03-19 15:47:00 +0700 - perf(ui): remove feature #435
 2025-03-20 12:52:00 +0700 - test(core): update feature #150
+2025-03-20 15:25:00 +0700 - fix(api): update feature #150
