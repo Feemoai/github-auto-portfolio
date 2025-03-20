@@ -7401,3 +7401,4 @@
 2025-03-18 13:39:00 +0700 - chore(ui): update feature #410
 2025-03-19 12:32:00 +0700 - refactor(db): remove feature #412
 2025-03-20 9:27:00 +0700 - chore(db): optimize feature #244
+2025-03-20 9:0:00 +0700 - docs(core): handle feature #244
