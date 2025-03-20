@@ -40537,3 +40537,4 @@
 2025-03-18 14:56:00 +0700 - test(config): update feature #257
 2025-03-19 15:3:00 +0700 - test(db): add feature #168
 2025-03-19 16:45:00 +0700 - perf(ui): add feature #168
+2025-03-20 9:7:00 +0700 - feat(auth): remove feature #348
