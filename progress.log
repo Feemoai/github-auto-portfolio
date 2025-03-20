@@ -29753,3 +29753,5 @@
 2025-03-18 14:49:00 +0700 - perf(api): optimize feature #492
 2025-03-19 15:29:00 +0700 - docs(api): handle feature #305
 2025-03-19 11:43:00 +0700 - test(core): remove feature #305
+2025-03-20 16:17:00 +0700 - perf(core): remove feature #312
+2025-03-20 12:47:00 +0700 - fix(auth): optimize feature #312
