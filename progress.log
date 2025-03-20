@@ -26632,3 +26632,4 @@
 2025-03-18 15:32:00 +0700 - docs(api): handle feature #244
 2025-03-18 12:43:00 +0700 - fix(api): update feature #244
 2025-03-19 13:11:00 +0700 - chore(db): handle feature #375
+2025-03-20 11:44:00 +0700 - perf(db): remove feature #147
