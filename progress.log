@@ -44727,3 +44727,4 @@
 2025-03-18 16:28:00 +0700 - feat(core): update feature #340
 2025-03-19 16:16:00 +0700 - fix(ui): handle feature #305
 2025-03-20 10:24:00 +0700 - feat(core): optimize feature #432
+2025-03-20 12:29:00 +0700 - fix(api): add feature #432
