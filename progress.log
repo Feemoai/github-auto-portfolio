@@ -62052,3 +62052,4 @@
 2025-03-18 11:7:00 +0700 - test(ui): add feature #257
 2025-03-19 9:49:00 +0700 - refactor(db): add feature #313
 2025-03-19 9:35:00 +0700 - refactor(core): handle feature #313
+2025-03-20 13:39:00 +0700 - perf(api): remove feature #369
