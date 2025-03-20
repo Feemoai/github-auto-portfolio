@@ -11065,3 +11065,4 @@
 2025-03-18 9:16:00 +0700 - feat(ui): handle feature #349
 2025-03-19 14:16:00 +0700 - test(config): add feature #338
 2025-03-19 12:27:00 +0700 - chore(api): add feature #338
+2025-03-20 10:2:00 +0700 - perf(config): remove feature #257
