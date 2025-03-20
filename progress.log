@@ -10954,3 +10954,5 @@
 2025-03-18 15:14:00 +0700 - fix(ui): handle feature #384
 2025-03-18 10:3:00 +0700 - test(auth): update feature #384
 2025-03-19 13:46:00 +0700 - feat(core): update feature #251
+2025-03-20 15:12:00 +0700 - docs(config): add feature #480
+2025-03-20 15:3:00 +0700 - chore(api): remove feature #480
