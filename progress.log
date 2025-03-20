@@ -30454,3 +30454,4 @@
 2025-03-18 12:53:00 +0700 - refactor(auth): add feature #284
 2025-03-18 11:6:00 +0700 - refactor(api): optimize feature #284
 2025-03-19 11:45:00 +0700 - docs(ui): handle feature #271
+2025-03-20 13:53:00 +0700 - fix(ui): handle feature #185
