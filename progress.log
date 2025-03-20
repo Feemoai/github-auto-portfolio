@@ -50145,3 +50145,4 @@
 2025-03-19 10:51:00 +0700 - perf(core): optimize feature #199
 2025-03-19 16:32:00 +0700 - fix(core): improve feature #199
 2025-03-20 15:31:00 +0700 - refactor(config): remove feature #242
+2025-03-20 9:43:00 +0700 - docs(auth): handle feature #242
