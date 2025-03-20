@@ -42178,3 +42178,4 @@
 2025-03-18 9:27:00 +0700 - refactor(auth): handle feature #228
 2025-03-19 13:13:00 +0700 - fix(core): handle feature #407
 2025-03-19 10:44:00 +0700 - refactor(auth): remove feature #407
+2025-03-20 15:42:00 +0700 - refactor(core): update feature #178
