@@ -2463,3 +2463,4 @@
 2025-03-17 15:30:00 +0700 - feat(api): handle feature #137
 2025-03-18 14:58:00 +0700 - feat(ui): update feature #328
 2025-03-19 14:14:00 +0700 - refactor(auth): update feature #262
+2025-03-20 15:23:00 +0700 - refactor(config): improve feature #215
