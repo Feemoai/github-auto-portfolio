@@ -60781,3 +60781,4 @@
 2025-03-18 14:7:00 +0700 - perf(core): update feature #300
 2025-03-19 14:49:00 +0700 - docs(ui): update feature #296
 2025-03-19 9:54:00 +0700 - feat(config): add feature #296
+2025-03-20 9:6:00 +0700 - chore(db): handle feature #385
