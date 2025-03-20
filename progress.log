@@ -59281,3 +59281,4 @@
 2025-03-18 9:3:00 +0700 - chore(config): add feature #480
 2025-03-19 9:22:00 +0700 - fix(core): update feature #163
 2025-03-19 16:47:00 +0700 - perf(core): update feature #163
+2025-03-20 11:57:00 +0700 - fix(config): handle feature #477
