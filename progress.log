@@ -48884,3 +48884,5 @@
 2025-03-18 14:51:00 +0700 - docs(db): handle feature #282
 2025-03-19 10:8:00 +0700 - test(auth): remove feature #251
 2025-03-19 16:41:00 +0700 - feat(auth): update feature #251
+2025-03-20 12:31:00 +0700 - perf(config): remove feature #234
+2025-03-20 15:37:00 +0700 - perf(ui): optimize feature #234
