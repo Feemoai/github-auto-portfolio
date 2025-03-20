@@ -1301,3 +1301,4 @@
 2025-03-18 13:7:00 +0700 - feat(config): handle feature #342
 2025-03-19 15:51:00 +0700 - chore(db): improve feature #491
 2025-03-19 11:52:00 +0700 - test(auth): improve feature #491
+2025-03-20 9:8:00 +0700 - feat(ui): optimize feature #465
