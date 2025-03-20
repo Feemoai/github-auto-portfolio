@@ -35585,3 +35585,4 @@
 2025-03-18 12:39:00 +0700 - docs(api): remove feature #182
 2025-03-19 9:53:00 +0700 - perf(ui): improve feature #429
 2025-03-19 14:17:00 +0700 - refactor(api): remove feature #429
+2025-03-20 16:26:00 +0700 - fix(api): handle feature #264
