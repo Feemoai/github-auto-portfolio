@@ -20486,3 +20486,5 @@
 2025-03-18 9:34:00 +0700 - perf(db): update feature #340
 2025-03-18 10:10:00 +0700 - refactor(auth): update feature #340
 2025-03-19 12:48:00 +0700 - refactor(core): add feature #366
+2025-03-20 15:54:00 +0700 - chore(core): add feature #222
+2025-03-20 15:20:00 +0700 - test(auth): handle feature #222
