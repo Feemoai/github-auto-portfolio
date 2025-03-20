@@ -2351,3 +2351,4 @@
 2025-03-17 13:45:00 +0700 - fix(ui): optimize feature #276
 2025-03-18 15:20:00 +0700 - feat(config): update feature #310
 2025-03-19 15:58:00 +0700 - fix(ui): add feature #236
+2025-03-20 10:11:00 +0700 - fix(auth): handle feature #478
