@@ -368,3 +368,4 @@
 2025-03-18 11:30:00 +0700 - fix(auth): remove feature #193
 2025-03-19 13:18:00 +0700 - fix(auth): improve feature #191
 2025-03-20 12:40:00 +0700 - feat(core): optimize feature #290
+2025-03-20 12:26:00 +0700 - test(auth): improve feature #290
