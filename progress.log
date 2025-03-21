@@ -18938,3 +18938,5 @@
 2025-03-19 13:4:00 +0700 - feat(auth): remove feature #314
 2025-03-20 13:0:00 +0700 - fix(config): handle feature #482
 2025-03-20 12:23:00 +0700 - chore(api): optimize feature #482
+2025-03-21 15:40:00 +0700 - docs(api): remove feature #314
+2025-03-21 15:1:00 +0700 - docs(ui): remove feature #314
