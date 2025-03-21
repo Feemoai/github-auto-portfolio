@@ -51498,3 +51498,4 @@
 2025-03-20 9:15:00 +0700 - perf(api): add feature #367
 2025-03-20 10:2:00 +0700 - test(ui): handle feature #367
 2025-03-21 11:18:00 +0700 - feat(auth): add feature #495
+2025-03-21 9:19:00 +0700 - chore(config): remove feature #495
