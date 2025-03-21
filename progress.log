@@ -9134,3 +9134,4 @@
 2025-03-19 12:50:00 +0700 - test(auth): remove feature #265
 2025-03-20 14:10:00 +0700 - perf(db): update feature #486
 2025-03-21 11:5:00 +0700 - fix(api): handle feature #124
+2025-03-21 13:3:00 +0700 - fix(auth): handle feature #124
