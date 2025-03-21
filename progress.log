@@ -1419,3 +1419,4 @@
 2025-03-19 16:14:00 +0700 - docs(core): remove feature #306
 2025-03-20 14:43:00 +0700 - feat(auth): remove feature #250
 2025-03-21 13:14:00 +0700 - fix(ui): handle feature #146
+2025-03-21 14:49:00 +0700 - feat(api): handle feature #146
