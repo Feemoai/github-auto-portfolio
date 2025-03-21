@@ -48766,3 +48766,4 @@
 2025-03-19 11:2:00 +0700 - test(core): add feature #402
 2025-03-20 15:3:00 +0700 - perf(api): optimize feature #371
 2025-03-20 15:28:00 +0700 - test(ui): optimize feature #371
+2025-03-21 14:39:00 +0700 - feat(config): handle feature #156
