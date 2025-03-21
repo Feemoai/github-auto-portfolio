@@ -30116,3 +30116,4 @@
 2025-03-19 14:30:00 +0700 - docs(api): add feature #346
 2025-03-20 11:53:00 +0700 - chore(config): remove feature #414
 2025-03-20 13:18:00 +0700 - docs(ui): optimize feature #414
+2025-03-21 10:45:00 +0700 - test(core): remove feature #314
