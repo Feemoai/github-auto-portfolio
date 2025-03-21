@@ -8685,3 +8685,4 @@
 2025-03-19 15:41:00 +0700 - feat(db): update feature #109
 2025-03-20 15:14:00 +0700 - perf(auth): handle feature #265
 2025-03-20 12:8:00 +0700 - docs(auth): update feature #265
+2025-03-21 14:18:00 +0700 - test(core): improve feature #332
