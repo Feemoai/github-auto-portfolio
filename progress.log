@@ -65081,3 +65081,5 @@
 2025-03-19 12:35:00 +0700 - chore(db): handle feature #221
 2025-03-20 10:6:00 +0700 - feat(core): handle feature #325
 2025-03-20 16:26:00 +0700 - docs(db): add feature #325
+2025-03-21 10:20:00 +0700 - docs(core): remove feature #247
+2025-03-21 10:17:00 +0700 - feat(config): handle feature #247
