@@ -36745,3 +36745,4 @@
 2025-03-19 9:14:00 +0700 - refactor(config): optimize feature #434
 2025-03-20 9:6:00 +0700 - test(api): add feature #364
 2025-03-20 13:4:00 +0700 - chore(ui): handle feature #364
+2025-03-21 16:48:00 +0700 - perf(auth): handle feature #241
