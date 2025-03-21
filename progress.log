@@ -18230,3 +18230,4 @@
 2025-03-19 15:51:00 +0700 - fix(config): remove feature #190
 2025-03-19 12:46:00 +0700 - test(ui): handle feature #190
 2025-03-20 10:46:00 +0700 - docs(api): remove feature #255
+2025-03-21 14:26:00 +0700 - docs(ui): add feature #417
