@@ -67610,3 +67610,5 @@
 2025-03-19 16:26:00 +0700 - perf(ui): optimize feature #291
 2025-03-20 12:14:00 +0700 - perf(auth): handle feature #189
 2025-03-20 14:10:00 +0700 - fix(core): handle feature #189
+2025-03-21 15:32:00 +0700 - chore(db): remove feature #271
+2025-03-21 11:5:00 +0700 - feat(core): handle feature #271
