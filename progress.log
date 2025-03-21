@@ -6949,3 +6949,4 @@
 2025-03-19 13:2:00 +0700 - chore(config): handle feature #264
 2025-03-20 15:12:00 +0700 - test(core): remove feature #264
 2025-03-21 14:18:00 +0700 - fix(config): optimize feature #393
+2025-03-21 12:59:00 +0700 - perf(config): add feature #393
