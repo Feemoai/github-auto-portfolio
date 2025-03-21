@@ -25007,3 +25007,5 @@
 2025-03-19 11:10:00 +0700 - feat(api): update feature #337
 2025-03-20 11:46:00 +0700 - test(db): update feature #243
 2025-03-20 10:53:00 +0700 - perf(core): remove feature #243
+2025-03-21 16:4:00 +0700 - fix(api): improve feature #365
+2025-03-21 11:21:00 +0700 - fix(db): optimize feature #365
