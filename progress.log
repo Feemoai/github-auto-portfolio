@@ -44156,3 +44156,4 @@
 2025-03-19 13:22:00 +0700 - fix(ui): add feature #395
 2025-03-20 14:43:00 +0700 - test(api): optimize feature #370
 2025-03-20 11:39:00 +0700 - test(api): remove feature #370
+2025-03-21 10:17:00 +0700 - test(auth): remove feature #222
