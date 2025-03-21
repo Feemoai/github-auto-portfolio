@@ -55720,3 +55720,4 @@
 2025-03-19 16:52:00 +0700 - perf(core): handle feature #156
 2025-03-20 15:52:00 +0700 - fix(db): improve feature #295
 2025-03-20 10:47:00 +0700 - feat(ui): add feature #295
+2025-03-21 15:12:00 +0700 - feat(ui): handle feature #234
