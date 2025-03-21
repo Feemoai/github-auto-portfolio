@@ -44276,3 +44276,4 @@
 2025-03-19 16:35:00 +0700 - feat(config): add feature #249
 2025-03-20 13:7:00 +0700 - fix(api): update feature #145
 2025-03-20 9:56:00 +0700 - feat(auth): remove feature #145
+2025-03-21 10:32:00 +0700 - chore(db): optimize feature #183
