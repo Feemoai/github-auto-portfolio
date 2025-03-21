@@ -9248,3 +9248,4 @@
 2025-03-19 11:15:00 +0700 - docs(config): optimize feature #202
 2025-03-19 12:0:00 +0700 - test(ui): handle feature #202
 2025-03-20 11:26:00 +0700 - chore(core): add feature #140
+2025-03-21 12:49:00 +0700 - fix(config): handle feature #388
