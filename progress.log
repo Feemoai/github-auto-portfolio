@@ -12225,3 +12225,4 @@
 2025-03-20 11:48:00 +0700 - feat(db): remove feature #494
 2025-03-20 16:21:00 +0700 - test(api): handle feature #494
 2025-03-21 15:54:00 +0700 - perf(ui): remove feature #123
+2025-03-21 11:24:00 +0700 - chore(api): add feature #123
