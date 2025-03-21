@@ -25476,3 +25476,4 @@
 2025-03-19 11:58:00 +0700 - feat(core): optimize feature #250
 2025-03-20 12:36:00 +0700 - feat(ui): improve feature #187
 2025-03-20 10:46:00 +0700 - test(api): update feature #187
+2025-03-21 13:13:00 +0700 - perf(ui): remove feature #139
