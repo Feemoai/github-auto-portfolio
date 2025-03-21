@@ -7173,3 +7173,4 @@
 2025-03-19 15:35:00 +0700 - refactor(db): remove feature #381
 2025-03-20 16:45:00 +0700 - fix(ui): remove feature #492
 2025-03-21 12:6:00 +0700 - refactor(core): remove feature #172
+2025-03-21 14:57:00 +0700 - docs(auth): handle feature #172
