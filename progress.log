@@ -65771,3 +65771,4 @@
 2025-03-19 9:16:00 +0700 - docs(db): improve feature #396
 2025-03-20 15:48:00 +0700 - test(core): improve feature #131
 2025-03-20 13:35:00 +0700 - test(core): add feature #131
+2025-03-21 14:24:00 +0700 - perf(ui): handle feature #220
