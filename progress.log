@@ -14390,3 +14390,4 @@
 2025-03-19 15:43:00 +0700 - chore(core): add feature #351
 2025-03-20 12:13:00 +0700 - feat(db): remove feature #387
 2025-03-20 15:24:00 +0700 - refactor(db): handle feature #387
+2025-03-21 15:23:00 +0700 - fix(core): remove feature #242
