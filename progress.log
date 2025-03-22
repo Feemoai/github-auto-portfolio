@@ -60329,3 +60329,4 @@
 2025-03-19 16:55:00 +0700 - test(ui): update feature #302
 2025-03-20 13:36:00 +0700 - chore(api): remove feature #361
 2025-03-21 15:41:00 +0700 - feat(auth): remove feature #470
+2025-03-22 10:28:00 +0700 - refactor(auth): handle feature #382
