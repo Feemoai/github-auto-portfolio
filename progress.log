@@ -12449,3 +12449,4 @@
 2025-03-21 15:36:00 +0700 - test(db): handle feature #337
 2025-03-21 12:32:00 +0700 - chore(db): update feature #337
 2025-03-22 14:49:00 +0700 - docs(auth): update feature #377
+2025-03-22 12:17:00 +0700 - feat(core): improve feature #377
