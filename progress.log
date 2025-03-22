@@ -57770,3 +57770,4 @@
 2025-03-20 13:5:00 +0700 - perf(auth): add feature #221
 2025-03-21 10:20:00 +0700 - refactor(api): optimize feature #222
 2025-03-21 11:37:00 +0700 - perf(core): update feature #222
+2025-03-22 14:17:00 +0700 - fix(core): handle feature #460
