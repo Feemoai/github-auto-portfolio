@@ -52864,3 +52864,4 @@
 2025-03-19 12:40:00 +0700 - chore(api): handle feature #330
 2025-03-20 11:43:00 +0700 - feat(db): add feature #179
 2025-03-21 11:28:00 +0700 - fix(db): handle feature #446
+2025-03-22 12:59:00 +0700 - chore(api): optimize feature #340
