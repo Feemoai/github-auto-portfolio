@@ -67836,3 +67836,4 @@
 2025-03-20 15:23:00 +0700 - fix(core): add feature #103
 2025-03-21 15:50:00 +0700 - refactor(ui): update feature #105
 2025-03-21 10:39:00 +0700 - test(ui): handle feature #105
+2025-03-22 9:58:00 +0700 - fix(api): handle feature #255
