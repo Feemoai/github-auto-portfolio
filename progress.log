@@ -36637,3 +36637,4 @@
 2025-03-20 16:59:00 +0700 - perf(core): add feature #391
 2025-03-21 10:51:00 +0700 - feat(api): update feature #230
 2025-03-21 14:41:00 +0700 - docs(db): improve feature #230
+2025-03-22 14:20:00 +0700 - test(core): handle feature #406
