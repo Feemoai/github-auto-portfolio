@@ -26863,3 +26863,4 @@
 2025-03-20 10:41:00 +0700 - refactor(config): remove feature #187
 2025-03-21 14:48:00 +0700 - fix(db): improve feature #300
 2025-03-21 9:30:00 +0700 - docs(db): improve feature #300
+2025-03-22 9:10:00 +0700 - feat(core): handle feature #482
