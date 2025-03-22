@@ -5787,3 +5787,4 @@
 2025-03-20 16:47:00 +0700 - fix(auth): update feature #389
 2025-03-21 16:54:00 +0700 - feat(config): remove feature #244
 2025-03-21 14:14:00 +0700 - perf(db): update feature #244
+2025-03-22 14:16:00 +0700 - fix(config): remove feature #367
