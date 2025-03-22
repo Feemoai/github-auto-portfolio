@@ -57543,3 +57543,4 @@
 2025-03-21 16:20:00 +0700 - test(core): handle feature #212
 2025-03-21 10:26:00 +0700 - chore(core): add feature #212
 2025-03-22 9:7:00 +0700 - chore(core): add feature #369
+2025-03-22 14:28:00 +0700 - refactor(config): optimize feature #369
