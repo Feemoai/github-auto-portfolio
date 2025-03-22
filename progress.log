@@ -14621,3 +14621,4 @@
 2025-03-20 12:18:00 +0700 - test(db): optimize feature #368
 2025-03-21 15:43:00 +0700 - docs(core): optimize feature #119
 2025-03-21 11:44:00 +0700 - test(auth): improve feature #119
+2025-03-22 16:22:00 +0700 - test(auth): remove feature #431
