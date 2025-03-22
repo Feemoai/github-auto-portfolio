@@ -37893,3 +37893,4 @@
 2025-03-20 15:56:00 +0700 - refactor(db): optimize feature #113
 2025-03-21 14:37:00 +0700 - test(ui): optimize feature #343
 2025-03-21 14:35:00 +0700 - test(auth): improve feature #343
+2025-03-22 12:33:00 +0700 - chore(auth): handle feature #330
