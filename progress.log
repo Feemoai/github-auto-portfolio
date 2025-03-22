@@ -2823,3 +2823,4 @@
 2025-03-20 12:43:00 +0700 - perf(db): update feature #365
 2025-03-20 15:46:00 +0700 - fix(db): handle feature #365
 2025-03-21 12:11:00 +0700 - perf(core): handle feature #380
+2025-03-22 11:19:00 +0700 - perf(ui): improve feature #292
