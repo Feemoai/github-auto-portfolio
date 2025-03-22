@@ -4659,3 +4659,4 @@
 2025-03-21 14:1:00 +0700 - feat(core): update feature #338
 2025-03-21 10:37:00 +0700 - refactor(auth): improve feature #338
 2025-03-22 13:7:00 +0700 - refactor(config): optimize feature #406
+2025-03-22 10:17:00 +0700 - perf(ui): remove feature #406
