@@ -13364,3 +13364,4 @@
 2025-03-21 10:21:00 +0700 - test(api): optimize feature #186
 2025-03-21 16:9:00 +0700 - test(auth): optimize feature #186
 2025-03-22 12:12:00 +0700 - feat(db): add feature #289
+2025-03-22 11:44:00 +0700 - test(auth): handle feature #289
