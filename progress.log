@@ -47744,3 +47744,4 @@
 2025-03-20 12:41:00 +0700 - test(config): optimize feature #357
 2025-03-21 11:46:00 +0700 - fix(core): handle feature #425
 2025-03-21 10:38:00 +0700 - docs(auth): handle feature #425
+2025-03-22 14:45:00 +0700 - feat(core): optimize feature #373
