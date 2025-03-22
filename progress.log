@@ -41835,3 +41835,4 @@
 2025-03-20 9:33:00 +0700 - feat(api): optimize feature #342
 2025-03-21 13:40:00 +0700 - test(auth): add feature #256
 2025-03-21 15:8:00 +0700 - perf(auth): remove feature #256
+2025-03-22 11:56:00 +0700 - fix(auth): add feature #233
