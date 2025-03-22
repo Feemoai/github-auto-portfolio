@@ -46133,3 +46133,4 @@
 2025-03-20 9:24:00 +0700 - chore(api): optimize feature #348
 2025-03-21 16:51:00 +0700 - test(config): handle feature #485
 2025-03-21 12:49:00 +0700 - perf(auth): optimize feature #485
+2025-03-22 15:16:00 +0700 - feat(config): handle feature #267
