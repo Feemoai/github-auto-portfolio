@@ -54577,3 +54577,4 @@
 2025-03-21 10:52:00 +0700 - test(db): optimize feature #372
 2025-03-21 9:51:00 +0700 - refactor(core): optimize feature #372
 2025-03-22 13:54:00 +0700 - perf(db): improve feature #267
+2025-03-22 9:8:00 +0700 - docs(config): improve feature #267
