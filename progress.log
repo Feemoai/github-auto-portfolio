@@ -11298,3 +11298,4 @@
 2025-03-20 11:28:00 +0700 - docs(config): remove feature #365
 2025-03-21 12:3:00 +0700 - chore(auth): improve feature #217
 2025-03-21 11:28:00 +0700 - perf(auth): remove feature #217
+2025-03-22 11:37:00 +0700 - test(ui): optimize feature #365
