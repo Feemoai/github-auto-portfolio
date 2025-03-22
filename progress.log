@@ -36866,3 +36866,4 @@
 2025-03-20 15:40:00 +0700 - feat(api): add feature #170
 2025-03-21 16:10:00 +0700 - docs(config): add feature #173
 2025-03-21 15:10:00 +0700 - fix(db): optimize feature #173
+2025-03-22 12:16:00 +0700 - fix(auth): handle feature #429
