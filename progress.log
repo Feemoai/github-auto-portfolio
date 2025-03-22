@@ -49582,3 +49582,4 @@
 2025-03-20 10:30:00 +0700 - perf(api): update feature #176
 2025-03-21 14:7:00 +0700 - chore(core): remove feature #170
 2025-03-21 12:23:00 +0700 - test(auth): remove feature #170
+2025-03-22 11:9:00 +0700 - test(api): handle feature #131
