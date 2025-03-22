@@ -31156,3 +31156,4 @@
 2025-03-20 14:39:00 +0700 - feat(core): handle feature #257
 2025-03-20 13:49:00 +0700 - test(auth): improve feature #257
 2025-03-21 11:57:00 +0700 - perf(core): handle feature #266
+2025-03-22 13:7:00 +0700 - chore(core): add feature #372
