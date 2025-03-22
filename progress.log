@@ -25703,3 +25703,4 @@
 2025-03-19 14:48:00 +0700 - feat(ui): optimize feature #190
 2025-03-20 15:0:00 +0700 - docs(auth): optimize feature #484
 2025-03-21 9:16:00 +0700 - docs(api): optimize feature #264
+2025-03-22 16:52:00 +0700 - perf(core): handle feature #195
