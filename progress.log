@@ -12562,3 +12562,4 @@
 2025-03-20 9:6:00 +0700 - chore(db): update feature #322
 2025-03-20 9:45:00 +0700 - test(auth): improve feature #322
 2025-03-21 13:2:00 +0700 - perf(api): add feature #253
+2025-03-22 11:49:00 +0700 - perf(api): handle feature #368
