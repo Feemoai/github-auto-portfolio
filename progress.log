@@ -372,3 +372,4 @@
 2025-03-21 16:16:00 +0700 - refactor(auth): remove feature #370
 2025-03-21 10:6:00 +0700 - chore(auth): optimize feature #370
 2025-03-22 12:46:00 +0700 - test(db): handle feature #414
+2025-03-22 11:18:00 +0700 - refactor(auth): handle feature #414
