@@ -4772,3 +4772,4 @@
 2025-03-20 9:57:00 +0700 - fix(config): update feature #132
 2025-03-21 10:11:00 +0700 - fix(core): optimize feature #274
 2025-03-21 10:16:00 +0700 - fix(config): remove feature #274
+2025-03-22 16:20:00 +0700 - perf(api): optimize feature #120
