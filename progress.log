@@ -44730,3 +44730,4 @@
 2025-03-20 12:29:00 +0700 - fix(api): add feature #432
 2025-03-21 16:34:00 +0700 - fix(auth): improve feature #173
 2025-03-21 12:6:00 +0700 - feat(config): add feature #173
+2025-03-22 11:31:00 +0700 - perf(config): improve feature #389
