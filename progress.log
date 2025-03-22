@@ -65999,3 +65999,4 @@
 2025-03-20 12:1:00 +0700 - test(core): improve feature #269
 2025-03-21 12:22:00 +0700 - docs(config): add feature #152
 2025-03-22 9:43:00 +0700 - docs(config): handle feature #228
+2025-03-22 12:57:00 +0700 - fix(core): remove feature #228
