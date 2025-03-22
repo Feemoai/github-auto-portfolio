@@ -9837,3 +9837,4 @@
 2025-03-20 9:52:00 +0700 - test(auth): handle feature #126
 2025-03-21 10:25:00 +0700 - docs(config): remove feature #489
 2025-03-22 13:13:00 +0700 - docs(api): remove feature #497
+2025-03-22 13:3:00 +0700 - test(core): remove feature #497
