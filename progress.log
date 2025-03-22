@@ -17537,3 +17537,4 @@
 2025-03-20 16:24:00 +0700 - perf(db): remove feature #214
 2025-03-21 15:37:00 +0700 - feat(core): handle feature #353
 2025-03-21 11:59:00 +0700 - docs(db): handle feature #353
+2025-03-22 11:40:00 +0700 - feat(api): optimize feature #326
