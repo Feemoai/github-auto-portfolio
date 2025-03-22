@@ -29408,3 +29408,4 @@
 2025-03-20 12:56:00 +0700 - fix(core): handle feature #278
 2025-03-21 15:49:00 +0700 - docs(auth): remove feature #497
 2025-03-21 9:56:00 +0700 - fix(db): optimize feature #497
+2025-03-22 13:17:00 +0700 - test(ui): improve feature #460
