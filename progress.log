@@ -38243,3 +38243,4 @@
 2025-03-20 11:20:00 +0700 - test(db): remove feature #414
 2025-03-21 13:17:00 +0700 - refactor(api): handle feature #414
 2025-03-21 11:6:00 +0700 - perf(ui): add feature #414
+2025-03-22 11:4:00 +0700 - chore(ui): handle feature #373
