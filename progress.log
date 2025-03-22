@@ -10728,3 +10728,5 @@
 2025-03-20 9:4:00 +0700 - feat(auth): remove feature #247
 2025-03-21 15:42:00 +0700 - perf(core): update feature #474
 2025-03-21 10:8:00 +0700 - docs(db): handle feature #474
+2025-03-22 9:29:00 +0700 - chore(db): update feature #180
+2025-03-22 16:12:00 +0700 - feat(config): handle feature #180
