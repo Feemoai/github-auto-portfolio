@@ -24293,3 +24293,4 @@
 2025-03-20 16:40:00 +0700 - test(db): handle feature #176
 2025-03-20 15:30:00 +0700 - perf(ui): optimize feature #176
 2025-03-21 16:47:00 +0700 - chore(core): update feature #355
+2025-03-22 10:5:00 +0700 - perf(api): remove feature #239
