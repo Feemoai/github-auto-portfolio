@@ -30343,3 +30343,4 @@
 2025-03-20 16:30:00 +0700 - refactor(db): optimize feature #131
 2025-03-21 11:20:00 +0700 - perf(ui): improve feature #205
 2025-03-21 14:9:00 +0700 - perf(core): add feature #205
+2025-03-22 14:4:00 +0700 - refactor(config): improve feature #427
