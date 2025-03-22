@@ -35588,3 +35588,4 @@
 2025-03-20 16:26:00 +0700 - fix(api): handle feature #264
 2025-03-21 9:57:00 +0700 - perf(core): update feature #270
 2025-03-21 11:7:00 +0700 - fix(auth): add feature #270
+2025-03-22 15:38:00 +0700 - perf(config): optimize feature #352
