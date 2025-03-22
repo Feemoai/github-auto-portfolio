@@ -28380,3 +28380,4 @@
 2025-03-20 13:3:00 +0700 - perf(db): optimize feature #312
 2025-03-21 9:57:00 +0700 - refactor(config): add feature #290
 2025-03-21 11:17:00 +0700 - docs(auth): handle feature #290
+2025-03-22 12:54:00 +0700 - feat(auth): optimize feature #389
