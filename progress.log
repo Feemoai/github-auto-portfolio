@@ -40778,3 +40778,4 @@
 2025-03-21 9:35:00 +0700 - docs(config): optimize feature #267
 2025-03-21 16:24:00 +0700 - perf(core): add feature #267
 2025-03-22 15:27:00 +0700 - test(config): handle feature #330
+2025-03-24 13:31:00 +0700 - chore(api): handle feature #224
