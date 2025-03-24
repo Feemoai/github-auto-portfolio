@@ -23141,3 +23141,4 @@
 2025-03-21 14:19:00 +0700 - test(auth): remove feature #186
 2025-03-21 12:33:00 +0700 - chore(core): optimize feature #186
 2025-03-22 9:23:00 +0700 - test(core): update feature #448
+2025-03-24 9:10:00 +0700 - fix(auth): remove feature #194
