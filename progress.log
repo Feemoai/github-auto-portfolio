@@ -52518,3 +52518,4 @@
 2025-03-21 11:26:00 +0700 - feat(api): update feature #397
 2025-03-22 13:3:00 +0700 - perf(core): update feature #173
 2025-03-24 12:44:00 +0700 - perf(core): optimize feature #293
+2025-03-24 10:10:00 +0700 - perf(db): optimize feature #293
