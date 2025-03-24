@@ -19053,3 +19053,4 @@
 2025-03-21 10:9:00 +0700 - docs(config): optimize feature #261
 2025-03-21 10:44:00 +0700 - perf(api): improve feature #261
 2025-03-22 12:49:00 +0700 - chore(config): update feature #256
+2025-03-24 13:42:00 +0700 - perf(api): handle feature #356
