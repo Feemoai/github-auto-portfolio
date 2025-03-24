@@ -6258,3 +6258,4 @@
 2025-03-21 10:53:00 +0700 - perf(auth): optimize feature #495
 2025-03-22 10:18:00 +0700 - docs(auth): remove feature #188
 2025-03-24 9:9:00 +0700 - docs(config): remove feature #162
+2025-03-24 9:36:00 +0700 - fix(config): handle feature #162
