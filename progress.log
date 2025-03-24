@@ -9950,3 +9950,4 @@
 2025-03-21 10:8:00 +0700 - chore(db): optimize feature #192
 2025-03-21 11:44:00 +0700 - chore(core): update feature #192
 2025-03-22 10:22:00 +0700 - feat(config): handle feature #203
+2025-03-24 14:26:00 +0700 - perf(auth): optimize feature #379
