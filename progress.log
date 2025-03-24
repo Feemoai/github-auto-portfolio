@@ -65549,3 +65549,4 @@
 2025-03-21 9:20:00 +0700 - fix(api): add feature #359
 2025-03-22 9:15:00 +0700 - fix(config): handle feature #281
 2025-03-22 12:42:00 +0700 - feat(ui): add feature #281
+2025-03-24 11:50:00 +0700 - test(core): remove feature #417
