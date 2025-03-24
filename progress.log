@@ -4074,3 +4074,4 @@
 2025-03-21 9:20:00 +0700 - fix(core): handle feature #310
 2025-03-21 12:27:00 +0700 - feat(config): add feature #310
 2025-03-22 13:33:00 +0700 - feat(db): handle feature #400
+2025-03-24 14:38:00 +0700 - perf(auth): improve feature #350
