@@ -20607,3 +20607,4 @@
 2025-03-21 14:10:00 +0700 - refactor(api): improve feature #225
 2025-03-22 11:18:00 +0700 - test(config): improve feature #320
 2025-03-22 12:36:00 +0700 - feat(ui): remove feature #320
+2025-03-24 10:26:00 +0700 - perf(api): improve feature #363
