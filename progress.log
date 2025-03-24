@@ -48888,3 +48888,4 @@
 2025-03-20 15:37:00 +0700 - perf(ui): optimize feature #234
 2025-03-21 9:19:00 +0700 - chore(config): add feature #365
 2025-03-22 11:8:00 +0700 - refactor(config): update feature #479
+2025-03-24 9:38:00 +0700 - refactor(api): optimize feature #459
