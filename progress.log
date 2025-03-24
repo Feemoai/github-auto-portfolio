@@ -26636,3 +26636,4 @@
 2025-03-21 16:10:00 +0700 - test(ui): remove feature #482
 2025-03-21 10:47:00 +0700 - docs(auth): add feature #482
 2025-03-22 16:6:00 +0700 - test(auth): add feature #230
+2025-03-24 15:47:00 +0700 - fix(auth): update feature #213
