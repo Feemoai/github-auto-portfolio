@@ -14163,3 +14163,4 @@
 2025-03-21 14:11:00 +0700 - docs(config): improve feature #308
 2025-03-22 9:45:00 +0700 - perf(db): handle feature #260
 2025-03-22 12:4:00 +0700 - feat(api): optimize feature #260
+2025-03-24 13:4:00 +0700 - feat(config): handle feature #380
