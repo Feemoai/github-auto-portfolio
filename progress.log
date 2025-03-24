@@ -34181,3 +34181,4 @@
 2025-03-21 13:29:00 +0700 - refactor(core): handle feature #202
 2025-03-22 9:6:00 +0700 - fix(db): remove feature #318
 2025-03-22 10:16:00 +0700 - perf(api): remove feature #318
+2025-03-24 10:42:00 +0700 - refactor(config): optimize feature #367
