@@ -27470,3 +27470,4 @@
 2025-03-20 15:30:00 +0700 - feat(db): update feature #290
 2025-03-21 14:17:00 +0700 - perf(auth): update feature #224
 2025-03-22 13:13:00 +0700 - docs(core): add feature #424
+2025-03-24 14:45:00 +0700 - perf(core): remove feature #126
