@@ -38585,3 +38585,4 @@
 2025-03-20 10:45:00 +0700 - docs(ui): add feature #179
 2025-03-21 12:56:00 +0700 - refactor(api): optimize feature #260
 2025-03-22 14:33:00 +0700 - test(core): improve feature #174
+2025-03-24 14:43:00 +0700 - refactor(core): remove feature #111
