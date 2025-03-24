@@ -19291,3 +19291,4 @@
 2025-03-21 15:46:00 +0700 - docs(core): optimize feature #206
 2025-03-22 10:27:00 +0700 - docs(config): add feature #432
 2025-03-24 11:23:00 +0700 - refactor(api): optimize feature #226
+2025-03-24 14:46:00 +0700 - feat(auth): add feature #226
