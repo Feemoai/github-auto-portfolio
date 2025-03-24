@@ -36519,3 +36519,5 @@
 2025-03-21 13:30:00 +0700 - perf(db): optimize feature #209
 2025-03-22 15:24:00 +0700 - fix(config): remove feature #440
 2025-03-22 12:39:00 +0700 - fix(core): optimize feature #440
+2025-03-24 12:3:00 +0700 - fix(ui): remove feature #408
+2025-03-24 13:7:00 +0700 - fix(ui): optimize feature #408
