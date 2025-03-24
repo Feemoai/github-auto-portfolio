@@ -68069,3 +68069,4 @@
 2025-03-22 10:49:00 +0700 - feat(ui): improve feature #255
 2025-03-22 14:0:00 +0700 - fix(core): optimize feature #255
 2025-03-24 14:47:00 +0700 - test(ui): add feature #481
+2025-03-24 12:43:00 +0700 - perf(api): handle feature #481
