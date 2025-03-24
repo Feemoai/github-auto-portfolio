@@ -8225,3 +8225,4 @@
 2025-03-21 11:44:00 +0700 - docs(db): update feature #370
 2025-03-22 12:48:00 +0700 - chore(api): update feature #120
 2025-03-24 16:24:00 +0700 - fix(api): remove feature #185
+2025-03-24 10:46:00 +0700 - test(ui): remove feature #185
