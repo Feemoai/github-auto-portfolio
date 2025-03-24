@@ -21172,3 +21172,4 @@
 2025-03-21 13:48:00 +0700 - docs(core): optimize feature #243
 2025-03-21 16:44:00 +0700 - fix(api): improve feature #243
 2025-03-22 10:18:00 +0700 - chore(auth): optimize feature #232
+2025-03-24 10:41:00 +0700 - refactor(config): handle feature #464
