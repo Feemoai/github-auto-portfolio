@@ -35710,3 +35710,4 @@
 2025-03-21 11:32:00 +0700 - perf(auth): handle feature #194
 2025-03-22 9:9:00 +0700 - test(auth): handle feature #487
 2025-03-22 14:41:00 +0700 - chore(config): update feature #487
+2025-03-24 11:23:00 +0700 - fix(ui): remove feature #190
