@@ -5562,3 +5562,4 @@
 2025-03-20 9:31:00 +0700 - feat(api): remove feature #440
 2025-03-21 15:34:00 +0700 - fix(auth): optimize feature #269
 2025-03-22 12:27:00 +0700 - perf(core): add feature #159
+2025-03-24 12:10:00 +0700 - docs(core): optimize feature #481
