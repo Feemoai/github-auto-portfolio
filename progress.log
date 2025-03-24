@@ -50149,3 +50149,4 @@
 2025-03-21 15:43:00 +0700 - perf(config): update feature #381
 2025-03-22 11:34:00 +0700 - test(ui): handle feature #296
 2025-03-24 10:22:00 +0700 - test(auth): handle feature #261
+2025-03-24 14:13:00 +0700 - perf(core): optimize feature #261
