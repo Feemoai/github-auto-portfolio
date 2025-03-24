@@ -67273,3 +67273,4 @@
 2025-03-21 15:42:00 +0700 - fix(auth): remove feature #486
 2025-03-22 16:59:00 +0700 - refactor(api): update feature #128
 2025-03-22 14:34:00 +0700 - refactor(core): improve feature #128
+2025-03-24 15:29:00 +0700 - docs(config): add feature #494
