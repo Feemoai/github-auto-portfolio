@@ -959,3 +959,4 @@
 2025-03-20 13:22:00 +0700 - refactor(ui): handle feature #331
 2025-03-21 9:5:00 +0700 - perf(config): improve feature #136
 2025-03-22 12:18:00 +0700 - docs(api): remove feature #410
+2025-03-24 15:17:00 +0700 - perf(db): add feature #367
