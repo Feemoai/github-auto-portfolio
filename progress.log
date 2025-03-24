@@ -19529,3 +19529,4 @@
 2025-03-20 9:56:00 +0700 - perf(core): add feature #298
 2025-03-21 15:23:00 +0700 - refactor(auth): update feature #360
 2025-03-22 13:39:00 +0700 - feat(db): handle feature #331
+2025-03-24 9:30:00 +0700 - refactor(config): handle feature #437
