@@ -36638,3 +36638,4 @@
 2025-03-21 10:51:00 +0700 - feat(api): update feature #230
 2025-03-21 14:41:00 +0700 - docs(db): improve feature #230
 2025-03-22 14:20:00 +0700 - test(core): handle feature #406
+2025-03-24 16:30:00 +0700 - test(config): optimize feature #314
