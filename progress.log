@@ -59642,3 +59642,4 @@
 2025-03-21 14:1:00 +0700 - refactor(api): optimize feature #417
 2025-03-22 12:40:00 +0700 - refactor(core): add feature #259
 2025-03-22 11:36:00 +0700 - perf(core): update feature #259
+2025-03-24 10:8:00 +0700 - fix(ui): add feature #227
