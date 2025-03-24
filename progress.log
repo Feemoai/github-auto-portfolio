@@ -44278,3 +44278,4 @@
 2025-03-20 9:56:00 +0700 - feat(auth): remove feature #145
 2025-03-21 10:32:00 +0700 - chore(db): optimize feature #183
 2025-03-22 11:38:00 +0700 - perf(api): improve feature #412
+2025-03-24 12:52:00 +0700 - test(api): handle feature #302
