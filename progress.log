@@ -18118,3 +18118,4 @@
 2025-03-21 10:17:00 +0700 - test(core): improve feature #273
 2025-03-22 13:51:00 +0700 - perf(auth): handle feature #402
 2025-03-22 13:45:00 +0700 - docs(core): handle feature #402
+2025-03-24 13:31:00 +0700 - fix(ui): remove feature #392
