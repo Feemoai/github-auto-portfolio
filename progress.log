@@ -6608,3 +6608,4 @@
 2025-03-21 15:46:00 +0700 - docs(core): improve feature #325
 2025-03-21 14:25:00 +0700 - test(api): optimize feature #325
 2025-03-22 10:56:00 +0700 - feat(db): improve feature #414
+2025-03-24 14:18:00 +0700 - fix(core): optimize feature #357
