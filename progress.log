@@ -50037,3 +50037,5 @@
 2025-03-22 10:54:00 +0700 - test(ui): remove feature #143
 2025-03-24 12:8:00 +0700 - refactor(config): handle feature #440
 2025-03-24 16:52:00 +0700 - refactor(ui): remove feature #440
+2025-03-25 12:36:00 +0700 - refactor(api): optimize feature #227
+2025-03-25 13:59:00 +0700 - fix(core): handle feature #227
