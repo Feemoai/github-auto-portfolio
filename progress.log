@@ -64158,3 +64158,4 @@
 2025-03-22 14:44:00 +0700 - chore(db): optimize feature #487
 2025-03-24 11:9:00 +0700 - docs(core): update feature #420
 2025-03-25 9:49:00 +0700 - perf(config): update feature #476
+2025-03-25 15:19:00 +0700 - fix(api): handle feature #476
