@@ -8454,3 +8454,5 @@
 2025-03-22 12:3:00 +0700 - fix(ui): update feature #195
 2025-03-24 12:59:00 +0700 - perf(config): handle feature #213
 2025-03-24 10:19:00 +0700 - feat(core): improve feature #213
+2025-03-25 13:50:00 +0700 - perf(config): update feature #365
+2025-03-25 12:58:00 +0700 - test(config): add feature #365
