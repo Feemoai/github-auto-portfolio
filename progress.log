@@ -19292,3 +19292,4 @@
 2025-03-22 10:27:00 +0700 - docs(config): add feature #432
 2025-03-24 11:23:00 +0700 - refactor(api): optimize feature #226
 2025-03-24 14:46:00 +0700 - feat(auth): add feature #226
+2025-03-25 12:4:00 +0700 - test(core): handle feature #492
