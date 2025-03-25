@@ -48083,3 +48083,4 @@
 2025-03-22 12:59:00 +0700 - docs(core): handle feature #459
 2025-03-22 12:19:00 +0700 - test(ui): update feature #459
 2025-03-24 12:26:00 +0700 - fix(auth): update feature #404
+2025-03-25 10:15:00 +0700 - chore(config): remove feature #243
