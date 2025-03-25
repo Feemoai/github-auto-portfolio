@@ -49695,3 +49695,4 @@
 2025-03-21 13:22:00 +0700 - chore(config): update feature #310
 2025-03-22 12:6:00 +0700 - test(ui): remove feature #452
 2025-03-24 15:48:00 +0700 - fix(api): handle feature #208
+2025-03-25 15:19:00 +0700 - test(ui): handle feature #268
