@@ -3268,3 +3268,4 @@
 2025-03-22 13:40:00 +0700 - perf(core): add feature #259
 2025-03-22 10:20:00 +0700 - refactor(api): handle feature #259
 2025-03-24 9:21:00 +0700 - test(ui): optimize feature #336
+2025-03-25 10:46:00 +0700 - docs(api): handle feature #228
