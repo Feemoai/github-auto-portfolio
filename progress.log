@@ -54689,3 +54689,4 @@
 2025-03-22 15:44:00 +0700 - test(api): handle feature #478
 2025-03-22 14:40:00 +0700 - test(core): add feature #478
 2025-03-24 13:6:00 +0700 - test(config): handle feature #384
+2025-03-25 11:25:00 +0700 - fix(config): optimize feature #331
