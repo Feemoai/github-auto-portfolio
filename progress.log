@@ -37217,3 +37217,4 @@
 2025-03-22 9:32:00 +0700 - chore(config): improve feature #420
 2025-03-22 12:12:00 +0700 - perf(api): handle feature #420
 2025-03-24 16:24:00 +0700 - test(config): handle feature #385
+2025-03-25 13:24:00 +0700 - refactor(ui): handle feature #287
