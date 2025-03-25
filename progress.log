@@ -38925,3 +38925,4 @@
 2025-03-22 13:10:00 +0700 - perf(auth): optimize feature #478
 2025-03-22 13:12:00 +0700 - fix(auth): add feature #478
 2025-03-24 10:9:00 +0700 - chore(auth): improve feature #246
+2025-03-25 11:18:00 +0700 - docs(auth): handle feature #462
