@@ -15199,3 +15199,4 @@
 2025-03-22 9:58:00 +0700 - test(ui): optimize feature #153
 2025-03-24 13:20:00 +0700 - chore(ui): handle feature #178
 2025-03-25 9:25:00 +0700 - perf(auth): handle feature #365
+2025-03-25 15:3:00 +0700 - feat(core): add feature #365
