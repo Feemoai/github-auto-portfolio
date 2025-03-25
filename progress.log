@@ -24410,3 +24410,4 @@
 2025-03-24 16:12:00 +0700 - perf(ui): remove feature #483
 2025-03-24 11:11:00 +0700 - chore(config): remove feature #483
 2025-03-25 9:20:00 +0700 - feat(ui): handle feature #318
+2025-03-25 15:17:00 +0700 - perf(db): optimize feature #318
