@@ -4886,3 +4886,4 @@
 2025-03-22 10:20:00 +0700 - test(ui): add feature #192
 2025-03-24 10:38:00 +0700 - refactor(core): update feature #177
 2025-03-24 12:5:00 +0700 - feat(db): add feature #177
+2025-03-25 10:20:00 +0700 - perf(config): remove feature #425
