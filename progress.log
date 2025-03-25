@@ -23702,3 +23702,4 @@
 2025-03-22 15:13:00 +0700 - docs(core): add feature #306
 2025-03-24 9:15:00 +0700 - feat(api): update feature #337
 2025-03-24 10:46:00 +0700 - perf(config): improve feature #337
+2025-03-25 9:46:00 +0700 - perf(auth): remove feature #392
