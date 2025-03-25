@@ -54912,3 +54912,4 @@
 2025-03-22 10:59:00 +0700 - docs(core): add feature #333
 2025-03-24 10:56:00 +0700 - test(core): optimize feature #427
 2025-03-24 15:26:00 +0700 - feat(ui): add feature #427
+2025-03-25 16:53:00 +0700 - fix(ui): remove feature #473
