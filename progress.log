@@ -145,3 +145,4 @@
 2025-03-22 13:0:00 +0700 - feat(api): handle feature #434
 2025-03-24 15:52:00 +0700 - docs(db): add feature #483
 2025-03-24 13:29:00 +0700 - feat(auth): remove feature #483
+2025-03-25 15:55:00 +0700 - fix(db): update feature #225
