@@ -15560,3 +15560,4 @@
 2025-03-24 12:17:00 +0700 - docs(api): optimize feature #454
 2025-03-24 15:15:00 +0700 - docs(config): add feature #454
 2025-03-25 10:59:00 +0700 - feat(config): remove feature #445
+2025-03-25 16:39:00 +0700 - chore(ui): handle feature #445
