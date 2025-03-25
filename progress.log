@@ -12112,3 +12112,4 @@
 2025-03-21 14:36:00 +0700 - test(auth): handle feature #419
 2025-03-22 16:28:00 +0700 - docs(core): handle feature #206
 2025-03-24 16:52:00 +0700 - fix(api): optimize feature #496
+2025-03-25 11:42:00 +0700 - fix(config): add feature #404
