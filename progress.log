@@ -25941,3 +25941,4 @@
 2025-03-22 15:24:00 +0700 - test(config): improve feature #269
 2025-03-24 16:59:00 +0700 - chore(config): update feature #307
 2025-03-24 13:40:00 +0700 - feat(config): remove feature #307
+2025-03-25 15:16:00 +0700 - fix(api): handle feature #398
