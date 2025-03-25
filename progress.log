@@ -26749,3 +26749,4 @@
 2025-03-22 13:30:00 +0700 - refactor(api): optimize feature #345
 2025-03-24 12:20:00 +0700 - perf(api): add feature #417
 2025-03-24 13:21:00 +0700 - chore(auth): remove feature #417
+2025-03-25 14:57:00 +0700 - refactor(core): handle feature #123
