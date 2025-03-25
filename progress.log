@@ -12340,3 +12340,4 @@
 2025-03-22 13:3:00 +0700 - test(ui): add feature #426
 2025-03-22 14:40:00 +0700 - feat(config): add feature #426
 2025-03-24 15:40:00 +0700 - feat(core): remove feature #325
+2025-03-25 15:0:00 +0700 - fix(auth): optimize feature #457
