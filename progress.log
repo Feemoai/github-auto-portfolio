@@ -48889,3 +48889,5 @@
 2025-03-21 9:19:00 +0700 - chore(config): add feature #365
 2025-03-22 11:8:00 +0700 - refactor(config): update feature #479
 2025-03-24 9:38:00 +0700 - refactor(api): optimize feature #459
+2025-03-25 12:27:00 +0700 - perf(api): optimize feature #347
+2025-03-25 15:20:00 +0700 - fix(core): optimize feature #347
