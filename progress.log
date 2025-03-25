@@ -55726,3 +55726,4 @@
 2025-03-22 15:39:00 +0700 - feat(config): update feature #472
 2025-03-24 10:34:00 +0700 - chore(api): remove feature #256
 2025-03-24 9:5:00 +0700 - feat(core): handle feature #256
+2025-03-25 9:6:00 +0700 - perf(config): remove feature #252
