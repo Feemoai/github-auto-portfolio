@@ -43934,3 +43934,4 @@
 2025-03-22 9:50:00 +0700 - docs(config): remove feature #198
 2025-03-24 11:42:00 +0700 - fix(db): handle feature #162
 2025-03-24 12:40:00 +0700 - fix(api): improve feature #162
+2025-03-25 12:18:00 +0700 - fix(core): handle feature #165
