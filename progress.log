@@ -9729,3 +9729,5 @@
 2025-03-21 13:44:00 +0700 - perf(config): handle feature #477
 2025-03-22 10:41:00 +0700 - chore(config): improve feature #288
 2025-03-24 13:25:00 +0700 - docs(core): improve feature #443
+2025-03-25 15:55:00 +0700 - fix(auth): optimize feature #127
+2025-03-25 16:44:00 +0700 - fix(ui): handle feature #127
