@@ -47168,3 +47168,4 @@
 2025-03-21 12:42:00 +0700 - docs(core): update feature #121
 2025-03-22 11:19:00 +0700 - feat(api): add feature #376
 2025-03-24 15:0:00 +0700 - docs(auth): handle feature #460
+2025-03-25 10:40:00 +0700 - test(auth): remove feature #409
