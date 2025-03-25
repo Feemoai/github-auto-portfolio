@@ -31395,3 +31395,4 @@
 2025-03-22 13:16:00 +0700 - feat(config): handle feature #135
 2025-03-24 12:9:00 +0700 - perf(core): add feature #373
 2025-03-24 12:54:00 +0700 - test(core): optimize feature #373
+2025-03-25 12:24:00 +0700 - perf(config): handle feature #288
