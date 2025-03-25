@@ -31277,3 +31277,5 @@
 2025-03-22 13:25:00 +0700 - test(ui): update feature #272
 2025-03-24 16:9:00 +0700 - feat(api): handle feature #142
 2025-03-24 14:5:00 +0700 - feat(auth): remove feature #142
+2025-03-25 13:46:00 +0700 - chore(core): remove feature #377
+2025-03-25 14:45:00 +0700 - perf(db): improve feature #377
