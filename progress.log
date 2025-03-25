@@ -10061,3 +10061,4 @@
 2025-03-24 10:11:00 +0700 - fix(db): improve feature #141
 2025-03-24 11:37:00 +0700 - perf(db): improve feature #141
 2025-03-25 15:58:00 +0700 - chore(core): optimize feature #243
+2025-03-25 13:29:00 +0700 - fix(auth): handle feature #243
