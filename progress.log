@@ -27707,3 +27707,4 @@
 2025-03-22 15:45:00 +0700 - feat(auth): remove feature #203
 2025-03-24 14:57:00 +0700 - feat(core): add feature #393
 2025-03-24 15:9:00 +0700 - feat(config): handle feature #393
+2025-03-25 10:55:00 +0700 - fix(auth): add feature #407
