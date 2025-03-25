@@ -28271,3 +28271,4 @@
 2025-03-22 13:16:00 +0700 - feat(config): update feature #362
 2025-03-22 16:47:00 +0700 - chore(api): update feature #362
 2025-03-24 14:26:00 +0700 - perf(ui): optimize feature #187
+2025-03-25 15:39:00 +0700 - docs(auth): remove feature #482
