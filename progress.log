@@ -52868,3 +52868,4 @@
 2025-03-22 14:51:00 +0700 - feat(db): improve feature #340
 2025-03-24 16:53:00 +0700 - feat(core): remove feature #490
 2025-03-25 11:27:00 +0700 - perf(auth): update feature #217
+2025-03-25 13:52:00 +0700 - docs(auth): optimize feature #217
