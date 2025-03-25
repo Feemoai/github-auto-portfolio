@@ -14054,3 +14054,4 @@
 2025-03-24 10:35:00 +0700 - feat(core): optimize feature #226
 2025-03-24 10:13:00 +0700 - feat(ui): handle feature #226
 2025-03-25 9:44:00 +0700 - docs(auth): improve feature #378
+2025-03-25 13:44:00 +0700 - fix(auth): remove feature #378
