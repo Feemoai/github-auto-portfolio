@@ -18701,3 +18701,4 @@
 2025-03-24 16:44:00 +0700 - refactor(core): handle feature #109
 2025-03-25 15:57:00 +0700 - docs(auth): optimize feature #224
 2025-03-25 13:41:00 +0700 - feat(core): improve feature #224
+2025-03-26 15:11:00 +0700 - fix(api): handle feature #440
