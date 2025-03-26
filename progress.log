@@ -53547,3 +53547,4 @@
 2025-03-24 15:17:00 +0700 - perf(ui): handle feature #410
 2025-03-25 11:43:00 +0700 - refactor(db): handle feature #195
 2025-03-26 15:39:00 +0700 - feat(ui): update feature #317
+2025-03-26 14:2:00 +0700 - fix(config): handle feature #317
