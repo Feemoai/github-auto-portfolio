@@ -33486,3 +33486,4 @@
 2025-03-24 13:3:00 +0700 - feat(auth): handle feature #252
 2025-03-25 11:42:00 +0700 - fix(db): handle feature #482
 2025-03-25 12:50:00 +0700 - docs(core): handle feature #482
+2025-03-26 11:42:00 +0700 - fix(auth): add feature #389
