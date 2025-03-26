@@ -38248,3 +38248,4 @@
 2025-03-24 13:30:00 +0700 - perf(auth): optimize feature #223
 2025-03-25 13:21:00 +0700 - feat(config): add feature #353
 2025-03-25 12:8:00 +0700 - feat(api): optimize feature #353
+2025-03-26 12:16:00 +0700 - fix(core): add feature #405
