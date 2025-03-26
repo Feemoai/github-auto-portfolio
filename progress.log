@@ -22108,3 +22108,4 @@
 2025-03-24 11:46:00 +0700 - fix(config): update feature #391
 2025-03-24 13:32:00 +0700 - feat(core): handle feature #391
 2025-03-25 11:9:00 +0700 - chore(config): handle feature #262
+2025-03-26 14:11:00 +0700 - perf(ui): remove feature #414
