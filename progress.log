@@ -6147,3 +6147,4 @@
 2025-03-25 12:47:00 +0700 - feat(ui): optimize feature #325
 2025-03-25 12:30:00 +0700 - docs(config): update feature #325
 2025-03-26 12:40:00 +0700 - feat(db): update feature #400
+2025-03-26 16:1:00 +0700 - perf(db): update feature #400
