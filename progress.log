@@ -62417,3 +62417,4 @@
 2025-03-24 11:57:00 +0700 - test(config): add feature #495
 2025-03-24 16:18:00 +0700 - feat(config): remove feature #495
 2025-03-25 14:28:00 +0700 - perf(core): improve feature #140
+2025-03-26 11:37:00 +0700 - docs(config): handle feature #262
