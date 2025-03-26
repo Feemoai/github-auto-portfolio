@@ -66934,3 +66934,4 @@
 2025-03-24 15:50:00 +0700 - perf(ui): handle feature #203
 2025-03-25 11:24:00 +0700 - feat(auth): update feature #436
 2025-03-25 12:6:00 +0700 - test(auth): add feature #436
+2025-03-26 11:21:00 +0700 - test(core): remove feature #396
