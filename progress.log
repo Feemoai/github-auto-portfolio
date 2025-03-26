@@ -21058,3 +21058,4 @@
 2025-03-24 12:34:00 +0700 - test(core): add feature #212
 2025-03-25 15:16:00 +0700 - refactor(api): remove feature #292
 2025-03-25 16:21:00 +0700 - perf(auth): update feature #292
+2025-03-26 9:34:00 +0700 - feat(auth): update feature #277
