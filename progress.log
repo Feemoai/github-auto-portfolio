@@ -21991,3 +21991,4 @@
 2025-03-24 14:42:00 +0700 - chore(api): add feature #115
 2025-03-25 10:19:00 +0700 - fix(core): update feature #329
 2025-03-26 9:50:00 +0700 - chore(api): add feature #120
+2025-03-26 11:26:00 +0700 - perf(db): improve feature #120
