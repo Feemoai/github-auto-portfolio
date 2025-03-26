@@ -31279,3 +31279,4 @@
 2025-03-24 14:5:00 +0700 - feat(auth): remove feature #142
 2025-03-25 13:46:00 +0700 - chore(core): remove feature #377
 2025-03-25 14:45:00 +0700 - perf(db): improve feature #377
+2025-03-26 15:10:00 +0700 - feat(ui): improve feature #450
