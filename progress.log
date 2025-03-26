@@ -39840,3 +39840,5 @@
 2025-03-24 13:52:00 +0700 - fix(auth): update feature #429
 2025-03-25 12:23:00 +0700 - fix(api): update feature #301
 2025-03-25 15:4:00 +0700 - perf(api): optimize feature #301
+2025-03-26 13:35:00 +0700 - test(config): handle feature #472
+2025-03-26 12:0:00 +0700 - test(api): update feature #472
