@@ -10850,3 +10850,4 @@
 2025-03-22 10:28:00 +0700 - fix(ui): improve feature #292
 2025-03-24 10:16:00 +0700 - feat(db): improve feature #156
 2025-03-25 11:34:00 +0700 - refactor(ui): remove feature #160
+2025-03-26 11:2:00 +0700 - fix(ui): handle feature #329
