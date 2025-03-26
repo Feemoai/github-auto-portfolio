@@ -6842,3 +6842,4 @@
 2025-03-24 14:35:00 +0700 - docs(api): improve feature #256
 2025-03-25 13:39:00 +0700 - chore(auth): optimize feature #485
 2025-03-25 13:18:00 +0700 - perf(auth): improve feature #485
+2025-03-26 11:59:00 +0700 - refactor(db): handle feature #487
