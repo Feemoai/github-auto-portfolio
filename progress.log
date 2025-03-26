@@ -8340,3 +8340,4 @@
 2025-03-25 11:32:00 +0700 - perf(core): remove feature #409
 2025-03-25 16:48:00 +0700 - perf(db): improve feature #409
 2025-03-26 13:11:00 +0700 - feat(config): improve feature #418
+2025-03-26 12:59:00 +0700 - fix(ui): handle feature #418
