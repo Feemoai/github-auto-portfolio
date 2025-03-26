@@ -29294,3 +29294,4 @@
 2025-03-24 13:5:00 +0700 - chore(auth): remove feature #426
 2025-03-24 11:0:00 +0700 - chore(ui): handle feature #426
 2025-03-25 12:6:00 +0700 - test(config): add feature #102
+2025-03-26 13:27:00 +0700 - fix(api): update feature #286
