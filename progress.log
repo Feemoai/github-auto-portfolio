@@ -14858,3 +14858,4 @@
 2025-03-25 11:38:00 +0700 - fix(db): add feature #159
 2025-03-25 16:49:00 +0700 - test(db): optimize feature #159
 2025-03-26 14:4:00 +0700 - feat(core): remove feature #190
+2025-03-26 9:3:00 +0700 - perf(core): remove feature #190
