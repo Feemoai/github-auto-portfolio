@@ -18120,3 +18120,4 @@
 2025-03-22 13:45:00 +0700 - docs(core): handle feature #402
 2025-03-24 13:31:00 +0700 - fix(ui): remove feature #392
 2025-03-25 9:25:00 +0700 - chore(auth): optimize feature #296
+2025-03-26 12:11:00 +0700 - perf(auth): remove feature #287
