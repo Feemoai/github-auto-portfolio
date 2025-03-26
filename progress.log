@@ -7994,3 +7994,4 @@
 2025-03-24 13:0:00 +0700 - test(ui): handle feature #356
 2025-03-25 12:33:00 +0700 - docs(db): handle feature #334
 2025-03-26 11:12:00 +0700 - perf(db): optimize feature #152
+2025-03-26 13:54:00 +0700 - feat(core): handle feature #152
