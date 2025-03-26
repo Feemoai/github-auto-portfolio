@@ -31160,3 +31160,5 @@
 2025-03-22 14:15:00 +0700 - fix(api): update feature #372
 2025-03-24 14:9:00 +0700 - test(config): remove feature #360
 2025-03-25 13:24:00 +0700 - perf(config): remove feature #245
+2025-03-26 12:40:00 +0700 - refactor(ui): optimize feature #394
+2025-03-26 11:20:00 +0700 - perf(config): optimize feature #394
