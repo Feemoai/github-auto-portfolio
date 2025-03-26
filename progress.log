@@ -41017,3 +41017,4 @@
 2025-03-24 10:41:00 +0700 - refactor(ui): handle feature #490
 2025-03-25 10:5:00 +0700 - docs(ui): remove feature #231
 2025-03-26 16:2:00 +0700 - test(core): remove feature #140
+2025-03-26 9:37:00 +0700 - fix(ui): optimize feature #140
