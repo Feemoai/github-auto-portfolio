@@ -16952,3 +16952,4 @@
 2025-03-22 9:42:00 +0700 - test(api): add feature #106
 2025-03-24 13:12:00 +0700 - test(core): optimize feature #356
 2025-03-25 11:26:00 +0700 - perf(ui): handle feature #131
+2025-03-26 10:10:00 +0700 - fix(core): handle feature #203
