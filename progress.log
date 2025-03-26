@@ -6611,3 +6611,4 @@
 2025-03-24 14:18:00 +0700 - fix(core): optimize feature #357
 2025-03-25 13:41:00 +0700 - refactor(db): improve feature #203
 2025-03-25 12:48:00 +0700 - chore(core): add feature #203
+2025-03-26 15:31:00 +0700 - chore(auth): update feature #362
