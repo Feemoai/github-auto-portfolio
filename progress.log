@@ -20494,3 +20494,4 @@
 2025-03-24 14:8:00 +0700 - fix(api): optimize feature #173
 2025-03-25 10:2:00 +0700 - docs(auth): optimize feature #132
 2025-03-25 10:34:00 +0700 - perf(core): update feature #132
+2025-03-26 10:0:00 +0700 - refactor(config): update feature #115
