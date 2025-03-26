@@ -30001,3 +30001,5 @@
 2025-03-24 9:21:00 +0700 - perf(config): handle feature #475
 2025-03-25 16:31:00 +0700 - perf(db): improve feature #343
 2025-03-25 12:32:00 +0700 - feat(api): add feature #343
+2025-03-26 12:0:00 +0700 - test(auth): handle feature #394
+2025-03-26 15:57:00 +0700 - test(ui): improve feature #394
