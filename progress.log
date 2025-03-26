@@ -41487,3 +41487,4 @@
 2025-03-24 13:39:00 +0700 - perf(config): remove feature #377
 2025-03-25 12:38:00 +0700 - docs(api): remove feature #343
 2025-03-25 14:21:00 +0700 - docs(auth): optimize feature #343
+2025-03-26 13:55:00 +0700 - feat(api): handle feature #403
