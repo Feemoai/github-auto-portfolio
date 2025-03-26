@@ -42995,3 +42995,4 @@
 2025-03-24 10:57:00 +0700 - test(core): improve feature #215
 2025-03-25 10:44:00 +0700 - fix(core): optimize feature #260
 2025-03-25 15:43:00 +0700 - docs(ui): optimize feature #260
+2025-03-26 13:7:00 +0700 - perf(core): add feature #264
