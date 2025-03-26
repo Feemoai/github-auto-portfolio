@@ -35018,3 +35018,4 @@
 2025-03-24 12:28:00 +0700 - feat(api): improve feature #227
 2025-03-25 13:4:00 +0700 - test(core): optimize feature #242
 2025-03-25 15:55:00 +0700 - test(core): update feature #242
+2025-03-26 14:30:00 +0700 - fix(auth): handle feature #490
