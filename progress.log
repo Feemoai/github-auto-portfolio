@@ -12114,3 +12114,4 @@
 2025-03-24 16:52:00 +0700 - fix(api): optimize feature #496
 2025-03-25 11:42:00 +0700 - fix(config): add feature #404
 2025-03-25 16:47:00 +0700 - refactor(config): handle feature #404
+2025-03-26 11:42:00 +0700 - perf(db): add feature #252
