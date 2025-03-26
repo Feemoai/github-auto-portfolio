@@ -9491,3 +9491,4 @@
 2025-03-24 9:14:00 +0700 - test(core): add feature #151
 2025-03-25 14:52:00 +0700 - fix(db): handle feature #373
 2025-03-25 16:58:00 +0700 - fix(auth): handle feature #373
+2025-03-26 15:21:00 +0700 - perf(core): update feature #350
