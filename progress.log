@@ -18819,3 +18819,4 @@
 2025-03-24 14:2:00 +0700 - chore(ui): handle feature #212
 2025-03-24 10:21:00 +0700 - perf(db): handle feature #212
 2025-03-25 15:13:00 +0700 - chore(auth): optimize feature #203
+2025-03-26 14:43:00 +0700 - feat(core): add feature #303
