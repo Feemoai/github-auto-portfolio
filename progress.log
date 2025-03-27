@@ -60218,3 +60218,4 @@
 2025-03-24 15:14:00 +0700 - refactor(core): optimize feature #272
 2025-03-25 13:38:00 +0700 - docs(auth): update feature #333
 2025-03-26 10:8:00 +0700 - feat(db): update feature #462
+2025-03-27 9:10:00 +0700 - refactor(auth): remove feature #402
