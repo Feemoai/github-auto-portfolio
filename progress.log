@@ -15439,3 +15439,4 @@
 2025-03-24 10:58:00 +0700 - refactor(core): handle feature #188
 2025-03-25 15:49:00 +0700 - chore(api): improve feature #402
 2025-03-26 14:7:00 +0700 - fix(auth): remove feature #424
+2025-03-27 9:32:00 +0700 - fix(ui): remove feature #468
