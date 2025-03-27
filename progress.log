@@ -61701,3 +61701,4 @@
 2025-03-25 10:49:00 +0700 - docs(core): improve feature #318
 2025-03-26 14:44:00 +0700 - chore(auth): update feature #261
 2025-03-26 14:37:00 +0700 - feat(auth): optimize feature #261
+2025-03-27 14:14:00 +0700 - perf(auth): remove feature #431
