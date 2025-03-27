@@ -66119,3 +66119,5 @@
 2025-03-25 14:2:00 +0700 - perf(core): handle feature #435
 2025-03-26 14:48:00 +0700 - refactor(ui): remove feature #259
 2025-03-26 14:21:00 +0700 - perf(db): remove feature #259
+2025-03-27 10:42:00 +0700 - chore(core): remove feature #463
+2025-03-27 15:32:00 +0700 - refactor(core): remove feature #463
