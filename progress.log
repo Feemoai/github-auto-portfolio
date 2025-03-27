@@ -28504,3 +28504,4 @@
 2025-03-25 10:21:00 +0700 - feat(api): add feature #396
 2025-03-25 16:17:00 +0700 - feat(core): optimize feature #396
 2025-03-26 16:18:00 +0700 - fix(auth): add feature #393
+2025-03-27 9:37:00 +0700 - fix(db): optimize feature #490
