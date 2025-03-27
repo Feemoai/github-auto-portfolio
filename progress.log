@@ -58114,3 +58114,4 @@
 2025-03-25 9:52:00 +0700 - test(db): update feature #146
 2025-03-25 15:27:00 +0700 - refactor(db): optimize feature #146
 2025-03-26 14:34:00 +0700 - fix(auth): improve feature #206
+2025-03-27 15:2:00 +0700 - test(core): remove feature #279
