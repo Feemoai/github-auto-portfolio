@@ -29764,3 +29764,5 @@
 2025-03-25 15:8:00 +0700 - refactor(ui): improve feature #371
 2025-03-25 11:18:00 +0700 - feat(api): remove feature #371
 2025-03-26 14:42:00 +0700 - perf(api): optimize feature #107
+2025-03-27 12:29:00 +0700 - chore(auth): optimize feature #302
+2025-03-27 11:17:00 +0700 - test(db): remove feature #302
