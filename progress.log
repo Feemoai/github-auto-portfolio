@@ -44609,3 +44609,4 @@
 2025-03-25 16:18:00 +0700 - docs(config): add feature #379
 2025-03-26 13:2:00 +0700 - test(ui): remove feature #100
 2025-03-26 13:9:00 +0700 - refactor(db): optimize feature #100
+2025-03-27 12:4:00 +0700 - feat(ui): remove feature #238
