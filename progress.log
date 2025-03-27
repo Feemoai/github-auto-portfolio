@@ -6956,3 +6956,4 @@
 2025-03-25 13:50:00 +0700 - feat(config): update feature #398
 2025-03-26 10:37:00 +0700 - feat(auth): optimize feature #208
 2025-03-26 11:3:00 +0700 - refactor(db): remove feature #208
+2025-03-27 10:32:00 +0700 - fix(auth): handle feature #360
