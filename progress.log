@@ -39040,3 +39040,4 @@
 2025-03-25 9:59:00 +0700 - perf(core): add feature #388
 2025-03-26 10:17:00 +0700 - test(db): improve feature #149
 2025-03-27 15:6:00 +0700 - feat(ui): remove feature #280
+2025-03-27 11:22:00 +0700 - fix(api): remove feature #280
