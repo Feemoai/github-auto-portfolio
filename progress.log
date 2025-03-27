@@ -17659,3 +17659,4 @@
 2025-03-25 9:5:00 +0700 - fix(db): handle feature #397
 2025-03-25 13:51:00 +0700 - docs(api): add feature #397
 2025-03-26 12:15:00 +0700 - perf(auth): add feature #195
+2025-03-27 14:45:00 +0700 - fix(core): update feature #421
