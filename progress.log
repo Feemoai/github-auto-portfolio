@@ -67951,3 +67951,4 @@
 2025-03-26 12:58:00 +0700 - test(core): optimize feature #341
 2025-03-26 12:29:00 +0700 - feat(db): update feature #341
 2025-03-27 9:22:00 +0700 - fix(core): optimize feature #376
+2025-03-27 11:8:00 +0700 - perf(db): remove feature #376
