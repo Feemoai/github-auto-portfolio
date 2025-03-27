@@ -50369,3 +50369,4 @@
 2025-03-25 10:34:00 +0700 - test(api): remove feature #451
 2025-03-26 11:3:00 +0700 - perf(config): add feature #191
 2025-03-26 16:35:00 +0700 - refactor(api): optimize feature #191
+2025-03-27 13:21:00 +0700 - refactor(auth): improve feature #487
