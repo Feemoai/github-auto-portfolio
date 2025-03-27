@@ -56859,3 +56859,4 @@
 2025-03-25 10:32:00 +0700 - perf(api): update feature #181
 2025-03-26 16:59:00 +0700 - test(api): update feature #273
 2025-03-26 13:54:00 +0700 - fix(auth): update feature #273
+2025-03-27 11:49:00 +0700 - perf(core): remove feature #484
