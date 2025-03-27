@@ -68421,3 +68421,4 @@
 2025-03-26 11:30:00 +0700 - refactor(db): add feature #499
 2025-03-26 16:9:00 +0700 - docs(auth): remove feature #499
 2025-03-27 16:5:00 +0700 - refactor(auth): update feature #267
+2025-03-27 14:15:00 +0700 - fix(db): optimize feature #267
