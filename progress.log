@@ -14168,3 +14168,5 @@
 2025-03-25 15:55:00 +0700 - test(core): remove feature #149
 2025-03-26 10:30:00 +0700 - perf(db): remove feature #127
 2025-03-26 9:3:00 +0700 - chore(api): update feature #127
+2025-03-27 10:8:00 +0700 - test(config): handle feature #477
+2025-03-27 16:31:00 +0700 - chore(core): remove feature #477
