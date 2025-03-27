@@ -40898,3 +40898,4 @@
 2025-03-25 9:51:00 +0700 - fix(ui): optimize feature #442
 2025-03-26 11:49:00 +0700 - refactor(db): add feature #288
 2025-03-26 13:4:00 +0700 - docs(core): handle feature #288
+2025-03-27 13:17:00 +0700 - chore(db): remove feature #474
