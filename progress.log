@@ -4778,3 +4778,4 @@
 2025-03-25 14:50:00 +0700 - perf(api): add feature #147
 2025-03-26 9:39:00 +0700 - perf(core): handle feature #273
 2025-03-27 12:50:00 +0700 - perf(auth): update feature #180
+2025-03-27 15:13:00 +0700 - chore(api): remove feature #180
