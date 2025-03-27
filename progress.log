@@ -9609,3 +9609,4 @@
 2025-03-26 16:41:00 +0700 - docs(api): update feature #191
 2025-03-26 15:38:00 +0700 - docs(ui): add feature #191
 2025-03-27 12:57:00 +0700 - feat(config): handle feature #284
+2025-03-27 15:30:00 +0700 - test(config): remove feature #284
