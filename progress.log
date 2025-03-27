@@ -48197,3 +48197,4 @@
 2025-03-25 10:1:00 +0700 - fix(db): handle feature #377
 2025-03-25 9:48:00 +0700 - test(ui): handle feature #377
 2025-03-26 11:15:00 +0700 - perf(ui): improve feature #422
+2025-03-27 12:9:00 +0700 - chore(core): update feature #147
