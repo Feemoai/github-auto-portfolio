@@ -51730,3 +51730,4 @@
 2025-03-25 10:21:00 +0700 - perf(auth): remove feature #408
 2025-03-26 13:20:00 +0700 - chore(db): improve feature #493
 2025-03-26 15:21:00 +0700 - perf(db): optimize feature #493
+2025-03-27 12:8:00 +0700 - fix(core): update feature #450
