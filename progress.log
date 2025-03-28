@@ -40900,3 +40900,4 @@
 2025-03-26 13:4:00 +0700 - docs(core): handle feature #288
 2025-03-27 13:17:00 +0700 - chore(db): remove feature #474
 2025-03-27 16:17:00 +0700 - docs(ui): update feature #474
+2025-03-28 15:57:00 +0700 - perf(api): handle feature #344
