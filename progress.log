@@ -21657,3 +21657,4 @@
 2025-03-27 12:5:00 +0700 - fix(api): add feature #365
 2025-03-27 11:17:00 +0700 - test(ui): handle feature #365
 2025-03-28 14:47:00 +0700 - perf(core): remove feature #264
+2025-03-28 12:46:00 +0700 - docs(config): handle feature #264
