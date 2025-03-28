@@ -28047,3 +28047,4 @@
 2025-03-26 11:7:00 +0700 - feat(core): optimize feature #397
 2025-03-27 16:5:00 +0700 - refactor(auth): remove feature #416
 2025-03-28 13:48:00 +0700 - docs(auth): remove feature #296
+2025-03-28 11:56:00 +0700 - feat(db): update feature #296
