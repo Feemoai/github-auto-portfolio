@@ -43704,3 +43704,4 @@
 2025-03-26 16:58:00 +0700 - chore(core): improve feature #441
 2025-03-26 14:33:00 +0700 - docs(config): add feature #441
 2025-03-27 13:30:00 +0700 - chore(auth): update feature #307
+2025-03-28 13:14:00 +0700 - perf(core): handle feature #397
