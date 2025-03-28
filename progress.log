@@ -13829,3 +13829,4 @@
 2025-03-26 9:1:00 +0700 - test(api): handle feature #416
 2025-03-26 13:45:00 +0700 - test(api): remove feature #416
 2025-03-27 10:49:00 +0700 - refactor(ui): improve feature #345
+2025-03-28 12:27:00 +0700 - perf(ui): update feature #266
