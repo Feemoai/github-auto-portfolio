@@ -11773,3 +11773,4 @@
 2025-03-27 13:6:00 +0700 - docs(db): handle feature #323
 2025-03-27 16:15:00 +0700 - perf(config): add feature #323
 2025-03-28 16:22:00 +0700 - chore(auth): add feature #310
+2025-03-28 13:56:00 +0700 - fix(ui): handle feature #310
