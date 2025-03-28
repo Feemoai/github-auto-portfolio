@@ -25710,3 +25710,4 @@
 2025-03-25 12:26:00 +0700 - fix(api): remove feature #245
 2025-03-26 12:10:00 +0700 - docs(core): optimize feature #324
 2025-03-27 10:11:00 +0700 - test(core): remove feature #225
+2025-03-28 16:7:00 +0700 - docs(auth): add feature #416
