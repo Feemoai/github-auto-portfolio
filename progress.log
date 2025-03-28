@@ -2008,3 +2008,5 @@
 2025-03-26 11:57:00 +0700 - fix(ui): add feature #193
 2025-03-27 15:27:00 +0700 - fix(api): remove feature #116
 2025-03-27 13:31:00 +0700 - chore(db): handle feature #116
+2025-03-28 12:23:00 +0700 - test(auth): add feature #243
+2025-03-28 11:37:00 +0700 - feat(db): improve feature #243
