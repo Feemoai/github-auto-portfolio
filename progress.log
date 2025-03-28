@@ -43479,3 +43479,4 @@
 2025-03-26 13:41:00 +0700 - feat(db): remove feature #156
 2025-03-27 14:37:00 +0700 - docs(ui): optimize feature #479
 2025-03-27 10:14:00 +0700 - perf(config): update feature #479
+2025-03-28 13:7:00 +0700 - perf(ui): add feature #425
