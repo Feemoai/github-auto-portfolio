@@ -43228,3 +43228,4 @@
 2025-03-26 15:56:00 +0700 - perf(config): handle feature #377
 2025-03-27 9:33:00 +0700 - test(db): update feature #337
 2025-03-27 9:41:00 +0700 - fix(ui): handle feature #337
+2025-03-28 9:41:00 +0700 - fix(db): optimize feature #253
