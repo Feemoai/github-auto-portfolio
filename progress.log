@@ -52755,3 +52755,4 @@
 2025-03-26 12:23:00 +0700 - feat(core): optimize feature #389
 2025-03-27 13:2:00 +0700 - perf(core): optimize feature #423
 2025-03-27 15:8:00 +0700 - feat(ui): add feature #423
+2025-03-28 15:55:00 +0700 - chore(api): handle feature #152
