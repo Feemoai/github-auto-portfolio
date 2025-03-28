@@ -20725,3 +20725,5 @@
 2025-03-26 12:50:00 +0700 - test(api): add feature #315
 2025-03-27 13:56:00 +0700 - refactor(ui): improve feature #343
 2025-03-27 15:21:00 +0700 - docs(api): update feature #343
+2025-03-28 16:58:00 +0700 - refactor(db): optimize feature #406
+2025-03-28 12:29:00 +0700 - chore(db): remove feature #406
