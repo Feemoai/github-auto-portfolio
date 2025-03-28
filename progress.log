@@ -33608,3 +33608,4 @@
 2025-03-26 13:37:00 +0700 - refactor(ui): update feature #191
 2025-03-27 13:40:00 +0700 - refactor(core): improve feature #378
 2025-03-27 9:51:00 +0700 - fix(api): optimize feature #378
+2025-03-28 11:17:00 +0700 - feat(config): handle feature #491
