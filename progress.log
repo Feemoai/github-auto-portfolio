@@ -44165,3 +44165,4 @@
 2025-03-26 10:45:00 +0700 - fix(api): update feature #343
 2025-03-27 11:32:00 +0700 - fix(auth): update feature #119
 2025-03-28 13:8:00 +0700 - docs(ui): add feature #131
+2025-03-28 15:56:00 +0700 - fix(auth): handle feature #131
