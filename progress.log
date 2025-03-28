@@ -64624,3 +64624,4 @@
 2025-03-26 9:22:00 +0700 - perf(core): add feature #420
 2025-03-26 15:40:00 +0700 - fix(db): update feature #420
 2025-03-27 11:22:00 +0700 - chore(ui): handle feature #322
+2025-03-28 16:20:00 +0700 - feat(ui): remove feature #312
