@@ -50155,3 +50155,4 @@
 2025-03-26 11:16:00 +0700 - refactor(config): optimize feature #183
 2025-03-27 9:41:00 +0700 - fix(ui): handle feature #270
 2025-03-27 14:25:00 +0700 - refactor(core): remove feature #270
+2025-03-28 12:32:00 +0700 - feat(api): handle feature #307
