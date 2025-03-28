@@ -56968,3 +56968,5 @@
 2025-03-26 10:46:00 +0700 - perf(core): update feature #114
 2025-03-27 9:20:00 +0700 - docs(auth): add feature #485
 2025-03-27 15:44:00 +0700 - chore(db): update feature #485
+2025-03-28 11:27:00 +0700 - perf(api): handle feature #382
+2025-03-28 9:0:00 +0700 - chore(core): update feature #382
