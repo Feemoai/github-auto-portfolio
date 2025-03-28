@@ -59411,3 +59411,4 @@
 2025-03-26 16:34:00 +0700 - chore(api): optimize feature #139
 2025-03-27 10:15:00 +0700 - perf(api): add feature #272
 2025-03-28 16:36:00 +0700 - test(api): improve feature #466
+2025-03-28 12:24:00 +0700 - perf(config): handle feature #466
