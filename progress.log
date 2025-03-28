@@ -13372,3 +13372,5 @@
 2025-03-26 13:6:00 +0700 - test(config): remove feature #423
 2025-03-27 11:33:00 +0700 - test(api): improve feature #455
 2025-03-27 11:6:00 +0700 - test(api): remove feature #455
+2025-03-28 12:10:00 +0700 - docs(ui): update feature #340
+2025-03-28 16:3:00 +0700 - feat(ui): handle feature #340
