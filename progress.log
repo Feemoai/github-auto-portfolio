@@ -40425,3 +40425,4 @@
 2025-03-26 10:26:00 +0700 - test(core): add feature #497
 2025-03-26 16:26:00 +0700 - refactor(config): improve feature #497
 2025-03-27 11:0:00 +0700 - refactor(db): remove feature #247
+2025-03-28 15:13:00 +0700 - refactor(auth): add feature #480
