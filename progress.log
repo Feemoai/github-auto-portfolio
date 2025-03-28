@@ -54123,3 +54123,4 @@
 2025-03-25 12:22:00 +0700 - docs(api): optimize feature #438
 2025-03-26 14:2:00 +0700 - test(config): handle feature #215
 2025-03-27 16:46:00 +0700 - perf(config): handle feature #238
+2025-03-28 11:40:00 +0700 - test(core): update feature #343
