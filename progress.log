@@ -42303,3 +42303,4 @@
 2025-03-26 14:30:00 +0700 - feat(auth): improve feature #412
 2025-03-27 15:56:00 +0700 - perf(api): handle feature #467
 2025-03-27 11:25:00 +0700 - perf(config): optimize feature #467
+2025-03-28 9:41:00 +0700 - feat(core): optimize feature #397
