@@ -52068,3 +52068,5 @@
 2025-03-26 10:56:00 +0700 - refactor(config): optimize feature #258
 2025-03-27 13:31:00 +0700 - perf(config): update feature #264
 2025-03-27 16:43:00 +0700 - docs(ui): remove feature #264
+2025-03-28 14:15:00 +0700 - feat(db): optimize feature #230
+2025-03-28 14:1:00 +0700 - fix(db): handle feature #230
