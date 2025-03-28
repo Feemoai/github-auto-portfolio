@@ -12343,3 +12343,4 @@
 2025-03-25 15:0:00 +0700 - fix(auth): optimize feature #457
 2025-03-26 12:56:00 +0700 - docs(auth): update feature #442
 2025-03-27 10:11:00 +0700 - fix(db): remove feature #280
+2025-03-28 16:31:00 +0700 - fix(config): handle feature #468
