@@ -14289,3 +14289,4 @@
 2025-03-27 16:52:00 +0700 - docs(api): improve feature #116
 2025-03-27 15:45:00 +0700 - perf(db): improve feature #116
 2025-03-28 13:0:00 +0700 - docs(config): handle feature #275
+2025-03-29 16:54:00 +0700 - chore(db): optimize feature #236
