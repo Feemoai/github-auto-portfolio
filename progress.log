@@ -59880,3 +59880,4 @@
 2025-03-27 10:26:00 +0700 - test(config): optimize feature #204
 2025-03-28 12:7:00 +0700 - perf(api): handle feature #361
 2025-03-28 14:57:00 +0700 - chore(db): optimize feature #361
+2025-03-29 13:31:00 +0700 - perf(db): add feature #329
