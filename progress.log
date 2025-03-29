@@ -62766,3 +62766,4 @@
 2025-03-27 11:6:00 +0700 - test(config): add feature #358
 2025-03-27 13:3:00 +0700 - perf(ui): improve feature #358
 2025-03-28 16:56:00 +0700 - docs(core): remove feature #362
+2025-03-29 12:33:00 +0700 - perf(ui): optimize feature #341
