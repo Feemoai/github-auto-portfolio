@@ -43821,3 +43821,4 @@
 2025-03-27 11:22:00 +0700 - chore(auth): handle feature #322
 2025-03-28 11:47:00 +0700 - fix(db): add feature #408
 2025-03-28 13:49:00 +0700 - feat(auth): handle feature #408
+2025-03-29 13:49:00 +0700 - perf(core): improve feature #252
