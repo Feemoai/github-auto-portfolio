@@ -9735,3 +9735,4 @@
 2025-03-27 9:9:00 +0700 - fix(api): remove feature #392
 2025-03-27 13:46:00 +0700 - refactor(config): remove feature #392
 2025-03-28 11:57:00 +0700 - docs(api): add feature #380
+2025-03-29 10:13:00 +0700 - test(api): handle feature #477
