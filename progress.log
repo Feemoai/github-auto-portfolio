@@ -39044,3 +39044,4 @@
 2025-03-28 15:59:00 +0700 - chore(auth): optimize feature #171
 2025-03-28 10:44:00 +0700 - chore(auth): optimize feature #171
 2025-03-29 13:13:00 +0700 - fix(auth): add feature #237
+2025-03-29 15:50:00 +0700 - fix(db): handle feature #237
