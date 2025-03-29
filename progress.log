@@ -65674,3 +65674,4 @@
 2025-03-28 10:0:00 +0700 - perf(db): handle feature #403
 2025-03-28 15:18:00 +0700 - fix(core): optimize feature #403
 2025-03-29 15:10:00 +0700 - perf(core): remove feature #199
+2025-03-29 10:10:00 +0700 - refactor(ui): handle feature #199
