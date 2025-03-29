@@ -49815,3 +49815,4 @@
 2025-03-27 10:29:00 +0700 - test(api): improve feature #246
 2025-03-28 13:0:00 +0700 - docs(auth): remove feature #115
 2025-03-29 13:9:00 +0700 - docs(ui): remove feature #276
+2025-03-29 15:30:00 +0700 - perf(ui): optimize feature #276
