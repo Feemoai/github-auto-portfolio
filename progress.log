@@ -15085,3 +15085,4 @@
 2025-03-27 11:16:00 +0700 - chore(core): update feature #194
 2025-03-28 16:27:00 +0700 - refactor(db): optimize feature #190
 2025-03-29 12:39:00 +0700 - perf(api): update feature #340
+2025-03-29 13:30:00 +0700 - fix(db): update feature #340
