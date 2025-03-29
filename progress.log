@@ -48543,3 +48543,4 @@
 2025-03-27 16:38:00 +0700 - fix(config): add feature #369
 2025-03-28 10:5:00 +0700 - docs(core): optimize feature #286
 2025-03-28 10:49:00 +0700 - feat(config): remove feature #286
+2025-03-29 14:27:00 +0700 - test(auth): remove feature #449
