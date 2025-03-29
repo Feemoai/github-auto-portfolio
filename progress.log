@@ -55846,3 +55846,5 @@
 2025-03-27 14:34:00 +0700 - feat(core): handle feature #447
 2025-03-28 11:39:00 +0700 - fix(auth): add feature #245
 2025-03-28 14:0:00 +0700 - feat(ui): handle feature #245
+2025-03-29 12:44:00 +0700 - refactor(config): remove feature #252
+2025-03-29 16:23:00 +0700 - test(core): remove feature #252
