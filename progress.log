@@ -6960,3 +6960,4 @@
 2025-03-28 12:56:00 +0700 - perf(ui): optimize feature #304
 2025-03-28 9:1:00 +0700 - test(ui): remove feature #304
 2025-03-29 14:42:00 +0700 - chore(db): optimize feature #387
+2025-03-29 14:6:00 +0700 - feat(config): add feature #387
