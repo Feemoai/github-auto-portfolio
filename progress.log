@@ -40307,3 +40307,4 @@
 2025-03-27 11:44:00 +0700 - fix(api): optimize feature #127
 2025-03-28 14:19:00 +0700 - fix(auth): update feature #120
 2025-03-28 14:58:00 +0700 - perf(api): optimize feature #120
+2025-03-29 15:20:00 +0700 - perf(db): improve feature #254
