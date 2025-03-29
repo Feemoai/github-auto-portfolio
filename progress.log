@@ -31840,3 +31840,4 @@
 2025-03-27 16:20:00 +0700 - docs(ui): optimize feature #260
 2025-03-28 16:36:00 +0700 - docs(auth): remove feature #445
 2025-03-28 11:52:00 +0700 - feat(ui): remove feature #445
+2025-03-29 9:44:00 +0700 - perf(api): optimize feature #326
