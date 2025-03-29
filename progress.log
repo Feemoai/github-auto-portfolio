@@ -6846,3 +6846,4 @@
 2025-03-27 9:6:00 +0700 - test(core): improve feature #303
 2025-03-28 11:13:00 +0700 - perf(auth): add feature #457
 2025-03-28 14:13:00 +0700 - docs(auth): optimize feature #457
+2025-03-29 11:54:00 +0700 - test(config): update feature #247
