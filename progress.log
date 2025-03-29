@@ -49591,3 +49591,4 @@
 2025-03-27 14:35:00 +0700 - chore(config): remove feature #313
 2025-03-27 9:0:00 +0700 - chore(core): optimize feature #313
 2025-03-28 12:32:00 +0700 - fix(auth): optimize feature #354
+2025-03-29 16:32:00 +0700 - chore(core): improve feature #382
