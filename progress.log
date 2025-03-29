@@ -10181,3 +10181,4 @@
 2025-03-27 13:2:00 +0700 - refactor(config): improve feature #130
 2025-03-28 13:50:00 +0700 - chore(db): remove feature #104
 2025-03-28 15:58:00 +0700 - chore(core): optimize feature #104
+2025-03-29 11:31:00 +0700 - test(config): optimize feature #244
