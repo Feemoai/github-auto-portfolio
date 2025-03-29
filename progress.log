@@ -30467,3 +30467,4 @@
 2025-03-27 14:0:00 +0700 - chore(core): improve feature #298
 2025-03-28 12:9:00 +0700 - chore(api): improve feature #439
 2025-03-28 13:56:00 +0700 - perf(api): add feature #439
+2025-03-29 12:18:00 +0700 - perf(auth): handle feature #404
