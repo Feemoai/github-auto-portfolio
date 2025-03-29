@@ -29416,3 +29416,4 @@
 2025-03-27 16:15:00 +0700 - docs(auth): update feature #283
 2025-03-27 9:22:00 +0700 - perf(config): add feature #283
 2025-03-28 12:13:00 +0700 - test(ui): optimize feature #197
+2025-03-29 10:25:00 +0700 - fix(ui): improve feature #371
