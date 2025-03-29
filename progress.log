@@ -34786,3 +34786,5 @@
 2025-03-27 14:17:00 +0700 - fix(api): add feature #134
 2025-03-28 14:2:00 +0700 - docs(api): remove feature #332
 2025-03-28 12:23:00 +0700 - fix(core): optimize feature #332
+2025-03-29 10:12:00 +0700 - perf(core): add feature #362
+2025-03-29 16:58:00 +0700 - docs(api): handle feature #362
