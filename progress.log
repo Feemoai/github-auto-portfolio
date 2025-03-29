@@ -5350,3 +5350,4 @@
 2025-03-26 13:45:00 +0700 - perf(config): optimize feature #105
 2025-03-27 14:28:00 +0700 - test(auth): improve feature #235
 2025-03-28 11:55:00 +0700 - feat(core): improve feature #184
+2025-03-29 9:39:00 +0700 - fix(core): add feature #244
