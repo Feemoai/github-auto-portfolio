@@ -12910,3 +12910,4 @@
 2025-03-28 12:16:00 +0700 - refactor(config): optimize feature #254
 2025-03-28 13:16:00 +0700 - chore(ui): handle feature #254
 2025-03-29 12:4:00 +0700 - fix(api): optimize feature #266
+2025-03-29 15:26:00 +0700 - feat(auth): optimize feature #266
