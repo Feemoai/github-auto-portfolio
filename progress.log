@@ -46255,3 +46255,5 @@
 2025-03-27 16:36:00 +0700 - fix(core): remove feature #386
 2025-03-28 16:4:00 +0700 - test(core): update feature #317
 2025-03-28 16:35:00 +0700 - docs(auth): update feature #317
+2025-03-29 11:12:00 +0700 - feat(auth): optimize feature #428
+2025-03-29 9:7:00 +0700 - chore(api): handle feature #428
