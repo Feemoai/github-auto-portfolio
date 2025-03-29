@@ -10507,3 +10507,4 @@
 2025-03-27 11:21:00 +0700 - fix(api): add feature #403
 2025-03-28 9:49:00 +0700 - fix(db): improve feature #342
 2025-03-28 10:6:00 +0700 - feat(ui): optimize feature #342
+2025-03-29 11:53:00 +0700 - feat(ui): remove feature #217
