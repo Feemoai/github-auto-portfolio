@@ -59295,3 +59295,4 @@
 2025-03-27 11:38:00 +0700 - feat(db): optimize feature #364
 2025-03-28 10:15:00 +0700 - fix(ui): update feature #320
 2025-03-28 12:27:00 +0700 - chore(core): remove feature #320
+2025-03-29 16:15:00 +0700 - perf(core): improve feature #345
