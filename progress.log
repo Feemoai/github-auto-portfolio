@@ -6265,3 +6265,4 @@
 2025-03-27 10:13:00 +0700 - docs(api): remove feature #121
 2025-03-28 15:0:00 +0700 - test(core): remove feature #193
 2025-03-29 15:32:00 +0700 - chore(config): handle feature #344
+2025-03-29 11:20:00 +0700 - feat(ui): update feature #344
