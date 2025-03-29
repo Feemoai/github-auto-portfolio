@@ -15566,3 +15566,4 @@
 2025-03-27 13:13:00 +0700 - fix(config): handle feature #117
 2025-03-27 9:16:00 +0700 - fix(api): handle feature #117
 2025-03-28 12:9:00 +0700 - chore(ui): update feature #425
+2025-03-29 16:50:00 +0700 - test(config): update feature #363
