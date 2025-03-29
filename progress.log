@@ -43590,3 +43590,4 @@
 2025-03-27 16:13:00 +0700 - perf(db): update feature #303
 2025-03-28 15:40:00 +0700 - test(core): improve feature #392
 2025-03-28 12:24:00 +0700 - fix(auth): remove feature #392
+2025-03-29 15:52:00 +0700 - perf(auth): add feature #381
