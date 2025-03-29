@@ -38479,3 +38479,4 @@
 2025-03-28 10:55:00 +0700 - test(config): optimize feature #190
 2025-03-28 9:49:00 +0700 - fix(core): optimize feature #190
 2025-03-29 11:16:00 +0700 - fix(api): improve feature #385
+2025-03-29 14:26:00 +0700 - perf(core): remove feature #385
