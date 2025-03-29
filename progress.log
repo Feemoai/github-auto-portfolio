@@ -4313,3 +4313,4 @@
 2025-03-27 12:26:00 +0700 - feat(config): optimize feature #416
 2025-03-28 14:1:00 +0700 - docs(auth): optimize feature #198
 2025-03-28 12:54:00 +0700 - fix(core): add feature #198
+2025-03-29 16:8:00 +0700 - chore(auth): handle feature #431
