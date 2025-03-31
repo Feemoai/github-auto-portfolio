@@ -24787,3 +24787,4 @@
 2025-03-27 11:0:00 +0700 - feat(db): remove feature #247
 2025-03-28 16:12:00 +0700 - docs(config): optimize feature #457
 2025-03-29 12:3:00 +0700 - feat(core): optimize feature #395
+2025-03-31 9:33:00 +0700 - test(core): optimize feature #368
