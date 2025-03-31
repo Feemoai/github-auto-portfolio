@@ -50490,3 +50490,5 @@
 2025-03-28 9:50:00 +0700 - feat(ui): update feature #233
 2025-03-29 11:16:00 +0700 - fix(core): remove feature #275
 2025-03-29 10:34:00 +0700 - fix(api): handle feature #275
+2025-03-31 9:40:00 +0700 - feat(auth): update feature #369
+2025-03-31 9:4:00 +0700 - perf(ui): remove feature #369
