@@ -13833,3 +13833,4 @@
 2025-03-29 9:22:00 +0700 - feat(core): add feature #270
 2025-03-29 11:6:00 +0700 - docs(ui): optimize feature #270
 2025-03-31 14:45:00 +0700 - feat(api): optimize feature #199
+2025-03-31 15:25:00 +0700 - chore(core): handle feature #199
