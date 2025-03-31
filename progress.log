@@ -30010,3 +30010,4 @@
 2025-03-29 9:25:00 +0700 - docs(core): optimize feature #183
 2025-03-29 12:43:00 +0700 - perf(config): update feature #183
 2025-03-31 12:44:00 +0700 - docs(ui): update feature #208
+2025-03-31 9:33:00 +0700 - fix(core): handle feature #208
