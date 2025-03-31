@@ -33843,3 +33843,5 @@
 2025-03-28 10:53:00 +0700 - docs(core): update feature #480
 2025-03-28 14:18:00 +0700 - feat(core): handle feature #480
 2025-03-29 14:37:00 +0700 - perf(auth): remove feature #292
+2025-03-31 9:44:00 +0700 - test(auth): optimize feature #186
+2025-03-31 14:32:00 +0700 - fix(core): update feature #186
