@@ -54359,3 +54359,4 @@
 2025-03-28 14:28:00 +0700 - feat(config): optimize feature #358
 2025-03-28 13:45:00 +0700 - test(ui): optimize feature #358
 2025-03-29 14:12:00 +0700 - chore(core): update feature #192
+2025-03-31 12:18:00 +0700 - chore(config): handle feature #156
