@@ -30354,3 +30354,4 @@
 2025-03-28 15:15:00 +0700 - docs(core): handle feature #258
 2025-03-29 10:30:00 +0700 - test(ui): handle feature #278
 2025-03-29 16:57:00 +0700 - feat(config): optimize feature #278
+2025-03-31 16:38:00 +0700 - perf(db): update feature #397
