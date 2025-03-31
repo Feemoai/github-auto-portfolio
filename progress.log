@@ -43592,3 +43592,4 @@
 2025-03-28 12:24:00 +0700 - fix(auth): remove feature #392
 2025-03-29 15:52:00 +0700 - perf(auth): add feature #381
 2025-03-31 14:12:00 +0700 - docs(core): remove feature #446
+2025-03-31 15:55:00 +0700 - fix(config): improve feature #446
