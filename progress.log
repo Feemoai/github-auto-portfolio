@@ -6386,3 +6386,4 @@
 2025-03-28 12:35:00 +0700 - perf(config): add feature #308
 2025-03-29 14:44:00 +0700 - refactor(ui): add feature #172
 2025-03-29 14:5:00 +0700 - fix(api): update feature #172
+2025-03-31 11:54:00 +0700 - feat(auth): optimize feature #404
