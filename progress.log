@@ -41727,3 +41727,4 @@
 2025-03-29 9:18:00 +0700 - docs(core): optimize feature #499
 2025-03-29 13:55:00 +0700 - chore(api): remove feature #499
 2025-03-31 14:5:00 +0700 - chore(core): add feature #269
+2025-03-31 13:28:00 +0700 - test(api): handle feature #269
