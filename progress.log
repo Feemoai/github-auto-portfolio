@@ -64165,3 +64165,4 @@
 2025-03-28 10:0:00 +0700 - test(core): remove feature #308
 2025-03-29 16:38:00 +0700 - feat(core): optimize feature #254
 2025-03-31 11:9:00 +0700 - perf(auth): optimize feature #290
+2025-03-31 10:13:00 +0700 - test(auth): update feature #290
