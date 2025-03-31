@@ -382,3 +382,4 @@
 2025-03-28 9:26:00 +0700 - test(config): add feature #480
 2025-03-29 14:26:00 +0700 - fix(ui): add feature #113
 2025-03-29 15:50:00 +0700 - feat(db): improve feature #113
+2025-03-31 15:49:00 +0700 - test(auth): remove feature #254
