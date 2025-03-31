@@ -51046,3 +51046,5 @@
 2025-03-28 15:40:00 +0700 - fix(core): add feature #340
 2025-03-29 14:31:00 +0700 - feat(ui): improve feature #178
 2025-03-29 13:1:00 +0700 - perf(ui): update feature #178
+2025-03-31 10:15:00 +0700 - docs(ui): handle feature #380
+2025-03-31 14:31:00 +0700 - fix(ui): update feature #380
