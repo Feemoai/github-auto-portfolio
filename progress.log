@@ -37686,3 +37686,4 @@
 2025-03-28 14:45:00 +0700 - feat(auth): add feature #150
 2025-03-28 12:58:00 +0700 - test(core): update feature #150
 2025-03-29 11:23:00 +0700 - refactor(ui): improve feature #421
+2025-03-31 9:3:00 +0700 - refactor(config): improve feature #367
