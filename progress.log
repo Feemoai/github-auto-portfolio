@@ -23834,3 +23834,4 @@
 2025-03-28 11:56:00 +0700 - chore(core): add feature #350
 2025-03-28 12:51:00 +0700 - chore(config): handle feature #350
 2025-03-29 9:39:00 +0700 - test(ui): improve feature #490
+2025-03-31 10:51:00 +0700 - fix(ui): improve feature #475
