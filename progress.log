@@ -19063,3 +19063,5 @@
 2025-03-28 11:8:00 +0700 - feat(api): improve feature #457
 2025-03-28 12:5:00 +0700 - chore(api): add feature #457
 2025-03-29 13:35:00 +0700 - feat(auth): remove feature #364
+2025-03-31 12:18:00 +0700 - docs(core): remove feature #227
+2025-03-31 15:42:00 +0700 - test(api): handle feature #227
