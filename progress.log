@@ -733,3 +733,4 @@
 2025-03-28 12:24:00 +0700 - chore(core): handle feature #379
 2025-03-29 14:52:00 +0700 - docs(ui): improve feature #232
 2025-03-31 12:8:00 +0700 - docs(api): handle feature #382
+2025-03-31 13:51:00 +0700 - feat(db): remove feature #382
