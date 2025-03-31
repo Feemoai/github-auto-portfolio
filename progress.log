@@ -41609,3 +41609,4 @@
 2025-03-29 11:36:00 +0700 - docs(api): optimize feature #198
 2025-03-29 10:1:00 +0700 - test(ui): improve feature #198
 2025-03-31 12:10:00 +0700 - chore(config): optimize feature #394
+2025-03-31 10:46:00 +0700 - fix(auth): update feature #394
