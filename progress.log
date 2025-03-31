@@ -5686,3 +5686,4 @@
 2025-03-28 12:44:00 +0700 - feat(db): update feature #427
 2025-03-29 16:56:00 +0700 - chore(ui): update feature #240
 2025-03-29 15:38:00 +0700 - feat(config): remove feature #240
+2025-03-31 10:0:00 +0700 - refactor(config): handle feature #401
