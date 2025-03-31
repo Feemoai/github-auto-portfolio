@@ -9959,3 +9959,5 @@
 2025-03-28 9:17:00 +0700 - fix(auth): update feature #102
 2025-03-29 12:42:00 +0700 - chore(db): handle feature #102
 2025-03-29 11:50:00 +0700 - docs(ui): update feature #102
+2025-03-31 9:55:00 +0700 - feat(db): optimize feature #130
+2025-03-31 16:22:00 +0700 - test(db): improve feature #130
