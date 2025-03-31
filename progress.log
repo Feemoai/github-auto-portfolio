@@ -1429,3 +1429,4 @@
 2025-03-28 10:17:00 +0700 - test(core): remove feature #266
 2025-03-29 12:30:00 +0700 - perf(ui): add feature #290
 2025-03-31 9:10:00 +0700 - refactor(db): improve feature #269
+2025-03-31 9:9:00 +0700 - refactor(db): optimize feature #269
