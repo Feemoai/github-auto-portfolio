@@ -38253,3 +38253,4 @@
 2025-03-27 11:5:00 +0700 - fix(api): remove feature #439
 2025-03-28 13:12:00 +0700 - fix(config): handle feature #279
 2025-03-29 12:43:00 +0700 - fix(auth): handle feature #110
+2025-03-31 12:47:00 +0700 - chore(api): update feature #422
