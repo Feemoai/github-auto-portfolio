@@ -7414,3 +7414,4 @@
 2025-03-28 14:40:00 +0700 - chore(core): remove feature #174
 2025-03-29 16:28:00 +0700 - docs(config): optimize feature #191
 2025-03-29 9:32:00 +0700 - feat(auth): handle feature #191
+2025-03-31 14:51:00 +0700 - perf(core): optimize feature #249
