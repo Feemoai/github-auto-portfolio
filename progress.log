@@ -59414,3 +59414,4 @@
 2025-03-28 12:24:00 +0700 - perf(config): handle feature #466
 2025-03-29 11:0:00 +0700 - chore(core): remove feature #368
 2025-03-29 10:9:00 +0700 - test(core): remove feature #368
+2025-03-31 9:59:00 +0700 - feat(ui): optimize feature #479
