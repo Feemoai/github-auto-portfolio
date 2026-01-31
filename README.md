@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Feemoai&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feemoai&theme=tokyonight" height="170" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Feemoai" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Feemoai&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🛠 Tech Stack
