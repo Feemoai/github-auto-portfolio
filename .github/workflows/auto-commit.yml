@@ -1,0 +1,29 @@
+name: Auto Commit Bot
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "Feemoai"
+          git config --global user.email "feemoai@users.noreply.github.com"
+
+      - name: Run auto commit script
+        run: |
+          chmod +x git-auto-win.sh
+          ./git-auto-win.sh
+
+      - name: Push changes
+        run: |
+          git push
